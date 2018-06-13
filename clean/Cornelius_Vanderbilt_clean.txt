@@ -1,0 +1,150 @@
+--business
+ person. 
+ name = Cornelius Vanderbilt. 
+ image = Cornelius Vanderbilt Daguerrotype2.jpg. 
+ caption =. 
+ birth_date = May 27, 1794. 
+ birth_place = Staten Island, New York, U.S.. 
+ death_date = {{death date and age|1877|1|4|1794|5|27}}. 
+ death_place = Manhattan, New York, U.S.. 
+ resting_place = Moravian Cemetery, Staten Island, New York, U.S.. 
+ occupation = Railroad, water transportBusinessman, philanthropist. 
+ children = 13, including William Henry Vanderbilt. 
+spouse = {{plainlist |
+* {{marriage|Sophia Johnson|1813|1868|end=her death}}
+* {{marriage|Frank Armstrong Crawford|1869|January 4, 1877|end=his death}}
+}}. 
+ net_worth = {{profit}}US $215 billion (2016 dollars; inflation-adjusted)Gus Lubin,  [http://www.businessinsider.com/richest-people-in-history-2010-8?IR=T business insider The 20 Richest People Of All Time], 2 September 2010. 
+ signature = Cornelius Vanderbilt Signature.svg. 
+ relations = Vanderbilt family
+}}
+'''Cornelius Vanderbilt''' (May 27, 1794  January 4, 1877) was an American business magnate and philanthropist who built his wealth in railroads and shipping. Born poor and having only a mediocre education, Vanderbilt used perseverance, intelligence and luck to work his way into leadership positions in the inland water trade and invest in the rapidly growing railroad industry. Nicknamed "Commodore Vanderbilt", he is known for owning the New York Central Railroad.
+
+As one of the richest Americans in history and wealthiest figures overall, Vanderbilt was the patriarch of a wealthy, influential family. He provided the initial gift to found Vanderbilt University in Nashville, Tennessee. According to historian H. Roger Grant: "Contemporaries, too, often hated or feared Vanderbilt or at least considered him an unmannered brute. While Vanderbilt could be a rascal, combative and cunning, he was much more a builder than a wrecker [...] being honorable, shrewd, and hard-working."H. Roger Grant, "Review", ''Journal of American History'' (2011) 98#2 p. 544.
+
+==Ancestry==
+Cornelius Vanderbilt's great-great-grandfather, Jan Aertson or Aertszoon ("Aert's son"), was a Dutch farmer from the village of De Bilt in Utrecht, Netherlands, who emigrated to New Amsterdam (later New York) as an indentured servant in 1650. The Dutch ''van der'' ("of the") was eventually added to Aertson's village name to create "van der Bilt" ("of the Bilt"). This was eventually condensed to Vanderbilt.
+
+==Early years==
+Cornelius Vanderbilt was born in Staten Island, New York on May 27, 1794 to Cornelius van Derbilt and Phebe Hand.  He began working on his father's ferry in New York Harbor as a boy, quitting school at the age of 11. At the age of 16, Vanderbilt decided to start his own ferry service. According to one version of events, he borrowed $100 from his mother to purchase a periauger (a shallow draft, two-masted sailing vessel), which he christened the ''Swiftsure.'' However, according to the first account of his life, published in 1853, the periauger belonged to his father and the younger Vanderbilt received half the profit. He began his business by ferrying freight and passengers on a ferry between Staten Island and Manhattan. Such was his energy and eagerness in his trade that other captains nearby took to calling him The Commodore in jest  a nickname that stuck with him all his life.
+
+While many Vanderbilt family members had joined the Episcopal Church, Cornelius Vanderbilt remained a member of the Moravian Church to his death.Biographical Dictionary of American Business Leaders, Part 4 by John N. Ingham, p. 1501Staten Island, Volume 14, by Gustav Kobb, p. 48 Along with other members of the Vanderbilt family, he helped erect a local Moravian parish church in his city.
+
+On December 19, 1813, at age 19 Vanderbilt married his first cousin, Sophia Johnson, daughter of Nathaniel Johnson and Elizabeth Hand. They moved into a boarding house on Broad Street in Manhattan. They had 13 children together:
+
+# Phebe Jane Vanderbilt (18141878)
+# Ethelinda Vanderbilt (18171889)
+# Eliza Vanderbilt (18191890)
+# William Henry "Billy" Vanderbilt (18211885)
+# Emily Almira Vanderbilt (18231896)
+# Sophia Johnson Vanderbilt (18251912)
+# Maria Louisa Vanderbilt (18271896)
+# Frances Lavinia Vanderbilt (18281868)
+# Cornelius Jeremiah Vanderbilt (18301882)
+# George Washington Vanderbilt I (18321836)
+# Mary Alicia Vanderbilt (18341902)
+# Catherine Juliette Vanderbilt (18361881)
+# George Washington Vanderbilt II (18391864){{rp|927}}
+
+In addition to running his ferry, Vanderbilt bought his brother-in-law John De Forest's schooner ''Charlotte'' and traded in food and merchandise in partnership with his father and others. But on November 24, 1817, a ferry entrepreneur named Thomas Gibbons asked Vanderbilt to captain his steamboat between New Jersey and New York. Although Vanderbilt kept his own businesses running, he became Gibbons's business manager.{{rp|3135}}
+
+When Vanderbilt entered his new position, Gibbons was fighting against a steamboat monopoly in New York waters, which had been granted by the New York State Legislature to the politically influential patrician Robert Livingston and Robert Fulton, who had designed the steamboat. Though both Livingston and Fulton had died by the time Vanderbilt started working for Gibbons, the monopoly was held by Livingston's heirs. They had granted a license to Aaron Ogden to run a ferry between New York and New Jersey. Gibbons launched his steamboat venture because of a personal dispute with Ogden, whom he hoped to drive into bankruptcy. To accomplish this, he undercut prices and also brought a landmark legal case  ''Gibbons v. Ogden''  to the United States Supreme Court to overturn the monopoly.{{rp|3748}}
+
+Working for Gibbons, Vanderbilt learned to operate a large and complicated business. He moved with his family to New Brunswick, New Jersey, a stop on Gibbons' line between New York and Philadelphia. There his wife Sophia operated a very profitable inn, using the proceeds to feed, clothe and educate their children. Vanderbilt also proved a quick study in legal matters, representing Gibbons in meetings with lawyers. He also went to Washington, D.C., to hire Daniel Webster to argue the case before the Supreme Court. Vanderbilt appealed his own case against the monopoly to the Supreme Court, which was next on the docket after ''Gibbons v. Ogden''. The Court never heard Vanderbilt's case, because on March 2, 1824, it ruled in Gibbons' favor, saying that states had no power to interfere with interstate commerce. The case is still considered a landmark ruling. The protection of competitive interstate commerce is considered the basis for much of the prosperity which the United States has generated.{{rp|4767}}
+
+==Steamboat entrepreneur==
+thumb|''C. Vanderbilt'', Hudson River steamer owned by Cornelius Vanderbilt (oil on canvas by [[James Bard|James and John Bard).]]
+After Thomas Gibbons died in 1826, Vanderbilt worked for Gibbons' son William until 1829. Though he had always run his own businesses on the side, he now worked entirely for himself. Step by step, he started lines between New York and the surrounding region. First he took over Gibbons' ferry to New Jersey, then switched to western Long Island Sound. In 1831, he took over his brother Jacob's line to Peekskill, New York, on the lower Hudson River. That year he faced opposition by a steamboat operated by Daniel Drew, who forced Vanderbilt to buy him out. Impressed, Vanderbilt became a secret partner with Drew for the next thirty years, so that the two men would have an incentive to avoid competing with each other.{{rp|72, 8487}}
+
+On November 8, 1833, Vanderbilt was nearly killed in the Hightstown rail accident on the Camden and Amboy Railroad in New Jersey. Also on the train was former president John Quincy Adams.{{rp|9091}}
+
+In 1834, Vanderbilt competed on the Hudson River against the Hudson River Steamboat Association, a steamboat monopoly between New York City and Albany. Using the name "The People's Line," he used the populist language associated with Democratic president Andrew Jackson to get popular support for his business. At the end of the year, the monopoly paid him a large amount to stop competing, and he switched his operations to Long Island Sound.{{rp|99104}}
+
+During the 1830s, textile mills were built in large numbers in New England as the United States developed its manufacturing base. They processed cotton from the Deep South, so were directly tied to the slave societies. Some of the first railroads in the United States were built from Boston to Long Island Sound, to connect with steamboats that ran to New York. By the end of the decade, Vanderbilt dominated the steamboat business on the Sound, and began to take over management of the connecting railroads. In the 1840s, he launched a campaign to take over the most attractive of these lines, the New York, Providence and Boston Railroad, popularly known as the Stonington. By cutting fares on competing lines, Vanderbilt drove down the Stonington stock price, and took over the presidency of the company in 1847. It was the first of the many railroads he would head.{{rp|11946}}
+
+During these years, Vanderbilt also operated many other businesses. He bought large amounts of real estate in Manhattan and Staten Island, and took over the Staten Island Ferry in 1838. It was in the 1830s when he was first referred to as "commodore," then the highest rank in the United States Navy. A common nickname for important steamboat entrepreneurs, by the end of the 1840s, only Vanderbilt was referred to by this nickname.{{rp|12427}}
+
+==Oceangoing steamship lines==
+thumb|upright|Vanderbilt in later life
+When the California gold rush began in 1849, Vanderbilt switched from regional steamboat lines to ocean-going steamships. Many of the migrants to California, and almost all of the gold returning to the East Coast, went by steamship to Panama, where mule trains and canoes provided transportation across the isthmus. (The Panama Railroad was soon built to provide a faster crossing.) Vanderbilt proposed a canal across Nicaragua, which was closer to the United States and was spanned most of the way across by Lake Nicaragua and the San Juan River. In the end, he could not attract enough investment to build the canal, but he did start a steamship line to Nicaragua, and founded the Accessory Transit Company to carry passengers across Nicaragua by steamboat on the lake and river, with a 12-mile carriage road between the Pacific port of San Juan del Sur and Virgin Bay on Lake Nicaragua.{{rp|174205}}
+
+In 1852, a dispute with Joseph L. White, a partner in the Accessory Transit Company, led to a business battle in which Vanderbilt forced the company to buy his ships for an inflated price. In early 1853, he took his family on a grand tour of Europe in his steamship yacht, the ''North Star.'' While he was away, White conspired with Charles Morgan, Vanderbilt's erstwhile ally, to betray him, and deny him money he was owed by the Accessory Transit Company. When Vanderbilt returned from Europe, he retaliated by developing a rival steamship line to California, cutting prices until he forced Morgan and White to pay him off.
+
+He then turned to transatlantic steamship lines, running in opposition to the heavily subsidized Collins Line, headed by Edward K. Collins. Vanderbilt eventually drove the Collins Line into extinction.Schweikart, Larry, and Lynne Pierson Doti. 2010. ''American Entrepreneur: The Fascinating Stories of the People who Defined Business in the United States.'' New York: American Management Association. pp. 4345. During the 1850s, Vanderbilt also bought control of a major shipyard and the Allaire Iron Works, a leading manufacturer of marine steam engines, in Manhattan.{{rp|217264}}
+
+In November 1855, Vanderbilt began to buy control of Accessory Transit once again. That same year, the American military adventurer, William Walker, led an expedition to Nicaragua and briefly took control of the government. Edmund Randolph, a close friend of Walker, coerced the Accessory Transit's San Francisco agent, Cornelius K. Garrison, into opposing Vanderbilt. Randolph convinced Walker to annul the charter of the Accessory Transit Company, and give the transit rights and company steamboats to him; Randolph sold these to Garrison. Garrison brought Charles Morgan in New York into the plan. Vanderbilt took control of the company just before these developments were announced. When he tried to convince the U.S. and English governments to help restore the company to its rights and property, they refused. So he negotiated with Costa Rica, which (along with the other Central American republics) had declared war on Walker. Vanderbilt sent a man to Costa Rica who led a raid that captured the steamboats on the San Juan River, cutting Walker off from his reinforcements from insurgent groups in the United States. Walker was forced to give up, and was conducted out of the country by a U.S. Navy officer. But the new Nicaraguan government refused to allow Vanderbilt to restart the transit business, so he started a line by way of Panama, eventually developing a monopoly on the California steamship business.{{rp|268327}}
+
+==American Civil War==
+When the Civil War began in 1861, Vanderbilt attempted to donate his largest steamship, the ''Vanderbilt,'' to the Union Navy. Secretary of the Navy Gideon Welles refused it, thinking its operation and maintenance too expensive for what he expected to be a short war. Vanderbilt had little choice but to lease it to the War Department, at prices set by ship brokers. When the Confederate ironclad ''Virginia'' (popularly known in the North as the ''Merrimack'') wrought havoc with the Union blockading squadron at Hampton Roads, Virginia, Secretary of War Edwin Stanton and President Abraham Lincoln called on Vanderbilt for help. This time he succeeded in donating the ''Vanderbilt'' to the Union navy, equipping it with a ram and staffing it with handpicked officers. It helped bottle up the ''Virginia,'' after which Vanderbilt converted it into a cruiser to hunt for the Confederate commerce raider ''Alabama'', captained by Raphael Semmes. For donating the ''Vanderbilt,'' he was awarded a Congressional Gold Medal.38th Congress, 13 Stat. 401 Vanderbilt also paid to outfit a major expedition to New Orleans. He suffered a grievous loss when George Washington Vanderbilt II, his youngest and favorite son, and heir apparent, a graduate of the United States Military Academy, fell ill and died without ever seeing combat.{{rp|34164}}
+
+==Railroad empire==
+thumb|Cornelius Vanderbilt versus [[James Fisk (financier)|James Fisk Jr. in a famous rivalry with the Erie Railroad]]
+
+===New York and Harlem Railroad===
+Though Vanderbilt had relinquished his presidency of the Stonington Railroad during the California gold rush, he took an interest in several railroads during the 1850s, serving on the boards of directors of the Erie Railway, the Central Railroad of New Jersey, the Hartford and New Haven, and the New York and Harlem (popularly known as the Harlem). In 1863, Vanderbilt took control of the Harlem in a famous stockmarket corner, and was elected its president. He later explained that he wanted to show that he could take this railroad, which was generally considered worthless, and make it valuable. It had a key advantage: it was the only steam railroad to enter the center of Manhattan, running down 4th Avenue (later Park Avenue) to a station on 26th Street, where it connected with a horse-drawn streetcar line. From Manhattan it ran up to Chatham Four Corners, New York, where it had a connection to the railroads running east and west.{{rp|365386}}
+
+Vanderbilt brought his eldest son Billy in as vice-president of the Harlem. Billy had had a nervous breakdown early in life, and his father had sent him to a farm on Staten Island. But he proved himself a good businessman, and eventually became the head of the Staten Island Railway. Though the Commodore had once scorned Billy, he was impressed by his son's success. Eventually he promoted him to operational manager of all his railroad lines. In 1864, the Commodore sold his last ships, in order to concentrate on the railroads.{{rp|38790}}
+
+===New York Central and Hudson River Railroad===
+thumb|Looking out the north end of the Murray Hill Tunnel towards the station in 1880; note the labels for the New York, Harlem and New York, and New Haven Railroads; the New York Central and Hudson River was off to the left. The two larger portals on the right allowed some horse-drawn trains to continue further downtown.
+
+Once in charge of the Harlem, Vanderbilt encountered conflicts with connecting lines. In each case, the strife ended in a battle that Vanderbilt won. He bought control of the Hudson River Railroad in 1864, the New York Central Railroad in 1867, and the Lake Shore and Michigan Southern Railway in 1869. He later bought the Canada Southern as well. In 1870, he consolidated two of his key lines into the New York Central and Hudson River Railroad, one of the first giant corporations in United States history.{{rp|391442, 474520}}
+
+===Grand Central Depot===
+{{Main|Grand Central Terminal}}
+thumb|left|Grand Central Terminal below the MetLife Building in New York City, [[New York (state)|New York in 2012.]]
+In 1869, Vanderbilt directed the Harlem to begin construction of the Grand Central Depot on 42nd Street in Manhattan. It was finished in 1871, and served as his lines' terminus in New York. He sank the tracks on 4th Avenue in a cut that later became a tunnel, and 4th Avenue became Park Avenue. The depot was replaced by Grand Central Terminal in 1913.{{rp|391442}}
+
+===Rivalry with Jay Gould and James Fisk===
+In 1868, Vanderbilt fell into a dispute with Daniel Drew, who had become treasurer of the Erie Railway. To get revenge, he tried to corner Erie stock, which led to the so-called Erie War. This brought him into direct conflict with Jay Gould and financier James Fisk Jr., who had just joined Drew on the Erie board. They defeated the corner by issuing "watered stock" in defiance of state law, which restricted the number of shares a company could issue.{{rp|20732}} But Gould bribed the legislature to legalize the new stock.{{rp|26264}} Vanderbilt used the leverage of a lawsuit to recover his losses, but he and Gould became public enemies.
+
+Gould never got the better of Vanderbilt in any other important business matter, but he often embarrassed Vanderbilt, who uncharacteristically lashed out at Gould in public. By contrast, Vanderbilt befriended his other foes after their fights ended, including Drew and Cornelius Garrison.
+
+==Later years and philanthropy==
+Following his wife Sophia's death in 1868, Vanderbilt went to Canada. On August 21, 1869, in London, Ontario,, http://www.vanderbilt.edu/magazines/vanderbilt-magazine/archives/VMagsm06/features/strangeGift.pdf
+he married a cousin from Mobile, Alabama with the name  unusual for a woman  of Frank Armstrong Crawford.
+
+Vanderbilt's second wife convinced him to give $1 million to Bishop Holland Nimmons McTyeire, the husband of her cousin, Amelia Townsend, to found Vanderbilt University in Nashville, Tennessee, named in his honor. Vanderbilt gave McTyeire {{Nowrap|$1 million}}, the largest charitable gift in American history to that date. He also bought a church for $50,000 for his second wife's congregation, the Church of the Strangers. In addition, he donated to churches around New York, including a gift to the Moravian Church on Staten Island of 8 acres (34,000 m2) for a cemetery (the Moravian Cemetery). He chose to be buried there.
+
+==Death==
+thumb|300px|Vanderbilt family mausoleum at the Moravian Cemetery on Staten Island, where Cornelius is buried
+Cornelius Vanderbilt died on January 4, 1877, at his residence, No. 10 Washington Place, after having been confined to his rooms for about eight months. The immediate cause of his death was exhaustion, brought on by long suffering from a complication of chronic disorders. At the time of his death, aged 82, Vanderbilt had a fortune estimated at $100 million. In his will, he left 95% of his $100 million estate to his son William (Billy) and to William's four sons ($5 million to Cornelius, and $2 million apiece to William, Frederick, and George). The Commodore said that he believed William was the only heir capable of maintaining the business empire.
+
+==Legacy==
+thumb|upright|Statue at the modern Grand Central Terminal
+Commodore Vanderbilt willed amounts ranging from $250,000 to $500,000 to each of his daughters. His wife received $500,000, their New York City home, and 2,000 shares of common stock in the New York Central Railroad. To his younger surviving son, Cornelius Jeremiah Vanderbilt, whom he regarded as a wastrel, he left the income from a $200,000 trust fund. The Commodore had lived in relative modesty considering his nearly unlimited means, splurging only on race horses. His descendants were the ones who built the Vanderbilt houses that characterize America's Gilded Age. (Although his daughters and Cornelius received bequests much smaller than those of their brothers, these made them very wealthy by the standards of 1877 and were not subject to inheritance tax.)
+
+According to ''The Wealthy 100'' by Michael Klepper and Robert Gunther, Vanderbilt would be worth $143 billion in 2007 United States dollars if his total wealth as a share of the nation's gross domestic product (GDP) in 1877 (the year of his death) were taken and applied in that same proportion in 2007. This would make him the second-wealthiest person in United States history, after Standard Oil co-founder John Davison Rockefeller (18391937).[http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/2.html ''Fortune Magazine''{{'s}} "richest Americans"] {{webarchive|url=https://web.archive.org/web/20090913151146/http://money.cnn.com/galleries/2007/fortune/0702/gallery.richestamericans.fortune/2.html |date=September 13, 2009 }}. ''Fortune'' estimated his wealth at death at $105,000,000, or 1/87 of the nation's GDP. Another calculation, from 1998, puts him in third place, after Andrew Carnegie.Michael Klepper, Robert Gunter, Jeanette Baik, Linda Barth, and Christine Gibson, "[http://www.americanheritage.com/articles/magazine/ah/1998/6/1998_6_56.shtml The American Heritage 40; A ranking of the forty wealthiest Americans of all time (Surprise: Only three of them are alive today)] {{webarchive|url=https://web.archive.org/web/20071211014303/http://www.americanheritage.com/articles/magazine/ah/1998/6/1998_6_56.shtml |date=December 11, 2007 }}". ''American Heritage'', Volume 49, Issue 6 (October 1998).
+
+In 1999, Cornelius Vanderbilt was inducted into the North America Railway Hall of Fame, recognizing his significant contributions to the railroad industry. He was inducted in the "Railway Workers & Builders: North America" category.[https://web.archive.org/web/20130928222649/http://narhf.org/?p=5485 North America Railway Hall of Fame: C. Vanderbilt Inductee Page]
+
+==Descendants==
+{{Main|Vanderbilt family}}
+thumb|Physician Jared Linsly testifying as to the mental and physical condition of Cornelius Vanderbilt during court proceedings surrounding the challenge to his will. From an 1877 illustration in ''Harper's Weekly''.
+
+Cornelius Vanderbilt was buried in the family vault in the Moravian Cemetery at New Dorp on Staten Island. He was later reburied in a tomb in the same cemetery constructed by his son Billy. Three of his daughters and son, Cornelius Jeremiah Vanderbilt, contested the will on the grounds that their father was of unsound mind and under the influence of his son Billy and of spiritualists whom he consulted on a regular basis. The court battle lasted more than a year and was ultimately won outright by Billy, who increased the bequests to his siblings and paid their legal fees. A living descendant is his great-great-granddaughter Gloria Vanderbilt, a renowned fashion designer. Her youngest son is Anderson Cooper, a television news anchor. Through Billy's daughter Emily Thorn Vanderbilt, another descendant is actor Timothy Olyphant.
+
+Cornelius Jeremiah Vanderbilt was childless when he committed suicide in 1882. George Washington Vanderbilt died during the Civil War and before he had any children. All of the Vanderbilt multimillionaires descend through the oldest son Billy and his wife.
+
+==Railroads controlled by Vanderbilt==
+thumb|Vanderbilt before 1877.
+* New York and Harlem Railroad (1863)
+* Hudson River Railroad (1864)
+* New York Central Railroad (1868)
+* Canada Southern Railway (1873)Van Winkle, Louis (2001). [http://user.mc.net/~louisvw/depot/grossisle/gross.htm "Gross Ile, MI depot.] {{webarchive|url=https://web.archive.org/web/20051028085650/http://user.mc.net/~louisvw/depot/grossisle/gross.htm |date=October 28, 2005 }}" ''Michigan Passenger Stations.''
+* Lake Shore and Michigan Southern Railway (1873?)
+* Michigan Central Railroad (1877)Berry, Dale. [http://www.michiganrailroads.com/RRHX/Stories/JacksonEvolution.htm "Railroad History Story: Jackson's Evolution as a Rail Center."] {{webarchive|url=https://web.archive.org/web/20090330055843/http://www.michiganrailroads.com/RRHX/Stories/JacksonEvolution.htm |date=March 30, 2009 }} ''Michigan's Internet Railroad History Museum.'' Accessed 2012-04-16.
+* New York, Chicago and St. Louis Railroad (Nickel Plate Road, 1882)
+* West Shore Railroad (1885)
+* Rome, Watertown and Ogdensburg Railroad
+* Dunkirk, Allegheny Valley and Pittsburgh Railroad
+* Cleveland, Cincinnati, Chicago and St. Louis Railway
+* Lake Erie and Western Railroad
+* Pittsburgh and Lake Erie Railroad
+
+==See also==
+* Tennessee Celeste Claflin, mistress of Cornelius Vanderbilt in later life
+* List of wealthiest historical figures
+* List of railroad executives
+* List of richest Americans in history
+

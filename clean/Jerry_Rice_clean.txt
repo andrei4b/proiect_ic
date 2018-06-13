@@ -1,0 +1,651 @@
+--sport
+ NFL biography. 
+name = Jerry Rice. 
+image = Jerry Rice.jpg. 
+caption =  Rice in 2006. 
+position = Wide receiver. 
+number = 80. 
+birth_date = {{Birth date and age|1962|10|13|mf=y}}. 
+birth_place = Starkville, Mississippi. 
+height_ft =  6. 
+height_in =  2. 
+weight_lbs =  200. 
+high_school =  Oktoc (MS) Moor. 
+college = Mississippi Valley State. 
+draftyear = 1985. 
+draftround = 1. 
+draftpick = 16. 
+pastteams = 
+* San Francisco 49ers ({{nfly|1985}}{{nfly|2000}})
+* Oakland Raiders ({{nfly|2001}}{{nfly|2004}})
+* Seattle Seahawks ({{nfly|2004}}) 
+* Denver Broncos ({{nfly|2005}})* . 
+pastteamsnote=yes. 
+highlights = 
+* 3 Super Bowl champion (XXIII, XXIV, XXIX)
+* Super Bowl MVP (XXIII)
+* 13 Pro Bowl (19861996, 1998, 2002)
+* 10 First-team All-Pro (19861990, 19921996)
+* 2 Second-team All-Pro (1991, 2002)
+* Bert Bell Award (1987)
+* 2 NFL Offensive Player of the Year (1987, 1993)
+* 6 NFL receiving yards leader (1986, 1989, 1990, 19931995)
+* 2 NFL receptions leader (1990, 1996)
+* 6 NFL receiving touchdowns leader (1986, 1987, 19891991, 1993)
+* NFL 75th Anniversary All-Time Team
+* NFL 1980s All-Decade Team
+* NFL 1990s All-Decade Team
+* San Francisco 49ers No. 80 retired
+* 2 First-team I-AA All-American (1983, 1984)
+;NFL records
+* 1,549 career receptions
+* 22,895 career receiving yards
+* 197 career receiving touchdowns
+* 23,546 career all-purpose yards. 
+statlabel1 = Receptions. 
+statvalue1 = 1,549. 
+statlabel2 = Receiving yards. 
+statvalue2 = 22,895. 
+statlabel3 = Yards per reception. 
+statvalue3 = 14.8. 
+statlabel4 = Receiving touchdowns. 
+statvalue4 = 197. 
+nfl = RIC128880. 
+HOF = jerry-rice. 
+CollegeHOF = 90104
+}}
+'''Jerry Lee Rice''' (born October 13, 1962) is a former American football wide receiver who played in the National Football League, primarily with the San Francisco 49ers. He is widely considered to be the greatest wide receiver in NFL history,. and often called the greatest NFL player of all time.
+
+He is the all-time leader in most major statistical categories for wide receivers, including receptions, touchdown receptions, and receiving yards, once being the leader for total yards and touchdowns in a season. Rice was selected to the Pro Bowl 13 times (19861996, 1998, 2002) and named All-Pro 12 times in his 20 NFL seasons. He won three Super Bowls with the 49ers and an AFC Championship with the Oakland Raiders. {{As of|2016}}, Rice holds over 100 NFL records, the most of any player by a wide margin. In 1999, ''The Sporting News'' listed Rice second behind Jim Brown on its list of "Football's 100 Greatest Players". In 2010, he was chosen by NFL Network's NFL Films production ''The Top 100: NFL's Greatest Players'' as the greatest player in NFL history. Rice was inducted into the Pro Football Hall of Fame in 2010 and the College Football Hall of Fame in 2006.
+
+== Early years ==
+Jerry Lee Rice was born in Starkville, Mississippi, and grew up in the small town of Crawford, Mississippi, as the son of a brick mason. He attended B. L. Moor High School in Oktoc, Mississippi. According to his autobiography ''Rice'', his mother did not allow him to join the school's football team in his freshman year. When Rice was a sophomore, the school's principal caught Rice being truant. After Rice sprinted away, the principal told the school's football coach about Rice's speed and he was offered a place on the team. While at B. L. Moor, Rice also played basketball and was on the track and field team.
+
+==College career==
+Rice attended Mississippi Valley State University from 1981 to 1984. He became a standout receiver and acquired the nickname "World" due to "his ability to catch anything near him." In 1982, Rice played his first season with redshirt freshman quarterback Willie Totten. Rice caught 66 passes for 1,133 yards and seven touchdowns as a sophomore that year. Together, Totten and Rice became known as "The Satellite Express" and set numerous NCAA records in the spread offense of coach Archie Cooley, nicknamed "The Gunslinger".
+
+Rice had a record-setting 1983 campaign, including NCAA marks for receptions (102) and receiving yards (1,450), and was named a first-team Division I-AA All-American. He also set a single-game NCAA record by catching 24 passes against Louisiana's Southern University. As a senior in 1984, he broke his own Division I-AA records for receptions (112) and receiving yards (1,845). His 27 touchdown receptions in that 1984 season set the NCAA record for all divisions.
+
+The 1984 Delta Devils scored 628 points in 11 games, an average of more than 57 per game. Subsequent to an August practice experiment, Cooley had Totten call all the plays at the line of scrimmage without a huddle. The result was even more staggering offensive numbers. Rice caught 17 passes for 199 yards against Southern, 17 for 294 against Kentucky State, and 15 for 285 against Jackson State. He scored five touchdowns in a single game twice that year. Rice was named to every Division I-AA All-America team (including the Associated Press squad) and finished ninth in Heisman Trophy balloting in 1984. In the BlueGray Classic all-star game played on Christmas Day, he earned MVP honors. He finished his career with 301 catches for 4,693 yards and 50 touchdowns; his NCAA record for total career touchdown receptions stood until 2006, when University of New Hampshire wide receiver David Ball recorded his 51st career receiving touchdown.
+
+Rice became a member of Phi Beta Sigma fraternity at the Delta Phi chapter while at Valley. In the spring of 1999, the school renamed its football stadium from Magnolia Stadium to RiceTotten Stadium in honor of Rice and Totten. Rice was inducted into the College Football Hall of Fame on August 12, 2006.
+
+==Professional career==
+
+===San Francisco 49ers===
+Rice's record-breaking season at Mississippi Valley State caught the attention of many NFL scouts, but his below-average speed kept most teams wary. Sources vary on his 40-yard dash time, which was reportedly as slow as 4.71 seconds.. Nevertheless, the Dallas Cowboys and  San Francisco 49ers showed interest in him.{{sfn|Maiocco|2011|p=184}} In the first round of the 1985 NFL Draft, Dallas had the 17th selection and San Francisco, as Super Bowl champion from the previous season, had the last. 49ers coach Bill Walsh reportedly sought Rice after watching highlights of Rice the Saturday night before San Francisco was to play the Houston Oilers on October 21, 1984. On draft day, the 49ers traded its first two picks for the New England Patriots' first-round choice, the 16th selection overall, and selected Rice before, as some report, the Cowboys were intending to pick him. Rice was prized more highly by the USFL, as he was the number-one pick overall in that short-lived league's 1985 draft.
+
+thumb|right|170px|Rice's No. 80 jersey from December 1987, when he set a new record for touchdowns and receptions with the 49ers
+Although he struggled at times (dropping numerous passes), Rice impressed the NFL in his rookie season for the 49ers in 1985, especially after a 10-catch, 241-yard game against the Los Angeles Rams in December. For that rookie season, he recorded 49 catches for 927 yards, averaging 18.9 yards per catch and was named the NFC Offensive Rookie of the Year by United Press International (UPI). The following season, he caught 86 passes for a league-leading 1,570 yards and 15 touchdowns. It was the first of six seasons in which Rice led the NFL in receiving yards and touchdown receptions. In 1987, he was named the NFL's MVP by the Newspaper Enterprise Associationwhich was voted on by NFL playersand the Pro Football Writers Association. The AP deemed him the Offensive Player of the Year. He was also awarded the Bert Bell Award from the Maxwell Football Club as the NFL player of the year. Despite playing in only 12 games that year due to an NFL players strike, he still managed to gain 1,078 receiving yards and an NFL-record 22 touchdown receptions which stood until 2007 when it was broken by Randy Moss (with Moss catching 23 touchdowns in 16 games). In 1987, the runner-up to Rice in touchdown receptions was Philadelphia Eagles receiver Mike Quick with 11. This marked the first time in post-NFLAFL merger history that a category leader doubled the total of his nearest competitor.
+
+In 1988, Rice averaged a career-high 20.4 yards per catch (64 passes for 1,306 yards) and 9 touchdowns. The 49ers once again won the NFC West with a 106 record. In the postseason, he was instrumental in the 49ers' 283 win over the Chicago Bears in the NFC title game, recording 5 catches for 123 yards and 2 touchdowns. But his performance in Super Bowl XXIII was even better. In possibly his finest performance ever, Rice caught 11 passes for 215 yards and a touchdown, while also rushing for 5 yards, helping the 49ers to a narrow 2016 win over the Cincinnati Bengals. His receptions and receiving yards were both Super Bowl records. For his performance, he became the third wide receiver to earn Super Bowl MVP honors.
+
+In 1989, San Francisco made it back to the Super Bowl, aided by Rice's 82 receptions for 1,483 yards and 17 touchdowns during the season, and his 12 catches for 169 yards and two touchdowns in their two playoff games. He was once again a major factor in the 49ers championship win, finishing Super Bowl XXIV with seven catches for 148 yards and a Super Bowl record three touchdown receptions.
+
+Rice had another superb season in 1990, leading the NFL in receptions (100), receiving yards (1,502), and receiving touchdowns (13). In a week-six match-up with the Atlanta Falcons, Rice caught a career-best 5 touchdowns. San Francisco finished the year with an NFL-best 142 record, but failed to "3-peat" as Super Bowl champions, losing to the New York Giants 1513 in the NFC title game.
+
+After seasons of 80 catches for 1,206 yards and 14 touchdowns in 1991, 84 catches for 1,201 yards and 10 touchdowns in 1992, and 98 catches for 1,503 yards and 15 touchdowns in 1993, Rice made it back to the Super Bowl with the 49ers in the 1994 season, recording a career-high 112 receptions for 1,499 yards and 13 touchdowns. During the 49ers' first game of that season against the Los Angeles Raiders, he caught 7 passes for a season-high 169 yards and two touchdowns (and rushed for one more), moving into first place in the NFL records for career touchdowns, with 127. In Week 3, his 147 receiving yards moved him past Art Monk as the NFL's active leader, and also past Charlie Joiner for 3rd all-time. He would pass Steve Largent for 2nd place in Week 16.[https://www.pro-football-reference.com/leaders/rec_yds_career_1993.htm Career receiving yards, 1993 leaderboard] vs. [https://www.pro-football-reference.com/leaders/rec_yds_career_1994.htm Career receiving yards, 1994 leaderboard] Although he only caught 6 passes in San Francisco's 2 playoff games that year, he proved to be a vital component in their 4926 victory over the San Diego Chargers in Super Bowl XXIX, recording 10 receptions for 149 yards and 3 touchdownsdespite playing with a separated shoulder for much of the game.
+
+In 1995, Rice caught a career-high 122 passes for a then-NFL record 1,848 receiving yards and 15 touchdowns (along with 1 touchdown each by way of running, passing, and recovering a fumble). However, the 49ers lost in the divisional playoffs to the Green Bay Packers, despite Rice's impressive 11-catch, 117-yard performance. The following year, he recorded 108 receptions (again leading the NFL) for 1,254 yards and eight touchdowns. San Francisco won in the wild card round, but once more lost to the Packers in the divisional playoffs. In his three seasons between 1994 and 1996, Rice had racked up 342 catches for 4,601 yards and 36 touchdowns.
+
+During the 49ers' opening game of the 1997 season, he tore the anterior cruciate and medial collateral ligaments in his left knee on a reverse. Warren Sapp of the Tampa Bay Buccaneers grabbed Rice by the face-mask and wrenched him to the ground with it, drawing a 15-yard personal foul. The injury broke his streak of 189 consecutive games played. Fourteen weeks later, he made his return, much earlier than doctors wanted him to. He scored a touchdown, but when he came down with the catch, he cracked the patella in his left kneecap. He was forced to miss the Pro Bowl for the first time in 11 years. However, he made a full recovery, coming back in 1998 to record 82 catches for 1,157 yards and nine touchdowns and being named to his 12th Pro Bowl.
+
+The 1999 season was the first that Rice failed to reach 1,000 yards receiving while playing in all 16 games. The same thing happened in 2000, his final season in San Francisco.
+
+===Oakland Raiders===
+With the emergence of Terrell Owens in San Francisco, and because of their desire to rebuild the team and clear salary, Rice left the 49ers and signed with the Oakland Raiders, following the conclusion of the 2000 season. He joined a Raiders team coming off a loss in the AFC playoffs, to form one of the oldest receiver duos with Tim Brown.
+
+The two played well together, as Rice caught 83 passes for 1,139 yards and nine touchdowns. In 2002, he caught 92 passes for 1,211 yards and seven touchdowns, was named to his 13th Pro Bowl, and assisted Oakland to an AFC championship and appearance in Super Bowl XXXVII. His team lost 4821 to the Buccaneers in the Super Bowl, with Rice recording five receptions for 77 yards and a touchdown. His 48-yard touchdown catch in the fourth quarter made him the first player to catch a touchdown pass in four Super Bowls.
+
+On November 11, 2002, against the Denver Broncos, Rice scored his 200th career touchdown, and surpassed Walter Payton to become the NFL's all-time leader in total yardage. Oakland dropped from an 115 record in 2002 to a 412 record in 2003, leading to frustration from Rice about his role on the team; he eventually requested to be traded.
+
+===Seattle Seahawks===
+Rice was traded to the Seattle Seahawks six games into the 2004 season, and was reunited with Seattle head coach Mike Holmgren, who had previously worked with Rice as San Francisco's offensive coordinator. After speaking with Hall of Fame wide receiver Steve Largent, Rice was granted permission to wear Largent's retired jersey number 80.
+
+In a ''Monday Night Football'' game against the Dallas Cowboys, Rice set the career NFL record for combined net yards by catching a 27-yard touchdown pass from Matt Hasselbeck. He finished that game with 8 catches for 145 yards and a touchdown. Rice played his last non-preseason professional game for Seattlea wildcard loss to the St. Louis Rams in which he did not catch a pass.
+
+In total Rice had 362 receiving yards and three touchdowns with the Seahawks.
+
+===Retirement===
+At the conclusion of the 2004 seasonhis 20th in the NFLRice initially opted to join the Denver Broncos for a one-year deal, but ultimately decided he would rather retire than be at the bottom of any team's depth chart.
+
+In August 2006, the 49ers announced that Rice would sign a contract with them, allowing him to retire as a member of the team where his NFL career began. On August 24, he officially retired as a 49er, signing a one-day contract for $1,985,806.49. The number represented the year Rice was drafted (1985), his number (80), the year he retired (2006), and the 49ers (49). The figure was ceremonial, and Rice received no money. There was a halftime ceremony to honor him during the 49ers' match-up with the Seattle Seahawks on November 19, 2006.
+
+Over the course of his career, Rice played more games than any non-placekicker or punter in NFL history, playing 303 games overall.
+
+===Legacy===
+{{BLP ref improve|section|date=April 2017}}
+thumb|275px|Rice signing autographs in 2006
+
+Rice holds numerous NFL receiving records. His 1,549 career receptions are 307 receptions ahead of the second place record held by Tony Gonzalez. His 22,895 career receiving yards are 6,961 yards ahead of the second place spot held by his former 49ers teammate Terrell Owens. His 197 career touchdown receptions are 41 scores more than the second place record of 156 touchdown receptions by Randy Moss, and his 208 total touchdowns (197 receiving, 10 rushing, and one fumble recovery) are 33 scores ahead of Emmitt Smith's second place total of 175.  He also threw a touchdown pass against the Atlanta Falcons in a 1995 regular season game. His 1,256 career points scored make him the highest-scoring non-kicker in NFL history. During a career spanning two decades, Rice averaged 75.6 receiving yards per game.
+
+Rice is remembered also as one of the best clutch players in football history. He was a crucial part of the 49ers victory in Super Bowl XXIII. Down 16-13 with less than three minutes to play, quarterback Joe Montana led the 49ers in the game-winning drive with 36 seconds left on the clock. Rice was instrumental in that drive, catching three passes, and was voted the Super Bowl MVP. Rice often made game winning catches throughout his career. Known as one of the best blockers at his position, there was no aspect of playing wide receiver at which Rice did not excel.{{cn|date=January 2017}}
+
+Rice is also remembered for his work ethic and dedication to the game. In his 20 NFL seasons, Rice missed only 17 regular season games, 14 of them in the 1997 season, and the other 3 in the strike-shortened season of 1987. His 303 games are by far the most ever played by an NFL wide receiver. In addition to staying on the field, his work ethic showed in his dedication to conditioning and running precise routes, with coach Dennis Green calling him "the best route runner I've ever seen." One of the best known examples of his dedication and ethic may be "The Hill", a long and steep hill in Edgewood County Park & Natural Preserve, that is "two and a half miles up". Rice would sprint across the hill literally every day to improve his abilities. "The Hill" has served as an inspiration for many other players in the 49ers organization, among them former first-round pick wide receiver A.J. Jenkins, who neglected to train with Rice on "The Hill", and was subsequently traded.{{cn|date=April 2017}}
+
+In 1999, Rice was ranked number two on the ''Sporting News''' list of the 100 Greatest Football Players, behind only Jim Brown, and was 35 places ahead of the next-highest-ranked player then active, Deion Sanders. In 2000, Rice won the ESPY Award for Pro Football Player of the Decade for the 1990s. On November 4, 2010, he was ranked number one on ''The Top 100: NFL's Greatest Players''.
+
+In 2011, The Sports Network awarded the inaugural Jerry Rice Award, to be given each year to the most outstanding freshman Football Championship Subdivision (formerly I-AA) player. The inaugural winner was Towson running back Terrance West.
+
+In January 2015, Rice admitted to putting Stickum, a substance that makes the ball easier to catch and hold on to, on his gloves during his career, saying "I know this might be a little illegal, guys, but you put a little spray, a little stickum on them, to make sure that texture is a little sticky". Stickum was banned in the NFL in 1981, four years before Rice joined the league. Rice's contention that "all players" in his era used stickum was refuted by Pro Football Hall of Fame contemporaries Cris Carter and Michael Irvin.
+
+Rice was selected for induction in the Pro Football Hall of Fame class of 2010 in his first year of eligibility. He was inducted in Canton, Ohio on August 7, 2010, alongside Emmitt Smith, Floyd Little, Russ Grimm, Rickey Jackson, Dick LeBeau, and John Randle. On September 20, 2010, during halftime of a game against the Saints, the 49ers retired Rice's No. 80 jersey.
+
+==Career statistics==
+
+{| class="wikitable". 
+ colspan="2"|Legend. 
+-. 
+ style="background:#cfecec; width:3em;"| . 
+Led the league. 
+-. 
+style="background:#E0CEF2; width:3em"|. 
+NFL record. 
+-. 
+ '''Bold'''. 
+Career high. 
+}
+
+{|class="wikitable". 
+-
+!colspan="4" |Season
+!colspan="5" | Receiving
+!colspan="5" | Rushing. 
+-
+! Year
+! Team
+! GP
+! GS
+! Rec
+! Yards
+! Avg
+! Lng
+! TD
+! Att
+! Yards
+! Avg
+! Lng
+! TD. 
+- style="text-align:center;"
+! 1985
+! SF. 
+ 16. 
+ 4. 
+ 49. 
+ 927. 
+ 18.9. 
+ 66. 
+ 3. 
+ 6. 
+ 26. 
+ 4.3. 
+ 15. 
+ 1. 
+- style="text-align:center;"
+! 1986
+! SF. 
+ 16. 
+ 15. 
+ 86. 
+ style="background:#cfecec; width:3em;"|1,570. 
+ 18.3. 
+ 66. 
+ style="background:#cfecec; width:3em;"|15. 
+ 10. 
+ 72. 
+ 7.2. 
+ 18. 
+ 1. 
+- style="text-align:center;"
+! 1987
+! SF. 
+ 12. 
+ 12. 
+ 65. 
+ 1,078. 
+ 16.6. 
+ 57. 
+ style="background:#cfecec; width:3em;"|'''22'''. 
+ 8. 
+ 51. 
+ 6.4. 
+ 17. 
+ 1. 
+- style="text-align:center;"
+! 1988
+! SF. 
+ 16. 
+ 16. 
+ 64. 
+ 1,306. 
+ '''20.4'''. 
+ style="background:#cfecec; width:3em;"|'''96'''. 
+ 9. 
+ '''13'''. 
+ '''107'''. 
+ 8.2. 
+ 29. 
+ 1. 
+- style="text-align:center;"
+! 1989
+! SF. 
+ 16. 
+ 16. 
+ 82. 
+ style="background:#cfecec; width:3em;"|1,483. 
+ 18.1. 
+ 68. 
+ style="background:#cfecec; width:3em;"|17. 
+ 5. 
+ 33. 
+ 6.6. 
+ 17. 
+ 0. 
+- style="text-align:center;"
+! 1990
+! SF. 
+ 16. 
+ 16. 
+ style="background:#cfecec; width:3em;"|100. 
+ style="background:#cfecec; width:3em;"|1,502. 
+ 15.0. 
+ 64. 
+ style="background:#cfecec; width:3em;"|13. 
+ 2. 
+ 0. 
+ 0.0. 
+ 2. 
+ 0. 
+- style="text-align:center;"
+! 1991
+! SF. 
+ 16. 
+ 16. 
+ 80. 
+ 1,206. 
+ 15.1. 
+ 73. 
+ style="background:#cfecec; width:3em;"|14. 
+ 1. 
+ 2. 
+ 2.0. 
+ 2. 
+ 0. 
+- style="text-align:center;"
+! 1992
+! SF. 
+ 16. 
+ 16. 
+ 84. 
+ 1,201. 
+ 14.3. 
+ 80. 
+ 10. 
+ 9. 
+ 58. 
+ 6.4. 
+ 26. 
+ 1. 
+- style="text-align:center;"
+! 1993
+! SF. 
+ 16. 
+ 16. 
+ 98. 
+ style="background:#cfecec; width:3em;"|1,503. 
+ 15.3. 
+ 80. 
+ style="background:#cfecec; width:3em;"|15. 
+ 3. 
+ 69. 
+ '''23.0'''. 
+ '''43'''. 
+ 1. 
+- style="text-align:center;"
+! 1994
+! SF. 
+ 16. 
+ 16. 
+ 112. 
+ style="background:#cfecec; width:3em;"|1,499. 
+ 13.4. 
+ 69. 
+ 13. 
+ 7. 
+ 93. 
+ 13.3. 
+ 28. 
+ '''2'''. 
+- style="text-align:center;"
+! 1995
+! SF. 
+ 16. 
+ 16. 
+ '''122'''. 
+ style="background:#cfecec; width:3em;"|'''1,848'''. 
+ 15.1. 
+ 81. 
+ 15. 
+ 5. 
+ 36. 
+ 7.2. 
+ 20. 
+ 1. 
+- style="text-align:center;"
+! 1996
+! SF. 
+ 16. 
+ 16. 
+ style="background:#cfecec; width:3em;"|108. 
+ 1,254. 
+ 11.6. 
+ 39. 
+ 8. 
+ 11. 
+ 77. 
+ 7.0. 
+ 38. 
+ 1. 
+- style="text-align:center;"
+! 1997
+! SF. 
+ 2. 
+ 1. 
+ 7. 
+ 78. 
+ 11.1. 
+ 16. 
+ 1. 
+ 1. 
+ -10. 
+ -10.0. 
+ -10. 
+ 0. 
+- style="text-align:center;"
+! 1998
+! SF. 
+ 16. 
+ 16. 
+ 82. 
+ 1,157. 
+ 14.1. 
+ 75. 
+ 9. 
+ 0. 
+ 0. 
+ 0.0. 
+ 0. 
+ 0. 
+- style="text-align:center;"
+! 1999
+! SF. 
+ 16. 
+ 16. 
+ 67. 
+ 830. 
+ 12.4. 
+ 62. 
+ 5. 
+ 2. 
+ 13. 
+ 6.5. 
+ 11. 
+ 0. 
+- style="text-align:center;"
+! 2000
+! SF. 
+ 16. 
+ 16. 
+ 75. 
+ 805. 
+ 10.7. 
+ 68. 
+ 7. 
+ 1. 
+ -2. 
+ -2.0. 
+ -2. 
+ 0. 
+- style="text-align:center;"
+! 2001
+! OAK. 
+ 16. 
+ 15. 
+ 83. 
+ 1,139. 
+ 13.7. 
+ 40. 
+ 9. 
+ 0. 
+ 0. 
+ 0.0. 
+ 0. 
+ 0. 
+- style="text-align:center;"
+! 2002
+! OAK. 
+ 16. 
+ 16. 
+ 92. 
+ 1,211. 
+ 13.2. 
+ 75. 
+ 7. 
+ 3. 
+ 20. 
+ 6.7. 
+ 12. 
+ 0. 
+- style="text-align:center;"
+! 2003
+! OAK. 
+ 16. 
+ 15. 
+ 63. 
+ 869. 
+ 13.8. 
+ 47. 
+ 2. 
+ 0. 
+ 0. 
+ 0.0. 
+ 0. 
+ 0. 
+- style="text-align:center;"
+! 2004
+! OAK. 
+ 6. 
+ 5. 
+ 5. 
+ 67. 
+ 13.4. 
+ 18. 
+ 0. 
+ 0. 
+ 0. 
+ 0.0. 
+ 0. 
+ 0. 
+- style="text-align:center;"
+! 2004
+! SEA. 
+ 11. 
+ 9. 
+ 25. 
+ 362. 
+ 14.5. 
+ 56. 
+ 3. 
+ 0. 
+ 0. 
+ 0.0. 
+ 0. 
+ 0. 
+- style="text-align:center;"
+! Career
+! 
+! 303
+! 284
+! style="background:#E0CEF2; width:3em"|1,549
+! style="background:#E0CEF2; width:3em"|22,895
+! 14.8
+! 96
+! style="background:#E0CEF2; width:3em"|197
+! 87
+! 645
+! 7.4
+! 43
+! 10. 
+- style="text-align:center;"
+! 16 yrs
+! SF
+! 238
+! 224
+! 1281
+! 19,247
+! 15.0
+! 96
+! 176
+! 84
+! 625
+! 7.4
+! 43
+! 10. 
+- style="text-align:center;"
+! 4 yrs
+! OAK
+! 54
+! 51
+! 243
+! 3,286
+! 13.5
+! 75
+! 18
+! 3
+! 20
+! 6.7
+! 12
+! 0. 
+- style="text-align:center;"
+! 1 yr
+! SEA
+! 11
+! 9
+! 25
+! 362
+! 14.5
+! 56
+! 3
+! 0
+! 0
+! 0
+! 0
+! 0. 
+}
+
+===NFL records===
+As of the end of the 2016 NFL season, Rice holds the following league records:
+{{div col|colwidth=30em}}
+* Most career regular season games played by a position player: 303
+* Most career receiving yards: 22,895
+* Most career receptions: 1,549
+* Most career touchdown receptions: 197
+* Most career yards from scrimmage: 23,540 (22,895 receiving, 645 rushing)
+* Most career touchdowns from scrimmage: 207 (197 receiving, 10 rushing)
+* Most career all purpose yards: 23,546 (22,895 receiving, 645 rushing, 6 kick returns)
+* Most career all purpose touchdowns: 208 (197 receiving, 10 rushing, 1 fumble recovery)
+* Most seasons of 1,000 or more receiving yards: 14
+* Fastest player to reach 100 touchdown receptions: 120 GP
+* Fastest player to reach 12,000 receiving yards: 142 GP
+* Fastest player to reach 13,000 receiving yards: 156 GP
+* Fastest player to reach 14,000 receiving yards: 164 GP
+* Fastest player to reach 15,000 receiving yards: 172 GP
+{{div col end}}
+
+==Media work==
+Rice and quarterback Steve Young appeared together in Visa, All Sport, and Gatorade commercials when they were both playing for the 49ers.{{citation needed|date=April 2016}}
+
+During the 20052006 broadcasting season, Rice competed in the reality show ''Dancing with the Stars''. He was paired with dancer Anna Trebunskaya, and they reached the final two before losing to singer Drew Lachey and his partner Cheryl Burke.{{citation needed|date=April 2016}} In 2009, Rice portrayed Hal Gore in the film ''Without a Paddle: Nature's Calling''. In the same year, he guest starred as himself in the episode "Lyin' King" on the sitcom ''Rules of Engagement''.
+
+Rice has co-authored two books about his life: ''Rice'' (with Michael Silver, published 1996, {{ISBN|0-312-14795-3}}) and ''Go Long: My Journey Beyond the Game and the Fame'' (with Brian Curtis, published 2007, {{ISBN|0-345-49611-6}}). He co-hosts{{when|date=April 2016}} ''Sports Sunday'' with NBC sportscaster Raj Mathai, a prime time sports show shown in the San Francisco Bay Area.
+
+Rice is a supporter of chiropractic care and is a spokesperson for the Foundation for Chiropractic Progress.{{cn|date=April 2017}}
+
+Rice and his dog, Nitus, were featured in ''Jerry Rice & Nitus' Dog Football'', a video game for the Wii that was released on August 16, 2011.
+
+Rice served as an alumni captain for Team Rice during the 2014 Pro Bowl and 2016 Pro Bowl.
+
+== Personal life ==
+Jerry married Jacqueline Bernice Mitchell on September 8, 1987. Jacqueline Rice filed for divorce in June 2007. The former couple were divorced in late December 2009.  They have three children together: Jaqui Bonet (born 1987), Jerry Rice, Jr. (born 1991), and Jada Symone (born 1996). Jerry Jr, who attended high school at Menlo School in Atherton, California, graduated in 2009. Jerry Jr was a walk-on at UCLA and redshirted his first season. After three seasons and limited playing time, Jerry Rice Jr. graduated from UCLA and transferred to UNLV and was eligible to play immediately. Jerry Jr. played wide receiver for the Rebels, and had participated in a 49ers local pro day prior to the 2014 NFL Draft, but was not drafted. As of March 24, 2018, Rice has been engaged to Latisha Pelayo who he has dated since 2008.
+
+Rice has played golf for over 20 years and would wake up early to play golf during his football career. He competed in the Fresh Express Classic at TPC Stonebrae on the Nationwide Tour on April 1516, 2010. He received a sponsor's exemption to play in the tournament. Rice missed the cut and finished one shot ahead of last place; 17-over and 151st among the 152 players who completed two rounds.
+
+== References ==
+{{reflist|30em}}
+;Bibliography
+{{refbegin}}
+* }}
+* }}
+{{refend}}
+
+== External links ==
+{{Commons category}}
+* {{Profootballhof|id=290|name=Jerry Rice}}
+* {{cfbhof|id=90104|name=Jerry Rice}}
+* {{Footballstats |nfl=RIC128880 |cfl= |afl= |espn=12 |cbs= |yahoo=126 |fox= |si=126 |pfr=R/RiceJe00 |rotoworld=}}
+* {{IMDb name|id=0005357|name=Jerry Rice}}
+{{s-start}}
+{{s-ach}}
+{{succession box | title=''Dancing with the Stars'' (US) runner up | before= John O'Hurley & Charlotte Jrgensen | years=Season 2 (Spring 2006 with Anna Trebunskaya) |after=Mario Lopez & Karina Smirnoff}}
+{{S-end}}
+
+{{Navboxes. 
+ title = Jerry Riceawards, championships, and honors. 
+ list1 =
+{{1969-1994 All-America Team}}
+{{1985 NFL Draft}}
+{{49ersFirstPick}}
+{{49ers1985DraftPicks}}
+{{AP Offensive Players of the Year}}
+{{Bert Bell Award}}
+{{Super Bowl XXIII}}
+{{Super Bowl XXIV}}
+{{Super Bowl XXIX}}
+{{Super Bowl MVPs}}
+{{NFL receiving yardage leaders}}
+{{NFL receiving touchdown leaders}}
+{{NFL1980s}}
+{{NFL1990s}}
+{{NFL75}}
+{{49ers Retired Numbers}}
+{{2010 Football HOF}}
+{{Pro Football Hall of Fame members}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Rice, Jerry}}
+Category:1962 births
+Category:African-American players of American football
+Category:American football wide receivers
+Category:College Football Hall of Fame inductees
+Category:Denver Broncos players
+Category:Living people
+Category:Mississippi Valley State Delta Devils football players
+Category:National Football League announcers
+Category:National Conference Pro Bowl players
+Category:National Football League players with retired numbers
+Category:Oakland Raiders players
+Category:Participants in American reality television series
+Category:People from Crawford, Mississippi
+Category:Sportspeople from Starkville, Mississippi
+Category:Players of American football from Mississippi
+Category:Pro Football Hall of Fame inductees
+Category:San Francisco 49ers players
+Category:Seattle Seahawks players
+Category:Super Bowl MVPs
+Category:Super Bowl champions</text>
+      <sha1>1e8095y62l700oj6jco75vri8wf9ysu</sha1>
+    </revision>
+  </page>
+</mediawiki>

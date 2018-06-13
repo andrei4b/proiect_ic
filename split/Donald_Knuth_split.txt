@@ -1,0 +1,157 @@
+
+______RELATIVES______
+' brother' ' sister' ' youngest' ' oldest' ' child' ' sibling' 
+They have two children, John Martin Knuth and Jennifer Sierra Knuth.
+______________________________
+
+______NATIONALITY______
+' born' ' lived' ' left' ' moved' ' migrate' ' migration' ' citizen' ' travel' ' jew' ' ethnic' ' foreign' 
+website = {{URL|http://cs.stanford.edu/~knuth}}}}
+'''Donald Ervin Knuth''' ({{IPAc-en|k|||n|u|}} {{respell|k|NOOTH|'}}; born January 10, 1938) is an American computer scientist, mathematician, and professor emeritus at Stanford University.
+______________________________
+==Biography==
+===Early life===
+Knuth was born in Milwaukee, Wisconsin, to German-Americans Ervin Henry Knuth and Louise Marie Bohning.
+______________________________
+Just before publishing the first volume of ''The Art of Computer Programming'', Knuth left Caltech to accept employment with the Institute for Defense Analyses' Communications Research Division, then situated on the Princeton University campus, which was performing mathematical research in cryptography to support the National Security Agency.
+______________________________
+Knuth then left this position to join the Stanford University faculty, where he is now Fletcher Jones Professor of Computer Science, Emeritus.https://profiles.stanford.edu/donald-knuth
+
+== Writings ==
+Knuth is a writer as well as a computer scientist.
+______________________________
+(Several students from the civil engineering department got up and quietly left the room.)
+______________________________
+
+______MULTILINGUAL______
+' multilingual' ' language' ' speak' ' foreign' 
+In addition to fundamental contributions in several branches of theoretical computer science, Knuth is the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, and the Computer Modern family of typefaces.
+______________________________
+He accepted a commission to write a book on computer programming language compilers.
+______________________________
+Knuth is also an occasional contributor of language puzzles to ''Word Ways: The Journal of Recreational Linguistics''.
+______________________________
+In 1989, his Chinese name was placed atop the ''Journal of Computer Science and Technology''{{'s}} header, which Knuth says "makes me feel close to all Chinese people although I cannot speak your language".
+______________________________
+Other awards and honors include:
+{{div col|colwidth=35em}}
+* First ACM Grace Murray Hopper Award, 1971
+* Turing Award, 1974
+* Lester R. Ford Award, 1975 and 1993
+* Josiah Willard Gibbs Lecturer, 1978
+* National Medal of Science, 1979
+* Franklin Medal, 1988
+* John von Neumann Medal, 1995
+* Harvey Prize from the Technion, 1995
+* Kyoto Prize, 1996
+* Fellow of the Computer History Museum "for his fundamental early work in the history of computing algorithms, development of the TeX typesetting language, and for major contributions to mathematics and computer science."
+______________________________
+
+______SCHOOLING______
+' school' ' education' ' home' ' self' ' self taught' 
+As prizes, the school received a new television and enough candy bars for all of his schoolmates to eat.
+______________________________
+After reading the computer's manual, Knuth decided to rewrite the assembly and compiler code for the machine used in his school, because he believed he could do it better.
+______________________________
+In 1958, Knuth created a program to help his school's basketball team win their games.
+______________________________
+Knuth published his first "scientific" article in a school magazine in 1957 under the title "The Potrzebie System of Weights and Measures."
+______________________________
+
+______SCHOOL______
+' teach' ' authorit' ' class' 
+His father had two jobs: running a small printing company and teaching bookkeeping at Milwaukee Lutheran High School.
+______________________________
+The preface of ''Concrete Mathematics'' has the following paragraph:When DEK taught Concrete Mathematics at Stanford for the first time, he explained the somewhat strange title by saying that it was his attempt to teach a math course that was hard instead of soft.
+______________________________
+He announced that, contrary to the expectations of his colleagues, he was ''not'' going to teach the Theory of Aggregates, nor Stone's Embedding Theorem, nor even the Stoneech compactification.
+______________________________
+Also that year, he retired from regular research and teaching at Stanford University in order to finish ''The Art of Computer Programming''.
+______________________________
+Knuth was elected as a Fellow (first class of Fellows) of the Society for Industrial and Applied Mathematics in 2009 for his outstanding contributions to mathematics.
+______________________________
+
+______GRADUATING______
+' PhD' ' diploma' ' college' ' drop out' ' dropping out' ' left schoo' 
+In 1963, with mathematician Marshall Hall as his adviser, he earned a PhD in mathematics from the California Institute of Technology.
+______________________________
+===Early work===
+After receiving his PhD, Knuth joined Caltech's faculty as an associate professor.
+______________________________
+
+______READING______
+' read' ' books' 
+After reading the computer's manual, Knuth decided to rewrite the assembly and compiler code for the machine used in his school, because he believed he could do it better.
+______________________________
+Bill Gates has praised the difficulty of the subject matter in ''The Art of Computer Programming'', stating, "If you think you're a really good programmer... You should definitely send me a rsum if you can read the whole thing."
+______________________________
+===Humor===
+thumb|right|One of [[Knuth reward check|Knuth's reward checks]]
+thumb|right|"Nested [[parentheses|parens"Donald Knuth (on Jacob Appelbaum's shirt within the two parentheses), Jacob Appelbaum, and Donald Knuth]]
+Knuth used to pay a finder's fee of $2.56 for any typographical errors or mistakes discovered in his books, because "256 pennies is one hexadecimal dollar", and $0.32 for "valuable suggestions".
+______________________________
+1998 
+* Katayanagi Prize, 2010
+* BBVA Foundation Frontiers of Knowledge Award in the category of Information and Communication Technologies, 2010
+* Turing Lecture, 2011
+* Stanford University School of Engineering Hero Award, 2011
+{{div col end}}
+
+== Gallery ==
+ --&gt;
+File:Donald Knuth DSC00624.jpg|Knuth, March 4, 2005
+File:Donald Knuth in front of statue St. Mesrop Mashtots (inventor of the Armenian, Georgian and Caucasian Albanian alphabets in the 4th century), Matenadaran, Yerevan, Armenia, June 2006, LA.jpg|Knuth in front of statue St. Mesrop Mashtots, Matenadaran, Yerevan, Armenia, June 9, 2006
+File:Shustek, Russell, Alcorn, Knuth, Wozniak, Mathews, Allen, CHM 2011 2.jpg|Shustek, Russell, Alcorn, Knuth, Wozniak, Mathews, Allen, CHM 2011
+File:Donald Knuth, Steve Wozniak, CHM 2011.jpg|Knuth and Steve Wozniak, CHM 2011
+
+
+==Publications==
+A short list of his publications include:
+
+''The Art of Computer Programming'':
+{{refbegin}}
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+{{refend}}
+
+''Computers and Typesetting'' (all books are hardcover unless otherwise noted):
+{{refbegin}}
+# , x+483pp.
+______________________________
+{{isbn|978-1-57586-635-2}} (cloth), {{isbn|978-1-57586-634-5}} (paperback)
+{{refend}}
+
+Other books:
+{{refbegin}}
+#   xiv+657 pp.
+______________________________
+
+______PARENTS______
+' parents' ' father' ' mother' ' family' ' adopt' ' died' ' profession' ' occupation' 
+In addition to fundamental contributions in several branches of theoretical computer science, Knuth is the creator of the TeX computer typesetting system, the related METAFONT font definition language and rendering system, and the Computer Modern family of typefaces.
+______________________________
+His father had two jobs: running a small printing company and teaching bookkeeping at Milwaukee Lutheran High School.
+______________________________
+
+______MUSIC______
+' music' ' play' ' listen' ' piano' ' violin' ' flute' ' guitar' 
+===Education===
+Knuth had a difficult time choosing physics over music as his major at Case Institute of Technology (now part of Case Western Reserve University).
+______________________________
+He assigned "values" to players in order to gauge their probability of getting points, a novel approach that ''Newsweek'' and ''CBS Evening News'' later reported on.
+______________________________
+
+______SPORTS______
+' play' ' sport' 
+He assigned "values" to players in order to gauge their probability of getting points, a novel approach that ''Newsweek'' and ''CBS Evening News'' later reported on.
+______________________________

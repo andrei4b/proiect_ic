@@ -1,0 +1,418 @@
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Bono</title>
+    <ns>0</ns>
+    <id>76772</id>
+    <revision>
+      <id>844438003</id>
+      <parentid>843685931</parentid>
+      <timestamp>2018-06-04T22:35:29Z</timestamp>
+      <contributor>
+        <username>Eric the strong</username>
+        <id>33022611</id>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="75558">{{Other uses}}
+{{pp-semi-blp|small=yes}}
+{{Use dmy dates|date=November 2016}}
+&lt;!-- NOTE TO EDITORS:
+DO NOT add "SIR" as a title to Bono, or Paul Hewson!
+See http://en.wikipedia.org/wiki/Order_of_the_British_Empire --&gt;
+{{Infobox person
+| name               = Bono
+| image              = Bono singing in Indianapolis on Joshua Tree Tour 2017 9-10-17.jpg&lt;!-- NOTE TO EDITORS: Do not replace unless it is with a photo under a public domain or free license (meaning NOT merely fair use). Any fair use photos (''e.g.,'' "promotional photos") are copyright violations and will be deleted. See http://en.wikipedia.org/wiki/Wikipedia:Fair use criteria --&gt;
+| caption            = Bono performing on [[the Joshua Tree Tour 2017]] in Indianapolis
+| birth_name         = Paul David Hewson
+| birth_date         = {{birth date and age|df=yes|1960|5|10}}
+| birth_place        = [[Dublin]], Ireland
+| nationality        = Irish
+| other_names        = Bono Vox&lt;!-- Please do not add any other aliases without a reliable source --&gt;
+| occupation         = Musician, [[singer-songwriter]], [[venture capital]]ist, businessman, philanthropist
+| spouse             = {{marriage|[[Ali Hewson]]|1982}}
+| children           = 4, including [[Eve Hewson]]
+| awards             = 
+| website            =  &lt;!-- {{URL|example.com}} --&gt;
+| module             = {{Infobox musical artist
+| embed              = yes
+| background          = solo_singer
+| origin              = [[Finglas]], Dublin, Ireland
+| death_date          =
+| genre               = [[Rock music|Rock]], [[post-punk]], [[alternative rock]]
+| instrument          = Vocals, guitar, harmonica
+| years_active        = 1976present
+| label               =
+| associated_acts     = [[U2]], [[Original Soundtracks 1|Passengers]]
+| website             = {{URL|u2.com}}
+}}
+| module2            = 
+| module3            = 
+| module4            = 
+| module5            = 
+| module6            = 
+| signature          = BonoSignature.svg
+| signature_size     = 
+| signature_alt      = 
+| footnotes          = 
+}}
+&lt;!-- NOTE TO EDITORS: Please do not change the structure of the first sentence of the article without discussing first on this article's talk page. Multiple editors designed and approved the current version after several edit wars. If you would like to make changes to the first sentence, please discuss on the talk page.--&gt;
+
+'''Paul David Hewson''', [[Order of the British Empire|KBE]] [[Order of Liberty|OL]] (born 10 May 1960), known by his stage name '''Bono''' ({{IPAc-en||b||n|o}}), is an Irish singer-songwriter, musician, [[venture capitalist]], businessman, and philanthropist.&lt;ref&gt;{{cite web|url=http://www.oprah.com/spirit/Bono-A-Global-Rock-Star-and-Activist|title=Bono: A Global Rock Star and Activist.|work=[[Oprah.com]]|accessdate=22 September 2014}}&lt;/ref&gt; He is best known as the lead vocalist and primary lyricist of [[Rock music|rock]] band [[U2]].
+
+Bono was born and raised in [[Dublin]], Ireland. He attended [[Mount Temple Comprehensive School]] where he met his future wife, [[Ali Hewson|Alison Stewart]], as well as schoolmates with whom he founded U2 in 1976.&lt;ref name=MacphistoNet /&gt;&lt;ref name="Bono on Bono" /&gt;&lt;ref name=ATU2Clayton /&gt;  Bono soon established himself as a passionate frontman for the band through his expressive vocal style and grandiose gestures and songwriting. His lyrics are known for their social and political themes, and for their religious imagery inspired by his [[Christianity|Christian]] beliefs.&lt;ref name=ATU2comBonoBio /&gt;&lt;ref name=Stockman /&gt; During U2's early years, Bono's lyrics contributed to the group's rebellious and spiritual tone.&lt;ref name=ATU2comBonoBio /&gt; As the band matured, his lyrics became inspired more by personal experiences shared with the other members.&lt;ref name="Bono on Bono" /&gt;&lt;ref name=ATU2comBonoBio /&gt; As a member of U2, Bono has received 22 [[Grammy Awards]] and has been inducted into the [[Rock and Roll Hall of Fame]].
+
+Bono is widely known for his activism for social justice causes, both through U2 and as an individual. He is particularly active in campaigning for Africa, for which he co-founded DATA, [[EDUN]], the [[ONE Campaign]], and [[Product Red]].&lt;ref name="Bono on Bono" /&gt;&lt;ref name=NationalPrayerBreakfast /&gt; In pursuit of these causes, he has participated in benefit concerts and met with influential politicians.&lt;ref name=NationalPrayerBreakfast /&gt;&lt;ref name=Time1986 /&gt;&lt;ref name=05312005RollingStone /&gt; Bono has been praised for his philanthropic efforts;&lt;ref name=2006Nobel&gt;Mellgren, D. (24 February 2006). Bono Among Nobel Peace Prize Nominees. ''[[Associated Press]]''. Retrieved 14 January 2007, from [http://www.sfgate.com/cgi-bin/article.cgi?file=/news/archive/2006/02/24/international/i082615S45.DTL Bono Among Nobel Peace Prize Nominees].&lt;/ref&gt;&lt;ref name=Grammy /&gt;&lt;ref name="tax shelter" /&gt; he was granted an honorary [[knighthood]] by [[Elizabeth II]] of the United Kingdom for "his services to the music industry and for his humanitarian work", and has been made a Commandeur of the French [[Ordre des Arts et des Lettres]] (Order of Arts and Letters). In 2005, Bono was named one of the [[Time Person of the Year|''Time'' Persons of the Year]].&lt;ref name=2006Nobel /&gt;&lt;ref name=122306BBC /&gt;&lt;ref name=PersonoftheYear /&gt;
+
+Outside the band, he has recorded with numerous artists.&lt;ref name=111393NPR /&gt;&lt;ref name="CASH" /&gt;&lt;ref name="HPRESSBONO" /&gt; He has collaborated with U2 bandmate [[the Edge]] on several projects, including: songs for [[Roy Orbison]] and [[Tina Turner]]; the soundtracks to the musical ''[[Spider-Man: Turn Off the Dark]]'' and a London stage adaptation of ''[[A Clockwork Orange: A Play with Music|A Clockwork Orange]]''; and the refurbishment of the [[Clarence Hotel]] in Dublin. He is Managing Director and a Managing Partner of the [[private equity]] firm [[Elevation Partners]], which has invested in several companies.&lt;ref name="Billboard.biz"&gt;{{cite web|url=http://www.billboard.biz/bbbiz/industry/legal-and-management/business-matters-bono-will-make-maybe-10-1007099752.story|title=Billboard.biz|date=18 May 2012|newspaper=[[Billboard (magazine)|Billboard]]|accessdate=22 September 2014}}&lt;/ref&gt;&lt;ref name=EPPDF /&gt;&lt;ref name=ClarenceHotel /&gt;
+
+==Early life==
+Bono was born in the [[Rotunda Hospital]], Dublin, on 10 May 1960.&lt;ref&gt;{{cite book |title=Bono: In the Name of Love |last=Wall |first=Mick |year=2006 |publisher=Andre Deutsch Ltd |isbn= 978-0-233-00177-7 |page= 17 |url=https://books.google.com/books?id=RupSPwAACAAJ&amp;dq=Bono:+In+the+Name+of+Love&amp;hl=en&amp;sa=X&amp;ei=HqwoUtPtBqnQ2QWQi4CIAQ&amp;ved=0CC8Q6AEwAA |accessdate=5 September 2013}}&lt;/ref&gt; He was raised in the [[Northside (Dublin)|Northside]] suburb of [[Finglas]]&lt;ref name="Bono - Evening Herald"&gt;{{cite news |url=http://www.herald.ie/entertainment/around-town/its-where-i-shaped-my-future-says-bono-3324323.html |title=It's where I shaped my future, says Bono |newspaper=[[Evening Herald]] |publisher=Herald.ie |date=12 December 2012 |accessdate=5 September 2013}}&lt;/ref&gt; with his brother (who is eight years older than Bono) by their mother, Iris (ne Rankin), a member of the [[Church of Ireland]], and their father, Brendan Robert "Bob" Hewson, a [[Roman Catholic]].&lt;ref name=MacphistoNet&gt;{{cite web|url=http://www.macphisto.net/theband/biography/bonobio.html|title=U2 BiographyBono|publisher=Macphisto.net|year=2006|accessdate=3 May 2007}}&lt;/ref&gt;&lt;ref name="Bono on Bono" /&gt; His parents initially agreed that the first child would be raised [[Anglican]] and the second Catholic.&lt;ref name="Unforgettable Fire by Dunphy"&gt;{{cite book|title=Unforgettable Fire: The Definitive Biography of U2|first=Eamon|last=Dunphy|publisher=Warner Books|isbn=0-446-51459-4|location=New York|year=1987}}&lt;/ref&gt; Although Bono was the second child, he also attended Church of Ireland services with his mother and brother.&lt;ref name="Unforgettable Fire by Dunphy" /&gt;
+
+[[File:Bonavoxshop.JPG|thumb|left|The hearing aid shop, Bonavox, that provided Hewson with the nickname "Bono Vox".]]
+He went to the local primary [[Glasnevin National School]].&lt;ref&gt;Matthews (2008), p. 8.&lt;/ref&gt; Bono's mother died on 10 September 1974, after suffering a [[cerebral aneurysm]] at her father's funeral.&lt;ref name="Bono on Bono" /&gt; Many U2 songs, including "[[I Will Follow]]", "[[Mofo (song)|Mofo]]", "[[Three (U2 EP)|Out of Control]]", "[[Lemon (U2 song)|Lemon]]" and "[[Tomorrow (U2 song)|Tomorrow]]" focus on the loss of his mother.&lt;ref name="Bono on Bono" /&gt;&lt;ref name=010197DailyTelegraph&gt;{{cite news|title=Growing Up With U2|newspaper=[[The Daily Telegraph]]|first=Neil|last=McCormick|date=1 January 1997}}&lt;/ref&gt;&lt;ref name=Schruers&gt;{{cite journal|title=U2: Small Victories in a Rock and Roll Struggle of Sound and Emotion Report|first=Fred|last=Schruers|date=May 1983|magazine=[[Musician (magazine)|Musician Magazine]]}}&lt;/ref&gt;
+
+Bono attended [[Mount Temple Comprehensive School]], a multi-denominational school in [[Clontarf, Dublin|Clontarf]]. During his childhood and adolescence, Bono and his friends were part of a [[surrealist]] street gang called "Lypton Village". Bono met one of his closest friends, [[Guggi]], in Lypton Village.&lt;ref name="U2 by U2"&gt;{{Cite book|title=U2 by U2|publisher=HarperCollins|isbn=978-0-06-077674-9|authors=Edge, Adam Clayton, Larry Mullen Jr.}}&lt;/ref&gt; The gang had a ritual of nickname-giving. Bono had several names: first, he was "Steinhegvanhuysenolegbangbangbang",&lt;ref name="U2 by U2"/&gt; then just "Huyseman", followed by "Houseman", "Bon Murray", "Bono Vox of O'Connell Street", and finally just "Bono".&lt;ref name="Bono on Bono"&gt;{{cite book|last=Assayas|first=Michka|title=Bono on Bono: Conversations with Michka Assayas|publisher=Hodder &amp; Stoughton|isbn=0-340-83276-2|location=London|year=2005}}&lt;/ref&gt; "Bono Vox" is an alteration of ''Bonavox'', a [[Latin]] phrase which translates to "good voice". It is said he was nicknamed "Bono Vox" by his friend [[Gavin Friday]]. He initially disliked the name; however, when he learned it translated to "good voice", he accepted it. Hewson has been known as "Bono" since the late 1970s. Although he uses Bono as his stage name, close family and friends also refer to him as Bono, including fellow band members.&lt;ref name="Bono on Bono" /&gt;
+
+After he left school, his father Bob Hewson, told him he could live at home for one year but if he was not able to pay his own way, he would have to leave the house.&lt;ref name="U2 by U2" /&gt;
+
+==Personal life==
+[[File:Obama and Bono.jpg|thumb|Bono and his wife, Ali Hewson, with President [[Barack Obama|Obama]] at [[Nelson Mandela]]'s [[Funeral of Nelson Mandela|funeral]] in South Africa, December 2013]]
+Bono is married to activist and businesswoman [[Ali Hewson|Alison Hewson]] (ne Stewart).&lt;ref name=ATU2Clayton&gt;{{cite web|url=http://www.atu2.com/band/adam/|title=Adam Clayton biography&amp;nbsp; U2 bassist|publisher=atU2.com|accessdate=19 November 2010}}; {{cite news|title=The Unforgettable Sire|first=Vincent|last=Moss|date=24 December 2006|newspaper=[[Sunday Mirror]]|url=http://www.sundaymirror.co.uk/showbiz/tm_headline=the-unforgettable-sire%26method=full%26objectid=18322022%26siteid=98487-name_page.html|accessdate=19 November 2010}}; {{cite news|title=In Music and Love, U2 Has Staying Power|first=Elise|last=McIntosh|date=3 October 2006|newspaper=[[Staten Island Advance]]}}&lt;/ref&gt; The couple have four children: daughters Jordan (born 10 May 1989) and [[Eve Hewson|Memphis Eve]] (7 July 1991) and sons Elijah Bob Patricius Guggi Q (17 August 1999) and John Abraham (20 May 2001).&lt;ref name=IMDB&gt;{{IMDb name|id=0095104|section=bio|name=Bono|accessdate=19 November 2010}}&lt;/ref&gt;
+
+Bono was a close friend to [[INXS]] frontman [[Michael Hutchence]].
+
+Bono is almost never seen in public without sunglasses, as he suffers from [[glaucoma]].&lt;ref name=bono_glaucoma&gt;{{cite news|last1=Ellis-Petersen|first1=Hannah|title=Bono: I've had glaucoma for past 20 years|url=https://www.theguardian.com/music/2014/oct/17/bono-glaucoma-20-years-u2-dark-glasses|accessdate=17 October 2014|work=The Guardian|date=17 October 2014}}&lt;/ref&gt; During a ''[[Rolling Stone]]'' interview he stated:
+{{quote|[I have] very sensitive eyes to light. If somebody takes my photograph, I will see the flash for the rest of the day. My right eye swells up. I've a blockage there, so that my eyes go red a lot. So it's part vanity, it's part privacy and part sensitivity.&lt;ref&gt;{{cite journal|title=Bono&amp;nbsp; The Rolling Stone Interview|first=Jann|last=Wenner|authorlink=Jann Wenner|magazine=[[Rolling Stone]]|date=3 November 2005|issue=986}}&lt;/ref&gt;}}
+
+{{quote box|align=right|width=25em|quote="Spending time with Bono was like eating dinner on a train{{mdash}}feels like you're moving, going somewhere. Bono's got the soul of an ancient poet and you have to be careful around him. He can roar 'till the earth shakes. He's also a closet philosopher...talks about the rightness, the richness, glory, beauty, wonder and magnificence of America."|source=[[Bob Dylan]], 2005&lt;ref&gt;''Dylan, Bob. ''Bob Dylan Chronicles, vol. I, Simon &amp; Schuster, N.Y. (2004) p. 174&lt;/ref&gt;}}
+
+In the late 1980s or early 90s, Bono bought a top-floor duplex apartment in Manhattan's [[The San Remo|San Remo]] apartment building from [[Steve Jobs]] for $15&amp;nbsp;million. Jobs had renovated it for his own use, but never moved in.&lt;ref name=Isaacson&gt;{{cite book|last=Isaacson|first=Walter|title=Steve Jobs|year=2011|publisher=Simon &amp; Schuster|location=New York, NY|isbn=978-1-4516-4853-9|pages=180}}&lt;/ref&gt; In 2004, Bono was given an honorary Doctor of Laws degree from the [[University of Pennsylvania]].&lt;ref&gt;{{cite web |url=http://www.upenn.edu/pennnews/news/recording-artistactivist-bono-deliver-commencement-address-university-pennsylvania |title=Penn News &amp;#124; Recording Artist/Activist Bono to Deliver Commencement Address at University of Pennsylvania |publisher=Upenn.edu |date=15 March 2004 |accessdate=5 September 2013}}&lt;/ref&gt;
+
+In May 2010, Bono suffered a spinal injury while preparing for a U2 tour, and was taken to a German clinic in [[Munich]] for emergency [[neurosurgery]].&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/entertainment_and_arts/10139846.stm|title=Bono's back surgery puts U2 dates in jeopardy|publisher=The BBC|date=21 May 2010|accessdate=21 May 2010}}&lt;/ref&gt;&lt;ref name="postp-1"&gt;{{cite web|url=http://www.u2.com/news/title/bono-discharged-from-hospital|title=Bono Discharged From Hospital|publisher=U2.com|date=25 May 2010}}&lt;/ref&gt; The North American leg of the tour was postponed and rescheduled for 2011.&lt;ref name="postp-2"&gt;{{cite web |url=http://www.u2.com/news/title/north-american-leg-postponed |title=North American Leg Postponed |publisher=U2.com |date=25 May 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.u2.com/news/title/north-american-dates-will-be-rescheduled-in-2011 |title=North American Dates Will Be Rescheduled in 2011 |publisher=U2.com |date=25 May 2010}}&lt;/ref&gt;
+
+Bono was named one of the 17 Irish artists to be proud of by the ''Irish Post'' on 9 April 2013.&lt;ref&gt;{{cite web|author= |url=http://www.irishpost.co.uk/entertainment/17-irish-artists-to-be-proud-of |title=17 Irish artists to be proud of |publisher=Irishpost.co.uk |date=9 April 2013 |accessdate=5 September 2013}}&lt;/ref&gt; ''Time'' magazine ranked him at the 8th place on its list of the "Most Influential Celebrities" in 2013; he was the only person from the music industry in the Top 10.&lt;ref&gt;{{cite news|url=https://www.forbes.com/sites/dorothypomerantz/2013/03/14/oprah-winfrey-tops-our-list-of-the-most-influential-celebrities |title=Down, But Hardly Out: Oprah Winfrey Tops Forbes 2013 List Of The Most Influential Celebrities |newspaper=[[Forbes]] |date=14 March 2013 |accessdate=5 September 2013 |first=Dorothy |last=Pomerantz}}&lt;/ref&gt;
+
+Bono's work as an activist, which is due largely to his Christian beliefs,&lt;ref name="atu2.com"&gt;{{cite web|url=http://www.atu2.com/band/bono/|title=Bono: Biography from @U2|publisher=Atu2.com|accessdate=22 September 2014}}&lt;/ref&gt; began in earnest when, inspired by [[Live Aid]], he travelled to Ethiopia to work in a feeding camp with his wife Alison and the charity [[World Vision]], an Evangelical Christian humanitarian aid, development, and advocacy organisation.&lt;ref name="atu2.com"/&gt; With regard to Bono's 2013 declarations in interviews published and videotaped of his faith in [[Jesus|Jesus Christ]],&lt;ref&gt;{{cite web|url=http://www.gospelherald.com/articles/50766/20140329/u2-s-bono-discusses-his-faith-and-insecurity-over-new-album.htm|title=U2's Bono Discusses His Faith and Insecurity Over New Album|work=Christian News, The Gospel Herald|accessdate=22 September 2014}}&lt;/ref&gt; he states that Christ was either who he said he was, or he is "a complete and utter nutcase".&lt;ref&gt;{{cite web|url=http://www.wnd.com/2013/06/u2s-bono-jesus-is-the-son-of-god/|title=U2's Bono: Yes, Jesus is the Son of God|work=WND|accessdate=22 September 2014}}&lt;/ref&gt;&lt;ref&gt;{{YouTube|VIm7JRSo6w4}}, Retrieved 18 April 2014.&lt;/ref&gt; As early as 2005, Bono was invoking this argument,&lt;ref&gt;Michka Assayas, Bono in Conversation, (Riverhead Hardcover, 2005) page 205.&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.crosswalk.com/11617924/|title=Bono: Grace over Karma|work=Crosswalk|accessdate=22 September 2014}}&lt;/ref&gt; identified as the "[[Lewis's trilemma|Lewis trilemma]]".
+
+On 16 November 2014, Bono was involved in a "high energy bicycle accident" when he attempted to avoid another rider. Bono was rushed to [[NewYorkPresbyterian Hospital]]/[[Weill Cornell Medical Center]]'s Emergency Department and underwent "multiple X-rays and CAT scans" followed by five hours of surgery. Bono suffered fractures of the shoulder blade, humerus, orbit and pinky finger. Orthopedic trauma surgeon Dean Lorich, MD, stated that "[Bono] was taken urgently to the operating room... where the elbow was washed out and debrided, a nerve trapped in the break was moved and the bone was repaired with three metal plates and 18 screws."&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/music/news/bono-intensive-therapy-bike-injury-20141119|title=Bono Treated With Metal Plates, 'Intensive Therapy' After Bike Injury|work=[[Rolling Stone]]|first=Jason|last=Newman|date=19 November 2014|accessdate=29 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url= http://www.evoke.ie/showbiz/injured-bono-keeps-his-head-down-as-hes-seen-for-the-first-time-since-emergency-surgery-after-bike-crash/ |work=evoke.ie | title= Injured Bono keeps his head down as he's seen for the first time since emergency surgery after bike crash| date= 24 December 2014}}&lt;/ref&gt; Bono posted to U2's official website, "As I write this, it is not clear that I will ever play guitar again," as reported in ''[[Cycling Weekly]]''.&lt;ref&gt;{{cite web|url=http://www.cyclingweekly.co.uk/news/latest-news/cycling-injuries-mean-bono-may-never-play-guitar-150598|title=Cycling Injuries mean Bono May Never Play Guitar Again|publisher=Cycling Weekly|accessdate=1 January 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url= http://www.evoke.ie/showbiz/bonos-guitar/ |work=evoke.ie | title= Bono's guitar playing days may be over after cycling accident| date= 2 January 2015}}&lt;/ref&gt;
+
+==Musical career==
+
+===U2===
+[[File:U2 21081983 01 800b.jpg|thumb|alt=A black and white image of a light-skinned man singing into a microphone. He is visible from the chest up and wears a sleeveless black shirt with an opened sleeveless white vest overtop. A small cross is worn around his neck. His black hair is styled into a mullet. The man looks past the camera to the left. A mixture of trees and sky are visible in the background.|Bono on stage in 1983]]
+{{Main|U2}}
+On 25 September 1976, Bono, [[The Edge|David Evans ("The Edge")]], his brother [[Dik Evans|Dik]] and [[Adam Clayton]] responded to an advertisement on a bulletin board at Mount Temple posted by fellow student [[Larry Mullen, Jr.|Larry Mullen Jr.]] to form a rock band. The band had occasional jam sessions in which they did covers of other bands. Tired of long guitar solos and hard rock, Bono wanted to play [[The Rolling Stones]] and [[Beach Boys]] songs.{{citation needed|date=October 2016}} The band could not play covers very well, so they started writing their own songs.&lt;ref&gt;{{cite journal |last=Henke|first=James |title=Blessed Are the Peacemakers|journal=[[Rolling Stone]]|date=9 June 1983 |issue=397|pages=1114}}&lt;/ref&gt;
+
+The band went by the name "Feedback" for a few months, before changing to "The Hype" later on. After Dik Evans left the group to join another local band, the [[Virgin Prunes]], the remaining four officially changed the name from "The Hype" to "[[U2]]". Initially Bono sang, played guitar and wrote the band's songs. He said of his early guitar playing in a 1982 interview, "When we started out I was the guitar player, along with the Edgeexcept I couldn't play guitar. I still can't. I was such a lousy guitar player that one day they broke it to me that maybe I should sing instead. I had tried before, but I had no voice at all. I remember the day I found I could sing. I said, 'Oh, that's how you do it.'"&lt;ref&gt;{{cite journal |title = Bono in San Antonio |journal = U2 magazine |issue = 3 |date = May 1982 }}&lt;/ref&gt; When The Edge's guitar playing improved, Bono was relegated mostly to the microphone, although he occasionally still plays rhythm guitar and harmonica. As of 2006, Bono has taken piano lessons from his children's piano teacher as a means to improve his songwriting.&lt;ref&gt;{{cite web |url = http://www.contactmusic.com/new/xmlfeed.nsf/story/bono-takes-piano-lessons_02_06_2006 |title = U2Bono Takes Piano Lessons |publisher = [[Contactmusic.com]] |date = 6 February 2006 |accessdate = 14 February 2008 }}&lt;/ref&gt;
+
+[[File:Sting-Bono-Conspiracy of Hope-by Steven Toole.jpg|thumb|Bono (right) with [[Sting (musician)|Sting]] during [[A Conspiracy of Hope]] in 1986]]
+Bono writes the lyrics for almost all U2 songs, which often have social and political themes.&lt;ref name=ATU2comBonoBio&gt;{{cite web |url = http://www.atu2.com/band/bono/ |title = Bono: Biography from @U2 |publisher = atU2.com |accessdate = 19 November 2010 }}&lt;/ref&gt; His lyrics frequently allude to a religious connection or meaning, evident in songs such as "[[Gloria (U2 song)|Gloria]]" from the band's album ''[[October (U2 album)|October]]'' and "[[I Still Haven't Found What I'm Looking For]]" from ''[[The Joshua Tree]]''.&lt;ref name=Stockman&gt;Stockman (2005)&lt;/ref&gt; During the band's early years, Bono was known for his rebellious tone which turned to political anger and rage during the band's ''[[War (U2 album)|War]]'', ''The Joshua Tree'' and ''[[Rattle and Hum]]'' eras.&lt;ref name=ATU2comBonoBio /&gt; Following the [[Remembrance Day bombing|Enniskillen bombing]] that left 11 dead and 63 injured on 8 November 1987, the [[Provisional Irish Republican Army|Provisional IRA]] paramilitaries threatened to kidnap Bono.&lt;ref name="Bono on Bono" /&gt; IRA supporters also attacked a vehicle carrying the band members.&lt;ref name="Bono on Bono" /&gt; These acts were in response to his speech condemning the Enniskillen bombing during a live performance of "[[Sunday Bloody Sunday (song)|Sunday Bloody Sunday]]".&lt;ref name="Bono on Bono" /&gt; The singer had been advised to cut his on-stage outburst from the ''Rattle and Hum'' film, but it was left in.&lt;ref name=RattleandHum&gt;{{cite video |people = Hamlyn, Michael (producer), and Joanou, Phil (director) |year = 1988 |title = [[Rattle and Hum]] |medium = Motion picture |location = United States |publisher = [[Paramount Pictures]] }}&lt;/ref&gt; Also featured in the film is footage of Bono spray-painting a monument during an outdoor performance; Bono was forced to pay a fine.
+
+[[File:Bono as The Fly Cleveland 1992.jpg|thumb|upright|left|Bono as his alter-ego "The Fly" on the [[Zoo TV Tour]] in 1992]]
+U2's sound and focus dramatically changed with their 1991 album, ''[[Achtung Baby]]''. Bono's lyrics became more personal, inspired by experiences related to the private lives of the members of the band.&lt;ref name="Bono on Bono" /&gt;&lt;ref name=ATU2comBonoBio /&gt; During the band's [[Zoo TV Tour]] several of [[Zoo TV Tour#Bono's stage personas|his stage personas]] were showcased; these included "The Fly", a stereotypical rock star, the "Mirror Ball Man", a parody of American [[televangelists]], and "Mr. MacPhisto", a combination of a corrupted rock star and the [[Satan|Devil]].&lt;ref name="Bono on Bono" /&gt;&lt;ref name=ATU2comBonoBio /&gt;
+
+During performances he attempts to interact with the crowd as often as possible and is known for pulling audience members onto the stage or moving himself down to the physical level of the audience.&lt;ref name="Bono on Bono" /&gt; This has happened on several occasions including at the [[Live Aid|Live Aid concert]] in 1985 where he leapt off the stage and pulled a woman from the crowd to dance with her as the band played "[[Bad (U2 song)|Bad]]", and in 2005 during U2's [[Vertigo Tour]] stop in Chicago, where he pulled a boy onto the stage during the song "[[An Cat Dubh / Into the Heart]]".&lt;ref name="Bono on Bono" /&gt;&lt;ref name=VertigoDVD&gt;{{cite video |people = O'Hanlon, Ned (producer), and Hamilton, Hamish (director) |year = 2005 |title = [[Vertigo 2005: Live From Chicago]] |medium = Motion picture |location = United States |publisher = 3DD Entertainment }}&lt;/ref&gt; Bono has often allowed fans to come on stage and perform songs with the band.
+
+Bono has won numerous awards with U2, including 22 [[Grammy award]]s and the [[60th Golden Globe Awards#Best Original Song|2003 Golden Globe award for best original song]], "[[The Hands That Built America]]", for the film ''[[Gangs of New York]]''.&lt;ref name=Grammy&gt;{{cite web|url=http://www.grammy.com/GRAMMY_Awards/Winners/Results.aspx?title=&amp;winner=u2&amp;year=0&amp;genreID=0&amp;hp=1 |title=Grammy Winners List: Artist&amp;nbsp; U2 |work=[[Grammy Award|Grammy.com]] |publisher=[[The Recording Academy]] |accessdate=19 November 2010 |deadurl=yes |archiveurl=https://www.webcitation.org/5mqfKCOyt?url=http://www.grammy.com/GRAMMY_Awards/Winners/Results.aspx?title= |archivedate=17 January 2010 |df= }}&lt;/ref&gt;&lt;ref name=HFPA&gt;{{cite web|url=http://www1.hfpa.org/browse/member/28459 |title=Award Search&amp;nbsp; Bono |publisher=[[Hollywood Foreign Press Association]] |accessdate=19 November 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20070926225607/http://www1.hfpa.org/browse/member/28459 |archivedate=26 September 2007 }}&lt;/ref&gt; During the live broadcast of the Golden Globe ceremony, Bono called the award "really, really fucking brilliant!".&lt;ref&gt;{{cite news|last=Boliek |first=Brooks |title=Appeals court throws out FCC indecency ruling |work=[[The Hollywood Reporter]] |url=http://www.hollywoodreporter.com/hr/content_display/news/e3i9177e066be8bee44d835017eb6e0cda7 |date=5 June 2007 |accessdate=1 August 2007 |archiveurl=https://web.archive.org/web/20070707012358/http://www.hollywoodreporter.com/hr/content_display/news/e3i9177e066be8bee44d835017eb6e0cda7 |archivedate=7 July 2007 |deadurl=no |df=dmy }}&lt;/ref&gt; In response, the [[Parents Television Council]] condemned Bono for his profanity and started a campaign for its members to file complaints with the [[Federal Communications Commission|FCC]].&lt;ref&gt;{{cite press release|title=PTC condemns NBC |publisher=[[Parents Television Council]] |date=20 January 2003 |url=http://www.parentstv.org/PTC/publications/release/2003/0120.asp |accessdate=16 July 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070930211001/http://www.parentstv.org/PTC/publications/release/2003/0120.asp |archivedate=30 September 2007 }}&lt;/ref&gt; Although Bono's use of "fuck" violated FCC indecency standards, the FCC refused to fine NBC because the network did not receive advance notice of the consequences of broadcasting such profanity and the profanity in question was not used in its literal sexual meaning.&lt;ref&gt;{{cite news |last = Ahrens |first = Frank |title = FCC Says Bono Profanity Violated Standards, but Won't Fine NBC |pages = E1 |work = The Washington Post |date = 19 March 2004 |url = https://www.washingtonpost.com/ac2/wp-dyn?pagename=article&amp;contentId=A6242-2004Mar18&amp;notFound=true |accessdate = 16 July 2007 }}&lt;/ref&gt;
+In apparent reaction to the refusal,&lt;ref&gt;{{cite web |title = Congressmen introduces bill to curb profanity in broadcasting |url = http://www.rcfp.org/browse-media-law-resources/news/congressmen-introduces-bill-curb-profanity-broadcasting |date = 8 January 2004 |publisher = [[Reporters Committee for Freedom of the Press]] }}&lt;/ref&gt; a group of congressmen introduced [[House Resolution 3687]], the "Clean Airwaves Act",&lt;ref name=calvert&gt;{{cite journal |title = Bono, the Culture Wars, and a Profane Decision: The FCC's Reversal of Course on Indecency Determinations and Its New Path on Profanity |author = Clay Calvert |volume = 28 |number = 1 |year = 2004 |journal = Seattle University Law Review |pages = 6195|url=http://digitalcommons.law.seattleu.edu/cgi/viewcontent.cgi?article=1802&amp;context=sulr}}&lt;/ref&gt; on 8 December 2003,&lt;ref name=govtrack&gt;[https://www.govtrack.us/congress/bills/108/hr3687 H.R. 3687 (108th)]  [[GovTrack]]&lt;/ref&gt; aiming to amend [[s:United States Code/Title 18/Part I/Chapter 71/Section 1464|section 1464 of title 18 of the United States Code]] to provide an explicit list of profane words and phrases and remove ambiguity that could enable certain uses of the phrases to be allowed.&lt;ref&gt;{{cite web |title = Fox Runs Afoul of FCC |author = Bill Holland |url = https://books.google.com/books?id=qA8EAAAAMBAJ&amp;pg=PA8 |page = 8 |work = [[Billboard (magazine)|Billboard]] |date = 10 January 2004 }}&lt;/ref&gt; The bill was not enacted.&lt;ref name=govtrack/&gt;
+The incident has had a long-term impact in the handling of profanity on live broadcasts.&lt;ref name=calvert/&gt;
+
+[[File:2005-11-21 U2 @ MSG by ZG.JPG|thumb|right|U2 performing at [[Madison Square Garden]] in November 2005.]]
+In 2005, the U2 band members were inducted into the [[Rock and Roll Hall of Fame]], in their first year of eligibility.&lt;ref name="RRHF"&gt;[http://www.rockhall.com/hof/inductee.asp?id=2348]  {{webarchive|url=https://web.archive.org/web/20061123120147/http://www.rockhall.com/hof/inductee.asp?id=2348|date=23 November 2006}}&lt;/ref&gt; In November 2008, ''Rolling Stone'' ranked Bono the 32nd-greatest singer of all time.&lt;ref&gt;{{cite journal |url = https://www.rollingstone.com/music/lists/100-greatest-singers-of-all-time-19691231/bono-20101202 |title = 100 Greatest Singers of All Time&amp;nbsp; No. 32: Bono |work = Rolling Stone |date = 27 November 2008 |issue = 1066 |accessdate = 21 October 2010 }}&lt;/ref&gt; In 2015, the magazine ranked Bono and the Edge at number 35 on its list of the [[Rolling Stone's 100 Greatest Songwriters of All Time|100 Greatest Songwriters of All Time]].&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/music/lists/100-greatest-songwriters#bono-and-the-edge|title=The 100 Greatest Songwriters of All Time|work=[[Rolling Stone]]|date=13 August 2015|accessdate=7 June 2017}}&lt;/ref&gt;
+
+U2 were criticised in 2007 for moving part of their multimillion-euro song catalogue from Ireland to [[Amsterdam]] six months before Ireland ended a tax exemption on musicians' royalties.&lt;ref name="tax shelter"&gt;{{cite news |first = Lynnley |last = Browning |title = The Netherlands, the New Tax Shelter Hot Spot |url = https://www.nytimes.com/2007/02/04/business/yourmoney/04amster.html?ex=1174622400&amp;en=513da74cdda62432&amp;ei=5070 |work = The New York Times |date = 4 February 2007 |accessdate = 21 March 2007 }}&lt;/ref&gt;&lt;ref&gt;{{cite news |url = http://www.independent.ie/national-news/u2-move-their-rock-empire-out-of-ireland-133364.html |title = U2 move their rock empire out of Ireland |date = 6 August 2006 |accessdate = 25 February 2009 |author = McConnell, Daniel |work = The Irish Independent }}&lt;/ref&gt; Under Dutch tax law, bands are subject to low to non-existent tax rates.&lt;ref name="tax shelter" /&gt; U2's manager, [[Paul McGuinness]], stated that the arrangement is legal and customary and businesses often seek to minimise their tax burdens.&lt;ref name="tax shelter" /&gt; The move prompted criticisms in the [[Oireachtas|Irish parliament]].&lt;ref name="10162006Bloomber"&gt;{{cite news |url = https://www.bloomberg.com/apps/news?pid=newsarchive&amp;refer=home&amp;sid=aef6sR60oDgM |title = Bono, Preacher on Poverty, Tarnishes Halo With Irish Tax Move |publisher = Bloomberg |author = Fergal O'Brien |date = 15 October 2006 |accessdate = 5 September 2013 |deadurl = yes |archiveurl = https://web.archive.org/web/20110805043350/http://www.bloomberg.com/apps/news?pid=newsarchive&amp;refer=home&amp;sid=aef6sR60oDgM |archivedate = 5 August 2011 |df = dmy-all }}&lt;/ref&gt;&lt;ref name="they_live_like_aristocrats"&gt;{{cite news |first = Marina |last = Hyde |title = They live like aristocrats. Now they think like them |url = https://www.theguardian.com/commentisfree/story/0,,1968136,00.html |newspaper=[[The Guardian]] |publisher = Guardian Media Group |date = February 2007 |accessdate = 16 February 2007 |location = London }}&lt;/ref&gt; The band later responded by stating that approximately 95% of their business took place outside Ireland, and that they were taxed globally because of this.&lt;ref&gt;{{cite web |url = http://www.belfasttelegraph.co.uk/entertainment/music/news/u2-reject-tax-avoidance-claims-14203636.html |title = U2 reject tax avoidance claims |publisher = Belfast Telegraph |date = 26 February 2009 |accessdate = 26 February 2009 }}&lt;/ref&gt; Bono was one of several wealthy figures whose tax arrangements were singled out for criticism in a report by the charity [[Christian Aid]] in 2008.&lt;ref&gt;{{cite news |url=http://www.smh.com.au/news/adele-horin/tax-tourists-and-the-crown-prince-of-thieves/2008/07/25/1216492729375.html?page=fullpage |title=Tax tourists and the crown prince of thieves |work=[[The Sydney Morning Herald]] |location=Sydney |first=Adele |last=Horin |date=26 July 2008 |accessdate=19 March 2015}}&lt;/ref&gt;
+
+===Collaborations===
+[[File:Bono Vox e Luciano Pavarotti 1995.jpg|thumb|right|Bono and [[Luciano Pavarotti]] in [[Modena]], Italy on the stage of ''[[Pavarotti &amp; Friends]]'' 1995]]
+In addition to his work with U2, he has collaborated with [[Frank Sinatra]],&lt;ref name=111393NPR&gt;Simon, S. (Host). (13 November 1993). ''Weekend Edition Saturday''. Washington, DC: National Public Radio.&lt;/ref&gt; [[Johnny Cash]],&lt;ref name="CASH"&gt;{{cite web |url=http://www.johnnycashmusic.com/news.html |publisher=Lost Highway Records |date=10 October 2005 |title=News |deadurl=yes |archiveurl=https://web.archive.org/web/20051024003150/http://www.johnnycashmusic.com/news.html |archivedate=24 October 2005 |accessdate=5 September 2013}}&lt;/ref&gt; [[Willie Nelson]],&lt;ref name=WNelson&gt;U2. (1998). Slow Dancing. On ''If God Will Send His Angels'' [CD-Single]. New York: Island Records.&lt;/ref&gt; [[Luciano Pavarotti]],&lt;ref name="Pavarotti"&gt;Louie, R. (6 February 1996). Short Takes. ''Buffalo News''. Retrieved 3 May 2007, from [http://nl.newsbank.com/nl-search/we/Archives?p_product=BN&amp;p_theme=bn&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EAF99106A89B6AE&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM Opera man Luciano Pavarotti wants to be hip].&lt;/ref&gt; [[Sinad O'Connor]],&lt;ref name=SOCONNOR&gt;Voyer, R. (1 October 2005).. ''Splendid''. Retrieved 3 May 2007, from [http://www.splendidezine.com/review.html?reviewid=1126871570221522 Splendid Magazine reviews Sinad O'Connor] {{webarchive|url=https://web.archive.org/web/20120402235532/http://www.splendidezine.com/review.html?reviewid=1126871570221522 |date= 2 April 2012 }} splendidezine.com.&lt;/ref&gt; [[Green Day]], [[Tom Petty]], [[Roy Orbison]],&lt;ref name="ORBISON"&gt;Orbison, R. (1989). "[[She's a Mystery to Me]]". On ''[[Mystery Girl]]'' [CD]. London: Virgin Records.&lt;/ref&gt; [[Bob Dylan]],&lt;ref name="HPRESSBONO"&gt;Bono (10 August 1984). BONO, BOB AND VAN. ''Hot Press''.&lt;/ref&gt; [[Patti Smith]], [[Tina Turner]],&lt;ref name="TINATURNER"&gt;Various Artists. (1995). Goldeneye. On ''Goldeneye: Original Motion Picture Soundtrack'' [CD]. New York: Virgin Records.&lt;/ref&gt; [[B.B. King]] and [[Zucchero]].&lt;ref name="Miserere"&gt;{{cite AV media notes |title=Miserere |others=[[Zucchero]] / [[Luciano Pavarotti]] |year=1992 |publisher=[[PolyGram|PolyGram Italia s.r.i]] |type=CD |id=864 4012}}&lt;/ref&gt;&lt;ref name="NYDN19980806"&gt;{{cite news|url=http://www.nydailynews.com/archives/entertainment/1998/08/06/1998-08-06_platinum_tenor_meet_opera_se.html |title=Platinum Tenor Meet Opera Sensation Andrea Bocelli, Italy's 'Young Pavarotti' |last=Kissel |first=Howard |work=[[Daily News (New York)]] |date=6 August 1998 |accessdate=17 February 2011 }}{{dead link|date=June 2017 |bot=Jennica |fix-attempted=yes }}&lt;/ref&gt;&lt;ref name=BBKING&gt;U2. (1988). When Love Comes to Town. On ''Rattle and Hum'' [CD]. New York: Island Records.&lt;/ref&gt; He has recorded with [[Ray Charles]],&lt;ref name=QJook&gt;U2 Wanderer. (Unknown last update). [http://www.u2wanderer.org/disco/coll23.html ''U2 DiscographyQ's Jook Joint'']. Retrieved 4 July 2007.&lt;/ref&gt; [[Quincy Jones]], [[Kirk Franklin]],&lt;ref name=NUNATIONPROJECT&gt;Kirk Franklin. (1998). Lean on me. On ''THE NU NATION PROJECT'' [CD-Album]. Inglewood: GospoCentric Records.&lt;/ref&gt; [[Bruce Springsteen]],&lt;ref name=BSpringsteen&gt;Stanley, A. (19 May 2007). [http://www.echoes.com/greymatter/archives/00000082.html ''Bruce Springsteen: THE RISING TOUR 2003-2003 FINAL TOUR STATISTICS'']. Retrieved 4 July 2007.&lt;/ref&gt; [[Tony Bennett]],&lt;ref name=TBennett&gt;TonyBennett.net. (Unknown last update). [https://web.archive.org/web/19980119100349/http://www.tonybennett.net/ ''Tony Bennett, Columbia Records'']. Retrieved 4 July 2007.&lt;/ref&gt; [[Clannad (musical group)|Clannad]],&lt;ref name=Clannad&gt;U2tour.de. (Unknown last update). [http://www.u2tour.de/discographie/videos/In_A_Lifetime_Clannad__Bono.html ''In A Lifetime (Clannad &amp; Bono)'']. Retrieved 4 July 2007.&lt;/ref&gt; [[The Corrs]],&lt;ref name=TheCorrs&gt;Cashmere, P. (14 April 2004). The Corrs Record Another Bono Song. ''Undercover Media''. Retrieved 4 July 2007, from [http://www.undercover.com.au/news/2004/apr04/20040414_corrs.html undercover.com.au] {{webarchive|url=https://web.archive.org/web/20070619021845/http://www.undercover.com.au/news/2004/apr04/20040414_corrs.html |date=19 June 2007 }}.&lt;/ref&gt; [[Wyclef Jean]],&lt;ref name=WyclefJean&gt;U2Wanderer.org. (Unknown last update). [http://www.u2wanderer.org/disco/newday.html ''U2 DiscographyNew Day Single'']. Retrieved 4 July 2007.&lt;/ref&gt; [[Kylie Minogue]],&lt;ref&gt;{{cite web|url=http://www.mtv.co.uk/artists/kylie-minogue/news/39533-kylies-bono-moment|title=Kylie's Bono Moment  Kylie Minogue  News  MTV UK|work=MTV UK|accessdate=22 September 2014}}&lt;/ref&gt; [[Carl Perkins]],&lt;ref&gt;{{Allmusic |class=album |id=r241501 |label=''Go Cat Go''  Carl Perkins |first=Cub |last=Koda |accessdate=25 November 2011}}&lt;/ref&gt; [[Herbert Grnemeyer]],&lt;ref&gt;[http://www.laut.de/Herbert-Groenemeyer/Songs/Mensch-feat.-Bono-596412 Mensch feat&amp;period; Bono von Herbert Grnemeyer  laut.de  Song&lt;!-- Bot generated title --&gt;]&lt;/ref&gt; [[Jay-Z]] and [[Rihanna]], as well as reportedly completing an unreleased duet with [[Jennifer Lopez]].&lt;ref name=Barile&gt;Barile, L.A. (28 March 2003). [http://www.people.com/people/article/0,26334,625803,00.html PASSAGES: Jennifer Lopez's Latest Duet] {{webarchive|url=https://web.archive.org/web/20121007221409/http://www.people.com/people/article/0,26334,625803,00.html |date=7 October 2012 }}. ''People''. Retrieved 4 July 2007.&lt;/ref&gt; On [[Robbie Robertson]]'s 1987 [[Robbie Robertson (album)|eponymous album]], he plays bass guitar and vocals.&lt;ref name=RRobertson&gt;Robbie Robertson. (1987). Sweet Fire of Love. On ''Robbie Robertson'' [CD-Album]. Santa Monica: Geffen Records.&lt;/ref&gt; On [[Michael Hutchence]]'s 1999 posthumous eponymous album, Bono completed a recording of "Slide Away" as a duet with Hutchence.&lt;ref&gt;{{cite web |url=http://www.entertainmentwise.com/news?id=21036 |date=15 August 2006 |title=Michael Hutchence's Brother Praises Kylie And Bono |accessdate=5 September 2013}}&lt;/ref&gt; Bono recently collaborated with African stars like [[D'banj]], [[Waje]] and [[Omotola Jalade Ekeinde]] for the women empowerment song titled "Strong Girl".&lt;ref&gt;{{cite web|title=D'banj Bono, Waje, Omotola Jalade-Ekeinde star in conscious 'Strong girl' remix|url=http://pulse.com.gh/music-videos/dbanj-bono-waje-omotola-jalade-ekeinde-star-in-conscious-strong-girl-remix-id4200409.html|website=Pulse.com.gh|publisher=David Mawuli|accessdate=9 February 2016}}&lt;/ref&gt;
+
+Bono and the Edge also wrote the music and lyrics for the Broadway musical ''[[Spider-Man: Turn Off the Dark]]''. On 25 May 2011, a single titled "[[Rise Above 1]]" by [[Reeve Carney]] featuring Bono and The Edge was released digitally.&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/music/songreviews/rise-above-1-20110526|title=Rise Above 1 by Reeve Carney feat. Bono and the Edge  Rolling Stone Music  Album Reviews|work=Rolling Stone|accessdate=22 September 2014}}&lt;/ref&gt; The music video was released on 28 July 2011.&lt;ref&gt;{{cite news|url=http://latimesblogs.latimes.com/culturemonster/2011/07/spider-man-star-reeve-carney-in-new-video-with-bono-the-edge.html|title='Spider-Man' star Reeve Carney in new video with Bono, the Edge|newspaper=[[Los Angeles Times]] |publisher=Latimesblogs.latimes.com|accessdate=22 September 2014|date=28 July 2011}}&lt;/ref&gt;
+
+==Philanthropic work==
+
+[[File:LulaAndBonoVox.jpeg|thumb|left|Bono with then President [[Lula da Silva]] of Brazil in 2006]]
+Bono has become one of the world's best-known philanthropic performers and was named the most politically effective celebrity of all time by the ''[[National Journal]]''.&lt;ref&gt;Ronald Brownstein, [http://www.nationaljournal.com/magazine/the-nj-20-the-most-politically-effective-celebrities-of-all-time-20110428], ''The NJ 20'' 29 April 2011.&lt;/ref&gt;&lt;ref&gt;Michael Anft, Brennen Jensen, and Ian Wilhelm, [http://philanthropy.com/free/articles/v18/i20/20000601.htm "Voicing Support for Charity"], ''The Chronicle of Philanthropy'' 3 August 2006.&lt;/ref&gt;&lt;ref&gt;Dean Goodman, "Hollywood Hails U2's Bono for Philanthropy", ''Reuters New Media'' 15 February 2002 {{cite web|url=http://www.aegis.org/news/re/2002/RE020220.html |title=Archived copy |accessdate=2007-10-05 |deadurl=yes |archiveurl=https://web.archive.org/web/20071222084411/http://www.aegis.org/news/re/2002/RE020220.html |archivedate=22 December 2007 }}&lt;/ref&gt; He has been dubbed, "the face of fusion philanthropy",&lt;ref&gt;{{cite news |author=Tom Zeller, Jr. |url=https://www.nytimes.com/2006/11/13/us/13bono.html?n=Top%2fReference%2fTimes%20Topics%2fSubjects%2fP%2fPhilanthropy |title=Trying to Throw His Arms Around the World |newspaper=The New York Times |date=13 November 2006}}&lt;/ref&gt; both for his success enlisting powerful allies from a diverse spectrum of leaders in government, religious institutions, philanthropic organisations, popular media, and the business world, as well as for spearheading new organizational networks that bind global humanitarian relief with geopolitical activism and corporate commercial enterprise.&lt;ref&gt;{{cite news|url=http://www.time.com/time/magazine/article/0,9171,1142278,00.html|title=Nancy Gibbs, "The Good Samaritans"|date=19 December 2005|work=Time |accessdate=22 September 2014}}&lt;/ref&gt;
+
+In a 1986 interview with ''Rolling Stone'' magazine, Bono explained that he was motivated to become involved in social and political causes by seeing one of the ''[[The Secret Policeman's Balls|Secret Policeman's Ball]]'' benefit shows, staged by [[John Cleese]] and producer [[Martin Lewis (humorist)|Martin Lewis]] for the human-rights organisation [[Amnesty International]] in 1979.&lt;ref name=10202006Boyd&gt;Boyd, B. (20 October 2006). [http://www.irishtimes.com/theticket/articles/2006/1020/1160606784745.html A secret history of the old Ball game]. ''Irish Times''. Retrieved 4 July 2007.&lt;/ref&gt; ''"I saw 'The Secret Policeman's Ball' and it became a part of me. It sowed a seed..."''. In 2001, Bono arranged for U2 to videotape a special live performance for that year's Amnesty benefit show.
+
+In 1984, Bono sang on the Band Aid single "[[Do They Know it's Christmas?]]/[[Feed the World]]" (a role that was reprised on the 2004 [[Band Aid 20]] and 2014 [[Band Aid 30]] singles of the same name).&lt;ref name=1985NYT&gt;{{cite news |author=Robert Palmer |date=21 April 1985 |title=Music becomes food for the hungry |newspaper=The New York Times |url=https://www.nytimes.com/1985/04/21/arts/music-becomes-food-for-the-hungry.html |page=60}}&lt;/ref&gt; [[Bob Geldof]] and Bono later collaborated to organise the 2005 [[Live 8]] project, where U2 also performed.&lt;ref name=05312005RollingStone&gt;Wolinsky, D. (31 May 2005). DMB, U2 Lead Live 7 Shows. ''[[Rolling Stone]]''. Retrieved 25 July 2007, from [https://www.rollingstone.com/news/story/7371363/dmb_u2_lead_live_8_shows Rolling Stone].&lt;/ref&gt;
+Bono and U2 performed on Amnesty's [[A Conspiracy of Hope Tour|Conspiracy of Hope]] tour of the United States in 1986 alongside [[Sting (musician)|Sting]].&lt;ref name=Time1986&gt;Booth, C. (23 June 1986). Conspiracy of Hope Tour. ''Time, 127''.&lt;/ref&gt; U2 also performed in the [[Band Aid (band)|Band Aid]] and [[Live Aid]] projects, organised by Geldof.&lt;ref name=1985PDN&gt;Flannery, M. (15 July 1985). Bob Geldof. ''Philadelphia Daily News'', pp. L15.&lt;/ref&gt;
+[[File:Bush and Bono.jpg|thumb|right|Bono and then-U.S. President [[George W. Bush]] in 2006]]
+
+Since 1999, Bono has become increasingly involved in campaigning for third-world debt relief and raising awareness of the plight of Africa, including the AIDS pandemic. In the past decade Bono has met with several influential politicians, including former United States President [[George W. Bush]] and former Canadian Prime Minister [[Paul Martin]].&lt;ref name=GuardianStory&gt;Denny, C., &amp; Black, I. (15 March 2002). [https://www.theguardian.com/international/story/0,3604,667739,00.html US and Europe boost aid to poorest countries]. ''[[The Guardian]]''. Retrieved 14 January 2007.&lt;/ref&gt; During a March 2002 visit to the White House, after President Bush unveiled a $5&amp;nbsp;billion aid package, he accompanied the President for a speech on the White House lawn where he stated, "This is an important first step, and a serious and impressive new level of commitment. (...) This must happen urgently, because this is a crisis."&lt;ref name=GuardianStory /&gt; In May of that year, Bono took US Treasury Secretary [[Paul H. O'Neill]] on a four-country tour of Africa. In contrast, in 2005, Bono spoke on [[Canadian Broadcasting Corporation|CBC]] Radio, alleging then Prime Minister Martin was being slow about increasing Canada's foreign aid.&lt;ref&gt;Harris, K. (23 April 2005). [http://www.torontosun.com/News/Canada/2005/04/23/1009529-sun.html Bono Upset at PM]. ''[[Toronto Sun]]''. Retrieved 14 January 2007.&lt;/ref&gt;
+
+In 2004, he was awarded the [[Pablo Neruda]] International Presidential Medal of Honour from the Government of Chile.&lt;ref&gt;Langlois, F. (23 September 2004). [https://wayback.archive-it.org/all/20071205034201/http://www.gg.ca/media/doc.asp?lang=e&amp;DocID=4267 John Ralston Saul awarded the Pablo Neruda International Presidential Medal of Honour]. ''Governor General of Canada''. Retrieved 14 January 2007&lt;/ref&gt; ''Time'' Magazine named Bono one of the "100 Most Influential People" in its May 2004 special issue&lt;ref&gt;{{Cite journal |title =2004 TIME 100 |work=Time Magazine|date =26 April 2004 |url =http://www.time.com/time/2004/time100/ |doi = |id = |postscript =&lt;!--None--&gt; }}&lt;/ref&gt; and again in the 2006 Time 100 special issue.&lt;ref&gt;{{Cite journal |title =2006 TIME 100 |work=Time Magazine|year =2006 |url =http://www.time.com/time/2006/time100/ |doi = |id = |page=84 |postscript =&lt;!--None--&gt; }}&lt;/ref&gt; In 2005, ''Time'', named Bono, with [[Bill Gates|Bill]] and [[Melinda Gates]], a [[Time Magazine Person of the Year|Person of the Year]].&lt;ref name=PersonoftheYear&gt;Gibbs, N. (26 December 2005). [http://www.time.com/time/magazine/article/0,9171,1142278,00.html The Good Samaritans]. ''Time, 166''.&lt;/ref&gt; Also in 2005, he received the Portuguese [[Order of Liberty]] for his humanitarian work.&lt;ref&gt;[http://arquivo.pt/wayback/20070818183816/http://visao.clix.pt/default.asp?CpContentId=327396]&lt;/ref&gt; That year Bono was also among the first three recipients of the [[TED Prize]], which grants each winner "A wish to change the world".&lt;ref&gt;{{cite web |url=https://www.ted.com/participate/ted-prize |title=TED Prize |publisher=TED |accessdate=22 September 2014}}&lt;/ref&gt; Bono made three wishes,&lt;ref name="bonowish"&gt;{{cite web |url=http://www.ted.com/pages/view/id/109 |title=TED Conference page |deadurl=yes |archiveurl=https://web.archive.org/web/20080517021513/http://www.ted.com/pages/view/id/109 |archivedate=17 May 2008 |accessdate=5 September 2013}}&lt;/ref&gt; the first two related to the [[ONE campaign]] and the third that every hospital, health clinic and school in Ethiopia should be connected to the Internet. TED rejected the third wish as being a sub-optimal way for TED to help Africa&lt;ref name="bonowish"/&gt; and instead organised a TED conference in Arusha, Tanzania. Bono attended the conference, which was held in June 2007.
+
+In 2005 he recorded a version of "[[Don't Give Up (Peter Gabriel and Kate Bush song)|Don't Give Up]]" with [[Alicia Keys]], with proceeds going to [[Keep a Child Alive]].&lt;ref&gt;{{cite news|url= http://today.msnbc.msn.com/id/10269863|title= Alicia Keys, Bono to raise funds with AIDS song|agency=Associated Press|date=2 December 2005}}&lt;/ref&gt; On 3 April 2005, Bono paid a personal tribute to [[John Paul II]] and called him "a street fighter and a wily campaigner on behalf of the world's poor. We would never have gotten the debts of 23 countries completely cancelled without him."&lt;ref&gt;{{cite news| url=https://www.usatoday.com/life/people/2005-04-03-pope-bono_x.htm|work=USA Today|title=Bono recalls pontiff's affection for the poorand cool sunglasses|first1=Edna|last1=Gundersen|date=4 April 2005|accessdate=26 April 2010}}&lt;/ref&gt; Bono spoke in advance of President Bush at the 54th Annual [[National Prayer Breakfast]], held at the [[Hilton Washington]] Hotel on 2 February 2006. In a speech containing biblical references, Bono encouraged the care of the socially and economically depressed. His comments included a call for an extra one percent [[tithe]] of the United States' national budget. He brought his Christian views into harmony with other faiths by noting that Christian, Jewish, and [[Muslim]] writings all call for the care of the widow, orphan, and stranger. President Bush received praise from the singer-activist for the United States' increase in aid for the African continent. Bono continued by saying much work is left to be done to be a part of God's ongoing purposes.&lt;ref name=NationalPrayerBreakfast&gt;Bono. (February 2006). ''Remarks at the [[The Family (Christian political organization)|National Prayer Breakfast]].'' Speech presented at [[Washington Hilton|Hilton Washington Hotel]] at Washington, DC.&lt;/ref&gt;
+
+[[File:Bono WEF 2008.jpg|thumb|right|Bono at the [[World Economic Forum]] meeting in [[Davos]], 2008.]]
+Also in 2005, Bono, Ali Hewson and designer [[Rogan Gregory]] co-founded the [[EDUN]] fashion label ("nude" spelled backwards, to suggest both "natural" and the [[Garden of Eden]]).&lt;ref name="ii-eden"&gt;{{cite news|url=http://www.independent.ie/unsorted/features/alis-other-eden-465270.html |archive-url=https://archive.is/20130217210036/http://www.independent.ie/unsorted/features/alis-other-eden-465270.html |dead-url=yes |archive-date=17 February 2013 |title=Ali's other Eden |first=John |last=Masterson |newspaper=[[Irish Independent]] |location=Dublin |date=6 March 2005 }}&lt;/ref&gt; It was intended to help bring about positive change in Africa through a [[fair trade]]-based relationship rather than by direct aid.&lt;ref name="heyoka"&gt;{{cite news |url=http://heyokamagazine.com/HEYOKA.4.Fashion.htm | title=Fashion with a Conscience | magazine=[[Heyoka (magazine)|Heyoka]] | date=Spring 2006 |archiveurl=https://web.archive.org/web/20060617072741/http://heyokamagazine.com/HEYOKA.4.Fashion.htm | archivedate=17 June 2006}}&lt;/ref&gt;&lt;ref name=EDUN&gt;{{cite web|title=About Edun |accessdate=24 March 2007 |url=http://www.edun.ie/about.asp |publisher=[[EDUN]] |deadurl=yes |archiveurl=https://web.archive.org/web/20070329013300/http://www.edun.ie/about.asp |archivedate=29 March 2007 |df=dmy }}&lt;/ref&gt;
+
+On 15 December 2005, [[Paul Theroux]] published an op-ed in ''The New York Times'' called ''The Rock Star's Burden'' (cf. [[Rudyard Kipling|Kipling's]] ''[[The White Man's Burden]]'') that criticised stars such as Bono, [[Brad Pitt]], and [[Angelina Jolie]], labelling them as "[[mythomaniac]]s, people who wish to convince the world of their worth." Theroux, who lived in Africa as a [[Peace Corps]] Volunteer, added that "the impression that Africa is fatally troubled and can be saved only by outside helpnot to mention celebrities and charity concertsis a destructive and misleading conceit."&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2005/12/15/opinion/15theroux.html|title=The Rock Star's Burden|newspaper=[[The New York Times]]|accessdate=22 September 2014|first=Paul|last=Theroux|date=15 December 2005}}&lt;/ref&gt; Elsewhere, Bono has been criticised, along with other celebrities, for "[ignoring] the legitimate voices of Africa and [turning] a global movement for justice into a grand orgy of [[narcissistic]] philanthropy".&lt;ref name="movement_robbed"&gt;{{cite web|last=Ahmad |first=Muhammad Idrees |title=Live 8&amp;nbsp; A movement robbed of its colours |publisher=Campaign for Press and Broadcasting Freedom |date=15 August 2005 |url=http://keywords.dsvr.co.uk/cpbf_newsite/body.php?subject=international&amp;id=1104 |archive-url=https://archive.is/20090427161025/http://keywords.dsvr.co.uk/cpbf_newsite/body.php?subject=international&amp;id=1104 |dead-url=yes |archive-date=27 April 2009 |accessdate=5 March 2009 }}&lt;/ref&gt;
+
+[[File:Bono at the 2009 Tribeca Film Festival.jpg|thumb|upright|left|Bono at the 2009 [[Tribeca Film Festival]].]]
+In 2007, Bono was named in the UK's [[British Honours System|New Years Honours List]] as an [[List of honorary British knights|honorary]] [[Order of the British Empire|Knight Commander of the Order of the British Empire]].&lt;ref name=122306BBC&gt;[http://news.bbc.co.uk/2/hi/entertainment/6206063.stm "Honorary knighthood for U2's Bono"]. ''BBC News''. (23 December 2006). Retrieved 14 January 2007&lt;/ref&gt;&lt;ref name=122306RTE&gt;[Unknown Author] (23 December 2006). Bono gets honorary knighthood. ''[[RT News]]''. Retrieved 14 January 2007, from [http://www.rte.ie/news/2006/1223/bono.html RTE].&lt;/ref&gt; He was formally granted knighthood on 29 March 2007 in a ceremony at the residence of British Ambassador [[David Reddaway]] in Dublin, Ireland.&lt;ref name="knighthood-ceremony"&gt;[Unknown Author], (29 March 2007). [http://www.msnbc.msn.com/id/17854722/ Don't call him 'sir': U2's Bono knighted]. ''[[Associated Press]]''. Retrieved 29 March 2007.&lt;/ref&gt;
+
+Bono also received the [[NAACP Image Award]]'s chairman's Award in 2007.&lt;ref&gt;[http://www.naacpimageawards.net/PDFs/Bono_Receives_38th_NIA_Chairmans_Award.pdf]  {{webarchive|url=https://web.archive.org/web/20120229112914/http://www.naacpimageawards.net/PDFs/Bono_Receives_38th_NIA_Chairmans_Award.pdf|date=29 February 2012}}&lt;/ref&gt; On 24 May 2007, the [[National Constitution Center]] in Philadelphia announced that Bono would receive the [[Philadelphia Liberty Medal]] on 27 September 2007 for his work to end world poverty and hunger.&lt;ref&gt;{{cite web|url=http://www.constitutioncenter.org/libertymedal/|title=HomeLiberty MedalNational Constitution Center|publisher=Constitutioncenter.org|accessdate=22 September 2014}}&lt;/ref&gt; On 28 September 2007, in accepting the Liberty Medal, Bono said, "''When you are trapped by poverty, you are not free. When trade laws prevent you from selling the food you grew, you are not free ... When you are a monk in Burma this very week, barred from entering a temple because of your gospel of peace ... well, then none of us are truly free''". Bono donated the $100,000 prize to the organisation. [[Ngozi Okonjo-Iweala]] accepted the award for the [[Washington, D.C.|Washington]]-based Debt AIDS Trade Africa.&lt;ref&gt;{{cite news|url=http://www.huffingtonpost.com/huff-wires/20070927/liberty-medal/|title=Bono Gets Medal for His Work in Africa|publisher=Huffingpost.com|accessdate=22 September 2014}}&lt;/ref&gt;
+
+The organisation DATA (Debt, AIDS, Trade, Africa) was established in 2002 by Bono and [[Bobby Shriver]], along with activists from the [[Jubilee 2000]] Drop the Debt Campaign.&lt;ref name=DATA&gt;{{cite web|url=http://www.data.org/about/mission.html|title=debt AIDS trade africa|work=ONE|accessdate=22 September 2014}}&lt;/ref&gt; DATA aims to eradicate poverty and HIV/AIDS in Africa.&lt;ref name=DATA /&gt; DATA encourages Americans to contact [[United States Senate|senators]] and other legislators and elected officials to voice their opinions.&lt;ref name=DATA /&gt;
+
+Bono was a special guest editor of the July 2007 issue of ''[[Vanity Fair (magazine)|Vanity Fair]]'' magazine. The issue was named "The Africa Issue: Politics &amp; Power" and featured an assortment of 20 different covers, with photographs by [[Annie Leibovitz]] of a number of prominent celebrities, political leaders, and philanthropists. Each one showcased in the issue for their contributions to the humanitarian relief in Africa.&lt;ref&gt;[http://www.vanityfair.com/politics/africa/ "The Africa Issue: Politics &amp; Power"] {{webarchive|url=https://web.archive.org/web/20071005012812/http://www.vanityfair.com/politics/africa |date=5 October 2007 }}, ''[[Vanity Fair (magazine)|Vanity Fair]]'' July 2007. The concept behind the 20 covers was termed as to represent a "visual chain letter". The covers feature [[Don Cheadle]], [[Barack Obama]], [[Muhammad Ali]], Bono, [[Queen Rania]] of Jordan, [[Condoleezza Rice]], [[George W. Bush]], [[Desmond Tutu]], [[Brad Pitt]], [[Djimon Hounsou]], [[Madonna (entertainer)|Madonna]], [[Maya Angelou]], [[Chris Rock]], [[Warren Buffett]], [[Bill Gates]], [[Melinda Gates]], [[Oprah Winfrey]], [[George Clooney]], [[Jay-Z]], [[Alicia Keys]], and [[Iman Abdulmajid]].&lt;/ref&gt;
+
+[[File:Bono with Barack Obama.jpg|thumb|Bono meeting with US President [[Barack Obama]] in 2010.]]
+In an article in Bloomberg Markets in March 2007, journalists [[Richard Tomlinson]] and Fergal O'Brien noted that Bono used his band's 2006 Vertigo world tour to promote his [[ONE Campaign]] while at the same time "U2 was racking up $389&amp;nbsp;million in gross ticket receipts, making Vertigo the second-most lucrative tour of all time, according to Billboard magazine ... Revenue from the Vertigo tour is funnelled through companies that are mostly registered in Ireland and structured to minimise taxes."&lt;ref&gt;{{cite news|url=https://www.bloomberg.com/news/marketsmag/bono.pdf|title=Bloomberg Markets, "Bono Inc", March 2007|publisher=Bloomberg.com|accessdate=22 September 2014}}&lt;/ref&gt;
+
+Further criticism came in November 2007, when Bono's various charity campaigns were targeted by Jobs Selasie, head of [[African Aid Action]]. Selasie claimed that these charities had increased corruption and dependency in Africa because they failed to work with African entrepreneurs and grassroots organisations, and as a result, Africa has become more dependent on international handouts.&lt;ref&gt;{{cite web|url=http://www.nme.com/news/bono/32704|title=Bono and Bob Geldof increase Africa's problems say charity|date=23 November 2007|work=NME.COM|accessdate=22 September 2014}}&lt;/ref&gt; Bono responded to his critics in ''Times Online'' on 19 February 2006, calling them "cranks carping from the sidelines. A lot of them wouldn't know what to do if they were on the field. They're the party who will always be in opposition so they'll never have to take responsibility for decisions because they know they'll never be able to implement them."&lt;ref&gt;{{cite web|url=http://www.timesonline.co.uk/tol/news/article732323.ece|title=Michka Assayas meets Bono|newspaper=[[The Times]] |publisher=Timesonline.co.uk|accessdate=22 September 2014}}&lt;/ref&gt;
+
+In November 2007, Bono was honoured by ''[[NBC Nightly News]]'' as someone "making a difference" in the world.&lt;ref&gt;[http://video.msn.com/video.aspx?mkt=en-US&amp;brand=msnbc&amp;vid=80f91e09-c54e-4268-800f-2f548de5346f]  {{webarchive|url=https://web.archive.org/web/20091118154607/http://video.msn.com/video.aspx?mkt=en-US&amp;brand=msnbc&amp;vid=80f91e09-c54e-4268-800f-2f548de5346f|date=18 November 2009}}&lt;/ref&gt; He and anchor [[Brian Williams]] had travelled to Africa in May 2007 to showcase the humanitarian crisis on the continent.&lt;ref&gt;{{cite web|url=http://www.msnbc.msn.com/id/12916501/|title=Brian Williams in Africa,|publisher=Msnbc.msn.com|accessdate=22 September 2014}}&lt;/ref&gt; On 11 December 2008, Bono was given the annual [[Man of Peace]] prize, awarded by several Nobel Peace Prize laureates in Paris, France.&lt;ref&gt;{{cite web|url=http://www.atu2.com/news/article.src?ID=5153|title=Nobel laureates crown U2's Bono 'man of peace'|work=@U2: Independent Site for U2 Fans|accessdate=22 September 2014}}&lt;/ref&gt;
+
+[[Product Red]] is another initiative begun by Bono and Bobby Shriver to raise money for the [[Global Fund|Global Fund to Fight AIDS, Tuberculosis, and Malaria]].&lt;ref name=ProductRED&gt;Persuaders, LLC. (2007). [http://www.joinred.com/red/ ''What RED Is, How RED Works'']. Retrieved 4 July 2007.&lt;/ref&gt; Bobby Shriver has been announced as the CEO of Product Red, while Bono is currently an active public spokesperson for the brand. Product Red is a brand that is licensed to partner companies, such as [[American Express]], [[Apple Inc.|Apple]], [[Converse (company)|Converse]], [[Motorola]], [[Microsoft]], [[Dell]], [[Gap (clothing retailer)|The Gap]] and [[Giorgio Armani S.p.A.|Giorgio Armani]].&lt;ref name=ProductREDProducts&gt;Persuaders, LLC. (2007). [http://www.joinred.com/products/ ''Products''] {{webarchive|url=https://web.archive.org/web/20070703065400/http://www.joinred.com/products/ |date=3 July 2007 }}. Retrieved 4 July 2007.&lt;/ref&gt; Each company creates a product with the Product Red logo and a percentage of the profits from the sale of these labelled products will go to the Global Fund.&lt;ref&gt;Smykil, J. (4 November 2006). Update: The Other Red &lt;s&gt;meat&lt;/s&gt; "charity". Message posted to [https://arstechnica.com/journals/apple.ars/2006/11/4/5856 arstechnica.com]; Macintouch Reader Reports. (7 November 2006). ''Fraud Reports: Jack Campbell''. Retrieved 14 January 2007, from [http://www.macintouch.com/readerreports/fraudreports/topic4449.html macintouch.com]{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }}.&lt;/ref&gt;
+
+In 2016, ''[[Glamour (magazine)|Glamour]]'' named him "Man of the Year", breaking the 26-year tradition that saw the "Woman of the Year" accolade reserved only for women. Bono was recognized for establishing a campaign called "Poverty is Sexist," which is "specifically aimed at helping the world's poorest women".&lt;ref&gt;{{cite news|last1=Amanpour|first1=Christiane|title=Bono Just Became Glamour's First Man of the Year|url=http://www.glamour.com/story/women-of-the-year-bono|accessdate=3 November 2016|publisher=Glamour|date=1 November 2016}}&lt;/ref&gt;
+
+==Other endeavours==
+[[File:Bono U2 360 Tour 2011.jpg|thumb|left|Bono performing with U2 in 2011]]
+In 1992, Bono, along with the Edge, bought and refurbished Dublin's two-star 70-bedroom [[Clarence Hotel]], and converted it into a five-star 49-bedroom hotel.&lt;ref name=ClarenceHotel&gt;The Clarence Hotel. (Unknown last update). [http://www.theclarence.ie/dublin_hotel ''At the Clarence''] {{webarchive|url=https://web.archive.org/web/20070705234423/http://theclarence.ie/dublin_hotel |date=5 July 2007 }}. Retrieved 4 July 2007.&lt;/ref&gt; The Edge and Bono have recorded several songs together, exclusive of the band. They also worked on the score for the 2011 [[rock musical]] ''[[Spider-Man: Turn Off the Dark]]''.&lt;ref name=Spiderman&gt;Kit, B. (19 April 2007). [http://billboard.com/bbcom/news/article_display.jsp?vnu_content_id=1003574114 Bono, Edge Penning Tunes For 'Spider-Man' Musical]. ''The Hollywood Reporter''. Retrieved 4 July 2007.&lt;/ref&gt;
+
+In May 2007, MTV reported that Bono was writing the foreword for a collection of poetry entitled ''"Third Rail"''.&lt;ref name=ThirdRailMTV&gt;MTV News staff. (17 May 2007). [http://www.mtv.com/news/articles/1559829/20070517/panic_at_the_disco.jhtml U2 frontman writes forward to poetry collection]. ''MTV News''. Retrieved 4 July 2007.&lt;/ref&gt; The book's foreword details the meanings of its poetry, stating "The poets who fill the pews here have come to testify, to bear witness to the mysterious power of rock and roll...Rock and roll is truly a broad church, but each lights a candle to their vision of what it is."&lt;ref name=ThirdRailMTV /&gt; The collection, edited by poet Jonathan Wells, contains titles such as ''"[[Punk rock]] You're My Big Crybaby"'', ''"Variation on a Theme by [[Whitesnake]]"'' and ''"[[Vince Neil]] Meets Josh in a Chinese Restaurant in [[Malibu, California|Malibu]] (After [[Ezra Pound]])."''&lt;ref name=ThirdRailMTV /&gt;
+
+Bono is on the board of the [[Elevation Partners]] private-equity firm, which attempted to purchase [[Eidos Interactive]] in 2005 and has since gone on to invest in other entertainment businesses.&lt;ref name=EPPDF&gt;Elevation Partners. (2007). [http://www.elevation.com/images/Elevation_Partners_Intro.pdf ''Introduction to Elevation Partners''] {{webarchive|url=https://web.archive.org/web/20070703030346/http://www.elevation.com/images/Elevation_Partners_Intro.pdf |date=3 July 2007 }}. Retrieved 4 July 2007.&lt;/ref&gt;&lt;ref name=gi&gt;Fahey, R. (22 April 2005). [http://www.gamesindustry.biz/content_page.php?aid=8195 Elevation Partners withdraws its offer for Eidos]. ''gi''. Retrieved 4 July 2007.&lt;/ref&gt; Bono has invested in the [[Forbes]] Media group in the US through Elevation Partners. Elevation Partners became the first outsider to invest in the company, taking a minority stake in Forbes Media LLC, a new company encompassing the 89-year-old business which includes ''[[Forbes]]'' magazine, the Forbes.com website and other assets. The terms of the deal were not disclosed, but reports said the stake was worth about 194&amp;nbsp;million ($250m).&lt;ref&gt;{{cite news|url=http://www.rte.ie/arts/2006/0809/bono.html|title=Bono consortium buys a stake in Forbes&amp;nbsp; RT Ten|date=22 September 2014|publisher=Rte.ie|accessdate=22 September 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Carr |first=David |date=7 August 2006 |url=https://www.nytimes.com/2006/08/07/business/media/07carr.html |title=Investors, Including Bono, Buy a Piece of Forbes |newspaper=[[The New York Times]] |accessdate=13 February 2011}}&lt;/ref&gt;&lt;ref&gt;Nussbaum, Bruce. (7 August 2006) [http://www.businessweek.com/innovate/NussbaumOnDesign/archives/2006/08/bono_buys_into.html Bono Buys Into Forbes, Launches Product Red in US and Expands His Brand.] BusinessWeek. Retrieved 13 February 2011.&lt;/ref&gt; The firm also owns a 1.5 percent stake in social networking site [[Facebook]], originally purchased for $210m.&lt;ref name="Billboard.biz"/&gt; Although it was reported that Bono's stake was valued at approximately [[USD|US$]] 1&amp;nbsp;billion in February 2012,&lt;ref&gt;{{Cite news|url=https://www.mirror.co.uk/3am/celebrity-news/bono-becomes-worlds-richest-pop-6349790|title=Bono become world's richest pop star with '1 billion' fortune|last=Deegan|first=Gordon|date=2015-08-30|work=mirror|access-date=2017-03-11}}&lt;/ref&gt;&lt;ref name=NZH&gt;{{cite news|title=$1&amp;nbsp;billion Facebook fortune for Bono|url=http://www.nzherald.co.nz/world/news/article.cfm?c_id=2&amp;objectid=10783339|accessdate=12 February 2012|newspaper=New Zealand Herald|date=4 February 2012}}&lt;/ref&gt; a 2015 article in ''Forbes'' stated that this estimate was based on an incorrect attribution of shares.&lt;ref&gt;{{Cite news|url=https://www.forbes.com/sites/natalierobehmed/2015/09/01/why-u2s-bono-isnt-a-billionaire/#20e9a7967809|title=Why U2's Bono Isn't A Billionaire|last=Robehmed|first=Natalie|work=Forbes|access-date=2017-03-11}}&lt;/ref&gt;
+{{clear}}
+
+Bono was among those cited in the [[Paradise Papers]] after he was named as a passive minority investor in Nude Estates, which bought a shopping mall in Lithuania in 2007 and transferred ownership to Nude Estates 1 in Guernsey in an apparent attempt to avoid tax. Bono welcomed the subsequent investigation by the Lithuanian tax authority, stating that he welcomed transparency and had personally campaigned for it.&lt;ref&gt;{{cite web| title = Paradise Papers: Bono says he welcomes investigation into offshore investment| url = https://www.independent.co.uk/arts-entertainment/music/news/bono-paradise-papers-u2-tax-offshore-investment-guernsey-malta-shopping-mall-statement-latest-a8044541.html | newspaper = The Independent | date = 8 November 2017 |first = Roisin | last = O'Connor | accessdate = 10 May 2018}}&lt;/ref&gt; Nude Estates paid 53,000 in taxes and fines after the investigation was completed and Bono severed ties with the company.&lt;ref&gt;{{cite web| title = 
+Lithuanian company linked to Bono fined after Paradise Papers revelations | url = https://www.theguardian.com/music/2018/jan/05/lithuanian-company-linked-to-bono-fined-after-paradise-papers-revelations | newspaper = The Guardian |date =  5 Jan 2018 | first = Hilary | last = Osborne | accessdate = 10 May 2018}}&lt;/ref&gt;
+
+==Filmography==
+{{For|U2 concert releases and music videos|U2 discography#Videography{{!}}U2 videography}}
+
+{| class="wikitable"
+|- style="background:#CCCCCC;"
+! rowspan="1"| Year
+! rowspan="1"| Film
+! rowspan="1"| Role
+! rowspan="1"| Notes
+|-
+| 1988
+| ''[[Rattle and Hum]]''
+| Himself
+| [[Rockumentary]]
+|-
+| 1998
+| ''[[The Simpsons]]''
+| Himself
+| TV series; one episode, "[[Trash of the Titans]]"
+|-
+| rowspan="2"|1999
+| ''[[Classic Albums]]''
+| Himself
+| TV series; one episode, "[[The Joshua Tree]]"
+|-
+| ''[[Entropy (film)|Entropy]]''
+| Himself
+|
+|-
+| rowspan="2" | 2000
+| ''[[The Million Dollar Hotel]]''
+| Man in the hotel lobby
+| Uncredited cameo appearance, original storywriter, producer
+|-
+| ''[[Sightings of Bono]]''
+| Himself
+| Short film
+|-
+| 2005
+| ''[[Entourage (U.S. TV series)|Entourage]]''
+| Himself
+| TV series; one episode, "I Love You Too"
+|-
+| rowspan="3" | 2007
+| ''[[Rewind (video)|Rewind]]''
+| Himself
+| Rockumentary
+|-
+| ''[[Across The Universe (film)|Across The Universe]]''
+| Dr. Robert
+| Sang [[the Beatles]] songs "[[I Am the Walrus]]" and "[[Lucy in the Sky with Diamonds]]"
+|-
+| ''[[American Idol]]''
+| Himself
+| TV series; "[[Idol Gives Back]]"
+|-
+| 2008
+| ''[[U2 3D]]''
+| Himself
+| [[3D film|3D]] [[concert film]]
+|-
+| rowspan="2" | 2009
+| ''[[Entourage (U.S. TV series)|Entourage]]''
+| Himself
+| TV series; one episode, "Give a Little Bit"
+|-
+| ''[[Brno]]''
+| Himself
+| [[Mockumentary]] [[comedy film]]
+|-
+| rowspan="2" | 2011
+| ''[[From the Sky Down]]''
+| Himself
+| Rockumentary
+|-
+| ''[[Anton Corbijn Inside Out]]''
+| Himself
+|
+|-
+| rowspan="2" | 2012
+| ''[[B.B. King&amp;nbsp; The Life of Riley]]''
+| Himself
+| Documentary
+|-
+| ''[[The Resurrection of Victor Jara]]''
+| Himself
+|
+|-
+| rowspan="2" | 2013
+|''Arcade Fire in Here Comes The Night Time''
+|Win Butler impersonator
+|NBC Special
+|-
+| ''[[Muscle Shoals (film)|Muscle Shoals]]''
+| Himself
+| Documentary
+|-
+| rowspan="1" | 2017
+| ''[[Lost in London]]''
+| Bono
+| Voice cameo
+|-
+|}
+
+In addition to his acting credits Bono has contributed music to films, as part of U2 and other collaborations.
+
+==Honours==
+*[[File:PRT Order of Liberty - Officer BAR.png|80px]] Officer of the [[Order of Liberty]], [[Portugal]] (21 April 2005)&lt;ref&gt;{{cite web|title=Cidados Nacionais Agraciados com Ordens Portuguesas|url=http://www.ordens.presidencia.pt/?idc=154|website=Pgina Oficial das Ordens Honorficas Portuguesas|accessdate=31 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.publico.pt/2005/08/09/culturaipsilon/noticia/u2-vao-ser-condecorados-por-jorge-sampaio-com-a-ordem-da-liberdade-1230238|title=U2 vo ser condecorados por Jorge Sampaio com a Ordem da Liberdade|work=Pblico|access-date=2005-04-21}}&lt;/ref&gt;
+*[[File:Order of the British Empire (Civil) Ribbon.png|80|80x80px]] [[Commander (order)|Knight Commander]] of the [[Order of the British Empire|Most Excellent Order of the British Empire]] (20 January 2007)&lt;ref&gt;{{Cite news|url=https://www.reuters.com/article/us-bono-knight/bono-receives-honorary-british-knighthood-idUSL2311688920061223|title=Bono receives honorary British knighthood|last=Ginsberg|first=Jodie|date=20 January 2007|work=Reuters|access-date=29 May 2018|language=en-US}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=http://www.today.com/id/17854722/ns/today-today_entertainment/t/bow-his-demigodness-bono-knighted/|title=Bow before his demigodness: Bono knighted|date=29 March 2007|work=Today|access-date=29 May 2018|language=en}}&lt;/ref&gt;
+
+==See also==
+{{Portal|Ireland|Biography|U2}}
+* [[Timeline of U2]]
+* ''[[Aptostichus bonoi|A. bonoi]]'', a species of spider in the genus ''[[Aptostichus]]'' named after Bono
+{{Clear}}
+
+==References==
+;Footnotes
+{{Reflist|30em}}
+
+;Bibliography
+{{refbegin}}
+*{{cite book |last=Assayas |first1=Michka |author2=Bono |title=Bono in Conversation with Michka Assayas |year=2005 |publisher=[[Riverhead Books]] |location=New York City |isbn=1-57322-309-3}}
+*{{cite book |last=Matthews |first=Sheelagh |title=Bono |series=Remarkable People |year=2008 |publisher=[[Weigl Publishers]] |location=New York City |isbn=978-1-59036-638-7}}
+*{{cite book |last=Stockman |first=Steve |title=Walk On: The Spiritual Journey of U2 |year=2001 |publisher=Relevant Books |location=[[Lake Mary, Florida|Lake Mary]] |isbn=978-0-88419-793-5}}
+*{{cite book |last=Vagacs |first=Robert |year=2005 |title=Religious Nuts, Political Fanatics: U2 in Theological Perspective |publisher=Cascade Books |isbn=1-59752-336-4}}
+{{refend}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category|Bono (vocalist)}}
+* [http://www.U2.com/ U2.com]&amp;nbsp; Official U2 website
+* [http://www.one.org/ ONE Campaign]&amp;nbsp; Advocacy and campaigning organization cofounded by Bono
+* [https://web.archive.org/web/20050825082005/http://www.edun.ie/ EDUN]&amp;nbsp; Fashion label started by Bono and his wife Ali
+* {{AllMovie name|7314}}
+* {{TED speaker}}
+* {{C-SPAN|bono}}
+* {{Charlie Rose view|971}}
+* {{IMDb name|0095104}}
+* {{NYT topic|people/b/bono}}
+* {{WorldCat id|lccn-no96-27739}}
+
+{{U2}}
+{{Navboxes
+| title = Awards for Bono
+| list =
+{{Golden Globe Award for Best Original Song}}
+{{Grammy Award for Album of the Year}}
+{{Grammy Award for Record of the Year 2000s}}
+{{Grammy Award for Song of the Year 2000s}}
+{{MusiCares Person of the Year}}
+{{Time Persons of the Year 20012025}}
+}}
+
+{{Use British English|date=August 2010}}
+
+{{Authority control}}
+
+[[Category:Bono| ]]
+[[Category:1960 births]]
+[[Category:20th-century Irish singers]]
+[[Category:21st-century Irish singers]]
+[[Category:Alternative rock singers]]
+[[Category:Anti-poverty advocates]]
+[[Category:Commandeurs of the Ordre des Arts et des Lettres]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Golden Globe Award-winning musicians]]
+[[Category:Grammy Award winners]]
+[[Category:HIV/AIDS activists]]
+[[Category:Honorary Knights Commander of the Order of the British Empire]]
+[[Category:International opponents of apartheid in South Africa]]
+[[Category:Irish businesspeople]]
+[[Category:Irish Christians]]
+[[Category:Irish humanitarians]]
+[[Category:Irish male singers]]
+[[Category:Irish philanthropists]]
+[[Category:Irish rock singers]]
+[[Category:Irish singer-songwriters]]
+[[Category:Ivor Novello Award winners]]
+[[Category:Lgion d'honneur recipients]]
+[[Category:Living people]]
+[[Category:Musicians from Dublin (city)]]
+[[Category:Post-punk musicians]]
+[[Category:Private equity and venture capital investors]]
+[[Category:Rock and Roll Hall of Fame inductees]]
+[[Category:U2 members]]</text>
+      <sha1>chjdvkicnxk6ij5cl9hapml81pbl3ga</sha1>
+    </revision>
+  </page>
+</mediawiki>

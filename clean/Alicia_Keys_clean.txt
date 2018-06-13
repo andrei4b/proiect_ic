@@ -1,0 +1,588 @@
+--music
+ person. 
+ name               = Alicia Keys. 
+ image              = AliciaKeys2013.jpg. 
+ caption            = Keys at the 2013 ARIA Music Awards. 
+ birth_name         = Alicia Augello Cook. 
+ birth_date         =  {{Birth date and age|1981|01|25}}. 
+ birth_place        = Hell's Kitchen, Manhattan, New York City, New York, U.S.. 
+ death_date         = . 
+ death_place        = . 
+ occupation         = {{hlist||Singer-songwriter|pianist|music producer|philanthropist|actress}}. 
+ years_active       = 1996present. 
+ spouse             = {{marriage|Swizz Beatz|2010}}. 
+ children           = 2. 
+ module             = {{Infobox musical artist| embed=yes. 
+ background = solo_singer. 
+ instrument = {{hlist|Vocals|piano}}. 
+ genre = {{hlist|R&B|soul|jazz|hip hop}}. 
+ associated_acts = {{hlist|Jermaine Paul|Kerry Brothers Jr.|Swizz Beatz}}. 
+ label = {{hlist|Arista|Columbia|J|RCA|Sony}} . 
+ website = {{URL|aliciakeys.com}}
+}}. 
+ signature          = Alicia Keys signature.svg. 
+ signature_size     = 125px. 
+ signature_alt      = Alicia Keys signature.svg. 
+ alias              = Lellow 
+}}
+
+'''Alicia Augello Cook''' (born January 25, 1981), known professionally as '''Alicia Keys''', is an  American singer-songwriter. A classically-trained pianist, Keys was composing songs by age 12. She was signed at 15 years old by Columbia Records, and then, after label disputes over creative differences, by Arista Records. Her debut album, ''Songs in A Minor'' was released with J Records in 2001. Praised for Keys' musical talents and creative control, ''Songs in A Minor'' was critically and commercially successful, producing her first ''Billboard'' Hot 100 number-one single "Fallin'" and selling over 12 million copies worldwide. ''Songs in A Minor'' earned Keys five Grammy Awards in 2002. Her second album, ''The Diary of Alicia Keys'' (2003), was also a critical and commercial success, spawning successful singles "You Don't Know My Name", "If I Ain't Got You" and "Diary", and sold eight million copies worldwide. The album garnered her an additional four Grammy Awards. The duet song "My Boo" with Usher scored her a second number-one single in 2004. Keys released her first live album, ''Unplugged'' (2005), and became the first female to have an ''MTV Unplugged'' album debut at number one.
+
+''As I Am'' (2007) produced the Hot 100 number-one single "No One", selling 5 million copies worldwide and earning an additional three Grammy Awards. Keys made her film debut in ''Smokin' Aces'' and also went on to appear in ''The Nanny Diaries'' and ''The Secret Life of Bees''. ''The Element of Freedom'' (2009) became her first chart-topping album in the UK, and selling 4 million copies worldwide. Keys also collaborated with Jay Z on "Empire State of Mind" for her fourth number-one single, and won Best Rap/Sung Collaboration in 2010. ''Girl on Fire'' (2012) was her fifth ''Billboard 200'' topping album, spawning the successful title track. ''VH1 Storytellers'' (2013) was released as her second live album. ''Here'' (2016) became her seventh US R&B/Hip-Hop chart topping album.
+
+Keys has received numerous awards throughout her career, including 15 competitive Grammy Awards, 17 NAACP Image Awards and 12 ASCAP Awards. She has sold over 35 million albums and 30million singles worldwide. Considered a pop icon, Keys was named by ''Billboard'' the top R&B artist of the 2000s decade and placed her number 10 on their list of Top 50 R&B/Hip-Hop Artists of the Past 25 Years. VH1 also included her on their 100 Greatest Artists of All Time and 100 Greatest Women in Music lists, while ''Time'' have named her in their 100 list of most influential people in 2005 and 2017. Keys is co-founder and Global Ambassador of the nonprofit HIV/AIDS-fighting organization Keep a Child Alive.
+
+==Early life==
+Alicia Augello Cook was born on January 25, 1981, in the Hell's Kitchen neighboord of New York Citys Manhattan borough. She is the only child of Teresa (Augello), a paralegal and part-time actress, and one of three children of Craig Cook, a flight attendant. Keys' father is African American and her mother is of Sicilian (Sciacca) and either Scottish or Irish descent. Named after her Puerto Rican godmother, Keys expressed that she was comfortable with her multiracial heritage because she felt she was able to "relate to different cultures". Keys' father left when she was two and she was subsequently raised by her mother during her formative years in Hell's Kitchen. Keys said her parents never had a relationship, and her father was not in her life. Although she did not like to speak about her father in order to not feed stereotypes, Keys remarked in 2001: "I'm not in contact with him. That's fine. When I was younger, I minded about that. [It] made me angry. But it helped show me what a strong woman my mother was, and made me want to be strong like her. Probably, it was better for me this way." Keys and her mother lived in a one-room apartment. Her mother often worked three jobs to provide for Keys, who "learned how to survive" from her mother's example of tenacity and self-reliance. 
+
+{{quote box|width=29%|align=left|"I grew up in the middle of everything. I walked the streets alone, I rode the trains alone, I came home at three in the morning alone, that was what I did." "The city had a huge influence on me because it's such a diverse place. As hard as [growing up in it was], I always felt very blessed about being able to recognize different cultures and styles, people and places. I feel like the concrete alone just gave me a certain drive. I really saw everything: every negative I could possibly see from the time I could walk until now; and also every positive, every bright future, every dream that I could possibly see. So growing up around this big dichotomy definitely influenced my music."|source=Keys}} 
+
+From a young age, Keys struggled with self-esteem issues, "hiding" little by little when her differences made her vulnerable to judgement and later uninvited sexual attention. Living in the rough neighborhood of Hell's Kitchen, she was, from an early age, regularly exposed to street violence, drugs, prostitution, and subjected to sexual propositions in the sex trade- and crime-riddled area. "I saw a variety of people growing up, and lifestyles, lows and highs. I think it makes you realise right away what you want and what you don't want", Keys said. Keys recalled feeling fearful early on of the "animal instinct" she witnessed, and eventually feeling "high" due to recurrent harassment. Her experiences in the streets had led her to carry a homemade knife for protection. She became very wary, emotionally guarded, and she began wearing gender-neutral clothing and what would become her trademark cornrows.{{efn|}} Keys explained that she is grateful for growing up where she did as it prepared her for the parallels in the music industry, particularly as she was a teenager starting out; she could maintain a particular focus and not derail herself. She credits her "tough" mother for anchoring her on a right path as opposed to many people she knew who ended up on the wrong path and in jail. Keys attributed her unusual maturity as a young girl to her mother, who depended on her to be responsible while she worked to provide for them and give Keys as many opportunities as possible.
+
+Keys loved music and singing from early childhood. She recalled her mother playing jazz records of artists like Thelonious Monk, Billie Holiday, Ella Fitzgerald and Louis Armstrong on Sunday mornings, early musical moments Keys considers influential in kindling her interest in and emotional connection to music. In preschool, Keys sung in her school's production of the musical ''Cats'' and was cast as Dorothy Gale in a production of ''The Wizard of Oz''. Keys discovered she had a passion for the piano by age six, as she loved the sound and feel of the instrument and desired to play and learn it. A friend had given her an old, upright piano, a pivotal gift for Keys as it allowed her to play and take lessons as a child. Keys began receiving classical piano training by age seven, practicing six hours a day, learning the Suzuki method and playing composers such as Beethoven, Mozart, Chopin, and Satie. She was particularly drawn to "blue, dark, shadowy" and melancholic compositions, as well as the passionate romanticism of "blue composers" like Chopin.  Inspired by the film ''Philadelphia'', Keys wrote her first song about her departed grandfather on her piano by age 12. The scene in the film where Tom Hanks's character listens to opera on a record player notably affected Keys, who "never showed emotion very well". After seeing the film, Keys, "for the first time, could express how [she] felt through the music." 
+
+Keys' mother had encouraged her to participate in different extracurricular activities, including music, dance, theater, and gymnastics, so she could "find her muse". Her extracurricular activities gave her focus and drive, and helped keep her out of trouble. Keys remained so occupied with her various pursuits that she experienced her first burnout before adolescence. Before her 13th birthday, she expressed to her mother that she was too overwhelmed and wanted to disengage, at which point her mother took a vacation with her and encouraged her to keep focusing on piano. Keys would continue studying classical music till the age of 18. Keys regards her education in classical piano and dedication to classical music as vital for her stability in her youth and her development as a musician and songwriter.
+
+Keys enrolled in the Professional Performing Arts School at the age of 12, where she took music, dance, and theater classes and majored in choir. In her preteen years, Keys and her bass-playing friend formed their first group, though neither "knew too much about how pop songs worked". Keys would continue singing, writing songs, and performing in musical groups throughout junior high and high school. She became an accomplished pianist, and after her classical music teacher had nothing left to teach her, she began studying Jazz at age 14. Living in the "musical melting pot" city, Keys had already been discovering other genres of music, including soul music, hip hop, R&B, and taken affinity to artists like Marvin Gaye and Curtis Mayfield. Keen on dissecting music, Keys continued developing her songwriting and finding her own 'flow and style" through her exploration of the intricacies in different music. 
+
+{{Quote box|width=28%|quote=Classical piano totally helped me to be a better songwriter and a better musician...I knew the fundamentals of music. And I understood how to put things together and pull it together and change it. The dedication that it took to study classical music is a big reason why I have anything in this life I think. ... [It] was a big influence on me. It opened a lot of doors because it separated me from the rest. [...] And it did help me structure my songs.|source=Keys}}
+
+Keys spent more time in Harlem during her teenage years. She connected with the cultural and racial diversity in the neighborhood, where she expanded upon her musical exploration, and her character was also solidified. "Harlem raised me in a lot of ways," Keys remarked. "[It] taught me how to think fast, how to play the game...taught me leadership, how to get out of bad situations when you need to, how to hold my own." During this period, she met her friend and future collaborator Kerry Brothers Jr. 
+
+In 1994, manager Jeff Robinson met 13-year old Keys, who participated in his brother's youth organization, Teens in Motion. Robinson's brother had been giving Keys vocal lessons in Harlem. His brother had talked to him about Keys and advised him to go see her, but Robinson shrugged it off as he had "heard that story 1,000 times". At the time, Keys was part of a three-girl band that had formed in the Bronx and was performing in Harlem. Robinson eventually agreed to his brother's request, and went to see Keys perform with her group at the Police Athletic Center league in Harlem. He was soon taken by her, her singing, playing classical music and performing her own songs. Robinson was excited by audiences' incredulous reactions to her. Impressed by her talents, charisma, image, and maturity, Robinson considered her to be the "total package", and took her under his wing. By this time, Keys had already written two of the songs that she would later include on her debut album, "Butterflyz" and "The Life". 
+
+Robinson wanted Keys to be fully informed and ready for the music industry, so he took her everywhere with him, including all the meetings with attorneys and negotiations with record labels, while the teenager often became disgruntled with the process. Robinson had urged Keys to pursue a solo career, as she remained reluctant, preferring the musical interactions of a group. She took Robinson's advice after her group disbanded, and contacted Robinson who in 1995 introduced her to A&R executive Peter Edge. Edge later described his first impressions of Keys to HitQuarters: {{quote|"I remember that I felt, upon meeting her, that she was completely unique. I had never met a young R&B artist with that level of musicianship. So many people were just singing on top of loops and tracks, but she had the ability, not only to be part of hip-hop, but also to go way beyond that. Shes a very accomplished musician, songwriter and vocalist and a rare and unique talent."}} 
+
+==Career==
+===19962002: ''Songs in A Minor''=== 
+Robinson and Edge helped Keys assemble some demos of songs she had written and set up a showcase for label executives. Keys performed on the piano for executives of various labels, and a bidding war ensued. Edge was keen to sign Keys himself but was unable to do so at that time due to being on the verge of leaving his present record company, Warner Bros. Records, to work at Clive Davis' Arista Records. During this period, Columbia Records had approached Keys for a record deal, offering her a $26,000 white baby grand piano; after negotiations with her and her manager, she signed to the label, at age 15. Keys was also finishing high school, and her academic success had provided her opportunity for scholarship and early admission to university. That year, Keys accepted a scholarship to study at Columbia University in Manhattan. She graduated high school early as valedictorian, at the age of 16, and began attending Columbia University while working on her music.
+
+At first, Keys attempted to manage both university and her budding music career, but after a month, she dropped out of college to pursue her musical career full-time.
+
+Keys signed a demo deal with Jermaine Dupri and So So Def Recordings, where she appeared on the label's Christmas album performing "The Little Drummer Girl". She also co-wrote and recorded a song titled "Dah Dee Dah (Sexy Thing)", which appeared on the soundtrack to the 1997 film, ''Men in Black''. The song was Keys' first professional recording; however, it was never released as a single and her record contract with Columbia ended after a dispute with the label. Keys was unhappy with the label because her career had stalled during her two years under contract at Columbia due to executive indecision over her direction and major changes within the company. Keys called Clive Davis, who sensed a "special, unique" artist from her performance and signed her to Arista Records, which later disbanded.|accessdate=November 2, 2010}} Keys almost chose Wilde as her stage name until her manager suggested the name Keys after a dream he had. Keys felt that name represented her both as a performer and person.
+
+thumb|left|190px|Keys performing in Frankfurt, Germany, 2002
+Following Davis to his newly formed J Records label, she worked with Kerry "Krucial" Brothers and recorded the songs "Rock wit U" and "Rear View Mirror", which were featured on the soundtracks to the films ''Shaft'' (2000) and ''Dr. Dolittle 2'' (2001), respectively.|title=Dr. Dolittle 2  Overview|last=Birchmeier|first=Jason |work=Allmusic|accessdate=November 2, 2010}} Keys' first studio album ''Songs in A Minor'' was released in June 2001, to critical acclaim. Musically, it incorporated classical piano in an R&B, soul and jazz album. Jane Stevenson of ''Jam!'' described the music as "old-school urban sounds and attitude set against a backdrop of classical piano and sweet, warm vocals". ''USA Today''{{'}}s Steve Jones wrote that Keys "taps into the blues, soul, jazz and even classical music to propel haunting melodies and hard-driving funk". Debuting at number one on the ''Billboard'' 200 with first-week sales of 236,000 units, it went on to sell over 6.2million copies in the United States and 12 million copies internationally.[http://new.music.yahoo.com/blogs/chart_watch/39906/chart-watch-extra-the-top-20-new-acts-of-the-2000s/ Chart Watch Extra: The Top 20 New Acts Of The 2000s] {{webarchive |url=https://web.archive.org/web/20111013084002/http://new.music.yahoo.com/blogs/chart_watch/39906/chart-watch-extra-the-top-20-new-acts-of-the-2000s/ |date=October 13, 2011 }} Chart Watch by Paul Grein Additionally, it was certified six times Platinum by the Recording Industry Association of America. ''Songs in A Minor'' established Keys' popularity both inside and outside of the United States where she became the best-selling new artist and R&B artist of the year.
+
+The album's release was preceded by the April release of her debut single, "Fallin'", which spent six weeks atop the ''Billboard'' Hot 100. The album's second single, "A Woman's Worth", was released in February 2002 and peaked at seven on the Hot 100 and number three on ''Billboard''{{'}}s Hot R&B/Hip-Hop Songs; becoming her second top ten single on both charts. Released in June, "How Come You Don't Call Me" served as the album's third single, peaking at 59 on the Hot 100. The album's fourth single "Girlfriend" was released in the United Kingdom where it peaked at 82. The following year, the album was reissued as ''Remixed & Unplugged in A Minor'', which included eight remixes and seven unplugged versions of the songs from the original.
+{{Listen. 
+filename=Alicia Keys - Fallin' sample.ogg. 
+title="Fallin" (2001). 
+description="Fallin'" is a gospel-influenced piano ballad. Often considered her signature song, it describes the "ins and outs" of being in a relationship.. 
+format=Ogg. 
+pos=right}}
+''Songs in A Minor'' led Keys to win five awards at the 2002 Grammy Awards: Song of the Year, Best Female R&B Vocal Performance, and Best R&B Song for "Fallin'", Best New Artist, and Best R&B Album; "Fallin'" was also nominated for Record of the Year. Keys became the second female solo artist to win five Grammy Awards in a single night, following Lauryn Hill at the 41st Grammy Awards. That same year, she collaborated with Christina Aguilera for the latter's upcoming album ''Stripped'' on a song titled "Impossible", which Keys wrote, co-produced, and provided with background vocals. During the early 2000s, Keys also made small cameos in television series ''Charmed'' and ''American Dreams''.
+
+===20032005: ''The Diary of Alicia Keys'' and ''Unplugged''===
+thumb|left|250px|Keys performing at Consumer Electronics Show, 2004
+Keys followed up her debut with ''The Diary of Alicia Keys'', which was released in December 2003. The album debuted at number one on the ''Billboard'' 200, selling over 618,000 copies its first week of release, becoming the largest first-week sales for a female artist in 2003. It sold 4.4million copies in the United States and was certified four times Platinum by the RIAA. It sold eight million copies worldwide, becoming the sixth-biggest-selling album by a female artist and the second-biggest-selling album by a female R&B artist. The album's lead single, "You Don't Know My Name", peaked at number three on the ''Billboard'' Hot 100 and number one on ''Hot R&B/Hip-Hop Songs'' for eight consecutive weeks, her first Top 10 single in both charts since 2002's "A Woman's Worth". The album's second single, "If I Ain't Got You", was released in February 2004 and peaked at number 4 on the ''Billboard'' Hot 100 and number one on the ''Hot R&B/Hip-Hop Songs'' for six weeks. The album's third single, "Diary", peaked at number 8 on the ''Billboard'' Hot 100 and number two on the ''Hot R&B/Hip-Hop Songs'' chart, being their third consecutive Top 10 single in both charts. The album's fourth and final single, "Karma", which peaked at number 20 on the ''Billboard'' Hot 100 and number 17 on the ''Hot R&B/Hip-Hop Songs'', first release to fail to achieve top ten status on both charts. "If I Ain't Got You" became the first single by a female artist to remain on the ''Billboard'' Hot R&B/Hip-Hop Songs chart for over a year. |title=Karma  Alicia Keys |work=Billboard |publisher=Nielsen Business Media |accessdate=August 1, 2009 |archiveurl=https://web.archive.org/web/20090802031044/http://www.billboard.com/ |archivedate=August 2, 2009 |deadurl=yes }} Keys also collaborated with recording artist Usher on the song "My Boo" from his 2004 album, ''Confessions (Special Edition)''. The song topped the ''Billboard'' Hot 100 for six weeks and ''Hot R&B/Hip-Hop Songs'' for three weeks, became her first number-one single in ''Hot 100'' since 2001's "Fallin'".
+
+Keys won Best R&B Video for "If I Ain't Got You" at the 2004 MTV Video Music Awards; she performed the song and "Higher Ground" with Lenny Kravitz and Stevie Wonder. Later that year, Keys released her novel ''Tears for Water: Songbook of Poems and Lyrics'', a collection of unreleased poems from her journals and lyrics. The title derived from one of her poems, "Love and Chains" from the line: "I don't mind drinking my tears for water." She said the title is the foundation of her writing because "everything I have ever written has stemmed from my tears of joy, of pain, of sorrow, of depression, even of question". The book sold over US$500,000 and Keys made ''The New York Times'' bestseller list in 2005. The following year, she won a second consecutive award for Best R&B Video at the MTV Video Music Awards for the video "Karma". Keys performed "If I Ain't Got You" and then joined Jamie Foxx and Quincy Jones in a rendition of "Georgia on My Mind", the Hoagy Carmichael song made famous by Ray Charles in 1960 at the 2005 Grammy Awards. That evening, she won four Grammy Awards: Best Female R&B Vocal Performance for "If I Ain't Got You", Best R&B Song for "You Don't Know My Name", Best R&B Album for ''The Diary of Alicia Keys'', and Best R&B Performance by a Duo or Group with Vocals" for "My Boo" with Usher.
+
+Keys performed and taped her installment of the ''MTV Unplugged'' series in July 2005 at the Brooklyn Academy of Music. During this session, Keys added new arrangements to her original songs and performed a few choice covers. The session was released on CD and DVD in October 2005. Simply titled ''Unplugged'', the album debuted at number one on the U.S. ''Billboard'' 200 chart with 196,000 units sold in its first week of release. The album sold one million copies in the United States, where it was certified Platinum by the RIAA, and two million copies worldwide. The debut of Keys' ''Unplugged'' was the highest for an ''MTV Unplugged'' album since Nirvana's 1994 ''MTV Unplugged in New York'' and the first ''Unplugged'' by a female artist to debut at number one. The album's first single, "Unbreakable", peaked at number 34 on the ''Billboard'' Hot 100 and number four on the Hot R&B/Hip-Hop Songs.|title=Unplugged  Charts & Awards  Billboard Singles|work=Allmusic|accessdate=November 2, 2010}} It remained at number one on the ''Billboard'' Hot Adult R&B Airplay for 11 weeks. The album's second and final single, "Every Little Bit Hurts", was released in January 2006, it failed to enter the U.S. charts.
+
+Keys opened a recording studio in Long Island, New York, called The Oven Studios, which she co-owns with her production and songwriting partner Kerry "Krucial" Brothers. The studio was designed by renowned studio architect John Storyk of WSDG, designer of Jimi Hendrix' Electric Lady Studios. Keys and Brothers are the co-founders of KrucialKeys Enterprises, a production and songwriting team who have assisted Keys in creating her albums as well as creating music for other artists.
+
+===20062008: Film debut and ''As I Am''===
+thumb|left|200px|Keys performing in 2008
+In 2006, Keys won three NAACP Image Awards, including Outstanding Female Artist and Outstanding Song for "Unbreakable". She also received the Starlight Award by the Songwriters Hall of Fame. In October 2006, she played the voice of Mommy Martian in the "Mission to Mars" episode of the children's television series ''The Backyardigans'', in which she sang an original song, "Almost Everything Is Boinga Here". That same year, Keys nearly suffered a mental breakdown. Her grandmother had died and her family was heavily dependent on her. She felt she needed to "escape" and went to Egypt for three weeks. She explained: "That trip was definitely the most crucial thing I've ever done for myself in my life to date. It was a very difficult time that I was dealing with, and it just came to the point where I really needed tobasically, I just needed to run away, honestly. And I needed to get as far away as possible."
+
+Keys made her film debut in early 2007 in the crime film ''Smokin' Aces'', co-starring as an assassin named Georgia Sykes opposite Ben Affleck and Andy Garca. Keys received much praise from her co-stars in the film; Ryan Reynolds called her "so natural" and said she would "blow everybody away." ''Smokin' Aces'' was a moderate hit at the box office, earning $57,103,895 worldwide during its theatrical run. In the same year, Keys earned further praise for her second film, ''The Nanny Diaries'', based on the 2002 novel of the same name, where she co-starred alongside Scarlett Johansson and Chris Evans. ''The Nanny Diaries'' had a hit moderate performance at the box office, earning only $44,638,886 worldwide during its theatrical run. She also guest starred as herself in the "One Man Is an Island" episode of the drama series ''Cane''.
+
+Keys released her third studio album, ''As I Am'', in November 2007; it debuted at number one on the ''Billboard'' 200, selling 742,000 copies in its first week. It gained Keys her largest first week sales of her career and became her fourth consecutive number one album, tying her with Britney Spears for the most consecutive number-one debuts on the ''Billboard'' 200 by a female artist. The week became the second-largest sales week of 2007 and the largest sales week for a female solo artist since singer Norah Jones' album ''Feels like Home'' in 2004. The album has sold three million copies in the United States and has been certified three times Platinum by the RIAA. It has sold five million copies worldwide. Keys received five nominations for ''As I Am'' at the 2008 American Music Award and ultimately won two. The album's lead single, "No One", peaked at number one on the ''Billboard'' Hot 100 for five consecutive weeks and Hot R&B/Hip-Hop Songs for ten consecutive weeks, became her first number-one single in ''Hot 100'' since 2004's "My Boo" and becoming Keys' third and fifth number-one single on each chart, respectively. The album's second single, "Like You'll Never See Me Again", was released in late 2007 and peaked at number 12 on the ''Billboard'' Hot 100 and number one on the ''Hot R&B/Hip-Hop Songs'' for seven consecutive weeks. From October 27, 2007, when "No One" reached No. 1, through February 16, 2008, the last week "Like You'll Never See Me Again" was at No. 1, the Keys was on top of the chart for 17 weeks, more consecutive weeks than any other artist in ''Hot R&B/Hip/Hop Songs'' chart.|title=As I Am  Charts & Awards  Billboard Singles|work=Allmusic|accessdate=November 2, 2010}} The album's third single, "Teenage Love Affair", which peaked at number 54 on the '''Billboard'' Hot 100 and number three on the ''Hot R&B/Hip-Hop Songs''. The album's fourth and final single, "Superwoman", which peaked at number 82 on the ''Billboard'' Hot 100 and number 12 on the ''Hot R&B/Hip-Hop Songs''.
+
+thumb|upright|right|200px|Keys performing at the 2008 Summer Sonic Festival in Tokyo, Japan
+"No One" earned Keys the awards for Best Female R&B Vocal Performance and Best R&B Song at the 2008 Grammy Awards. Keys opened the ceremony singing Frank Sinatra's 1950s song "Learnin' the Blues" as a "duet" with archival footage of Sinatra in video and "No One" with John Mayer later in the show. Keys also won Best Female R&B Artist during the show. She starred in "Fresh Takes", a commercial micro-series created by Dove Go Fresh, which premiered during ''The Hills'' on MTV from March to April 2008. The premiere celebrated the launch of new Dove Go Fresh. She also signed a deal as spokesperson with Glacau's VitaminWater to endorse the product, and was in an American Express commercial for the "Are you a Cardmember?" campaign. Keys, along with The White Stripes' guitarist and lead vocalist Jack White, recorded the theme song to ''Quantum of Solace'', the first duet in Bond soundtrack history. In 2008, Keys was ranked in at number 80 the ''Billboard'' Hot 100 All-Time Top Artists. She also starred in ''The Secret Life of Bees'' Her role earned her a nomination for Outstanding Supporting Actress in a Motion Picture at the NAACP Image Awards. She also received three nominations at the 2009 Grammy Awards and won Best Female R&B Vocal Performance for "Superwoman".
+
+In an interview with ''Blender'' magazine, Keys allegedly said "'Gangsta rap' was a ploy to convince black people to kill each other, 'gangsta rap' didn't exist" and went on to say that it was created by "the government". The magazine also claimed she said that Tupac Shakur and The Notorious B.I.G. were "essentially assassinated, their beefs stoked by the government and the media, to stop another great black leader from existing". Keys later wrote a statement clarifying the issues and saying her words were misinterpreted. Later that year, Keys was criticized by anti-smoking campaigners after billboard posters for her forthcoming concerts in Indonesia featured a logo for the A Mild cigarette brand sponsored by tobacco firm Philip Morris. She apologized after discovering that the concert was sponsored by the firm and asked for "corrective actions". In response, the company withdrew its sponsorship.
+
+===20092011: ''The Element of Freedom'', marriage and motherhood===
+In 2009, Keys approached Clive Davis for permission to submit a song for Whitney Houston's sixth studio album ''I Look to You''. She subsequently co-wrote and produced the single "Million Dollar Bill" with record producer Swizz Beatz. Months later, she was featured on rapper Jay-Z's song "Empire State of Mind" which was the lead single from his eleventh studio album ''The Blueprint 3''. The song was a commercial and critical success, topping the ''Billboard'' Hot 100, becoming her fourth number-one song on that chart. Additionally, it won Grammy Awards for 'Best Rap/Sung Collaboration and 'Best Rap Song' the following year, among a total of five nominations.
+The following month, the American Society of Composers, Authors and Publishers honored Keys with the Golden Note Award, an award given to artists "who have achieved extraordinary career milestones". She collaborated with Spanish recording artist Alejandro Sanz for "Looking for Paradise", which topped the ''Billboard'' Hot Latin Songs chart, this was Keys' first number one on all three charts, which also made her the first Black-American of non-Hispanic origin to reach #1 on the ''Hot Latin Tracks''.|title=Looking for Paradise  Alejandro Sanz|work=Billboard|publisher=Nielsen Business Media|accessdate=April 5, 2010| archiveurl= https://web.archive.org/web/20100404152134/http://www.billboard.com/| archivedate= April 4, 2010 | deadurl= no}}
+
+thumb|left|200px|Keys at the [[American Music Awards of 2009|37th Annual American Music Awards red carpet, November 2009]]
+Keys released her fourth studio album, ''The Element of Freedom'', in December 2009. It debuted at number two on the ''Billboard'' 200, selling 417,000 copies in its first week. As part of the promotional drive for the album, she performed at the Cayman Islands Jazz Festival on December 5, the final night of the three-day festival which would be broadcast on BET. It was preceded by the release of its lead single "Doesn't Mean Anything" which peaked at sixty on the Hot 100, and fourteen on ''Billboard''{{'}}s Hot R&B/Hip-Hop Songs. Keys was ranked as the top R&B recording artist of the 20002009 decade by ''Billboard'' magazine and ranked at number five as artist of the decade, while "No One" was ranked at number six on the magazine's top songs of the decade. In the United Kingdom, ''The Element of Freedom'' became Keys' first album to top the UK Albums Chart. The album's second single, "Try Sleeping with a Broken Heart", was released in November and peaked at number twenty-seven on the Hot 100 and number two on the Hot R&B/Hip-Hop Songs chart. The album's third single "Put It in a Love Song" featured recording artist Beyonc. The music video for the single, which was filmed in Rio de Janeiro, Brazil, has been postponed several times, and later it was confirmed that Alicia Keys' team made a decision not to release the video{{Citation needed|date=December 2012}}. In February 2010, Keys released the fourth single, "Empire State of Mind (Part II) Broken Down" peaked at fifty-five on the Hot 100 and seventy-six on the Hot R&B/Hip-Hop Songs chart. In May, "Un-Thinkable (I'm Ready)" featuring rapper Drake was released as the album's fifth single. While only peaking at twenty-one on the ''Billboard'' Hot 100, it topped the Hot R&B/Hip-Hop Songs for twelve consecutive weeks. The song became the album's most successful single; Keys eighth number one on the chart; and Key's first number one song in five years. The album's sixth and final single, "Wait Til You See My Smile", was released in December 2010 in the United Kingdom.
+
+In May 2010, a representative for Keys and Swizz Beatz confirmed that they were engaged and expecting a child together. Keys and Beatz had a wedding celebration on the French island of Corsica on July 31, 2010. On October 14, 2010, Keys gave birth to their son, in New York City. She recorded a song together with Eve called "Speechless", which is dedicated to her son.
+
+In June 2011, ''Songs in A Minor'' was re-released as deluxe and collector's editions in commemoration of its 10th anniversary. To support the release, Keys embarked on a four-city promotional tour, titled Piano & I: A One Night Only Event With Alicia Keys, featuring only her piano. Keys is also set to co-produce the Broadway premiere of ''Stick Fly'', which was scheduled to open in December 2011. On September 26, 2011, was the premiere of ''Project 5'', known as ''Five'', a short film that marks the debut of Keys as a director. It is a documentary of five episodes that tell stories of five women who were victims of breast cancer and how it affected their lives. The production also has co-direction of the actresses Jennifer Aniston, Demi Moore and film director Patty Jenkins. In October 2011, RCA Music Group announced it was disbanding J Records along with Arista Records and Jive Records. With the shutdown, Keys will release her future material on RCA Records.
+
+===20122015: ''Girl on Fire''===
+Keys released her fifth studio album ''Girl on Fire'' through RCA Records on November 27, 2012. Keys has stated that she wants the album to "liberate" and "empower" fans. The album's title track was released on September 4 as its lead single and peak number eleven on ''Billboard'' hot 100, the single was Keys's first top twenty own single on the chart since 2007 single "Like You'll Never See Me Again", she performed the song for the first time at the 2012 MTV Video Music Awards on September 6. "Girl on Fire" is an uptempo anthem. "Brand New Me" was released as the album's second single. A softer ballad, it was noted as significantly different from the album's lead single. Prior, two songs from ''Girl on Fire'' were released as promotion. The first was a song titled "New Day".|title=Chart History: Billboard Legacy|publisher=Billboard.com|accessdate=November 26, 2012}} The song was later revealed to be the solo version of 50 Cent's lead single featuring Dr. Dre and Keys. Another song, "Not Even the King" was uploaded to VEVO as a promotional song. Co-written by Scottish singer-songwriter Emeli Sand, its lyrics talk about a rich love that couldn't be afforded by "the king". Overall sales of the album were considerable lower than Keys' previous ones. In September 2012, Keys collaborated with Reebok for her own sneakers collection. In October, Keys announced her partnership with Bento Box Entertainment's Bento Box Interactive to create an education mobile application titled "The Journals of Mama Mae and LeeLee" for iOS devices about the relationship between a young New York City girl and her wise grandmother. The app will feature two of Keys' original songs, "Follow the Moon" and "Unlock Yourself".
+
+thumbnail|200px|Keys at NRJ Music Awards 2013
+In January 2013, BlackBerry CEO Thorsten Heins and singer Alicia Keys officially unveiled the BlackBerry 10 mobile platform in New York City. Keys signed up to help sell BlackBerry devices. BlackBerry CEO Thorsten Heins announced on January 30, 2013 that the Grammy Award-winning singer would be the company's new Global Creative Director. In January 2014,
+BlackBerry said it will part ways with singer Alicia Keys at the end of that month, a year after the Canadian company signed her up as its global creative director in a widely publicised move. In June 2013, her VH1 Storytellers special was released on CD and DVD. Also, Keys and Maxwell were working on a "Marvin Gaye/Tammi Terrell" type of duets EP. In 2013, she performed a duet with Italian singer Giorgia on the song "I Will Pray (Pregher)". In November, the song was extracted as the second single from Giorgia's album ''Senza Paura'' and has been marketed in digital stores worldwide. In 2014, Keys collaborated with Kendrick Lamar on the song "It's on Again" for ''The Amazing Spider-Man 2'' soundtrack. In July 2014, it was reported that Keys had changed management from Red Light Management's Will Botwin to Ron Laffitte and Guy Oseary at Maverick.
+
+On September 8, 2014, Keys uploaded the music video to a new song called "We Are Here" to her Facebook page, accompanied by a lengthy status update describing her motivation and inspiration to write the song. It was released digitally the following week. Keys was also working with Pharrell Williams on her sixth studio album, first set for a 2015 release. In an interview with ''Vibe'', Keys described the sound of the album as "aggressive". One of the songs on the album is called "Killing Your Mother". Keys also played the piano on a Diplo-produced song "Living for Love" which featured on Madonna's thirteenth studio album ''Rebel Heart'' (2015). In November 2014, Keys announced that she is releasing a series of children's books. The first book released is entitled ''Blue Moon: From the Journals of MaMa Mae and LeeLee''. Keys gave birth to her second child, son Genesis Ali Dean, on December 27, 2014. In 2015 Keys performed at the BET Awards 2015 with The Weeknd. In September 2015, Swizz Beatz stated that Keys' sixth studio album will be released in 2016. Keys played the character Skye Summers in the second season of ''Empire''. She first appeared in the episode "Sinned Against", which aired November 25, 2015.
+
+=== 2016present: ''Here'' and ''The Voice''===
+On March 25, 2016, Keys was announced as a new coach on Season 11 of ''The Voice''. During ''The Voice'' finale, she came in third place with team member We' McDonald. On May 4, 2016, Keys released her first single in four years, entitled "In Common". On May 28, 2016, Keys performed in the opening ceremony of 2016 UEFA Champions League Final in San Siro, Milan. The song topped Billboard's Dance Club Songs chart on October 15. On June 20, 2016, Keys executive produced and starred in a short film ''We Are Here''. The film follows Zara (Keys) and her family's quest to flee from the United States to Mexico after America after numerous bomb blasts destroy Los Angeles turning it into a war zone.https://www.youtube.com/watch?v=v-1hpZzJpmg On July 26, 2016, Keys performed at the 2016 Democratic National Convention in Philadelphia. In October 2016, she released a single from upcoming album ''Here'' called Blended Family (What You Do For Love) feat. A$AP Rocky. On November 1, Keys unveiled her short film, "The Gospel," to accompany the LP. ''Here'' was released on November 4, peaking at number 2 of the ''Billboard 200'', becoming her seventh top 10 album. It peaked at number-one on the R&B/Hip-Hop Albums chart, becoming her seventh chart topper.
+
+In January 2017 she released the track "That's What's Up" that re-imagines the spoken word segment on the Kanye West song "Low Lights". In season 12 of ''The Voice'', Alicia was a coach for the second season in a row. She won the competition with her artist Chris Blue in the season 12 finale broadcast on May 23, 2017. In May 2017, in an interview with Entertainment Tonight, Alicia announced that she is working on her seventh studio album.[http://ratedrnb.com/2017/05/alicia-keys-readies-seventh-album/] In a letter to her fans, on the 'As I Am' 10th Anniversary, she revealed that the album is almost ready.[http://aliciakeys.com/welcome-to-the-vault/] On September 17, 2017, Keys performed at Rock in Rio, in a powerful and acclaimed performance. On October 18, 2017, NBC announced that she will be returning to the series for the upcoming 14th season on ''The Voice'' alongside veterans Levine, Shelton, and new coach Kelly Clarkson. She wrote and composed the song "We Are Here", which was featured in the short film ''We Rise''; that film was part of the New-York Historical Society's "Hotbed" exhibit about women's suffrage, which ran from November 3, 2017 to March 25, 2018. On December 5, 2017, Hip-hop artist Eminem revealed that Keys would be collaborating on the song "Like Home" for his ninth studio album Revival.
+
+On February 2, 2018, Keys was featured on the song "Morning Light" from Justin Timberlake's fifth studio album Man of the Woods. She will not return to The Voice for Season 15. http://en.koreaportal.com/articles/45056/20180514/the-voice-season-15-news-update-alicia-keys-out-guess-who-will-be-sitting-on-the-red-seats.htm
+
+==Artistry==
+{{Listen|filename=Alicia Keys - If I Ain't Go You sample.ogg|title="If I Ain't Got You" (2003)|description=Keys often incorporates piano into her songs|format=Ogg}}
+thumb|300px|right|Keys playing the piano, supported by three backup vocalists.
+
+From the beginning of her career, Keys has been noted for being a multifaceted talent, as a singer, songwriter, musician, arranger, and producer. She received notability for her singularity and maturity as a classical musician and singer-songwriter. ''The Times'' wrote that Keys' debut album, ''Songs in A Minor'', "spoke from a soul that seemed way beyond its years", and her follow up, ''The Diary of Alicia Keys'', "confirmed her place in musical history". ''The Seattle Times'' described Key's third album, ''As I Am'', as "another remarkable collection of varied songs that show her depth as a songwriter, singer and pianist." ''USA Today'', in a review of ''Songs in A Minor'', commended Keys' "musical, artistic and thematic maturity" starting out her career. ''The Japan Times'' praised Keys' production of ''Songs in A Minor'', displaying "the kind of taste and restraint that is rare in current mainstream R&B". ''Billboard'' wrote that her debut "introduced a different kind of pop singer. Not only was she mean on the ivories, but she showed true musicianship, writing and performing her material", and Keys continued developing her artistry with subsequent albums. ''Rolling Stone'' remarked that Keys broke into the music world as a singer "with hip-hop swagger, an old-school soul sound and older school (as in Chopin) piano chops", her appeal "bridging the generation gap". Keys's debut album, ''PopMatters'' wrote, reflects her sensibilities as young woman and as a "musical, cultural, and racial hybrid."
+
+Keys is also distinguished for being in control of her artistic output and image and having fought for creative independence since getting signed at 15 years old. ''PopMatters'' called Keys an artist who "clearly has a fine sense of her creative talents and has struggled to make sure they are represented in the best way." ''Rolling Stone'' wrote that, with her classical training, Keys "reintroduced the idea of a self-reliant (but still pop-friendly) R&B singer-songwriter  a type that stretches back to Stevie Wonder", crossing generational lines in the process. ''Blender'' magazine referred to her as "the first new pop artist of the millennium who was capable of changing music" with her complex of talents.
+
+Keys has been praised for her expressive vocals and emotive delivery. In a review of ''Songs in A Minor'', Jam! complimented her "crooning" and "warm" vocals as well as her belting "gospel-style". ''CMJ New Music Monthly'' commended her "deep soulful voice and heartfelt delivery" of her songs. ''Q'' magazine compared her vocal talent to Mary J Blige's and acknowledged her "sincerity" as "another plus" to her musical instincts. ''PopMatters'' noted her "deep purple vocals" and considered that Keys is "less concerned about technical proficiency" and more interested in "rendering musical moments as authentic and visceral as possible". ''The Guardian'' wrote that Keys "sings with devastating allure". Reviewing a live performance, the ''Los Angeles Times'' wrote that Keys has a "commanding voice" and the "style and vision to convey the character and detail of the songs", and praised "the range and taste of her musical instincts".
+
+An accomplished classical pianist, Keys incorporates piano into a majority of her songs and often writes about love, heartbreak and female empowerment. She has cited several artists as her inspirations, inclcuding Carole King, Prince, Nina Simone, Marvin Gaye, Quincy Jones, Donny Hathaway, Curtis Mayfield, Barbra Streisand, and Stevie Wonder. Keys' music is influenced by vintage soul music rooted in gospel, while she heavily incorporates classical piano with R&B, jazz, blues and hip hop into her music. ''The Guardian'' noted that Keys is skilled at fusing the "ruff hip-hop rhythms she absorbed during her New York youth" into her "heartfelt, soulful R&B stylings". She began experimenting with other genres, including pop and rock, in her third studio album, ''As I Am'',|title=As I Am  Overview|last=Brown|first=Marisa|work=Allmusic|accessdate=November 2, 2010}} transitioning from neo soul to a 1980s and 1990s R&B sound with her fourth album, ''The Element of Freedom''. Patrick Huguenin of the ''New York Daily News'' stated that her incorporation of classical piano riffs contributed to her breakout success. ''Jet'' magazine stated she "thrives" by touching fans with "piano mastery, words and melodious voice". ''The Independent'' described her style as consisting of "crawling blues coupled with a hip-hop backbeat", noting that her lyrics "rarely stray from matters of the heart". ''The New York Times'' noted that Keys presents herself as a musician first, and lyrically, her songs "plunge into the unsettled domain of female identity in the hip-hop era, determined to work their way through conflicting imperatives", while she plays multiple roles in her songs, expressing loyalty, jealousy, rejection, sadness, desire, fear, uncertainty, and tenacity.
+
+Keys has a three octave contralto vocal range. She can sing from B flat over an octave below middle C (B{{music|flat}}2) to soprano C (C6). Keys has been commended as having a strong, raw and impassioned voice, which was also thought to be "emotionally manufactured" at times and that she pushes her voice out of its natural range. Keys' lyrics have been called generic, revolving around generalities. Greg Kot of the ''Chicago Tribune'' felt that she "[pokes] around for multi-format hits rather than trying to project any sort of artistic vision". Conversely, Jon Pareles of ''Blender'' magazine stated that the musical composition of her songs makes up for lyrical weakness, while Gregory Stephen Tate of ''The Village Voice'' compared Keys' writing and production to 1970s music.
+
+Keys is one of three female artists (along with Beyonce and Taylor Swift) included on ''Billboard'' magazine's list of the "Top 20 Hot 100 Songwriters, 20002011" for writing songs that topped the ''Billboard'' Hot 100 chart.
+
+==Influence==
+thumb|140px|Keys performing at the MEO Arena in 2008
+Keys has been referred to as the "Queen of R&B" by various media outlets.On Friday, the queen of R&B, Alicia Keys, took over RodeoHouston. {{Citation | last1 = Clark | first1 = Michael | title = Duff makes rodeo a pop event | page = 5 | newspaper = Houston Chronicle|date = March 7, 2005| issn = 1074-7109}}
+
+''Time'' have listed her in their list of 100 most influential people twice. Christopher John Farley wrote "Her musicianship raises her above her peers. She doesn't have to sample music's past like a DJ scratching his way through a record collection; she has the chops to examine it, take it apart and create something new and personal with what she has found" in 2005, while Kerry Washington also wrote "''Songs in a Minor'' infused the landscape of hip-hop with a classical sensibility and unfolded the complexity of being young, gifted, female and black for a new generation. Alicia became an avatar for millions of people, always remaining true to herself" in 2017. Rolling Stone considers ''Songs in a Minor'' to be in their "100 Greatest Albums", and its single "Fallin'" in their "100 greatest songs" of the 2000s decade.
+
+VH1 have listed Keys in their "100 Greatest Artists of All Time", 14{{sup|th}} on "100 Greatest Women", and 33{{sup|rd}} on "50 Greatest Women of the Video Era" lists. Described by ''Billboard'' as an "international pop icon", she was placed at number 27 on their "35 Greatest R&B Artists of All Time" list. The BET Honors honored Keys for her contributions to music with the Entertainment award in 2008. Keys also received a Golden Note award at the 22nd annual ASCAP Rhythm and Soul Music awards in 2009. In 2018, she was honored by The Recording Academy's Producers & Engineers Wing for her "outstanding artistic contributions" and accomplishments. The Recording Academy stated: {{quote|Keys exemplifies versatility, making her mark in the music world as a singer/songwriter and producer, as well as an actress, author, activist, and philanthropist. [...] her impact on music and culture reaches far beyond sales tallies. The New York native's message of female empowerment and her authentic songwriting process have made her an inspiration for women and aspiring creatives worldwide.}} The National Music Publishers Association (NMPA) will honor Keys with the Songwriter Icon award, for her "credits as a music creator" and her "role as an inspirational figure to millions". NMPA president David Israelite wrote about Keys: "Shes a songwriter icon, but she is also an icon of confidence and encouragement to all. Through her writing, performing, philanthropy, mentoring and advocacy for fair compensation for her fellow songwriters, she is a true force for good in our industry and beyond".
+
+Keys's voice and work influenced numerous singers including Adele, Bruno Mars, Emeli Sand, Lauren Jauregui,
+Normani Kordei, and Ally Brooke.
+
+==Achievements==
+{{see also|List of awards and nominations received by Alicia Keys}}
+
+Keys is listed on the Recording Industry Association of America's best-selling artists in the United States, selling over 17.8million albums and 21.9million digital songs. She has sold over 30 million albums worldwide. Billboard ranked Keys as the fifth-most successful artist of the 2000s decade, top R&B artist of the 2000s decade, and placed her at number 10 in their list of Top 50 R&B/Hip-Hop Artists of the Past 25 Years.
+
+Keys has earned numerous awards including 15 Grammy Awards, 17 NAACP Image Awards, 9 Billboard Music Awards and 7 BET Awards. Keys received 5 Grammy Awards in 2005, as the only the second American singer to win as many in one night. ''Fuse'' ranks her as the thirteenth-most awarded musician of all time. Keys was the best-selling new artist and best-selling R&B artist of 2001. She has attained 4 Billboard Hot 100 number-one singles from 9 top-ten singles.{{citation |url=http://www.billboard.com/music/alicia-keys/chart-history/hot-100 |title=Hot 100|website=Billboard|access-date=October 8, 2017}} She has also attained 8 Hot R&B/Hip-Hop Songs and Airplay number-one singles,{{citation |url=http://www.billboard.com/music/alicia-keys/chart-history/r-b-hip-hop-songs |title=Hot R&B/Hip-Hop Songs|website=Billboard|access-date=October 8, 2017}}{{citation |url=http://www.billboard.com/music/alicia-keys/chart-history/hot-r-and-b-hip-hop-airplay|title=R&B/Hip-Hop Airplay|website=Billboard|access-date=October 8, 2017}} and set a ''Guinness World Record'' on the former in 2008, when she became the first artist to replace herself at number one with "No One" and "Like You'll Never See Me Again". "No One" and "Empire State of Mind" are also amongst the list of best-selling singles worldwide.
+
+==Public image==
+
+VH1 placed Keys at number 10 on their 100 Sexiest Artist list. Keys was described as an "uneasy sex symbol". Early in her career, she was subject to rumours of homosexuality which she denied. In 2011, a wax figure of Keys was unveiled at Madame Tussauds New York.
+
+==Personal life==
+thumb|160px|Keys with Dean in 2013
+Keys maintained a low-profile relationship with producer Kerry Brothers Jr. from 2006.{{citation |url= http://www.people.com/people/alicia_keys/biography/|title=Alicia Keys|archive-url=https://web.archive.org/web/20150401015344/http://www.people.com/people/alicia_keys/biography/ |website=People|archive-date=April 1, 2015|access-date=January 23, 2017}}
+
+Keys then began dating producer Swizz Beatz (Kasseem Dean) in 2008, who was still in the process of divorcing from his then-wife, singer Mashonda Tifrere. Keys and Dean announced their engagement in May 2010, while expecting their first child. They held a Zulu ceremony to bless the unborn child in the Illovo suburb of Johannesburg, South Africa during the 2010 FIFA World Cup. They were married in July 2010 on the French island of Corsica. Keys gave birth to a son, Egypt Daoud Dean, in October 2010. She gave birth to their second son, Genesis Ali Dean, in December 2014.{{citation|url=http://www.people.com/people/alicia_keys/biography/0,,20158648_10,00.html |title=Alicia Keys |archive-url=https://web.archive.org/web/20150331001236/http://www.people.com/people/alicia_keys/biography/0%2C%2C20158648_10%2C00.html |website=People |archive-date=March 31, 2015 |access-date=January 23, 2017 |deadurl=yes |df= }} Keys and Dean reside primarily in Englewood, New Jersey; until 2010 Keys lived in Syosset, New York.
+
+==Philanthropy and activism==
+thumb|150px|Keys protesting with Benjamin Chavis in 2002.
+Keys is the co-founder and Global Ambassador of Keep a Child Alive, a non-profit organization that provides medicine, orphan care, and social support to families with HIV and AIDS in Africa and India. Keys was born during a time when the AIDS epidemic was gaining a lot of attention in the United States. She was first affected by the HIV/AIDs crisis at 8 years old when her mother's friend died from the disease. She discovered first-hand the extensive impact of the AIDS epidemic years later when she visited South Africa, a trip that was the impetus to cofounding Keep a Child Alive. Keys had befriended AIDS activist Leigh Blake, who had reached out to her and helped raise her awareness to the global impact of HIV/AIDS. Keys and Leigh visited South African clinics with HIV-infected mothers and children, where Keys encountered the lack of resources and education on the disease present in the communities. Keys visited other African countries such as Uganda and Kenya to promote care for children affected by AIDS. Her work in Africa was documented in the documentary ''Alicia in Africa: Journey to the Motherland'' which was released in April 2008.
+
+Keys hosts Keep A Child Alive's annual fundraising gala called the Black Ball. Every year, artists and other celebrities come together to support and perform to raise funds for the cause. The Black Ball has featured performances from an array of artists including David Bowie, Bono, Pattie Smith, Annie Lennox, Mary J. Blige, Justin Timberlake, Jay-Z, John Mayer, Adele and Chris Martin. Activists and philanthropists have also been honored at the Black Ball, including Oprah, former President Bill Clinton, Clive Davis, Youssou N'Dour, Sir Richard Branson, and Bono. According to Keys, the Black Ball held in 2014 raised around 2.4million dollars. Keys and U2 lead singer Bono recorded a cover version of Peter Gabriel and Kate Bush's "Don't Give Up" to raise funds for Keep a Child Alive. Their version of the song was retitled "Don't Give Up (Africa)" to reflect the nature of the charity it was benefiting.
+
+In 2005, Keys performed in Philadelphia, Pennsylvania, as part of the worldwide Live 8 concerts to raise awareness of the poverty in Africa and to pressure the G8 leaders to take action. In November 2006, Keys joined David Bowie for what would turn out to be his final live performance at a fundraising event in New York's Hammerstein Ballroom, where they sang a three-song set which included "Changes". In June 2011, Keys spoke alongside musician Annie Lennox at the United Nations AIDS conference in New York. She participated in a panel titled "HIV Priorities for Positive Change: In Womens Words", in which she calls on supporting organizations that provide treatment and care for families affected by AIDS. Empowering the next generation of women, she says, would greatly aid in the end to the disease. UNAIDS|website=www.unaids.org|access-date=October 20, 2016}}
+
+Keys performed Donny Hathaway's 1973 song "Someday We'll All Be Free" at the ''America: A Tribute to Heroes'' televised benefit concert following the September 11 attacks. Keys became a protestor at the New York City Hall against proposed budget cuts for students' education in June 2002. Keys has also donated to Frum tha Ground Up, a non-profit organization that aids children and teenagers with scholarships. In 2005, Keys performed on ''ReAct Now: Music & Relief'' and ''Shelter from the Storm: A Concert for the Gulf Coast'', two benefit programs that raised money for those affected by Hurricane Katrina. In July 2007, Keys and Keith Urban performed The Rolling Stones' 1969 song "Gimme Shelter" at Giants Stadium in East Rutherford, New Jersey at the American leg of the Live Earth concerts.
+thumb|right|upright|Keys performing at the Live Earth concert in 2007
+
+She participated in the Nobel Peace Prize Concert which took place at the Oslo Spektrum in Oslo, Norway, on December 11, 2007, along with other artists. She recorded a theme song for Democratic presidential nominee Barack Obama. She joined Joss Stone and Jay-Z on the effort, which served as a theme song for Obama's campaign. For her work, Keys was honored at the 2009 BET Awards with the Humanitarian Award. Keys performed the song "Prelude to a Kiss", retitled "Send Me an Angel", from her 2007 album ''As I Am'' for the "Hope for Haiti Now: A Global Benefit for Earthquake Relief" telethon in response to the 2010 Haiti earthquake.
+
+In September 2012, she was featured in a campaign called "30 Songs / 30 Days" to support ''Half the Sky: Turning Oppression into Opportunity for Women Worldwide'', a multi-platform media project inspired by Nicholas Kristof and Sheryl WuDunn's book.
+In March 2013, Keys teamed up with Greater Than AIDS to launch EMPOWERED, a new public information campaign to reach women in the United States about HIV/AIDS. Appearing in a public service announcement for EMPOWERED, Keys spoke with five women whose lives have been affected by HIV/AIDS. In December 2012, Keys performed alongside many other native New Yorkers in 12-12-12: The Concert for Sandy Relief to benefit victims of Hurricane Sandy.
+
+thumb|280px|Keys protesting at the Women's March in 2017.
+In May 2016, Keys initiated a #NoMakeup movement, where she wrote on ''Lenny'' "Before I started my new album, I wrote a list of all the things that I was sick of. And one was how much women are brainwashed into feeling like we have to be skinny, or sexy, or desirable, or perfect. One of the many things I was tired of was the constant judgment of women. The constant stereotyping through every medium that makes us feel like being a normal size is not normal, and heaven forbid if you're plus-size. Or the constant message that being sexy means being naked". Keys presented her movement at various events, and received a range of both complimentary and critical responses.
+
+In July 2016, Keys participated in a video on taking action against systemic racism in the United States titled, "23 Ways You Could Be Killed if You are Black in America". After the inauguration of Donald Trump as the 45th President of the United States in 2017, Keys protested during the Women's March on Washington. She was one of the key speakers, and she said that "we want the best for all Americans. No hate, no bigotry, no Muslim registry. We value education, health care, equality." She added that she cares about women's equal pay, war, women's rights, and environmental protection. Keys also sang a version of her hit song "Girl on Fire."
+
+In Montral, on May 27, 2017, Alicia Keys received and shared the award for the Ambassador of Conscience 2017 from Amnesty International alongside Canadian Indigenous rights activists.
+
+==Discography==
+{{Main|Alicia Keys discography}}
+;Studio albums
+*''Songs in A Minor'' (2001)
+*''The Diary of Alicia Keys'' (2003)
+*''As I Am'' (2007)
+*''The Element of Freedom'' (2009)
+*''Girl on Fire'' (2012)
+*''Here'' (2016)
+
+==Concert tours==
+{{Main|List of Alicia Keys tours}}
+
+* Songs in A Minor Tour (200102)
+* The Verizon Ladies First Tour (2004)
+* Diary Tour (2005)
+* As I Am Tour (2008)
+* Freedom Tour (2010)
+* Piano & I: An Intimate Evening with Alicia Keys and Her Piano (2011)
+* Set the World on Fire Tour (2013)
+
+==Filmography==
+{| class="wikitable sortable". 
++ List of television and film credits. 
+-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes. 
+-. 
+1985. 
+''The Cosby Show''. 
+Maria (credited as Alicia Cook). 
+"Slumber Party" (Season 1, Episode 22). 
+-. 
+2001. 
+''Charmed''. 
+P3 VIP Patron (uncredited). 
+"Size Matters" (Season 4, Episode 5). 
+-. 
+2001. 
+''Saturday Night Live''. 
+Herself; Musical Guest. 
+"Reese Witherspoon/Alicia Keys" (Season 27, Episode 1). 
+-. 
+2003. 
+''American Dreams''. 
+Fontella Bass. 
+"Rescue Me" (Season 2, Episode 6). 
+-. 
+2003. 
+''The Proud Family''. 
+Herself (voice). 
+"The Good, the Bad, and the Ugly" (Season 3, Episode 46). 
+-. 
+2004. 
+2004 Soul Train Music Awards. 
+Host. 
+. 
+-. 
+2004. 
+''Live with Regis and Kelly''. 
+Co-host. 
+. 
+-. 
+2005. 
+MTV Asia Aid 2005. 
+Host. 
+. 
+-. 
+2005. 
+''Sesame Street''. 
+Herself. 
+Episode #36.26 (Season 36, Episode 26). 
+-. 
+2005. 
+''MTV Unplugged''. 
+Herself; Performer. 
+. 
+-. 
+2006. 
+''The Backyardigans''. 
+Mommy Martian (voice). 
+"Mission to Mars" (Season 2, Episode 1). 
+-. 
+2006. 
+''Def Poetry Jam''. 
+Herself. 
+Season 5, Episode 2. 
+-. 
+|2007. 
+''Cane''. 
+Herself. 
+"One Man Is an Island" (Season 1, Episode 7). 
+-. 
+|2007. 
+''Elmo's Christmas Countdown''. 
+Herself. 
+Christmas television special. 
+-. 
+2007. 
+''Smokin' Aces''. 
+Georgia Sykes. 
+Debut film. 
+-. 
+2007. 
+''The Nanny Diaries''. 
+Lynette. 
+. 
+-. 
+2007. 
+''Iconoclasts''. 
+Herself. 
+Season 3, Episode 2. 
+-. 
+2007. 
+''106 & Park''. 
+Co-host. 
+Season 6, Episode 99. 
+-. 
+|2008. 
+''Dove: Fresh Takes''. 
+Alex. 
+Lead role. 
+-. 
+2008. 
+''Alicia in Africa: Journey to the Motherland''Alicia in Africa: Journey to the Motherland (2008)
+*{{cite web
+ |title       = KCA Store  Alicia in Africa DVD
+ |url         = https://secure3.convio.net/kca/site/Ecommerce/1642562723?VIEW_PRODUCT=true&product_id=1141&store_id=1561
+ |publisher   = Keep a Child Alive
+ |accessdate  = November 7, 2014
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20141108185716/https://secure3.convio.net/kca/site/Ecommerce/1642562723?VIEW_PRODUCT=true&product_id=1141&store_id=1561
+ |archivedate = November 8, 2014
+ |df          = mdy
+}}
+*{{cite news
+ |date        = April 7, 2008
+ |title       = Alicia Keys' Documentary "Alicia in Africa: Journey to the Motherland" Available...
+ |agency      = Reuters
+ |publisher   = Thomson Reuters
+ |url         = https://www.reuters.com/article/idUS189864+07-Apr-2008+BW20080407
+ |accessdate  = November 2, 2010
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20100601235008/https://www.reuters.com/article/idUS189864%2007-Apr-2008%20BW20080407
+ |archivedate = June 1, 2010
+ |df          = 
+}}
+*{{cite web
+ |title       = Alicia in Africa, Journey to the Motherland  Earle Sebastian  45min
+ |url         = http://www.idfa.nl/industry/tags/project.aspx?id=c4934b4c-ba5d-4573-b2fa-ceb35d0ce6a3
+ |publisher   = International Documentary Film Festival
+ |accessdate  = November 4, 2014
+ |deadurl     = yes
+ |archiveurl  = https://web.archive.org/web/20141108185938/http://www.idfa.nl/industry/tags/project.aspx?id=c4934b4c-ba5d-4573-b2fa-ceb35d0ce6a3
+ |archivedate = November 8, 2014
+ |df          = mdy-all
+}}
+. 
+Herself. 
+. 
+-. 
+|2008. 
+''The Secret Life of Bees''. 
+June Boatwright. 
+Nominated  NAACP Image Award for Outstanding Supporting Actress in a Motion Picture. 
+-. 
+2010. 
+''Saturday Night Live''. 
+Herself; Musical Guest. 
+"Charles Barkley/Alicia Keys" (Season 35, Episode 11). 
+-. 
+2011. 
+''Five''. 
+Director. 
+Nominated  Directors Guild of America Award. 
+-. 
+2011. 
+''Keep a Child Alive with Alicia Keys''Keep a Child Alive with Alicia Keys
+*{{cite web
+ |title=Keep a Child Alive with Alicia Keys  Reality/Docs 
+ |url=http://www.sho.com/sho/reality-docs/titles/139877/keep-a-child-alive-with-alicia-keys#/index 
+ |publisher=Showtime 
+ |accessdate=November 7, 2014 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20141108180109/http://www.sho.com/sho/reality-docs/titles/139877/keep-a-child-alive-with-alicia-keys 
+ |archivedate=November 8, 2014 
+ |df=mdy 
+}}
+*{{cite web
+ |title=KCA Store  Keep a Child Alive with Alicia Keys DVD 
+ |url=https://secure3.convio.net/kca/site/Ecommerce/326725636?VIEW_PRODUCT=true&product_id=1881&store_id=1561 
+ |publisher=Keep a Child Alive 
+ |accessdate=November 7, 2014 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20141108181348/https://secure3.convio.net/kca/site/Ecommerce/326725636?VIEW_PRODUCT=true&product_id=1881&store_id=1561 
+ |archivedate=November 8, 2014 
+ |df=mdy 
+}}
+*{{cite web
+ |author1=Benge Nsenduluka 
+ |title=Alicia Keys' AIDS Documentary to Help Create Awareness 
+ |url=http://www.christianpost.com/news/alicia-keys-aids-documentary-to-help-create-awareness-63778/ 
+ |publisher=Christianpost 
+ |accessdate=November 7, 2014 
+ |date=December 2, 2011 
+}}. 
+Herself. 
+. 
+-. 
+2012. 
+''Firelight''. 
+Executive Producer. 
+. 
+-. 
+2012. 
+''The Conversation with Amanda de Cadenet''. 
+Herself. 
+. 
+-. 
+2012. 
+''The X Factor Australia''. 
+Herself; Guest Mentor. 
+Season 4. 
+-. 
+2012. 
+''America's Next Top Model''. 
+Herself; Special Guest. 
+"The Girl Who Sings For Alicia Keys" (Season 19, Episode 5). 
+-. 
+2013. 
+''Muscle Shoals''Muscle Shoals (2013)
+*
+*. 
+Herself; Performance. 
+. 
+-. 
+2013. 
+''Girl Rising''. 
+Narrator. 
+. 
+-. 
+2013. 
+''Oprah's Master Class''. 
+Herself. 
+Season 3, Episode 1. 
+-. 
+2013. 
+''The Inevitable Defeat of Mister and Pete''. 
+Executive Producer; Composer. 
+. 
+-. 
+2014. 
+''Nas: Time Is Illmatic''. 
+Herself. 
+. 
+-. 
+2014. 
+''The Voice''. 
+Herself; Mentor. 
+Season 7. 
+-. 
+2015. 
+''American Masters. 
+ Herself. 
+"The Women's List" (Season 28, Episode 7). 
+-. 
+2015. 
+''Shining a Light: Conversations on Race in America''. 
+ Herself. 
+. 
+-. 
+2015. 
+''Empire''. 
+ Skye Summers. 
+Season 2. 
+-. 
+2015. 
+''Jem and the Holograms''. 
+Herself. 
+Cameo. 
+-. 
+2016. 
+''Saturday Night Live''. 
+Herself; Musical Guest. 
+"Brie Larson/Alicia Keys" (Season 41, Episode 19). 
+-. 
+2016. 
+''Let Me In''. 
+Zara. 
+. 
+-. 
+2016present. 
+''The Voice''. 
+Herself; Coach. 
+Season 1112, 14. 
+-. 
+2016. 
+ ''The Gospel''. 
+ Herself. 
+ . 
+-. 
+2016. 
+''Here in Times Square''. 
+Herself; Performer. 
+. 
+-. 
+2016. 
+ ''CMT Crossroads''. 
+ Herself. 
+ Episode 58. 
+-. 
+2016. 
+ ''The Voice of Germany''. 
+ Herself; Guest Mentor. 
+ Season 6. 
+-. 
+2017. 
+''Landmarks Live: Great Performances''. 
+Herself: Performer. 
+. 
+-. 
+2017. 
+''The Soundtrack of My Life''. 
+Herself. 
+ . 
+}
+
+{| class="wikitable sortable". 
++ List of theatre credits. 
+-
+! Year
+! Title
+! Role
+! class="unsortable" | Notes. 
+-. 
+2011. 
+''Stick Fly''. 
+Producer; composer. 
+. 
+}
+
+{| class="wikitable". 
++ List of commercials. 
+- style="text-align:center;"
+! style="background:#B0C4DE;" | Year
+! style="background:#B0C4DE;" | Company
+!  style="background:#b0c4de; width:50%;"| Product/Campaign. 
+-. 
+ style="text-align:center;"| 2005. 
+ ProactivProactiv (2005)
+*
+*
+. 
+ Proactiv Solution. 
+-. 
+ style="text-align:center;"| 2007. 
+ American Express. 
+ Are you a Cardmember?. 
+-. 
+ style="text-align:center;"| 2011. 
+ Hewlett-Packard. 
+ HP Beats . 
+-. 
+ style="text-align:center;"| 2012. 
+ Reebokhttp://www.rap-up.com/2012/09/07/video-alicia-keys-stars-in-reebok-classics-commercial/. 
+ Reebok Classics. 
+-. 
+ style="text-align:center;"| 2012. 
+ Citihttps://www.ispot.tv/ad/7LX0/citi-private-pass-break-up-featuring-alicia-keys. 
+ Citi Private Pass. 
+-. 
+ style="text-align:center;"| 2014. 
+ Givenchyhttp://thatgrapejuice.net/2014/09/watch-alicia-keys-stars-givenchys-dahlia-divin-commercial/. 
+ Dalia Divin. 
+-. 
+ style="text-align:center;"| 2015. 
+ Levi'sLevi's commercial (2015)
+*
+*
+. 
+ Women's Denim Collection. 
+-. 
+ style="text-align:center;"| 2017. 
+ Nikehttp://www.billboard.com/articles/business/7693184/alicia-keys-change-is-gonna-come-nike-ad-video. 
+ Equality. 
+- . 
+}
+
+==See also==
+{{Wikipedia books|Alicia Keys}}
+* List of awards and nominations received by Alicia Keys
+* List of artists who reached number one in the United States
+* Honorific nicknames in popular music
+

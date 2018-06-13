@@ -1,0 +1,892 @@
+--film
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Barbra Streisand</title>
+    <ns>0</ns>
+    <id>72336</id>
+    <revision>
+      <id>844133084</id>
+      <parentid>842092402</parentid>
+      <timestamp>2018-06-02T20:57:14Z</timestamp>
+      <contributor>
+        <username>Sunshineisles2</username>
+        <id>10907185</id>
+      </contributor>
+      <comment>Per [[Template:Infobox person#Parameters|template guidelines]], it is not advisable to link/spell out obvious locales (specifically like New York City being in New York).</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="132447">{{other uses}}
+{{redirect|Streisand|the singer's tour|Streisand (concert tour)}}
+{{pp-semi-protected|small=yes}}
+{{pp-move-indef}}
+{{use American English|date=June 2015}}
+{{Use mdy dates|date=September 2017}}
+{{Infobox person
+| name           = Barbra Streisand
+| image          = Barbra Streisand - 1966.jpg
+| caption        = Streisand in 1966
+| birth_name     = Barbara Joan Streisand
+| birth_date     = {{birth date and age|1942|4|24}}
+| birth_place    = [[New York City]], U.S. &lt;!--No boroughs/neighborhoods, just cities per format.--&gt;
+| residence      = [[Los Angeles]], [[California]], U.S.
+| education      = [[Erasmus Hall High School]]
+| occupation     = {{flatlist|
+*Singer
+*songwriter
+*actress
+*filmmaker
+}}
+| spouse        = {{marriage|[[Elliott Gould]]&lt;br /&gt;|1963|1971|reason=divorced}}&lt;br /&gt;{{marriage|[[James Brolin]]&lt;br /&gt;|July 1, 1998}}
+| relatives     = {{nowrap|[[Roslyn Kind]] &lt;small&gt;(maternal half-sister)&lt;/small&gt;}}
+| children      = [[Jason Gould]]
+| awards        = 
+| module        = {{Infobox musical artist|embed=yes
+| background    = solo_singer
+| genre         = {{flat list|
+*[[Broadway theatre|Broadway]]
+*[[Traditional pop music|traditional pop]]
+*[[disco]]}}
+| instrument     = Vocals
+| years_active   = 1961present
+| label          = [[Columbia Records|Columbia]]
+| associated_acts = {{flat list|
+*[[Alan and Marilyn Bergman]]
+*[[Barry Gibb]]
+*[[Diana Krall]]
+*[[Marvin Hamlisch]]
+*[[Phil Perry]]}}
+| website        = {{url|barbrastreisand.com}}
+}}}}
+
+'''Barbara Joan "Barbra" Streisand''' ({{IPAc-en||s|t|r|a|s||n|d}}; born April 24, 1942) is an American singer, songwriter, actress, and filmmaker. In a career spanning six decades, she has achieved success in multiple fields of entertainment and has been recognized with two [[Academy Award]]s,&lt;ref&gt;{{cite web |url=http://awardsdatabase.oscars.org/ampas_awards/DisplayMain.jsp?curTime=1343277311952 |title=Academy Awards Database |publisher=Academy of Motion Picture Arts and Sciences |date=January 29, 2010 |accessdate=July 26, 2012 }}{{dead link|date=December 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt; ten [[Grammy Award]]s including the [[Grammy Lifetime Achievement Award]] and the [[Grammy Legend Award]],&lt;ref name=Broadway&gt;[http://www.broadwayworld.com/article/Barbra-Streisand-Goes-Platinum-for-History-Making-31st-Time-with-PARTNERS-20150120 "Barbra Streisand Goes Platinum for History-Making 31st Time with Partners"]. ''Broadway World''. January 20, 2015.&lt;/ref&gt; five [[Emmy Award]]s including one [[Daytime Emmy Award|Daytime Emmy]],&lt;ref&gt;{{cite web|url=http://www.emmys.com/awards/nominations/award-search?search_api_views_fulltext=Barbra+Streisand&amp;field_is_winner%5b1%5d=1&amp;submit=Search&amp;search_api_views_fulltext_1=&amp;search_api_views_fulltext_3=&amp;search_api_views_fulltext_2=&amp;search_api_views_fulltext_4=&amp;field_nominations_year=1949-01-01+00%3A00%3A00&amp;field_nominations_year_1=2013-01-01+00%3A00%3A00&amp;field_nomination_category=All |title=Awards Search |publisher=Academy Of Television Arts &amp; Sciences |accessdate=December 10, 2013}}&lt;/ref&gt; a [[Special Tony Award]], an [[American Film Institute]] award, a [[Kennedy Center Honors]] prize,&lt;ref name="American Film Institute"&gt;{{cite web |url=http://www.afi.com/laa/laa01.aspx |title=AFI Life Achievement Award: Barbra Streisand |publisher=American Film Institute |accessdate=December 9, 2009}}&lt;/ref&gt; four [[Peabody Award]]s,&lt;ref&gt;{{cite web|url=http://www.peabodyawards.com/stories/story/the-ultimate-show-biz-coup-pegot |title=The Ultimate Show Biz Coup: PEGOT |publisher=The Peabody Awards |accessdate=December 10, 2014}}&lt;/ref&gt; the [[Presidential Medal of Freedom]],&lt;ref&gt;{{cite web|last1=Johnson|first1=Ted|title=Steven Spielberg, Barbra Streisand to Receive Presidential Medal of Freedom|url=https://finance.yahoo.com/news/steven-spielberg-barbra-streisand-receive-presidential-medal-freedom-212322362.html;_ylt=A0LEVi14mUpWtjcA6Y0PxQt.;_ylu=X3oDMTByMjB0aG5zBGNvbG8DYmYxBHBvcwMxBHZ0aWQDBHNlYwNzYw--|website=Yahoo!|publisher=Variety|accessdate=November 17, 2015}}&lt;/ref&gt; and nine [[Golden Globe Award|Golden Globes]].&lt;ref&gt;{{cite web |url=http://www.hfpa.org/ggasearch/?q=barbra+streisand |title=Awards Search |publisher=Hollywood Foreign Press Association |accessdate=December 10, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20150402112920/http://www.hfpa.org/ggasearch/?q=barbra+streisand |archivedate=April 2, 2015 |df=mdy-all }}&lt;/ref&gt; She is among a small group of [[List of people who have won Academy, Emmy, Grammy, and Tony Awards|entertainers who have been honored with an Emmy, Grammy, Oscar, and Tony Award]], and is one of only two artists in that group who have also won a [[Peabody Award|Peabody]].&lt;ref&gt;{{cite web|url=http://www.peabodyawards.com/stories/story/the-ultimate-show-biz-coup-pegot |title=The Ultimate Show Biz Coup: PEGOT |publisher=The Peabody Awards |accessdate=February 28, 2016}}&lt;/ref&gt; 
+
+After beginning a successful recording career in the 1960s, Streisand ventured into film by the end of that decade. She starred in the critically acclaimed ''[[Funny Girl (film)|Funny Girl]]'', for which she won the [[Academy Award for Best Actress|Academy Award]] and [[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy|Golden Globe Award for Best Actress]].&lt;ref&gt;{{cite web|url=http://www.imdb.com/name/nm0000659/awards |title=Barbra Streisand's Awards |publisher=Internet Movie Database |date=March 2, 2013 |accessdate=March 2, 2013}}&lt;/ref&gt; Her other films include ''[[The Owl and the Pussycat (film)|The Owl and the Pussycat]]'', ''[[The Way We Were]]'', and ''[[A Star Is Born (1976 film)|A Star Is Born]]'', for which she received her second [[Academy Award for Best Original Song|Academy Award]], composing music for the love theme "[[Evergreen (Love Theme from A Star Is Born)|Evergreen]]", the first woman to be honored as a composer.&lt;ref&gt;{{cite web|url=http://movies.broadwayworld.com/article/Barbra-Streisand-to-Sing-The-Way-We-Were-for-the-Oscars-Memorial-Segment-20130222 |title=Barbra Streisand to Sing 'The Way We Were' for the Oscars Memorial Segment |publisher=movies.broadwayworld.com |date=February 22, 2013 |accessdate=March 2, 2013}}&lt;/ref&gt; With the release of [[Yentl (film)|''Yentl'']] in 1983, Streisand became the first woman to write, produce, direct, and star in a major studio film.&lt;ref&gt;Kagan, Jeremy. ''Directors Close Up'', Scarecrow Press (2006) p. 297&lt;/ref&gt; The film won an Oscar for Best Score and a Golden Globe for [[Golden Globe Award for Best Motion Picture  Musical or Comedy|Best Motion Picture Musical]]; Streisand received the [[Golden Globe Award for Best Director]], the first (and to date only) woman to win that award.
+
+Streisand is one of the [[List of best-selling music artists|best-selling recording artists of all time]], with more than 68.5 million albums in the U.S. and with a total of 150 million albums and singles sold worldwide&lt;ref name="East Bay Times"&gt;{{cite web|last1=Harrington|first1=Jim|title=Barbra Streisand at SAP Center strolls down Memory Lane|url=http://www.eastbaytimes.com/2016/08/05/barbra-streisand-at-sap-center-strolls-down-memory-lane/|website=East Bay Times|publisher=East Bay Times|accessdate=August 5, 2016}}&lt;/ref&gt;&lt;ref name="Top Selling Artists albums"&gt;{{cite web|url=https://www.riaa.com/goldandplatinum.php?content_selector=top-selling-artists|title=Top Selling Artists (albums)|publisher=RIAA|date= March 25, 2015|accessdate= March 25, 2015}}&lt;/ref&gt; making her the best-selling female artist among top-selling artists recognized by the Recording Industry Association of America.&lt;ref name="Top Selling Artists albums"/&gt;&lt;ref name="The Washington Post"&gt;{{cite web|last1=McDonald|first1=Soraya|title=After 51-year absence, Barbra Streisand takes the host chair at 'The Tonight Show'|url=https://www.washingtonpost.com/news/morning-mix/wp/2014/09/16/after-51-year-absence-barbra-streisand-takes-the-host-chair-at-the-tonight-show/|website=Washington Post|publisher=The Washington Post|accessdate=June 17, 2015}}&lt;/ref&gt; The [[RIAA]] and ''[[Billboard (magazine)|Billboard]]'' recognize Streisand as holding the record for the most top 10 albums of any female recording artist: a total of 34 since 1963. According to ''Billboard'', Streisand holds the record for the female with the most number one albums (11).&lt;ref&gt;{{cite web|url=http://www.billboard.com/articles/columns/chart-beat/6259282/barbra-streisand-no-1-partners |title=Chart Watch Extra: The Acts With The Most Top 10 Albums, Ever  Chart Watch |publisher=Yahoo! Music |date=October 17, 2008 |accessdate=December 9, 2009}}&lt;/ref&gt; ''Billboard'' also recognizes Streisand as the greatest female of all time on its ''Billboard'' 200 chart and one of the greatest artists of all time on its Hot 100 chart.&lt;ref&gt;{{cite web|last1=N/A|first1=N/A|title=Greatest of All Time (Billboard 200 Artists)|url=http://www.billboard.com/charts/greatest-billboard-200-artists|website=Billboard|publisher=Billboard|accessdate=November 13, 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=N/A|first1=N/A|title=Greatest Of All Time (Hot 100 Artists)|url=http://www.billboard.com/charts/greatest-hot-100-artists|website=Billboard|publisher=Billboard|accessdate=November 13, 2015}}&lt;/ref&gt; Streisand is the only recording artist to have a number-one album in each of the last six decades, having released 53 gold albums, 31 platinum albums, and 14 multi-platinum albums in the United States.&lt;ref name=Broadway /&gt;
+
+{{anchor|Roslyn Kind}}
+
+== Early life ==
+
+=== Family ===
+Barbara Joan Streisand was born on April 24, 1942, in [[Brooklyn]], New York, the daughter of Diana (born Ida Rosen) and Emanuel Streisand. Her mother had been a soprano singer in her youth and considered a career in music, but later became a school secretary.&lt;ref&gt;{{cite news|last=Gavin |first=James |url=https://www.nytimes.com/2012/10/07/books/review/hello-gorgeous-becoming-barbra-streisand-by-william-j-mann.html?pagewanted=all&amp;_r=0 |title='Hello, Gorgeous  Becoming Barbra Streisand,' by William J. Mann |work=The New York Times |date=October 5, 2012 |accessdate=October 31, 2012}}&lt;/ref&gt; Her father was a high school teacher at the same school, where they first met.&lt;ref&gt;{{cite web|url=https://www.npr.org/templates/transcript/transcript.php?storyId=166966172|title='Guilt Trip': Streisand On Songs, Films And Family|work=National Public Radio|date=December 17, 2012|accessdate=April 29, 2018}}&lt;/ref&gt; Streisand's family was [[Jewish]];&lt;ref&gt;{{cite web|first=Celia|last=Walden|url=https://www.telegraph.co.uk/culture/film/starsandstories/8722516/Barbra-Streisand-interview.html|title=Barbra Streisand interview|work=The Telegraph|date=August 26, 2011|accessdate=April 29, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|first=Jay|last=Rayner|url=https://www.theguardian.com/music/2007/may/06/popandrock.jayrayner|title=One-night stands don't come cheap|work=The Guardian|date=May 6, 2007|accessdate=April 29, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|first=Michele|last=Chabin|url=https://www.usatoday.com/story/news/world/2013/06/21/streisand-israel-concert-jewish-roots/2445991/|title=Streisand wows Israelis, makes headlines for segregation stand|work=[[USA Today]]|date=June 21, 2013|accessdate=May 11, 2018}}&lt;/ref&gt; her paternal grandparents emigrated from [[Galicia (Eastern Europe)|Galicia]] (PolandUkraine) and her maternal grandparents from the [[Russian Empire]], where her grandfather had been a [[cantor]].&lt;ref&gt;{{cite book |title=Barbra: The Way She Is |first=Christopher |last=Andersen |year=2006 |pages=2022}}&lt;/ref&gt;&lt;ref&gt;{{cite web|first=Suzanne|last=Cords|url=http://www.dw.com/en/barbra-streisand-at-75-a-girl-from-brooklyn-makes-it-big/a-38559835|title=Barbra Streisand at 75: A girl from Brooklyn makes it big|work=[[Deutsche Welle]]|date=April 24, 2017|accessdate=May 11, 2018}}&lt;/ref&gt;
+
+Her father earned a master's degree from City College of New York in 1928 and was considered athletic and handsome. As a student, he spent his summers outdoors, once working as a lifeguard and another hitchhiking through Canada. "He'd try anything," his sister Molly said. "He wasn't afraid of anything." He married Ida in 1930, two years after graduating, and became a highly respected educator with a focus on helping underprivileged and delinquent youth.&lt;ref name=Nickens&gt;Christopher Nickens, and Swensen, Karen. ''The Films of Barbra Streisand'', Citadel Press (2000)&lt;/ref&gt;{{rp|3}}
+
+In August 1943, a few months after Streisand's first birthday, her father died suddenly at age 34 from complications from an [[epileptic seizure]], possibly the result of a head injury years earlier.&lt;ref name=Nickens /&gt;{{rp|3}} The family fell into near-poverty, with her mother working as a low-paid bookkeeper.&lt;ref&gt;{{cite web|url=http://barbra-archives.com/bjs_library/60s/barbra_beginnings.html |title=Barbra Streisand Archives &amp;#124; Childhood, Brooklyn, 1942, Diana Kind |publisher=Barbra-archives.com |accessdate=December 4, 2013}}&lt;/ref&gt; As an adult, Streisand remembered those early years as always feeling like an "outcast," explaining, "Everybody else's father came home from work at the end of the day. Mine didn't."&lt;ref name=Nickens /&gt;{{rp|3}} Her mother tried to pay their bills but could not give her daughter the attention she craved: "When I wanted love from my mother, she gave me food," Streisand says.&lt;ref name=Nickens /&gt;{{rp|3}}
+
+Streisand recalls that her mother had a "great voice" and sang semi-professionally on occasion, in her operatic soprano voice. During a visit to the Catskills when Streisand was thirteen, she told [[Rosie O'Donnell]], she and her mother recorded some songs on tape. That session was the first time Streisand ever asserted herself as an artist, which also became her "first moment of inspiration" as an artist.&lt;ref&gt;[http://abc.go.com/shows/the-view/video/pl5554876/VDKA0_accgnenv Barbra Streisand Interview with Rosie Rosie O'Donnell], April 29, 2016&lt;/ref&gt;
+
+She has an older brother, Sheldon, and a half-sister, the singer [[Roslyn Kind]],&lt;ref&gt;{{cite web|first=Barbra|last=Paskin|url=https://www.thejc.com/culture/music/streisand-s-kid-sister-is-happy-as-one-of-kind-1.45451|title=Streisands kid sister is happy as one of Kind|work=The Jewish Chronicle|date=May 30, 2013|accessdate=May 11, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.nytimes.com/2016/08/07/theater/barbra-streisand-sets-the-record-straight.html |title=Official Site |publisher=Roslyn Kind |accessdate=December 4, 2013}}&lt;/ref&gt;&lt;ref&gt;Hernandez, Greg.[http://www.insidesocal.com/outinhollywood/2008/01/my-chat-wroslyn-kind-streisand.html "My Chat w/Roslyn Kind: Streisand's sister is on the comeback trail..."] {{webarchive |url=https://web.archive.org/web/20110713040805/http://www.insidesocal.com/outinhollywood/2008/01/my-chat-wroslyn-kind-streisand.html |date=July 13, 2011 }} insidesocal.com, January 29, 2008&lt;/ref&gt; from her mother's remarriage to Louis Kind in 1949. Roslyn is nine years younger than Streisand.&lt;ref name=las&gt;{{cite news |last=Fink |first=Jerry |url=http://www.lasvegassun.com/news/2008/nov/11/streisands-sister-has-come-terms-superstars-shadow |title=Streisand's sister has 'come to terms' with superstar's shadow |newspaper=Las Vegas Sun |date=November 11, 2008}}&lt;/ref&gt;&lt;ref name=virtual&gt;{{cite web|url=https://www.nytimes.com/2016/08/07/theater/barbra-streisand-sets-the-record-straight.html |title=Barbra Streisand |publisher=Jewishvirtuallibrary.org |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110717051439/https://www.jewishvirtuallibrary.org/jsource/biography/streisand.html |archivedate=July 17, 2011 |deadurl=no |df=mdy }}&lt;/ref&gt;
+
+=== Education ===
+Streisand began her education at the Jewish Orthodox [[Yeshiva]] of Brooklyn when she was five. There, she was considered to be bright and extremely inquisitive about everything; however, she lacked discipline, often shouting answers to questions out of turn.&lt;ref&gt;{{cite web|first=David|last=Usborne|url=https://www.independent.co.uk/news/people/profiles/barbra-streisand-a-star-is-reborn-488708.html|title=Barbra Streisand: A star is reborn|work=[[The Independent]]|date=January 29, 2005|accessdate=May 11, 2018}}&lt;/ref&gt;&lt;ref name=Nickens /&gt;{{rp|3}} She next entered Public School 89 in Brooklyn, and during those early school years began watching television and going to movies. Watching the glamorous stars on the screen, she was soon entranced by acting and now hoped someday to become an actress, partly as a means of escape: "I always wanted to be somebody, to be famous . . .You know, get out of Brooklyn.&lt;ref name=Nickens /&gt;{{rp|3}}
+
+Streisand became known by others in the neighborhood for her voice. With the other kids she remembers sitting on the stoop in front of their flat and singing: "I was considered the girl on the block with the good voice."&lt;ref name=Nickens /&gt;{{rp|3}} That talent became a way for her to gain attention. She would often practice her singing in the hallway of her apartment building which gave her voice an echoing quality.&lt;ref name=Rossi/&gt;
+
+She made her singing debut at a PTA assembly, where she became a hit to everyone but her mother, who was mostly critical of her daughter. Young Streisand was invited to sing at weddings and summer camp, along with having an unsuccessful audition at MGM records when she was nine. By the time she was thirteen, her mother began supporting her talent, helping her make a four-song demo tape, including "Zing! Went the Strings of My Heart," and "You'll Never Know."&lt;ref name=Nickens /&gt;{{rp|4}}
+
+Although she knew her voice was good and she liked the attention, becoming an actress was her main objective. That desire was made stronger when she saw her first Broadway play, ''The Diary of Anne Frank,'' when she was fourteen. The star in the play was [[Susan Strasberg]], whose acting she wanted to emulate if ever given the chance.&lt;ref name=Nickens /&gt;{{rp|4}} To help achieve that goal, Streisand began spending her spare time in the library, studying the biographies of various stage actresses such as [[Eleanora Duse]] and [[Sarah Bernhardt]]. In addition, she began reading novels and plays, including some by Shakespeare and Ibsen, and also on her own, studied the acting theories of [[Konstantin Stanislavski]] and [[Michael Chekhov]].&lt;ref name=Nickens /&gt;{{rp|4}}
+
+She attended [[Erasmus Hall High School]] in Brooklyn in 1955 where she became an honor student in modern history, English, and Spanish. She also joined the Freshman Chorus and Choral Club, where she sang with another choir member and classmate, [[Neil Diamond]].&lt;ref&gt;Jackson, Laura. ''Neil Diamond: His Life, His Music, His Passion,'' ECW Press (2005) p. 155&lt;/ref&gt; Diamond recalls, "We were two poor kids in Brooklyn. We hung out in the front of Erasmus High and smoked cigarettes." The school was near an art-movie house, and he recalls that she was always aware of the films they were showing, while he wasn't as interested.&lt;ref&gt;''Rolling Stone'' magazine, March 21, 1996 p. 36&lt;/ref&gt;
+
+During the summer of 1957 she got her first stage experience as a walk-on at the Playhouse in Malden Bridge, New York. That small part was followed by a role as the kid sister in ''Picnic'' and one as a vamp in ''Desk Set.''&lt;ref name=Nickens /&gt;{{rp|4}} She returned to school in Brooklyn but never took dramatic arts classes, preferring instead to gain some real-world stage experience. To that end, in her sophomore year, she took a night job at the [[Cherry Lane Theatre]] in [[Greenwich Village]] helping backstage. When she was a senior, she rehearsed for a small part in ''Driftwood'', a play staged in a midtown attic space.&lt;ref name=Nickens /&gt;{{rp|5}} Her co-star in ''Driftwood'' was [[Joan Rivers]].
+
+At age sixteen, she graduated from Erasmus Hall in January 1959, and despite her mother's pleas that she stay out of show business, she immediately set out trying to get roles on the New York City stage.&lt;ref name=Nickens /&gt;{{rp|5}} After renting a small apartment on 48th street, in the heart of the theater district, she accepted any job she could involving the stage, and at every opportunity, she "made the rounds" of the casting offices.&lt;ref name=Nickens /&gt;{{rp|5}}
+
+== Career beginnings ==
+[[File:Barbra Streisand 1962.jpg|thumb|Barbra Streisand, c. 1962.]]
+At sixteen, then living on her own, Streisand's youth and ambition worked in her favor, but she lacked a mature woman's physical features which were needed for serious female roles. She therefore took various menial jobs to have some income. At one period, she lacked a permanent address, and found herself sleeping at the home of friends or anywhere else she could set up the army cot she carried around to save on rent expense. When desperate, she would return to her mother's flat in Brooklyn for a home-cooked meal. However, her mother would be horrified by her daughter's "gypsy-like lifestyle," wrote biographer [[Karen Swenson]], and again begged her to give up trying to get into show business;&lt;ref name=Nickens /&gt;{{rp|6}} but Streisand took her mother's pleadings as even more reason to keep trying: "My desires were strengthened by wanting to prove to my mother that I ''could'' be a star."&lt;ref name=Nickens /&gt;{{rp|6}}
+
+She took a job as an usher at the Lunt-Fontanne Theater for ''The Sound of Music'', early in 1960. During the run of the play, she heard that the casting director was auditioning for more singers, and it marked the first time she sang in pursuit of a job.&lt;ref name=Nickens /&gt;{{rp|6}} Although the director felt she was not right for the part, he encouraged her to begin including her talent as a singer on her rsum when looking for other work.&lt;ref name=Nickens /&gt;{{rp|6}}
+
+That suggestion prodded Streisand to think seriously about a singing career, in addition to acting. She asked her boyfriend, [[Barry Dennen]], to tape her singing, copies of which she could then give out to possible employers. Dennen had acted with her briefly in an off-Broadway play, but had no reason to think she had any talent as a singer, and she never mentioned it. Nevertheless, he agreed and found a guitarist to accompany her:
+
+{{quote|We spent the afternoon taping, and the moment I heard the first playback I went insane. . . . This nutty little kook had one of the most breathtaking voices I'd ever heard . . . when she was finished and I turned off the machine, I needed a long moment before I dared look up at her.&lt;ref name=Nickens /&gt;{{rp|6}}}}
+
+Dennen grew enthusiastic and he convinced her to enter a talent contest at the Lion, a [[Homosexuality|gay]] nightclub in Manhattan's [[Greenwich Village]]. She performed two songs, after which there was a "stunned silence" from the audience, followed by "thunderous applause" when she was pronounced the winner.&lt;ref name=Nickens /&gt;{{rp|7}} She was invited back and sang at the club for several weeks.&lt;ref name="the lion"&gt;{{cite web|url=http://barbra-archives.com/live/60s/lion_streisand.html |title=The Lion |publisher=Barbra-archives.com |date=July 1, 1960 |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110707212334/http://barbra-archives.com/live/60s/lion_streisand.html |archivedate=July 7, 2011 |deadurl=no |df=mdy }}&lt;/ref&gt; It was during this time that she dropped the second "a" from her first name,&lt;ref name="the lion" /&gt; switching from "Barbara" to "Barbra", due to her dislike of her original name.&lt;ref&gt;{{cite web|url=http://barbra-archives.com/bjs_library/60s/62_successful_yes.html |title=Barbra Streisand Archives &amp;#124; 1962 Not Success Yet (Interview) |website=Barbra-archives.com |date=June 17, 1962 |accessdate=May 20, 2016}}&lt;/ref&gt;
+
+=== Nightclub shows and Broadway stage ===
+Streisand was next asked to audition at the Bon Soir nightclub, after which she was signed up at $125 a week. It became her first professional engagement, in September 1960, where she was the opening act for comedian [[Phyllis Diller]]. She recalls it was the first time she had been in that kind of upscale environment: "I'd never been in a nightclub until I sang in one."&lt;ref name=Nickens /&gt;{{rp|7}}
+
+Dennen now wanted to expose Streisand to his vast record collection of female singers, including [[Billie Holiday]], [[Mabel Mercer]], [[Ethel Waters]], and [[dith Piaf]]. His effort made a difference in her developing style as she gained new respect for the art of popular singing. She also realized she could still become an actress by first gaining recognition as a singer.&lt;ref name=Nickens /&gt;{{rp|7}}  According to biographer Christopher Nickens, hearing other great female singers benefited her style, as she began creating different emotional characters when performing, which gave her singing a greater range.
+
+Feeling more self-confident, she improved her stage presence when speaking to the audience between songs. She discovered that her Brooklyn-bred style of humor was received quite favorably.&lt;ref name=Nickens /&gt;{{rp|8}} During the next six months appearing at the club, some began comparing her singing voice to famous names such as [[Judy Garland]], [[Lena Horne]] and [[Fanny Brice]]. Her conversational ability to charm an audience with spontaneous humor during performances became more sophisticated and professional.&lt;ref name=Nickens /&gt;{{rp|8}} Theater critic [[Leonard Harris (actor)|Leonard Harris]], in one of his reviews, could already envision her future success: "She's twenty; by the time she's thirty she will have rewritten the record books."&lt;ref name=Nickens /&gt;{{rp|9}}
+
+{{quote box|align=right|width=25em|bgcolor = LightCyan|quote=Her name is Barbra Streisand. She is 20 years old, she has a three-octave promiscuity of range, she packs more personal dynamic power than anybody I can recall since [[Libby Holman]] or [[Helen Morgan]]. She can sing as loud as [[Ethel Merman]] and as persuasively as [[Lena Horne|Lena]] or [[Ella Fitzgerald|Ella]], or as brassy as a [[Sophie Tucker]]...and only Barbra Streisand can turn "[[Cry Me a River (1953 song)|Cry Me a River]]" into something comparable to [[Enrico Caruso]] having his first bash at [[Pagliacci]]. When Streisand cries you a river, you got a river, Sam...and she will be around 50 years from now if good songs are still written to be sung by good singers.|source=syndicated columnist [[Robert Ruark]],&lt;br&gt;on her 1963 performances at the Blue Angel.&lt;ref&gt;Ruark, Robert. "The Blue's Angel",  ''Pasadena Independent'', January 18, 1963, p. 9&lt;/ref&gt;&lt;ref&gt;[https://www.youtube.com/watch?v=2TA6LQmP0ec Barbra Streisand singing "Cry Me a River" in 1963]&lt;/ref&gt;}}
+
+Streisand never lost her desire to be a stage actress and accepted her first role on the New York stage in ''Another Evening with Harry Stoones'', a satirical comedy play in which she acted and sang two solos. The show received terrible reviews and closed the next day. With the help of her new personal manager, [[Martin Erlichman]], she had successful shows in Detroit and St. Louis. Erlichman then booked her at an even more upscale nightclub in Manhattan, Blue Angel, where she became a bigger hit during the period of 1961 to 1962. Streisand once told [[Jimmy Fallon]], whom she sang a duet with,&lt;ref&gt;[https://www.youtube.com/watch?v=aEa_deCZaNA "Jimmy Fallon and Barbra Streisand"], fair use clip {{webarchive |url=https://web.archive.org/web/20160312122355/https://www.youtube.com/watch?v=aEa_deCZaNA |date=March 12, 2016 }}&lt;/ref&gt; on the [[The Tonight Show Starring Jimmy Fallon|''Tonight Show'']], that [[Martin Erlichman|Erlichman]] was a "fantastic manager" and still managed her career after 50 years.&lt;ref&gt;video: [https://www.youtube.com/watch?v=vY_LpxYuGg4&amp;t=4m Barbra Streisand on the ''Tonight Show'', 2014]. fair use clip&lt;/ref&gt;
+
+While appearing at Blue Angel, theater director and playwright [[Arthur Laurents]] asked her to audition for a new musical comedy he was directing, ''[[I Can Get It for You Wholesale]]''. She got the part of secretary to the lead actor businessman, played by then unknown [[Elliott Gould]].&lt;ref name=Nickens /&gt;{{rp|9}} They fell in love during rehearsals and eventually moved into a small apartment together. The show opened on March 22, 1962, at the [[Shubert Theatre (Broadway)|Shubert Theater]], and received rave reviews. Her performance "stopped the show cold," wrote Nickens,&lt;ref name=Nickens /&gt;{{rp|9}} and she became Broadway's most exciting and youngest new star.&lt;ref name=Nickens /&gt;{{rp|10}} [[Groucho Marx]], while hosting the ''Tonight Show'', told her that twenty was an "extremely young age to be a success on Broadway."&lt;ref&gt;video: [https://www.youtube.com/watch?v=LoAX-pgMHZI Barbra Streisand on ''The Tonight Show''], hosted by Groucho Marx, August 21, 1962  fair use clip&lt;/ref&gt; Streisand received a Tony nomination and New York Drama Critic's prize for Best Supporting Actress.&lt;ref&gt;video: [https://www.youtube.com/watch?v=2bQ62sL8JtU Barbra Streisand on the ''Tonight Show'', hosted by Johnny Carson], October 4, 1962  fair use clip&lt;/ref&gt; The show was recorded and it was the first time the public could purchase an album of her singing.&lt;ref name=Nickens /&gt;{{rp|10}}
+
+=== Television appearances, marriage, and first albums ===
+Streisand's first television appearance was on ''[[The Tonight Show]]'', then credited to its usual host [[Jack Paar]]. She was seen during an April 1961 episode on which [[Orson Bean]] substituted for Paar.  She sang [[Harold Arlen]]'s "[[A Sleepin' Bee]]".&lt;ref&gt;{{cite news| url=https://www.nytimes.com/2009/09/27/arts/music/27tomm.html?scp=1&amp;sq=streisand%20arlen&amp;st=cse | work=The New York Times | title=Streisand's Fine Instrument and Classic Instinct | first=Anthony | last=Tommasini | date=September 27, 2009 | accessdate=April 26, 2010}}&lt;/ref&gt; During her appearance, [[Phyllis Diller]], also a guest on the show, called her "one of the great singing talents in the world."&lt;ref&gt;video: [https://www.youtube.com/watch?v=3DXvLD-pxms Barbra Streisand on the Jack Paar Show, 1961]  fair use clip&lt;/ref&gt;
+
+Later in 1961, before she was cast in ''Another Evening With Harry Stoones'', she became a semi-regular on ''[[PM East/PM West]]'', a talk/variety series hosted by [[Mike Wallace]] and [[Joyce Davidson]].&lt;ref name="barbra-archives1"&gt;{{cite web|url=http://barbra-archives.com/tv/60s/pm_east_streisand.html |title='P.M. East P.M. West' at |publisher=Barbra-archives.com |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110707212349/http://barbra-archives.com/tv/60s/pm_east_streisand.html |archivedate=July 7, 2011 |deadurl=no |df=mdy }}&lt;/ref&gt;
+
+In May 1962, Streisand appeared on ''[[The Garry Moore Show]]'' where she sang "Happy Days Are Here Again" for the first time. Her sad, slow version of the 1930s upbeat Democratic Party theme song became her [[signature song]] during this early phase of her career.&lt;ref name=Nickens /&gt;{{rp|10}}
+
+[[Johnny Carson]] had her on the ''Tonight Show'' half a dozen times in 1962 and 1963, and she became a favorite of his television audience and himself personally. He described her as an "exciting new singer."&lt;ref&gt;[https://www.youtube.com/watch?v=jAS8BDDV8uM Barbra Streisand on Johnny Carson's ''Tonight Show'', 1962]  fair use clip&lt;/ref&gt; During one show, she joked with Groucho Marx who liked her style of humor.&lt;ref name=Nickens /&gt;{{rp|10}}
+
+{{quote box|quote="She did three or four songs, and she was beyond brilliant  so amazing."|source=[[Elliott Gould]], about their first play together in 1961&lt;ref&gt;[http://www.closerweekly.com/posts/elliott-gould-barbra-streisand-marriage-101979 "Elliott Gould on His Past Marriage to Barbra Streisand  'We Still Love Each Other'"]&lt;/ref&gt;|align=right|width=25em|bgcolor = Cornsilk}}
+In December 1962, she made the first of a number of appearances on the [[Ed Sullivan Show]]. She was later a cohost on the [[Mike Douglas Show]], and also made an impact on a number of [[Bob Hope]] specials. Performing with her on the Ed Sullivan Show was [[Liberace]] who became an instant fan of the young singer. Liberace invited her to Las Vegas, Nevada, to perform as his opening act at the Riviera Hotel. Liberace is credited with introducing Barbra to Western American audiences.&lt;ref&gt;Thomas, Bob, (1987) "Liberace, The True Story." (London, Weidenfeld and Nicolson).&lt;/ref&gt; The following September during her ongoing shows at Harrah's Hotel in Lake Tahoe, she and [[Elliott Gould]] took time off to get married in Carson City, Nevada. With her career and popularity rising so quickly, she saw her marriage to Gould as a "stabilizing influence."&lt;ref name=Nickens /&gt;{{rp|11}}
+
+Her first album, ''[[The Barbra Streisand Album]]'' in early 1963, made the top 10 on the ''Billboard'' chart and won three [[Grammy Award]]s.&lt;ref name=Nickens /&gt;{{rp|11}} The album made her the best-selling female vocalist in the country.&lt;ref name=Nickens /&gt;{{rp|11}} That summer she also released ''[[The Second Barbra Streisand Album]]'', which established her as the "most exciting new personality since [[Elvis Presley]]."&lt;ref name=Nickens /&gt;{{rp|11}} She ended that breakthrough year of 1963 by performing one-night concerts in Indianapolis, San Jose, Chicago, Sacramento, and Los Angeles.&lt;ref name=Nickens /&gt;{{rp|11}}
+
+Streisand returned to Broadway in 1964 with an acclaimed performance as entertainer [[Fanny Brice]] in ''[[Funny Girl (musical)|Funny Girl]]'' at the [[Winter Garden Theatre]]. The show introduced two of her signature songs, "People" and "Don't Rain on My Parade." Because of the play's overnight success, she appeared on the cover of ''Time''. In 1964 Streisand was nominated for a [[Tony Award for Best Leading Actress in a Musical]] but lost to [[Carol Channing]] in ''[[Hello, Dolly! (musical)|Hello, Dolly]]!'' Streisand received an honorary "Star of the Decade" Tony Award in 1970.&lt;ref&gt;{{cite news|url=http://goldderby.latimes.com/awards_goldderby/2009/06/tony-awards-retire-competitive-special-theatrical-event-category.html|title=Tony Awards Drop Competitive Special Event Category| work = [[Los Angeles Times]] |date=June 19, 2009|accessdate=February 3, 2014}}&lt;/ref&gt;
+
+In 1966, she repeated her success with ''Funny Girl'' in London's West End at the [[Prince of Wales Theatre]].  From 1965 to 1968 she appeared in her first four solo television specials.
+
+== Career ==
+{{BLP sources section|date=January 2017}}
+
+=== Singing ===
+Streisand has recorded 50 studio albums, almost all with [[Columbia Records]]. Her early works in the 1960s (her debut ''[[The Barbra Streisand Album]]'', ''[[The Second Barbra Streisand Album]]'', ''[[The Third Album (Barbra Streisand album)|The Third Album]]'', ''[[My Name Is Barbra]]'', etc.) are considered classic renditions of theatre and cabaret standards, including her pensive version of the normally uptempo "[[Happy Days Are Here Again]]". She performed this in a duet with Judy Garland on ''[[The Judy Garland Show]]''.  Garland referred to her on the air as one of the last great [[belting (music)|belters]].  They also sang "[[There's No Business Like Show Business]]" with [[Ethel Merman]] joining them.&lt;ref&gt;[https://www.youtube.com/watch?v=W7AViKc52P0 Barbra Streisand, Judy Garland, and Ethel Merman on "The Judy Garland Show"], 1963&lt;/ref&gt;
+
+[[File:Barbra Streisand singing- 1969.jpg|thumb|left|On ''[[The Ed Sullivan Show]]'' in 1969]]
+Beginning with ''My Name Is Barbra'', her early albums were often medley-filled keepsakes of her television specials. Starting in 1969, she began attempting more contemporary material, but like many talented singers of the day, she found herself out of her element with rock. Her vocal talents prevailed, and she gained newfound success with the pop and ballad-oriented [[Richard Perry]]-produced album ''[[Stoney End (Barbra Streisand album)|Stoney End]]'' in 1971. The [[Stoney End (song)|title track]], written by [[Laura Nyro]], was a major hit for Streisand.
+
+During the 1970s, she was also highly prominent on the pop charts, with Top 10 recordings such as "[[The Way We Were (song)|The Way We Were]]" (US No. 1), "[[Evergreen (Love Theme from A Star Is Born)]]" (US No. 1), "[[No More Tears (Enough Is Enough)]]" (1979, with [[Donna Summer]]), which as of 2010 is reportedly still the most commercially successful duet, (US No. 1), "[[You Don't Bring Me Flowers]]" (with [[Neil Diamond]]) (US No. 1) and "The Main Event" (US No. 3), some of which came from soundtrack recordings of her films. As the 1970s ended, Streisand was named the most successful female singer in the U.S.  only [[Elvis Presley]] and [[The Beatles]] had sold more albums.&lt;ref&gt;{{cite press release|url=https://www.riaa.com/news/newsletter/press1999/111099.asp |title=The American Recording Industry Announces its Artists of the Century |archiveurl=https://web.archive.org/web/20070514091340/http://www.riaa.com/news/newsletter/press1999/111099.asp |date=November 10, 2009 |archivedate=May 14, 2007 |publisher=Recording Industry Association of America |deadurl=yes |df=mdy }}&lt;/ref&gt; In 1980, she released her best-selling effort to date, the [[Barry Gibb]]-produced ''[[Guilty (Barbra Streisand album)|Guilty]]''. The album contained the hits "[[Woman in Love]]" (which spent several weeks on top of the pop charts in the fall of 1980), "[[Guilty (Barbra Streisand and Barry Gibb song)|Guilty]]", and "[[What Kind of Fool]]".
+
+After years of largely ignoring Broadway and traditional pop music in favor of more contemporary material, Streisand returned to her musical-theater roots with 1985's ''[[The Broadway Album]]'', which was unexpectedly successful, holding the coveted No. 1 Billboard position for three straight weeks, and being certified quadruple platinum. The album featured tunes by [[Rodgers and Hammerstein]], [[George Gershwin]], [[Jerome Kern]], and [[Stephen Sondheim]], who was persuaded to rework some of his songs especially for this recording. ''The Broadway Album'' was met with acclaim, including a Grammy nomination for album of the year and handed Streisand her eighth Grammy as Best Female Vocalist. After releasing the live album ''[[One Voice (Barbra Streisand album)|One Voice]]'' in 1986, Streisand was set to release another album of Broadway songs in 1988. She recorded several cuts for the album under the direction of [[Rupert Holmes]], including "[[On My Own (Les Misrables)|On My Own]]" (from ''[[Les Misrables (musical)|Les Misrables]]''), a medley of "How Are Things in Glocca Morra?" and "Heather on the Hill" (from ''[[Finian's Rainbow]]'' and ''[[Brigadoon]]'', respectively), "[[All I Ask of You]]" (from ''[[The Phantom of the Opera (1986 musical)|The Phantom of the Opera]]''), "Warm All Over" (from ''[[The Most Happy Fella]]'') and an unusual solo version of "[[Make Our Garden Grow]]" (from ''[[Candide (operetta)|Candide]]''). Streisand was not happy with the direction of the project and it was scrapped. Only "Warm All Over" and a reworked, lite FM-friendly version of "All I Ask of You" were ever released, the latter appearing on Streisand's 1988 effort, ''[[Till I Loved You (album)|Till I Loved You]]''. At the beginning of the 1990s, Streisand started focusing on her film directorial efforts and became almost inactive in the recording studio. In 1991, a four-disc box set, ''Just for the Record'', was released. A compilation spanning Streisand's entire career to date, it featured over 70 tracks of live performances, greatest hits, rarities and previously unreleased material.
+
+[[File:Barbra Streisand Allan Warren.jpg|thumb|Streisand taping her TV Special ''Barbra Streisand... and other Musical Instruments'' in 1973]]
+The following year, Streisand's concert fundraising events helped propel President [[Bill Clinton]] into the spotlight and into office.&lt;ref&gt;{{cite web |last=Newfield |first=Jack |url=http://barbra-archives.com/bjs_library/90s/george_1996.html |title=Diva Democracy |work=George |date=November 1996 |publisher=Barbra-archives.com |accessdate=August 17, 2011}}&lt;/ref&gt; Streisand later introduced Clinton at his inauguration in 1993. Streisand's music career, however, was largely on hold. A 1992 appearance at an APLA benefit as well as the aforementioned inaugural performance hinted that Streisand was becoming more receptive to the idea of live performances. A tour was suggested, though Streisand would not immediately commit to it, citing her well-known stage fright as well as security concerns. During this time, Streisand finally returned to the recording studio and released ''[[Back to Broadway]]'' in June 1993. The album was not as universally lauded as its predecessor, but it did debut at No. 1 on the pop charts (a rare feat for an artist of Streisand's age, especially given that it relegated [[Janet Jackson]]'s ''[[Janet (album)|Janet]]'' to the No. 2 spot). One of the album's highlights was a medley of "[[I Have A Love/One Hand, One Heart|I Have A Love" / "One Hand, One Heart]]", a duet with [[Johnny Mathis]], who Streisand said is one of her favorite singers.&lt;ref&gt;{{cite book |last=Waldman |first=Allison J. |title=The Barbra Streisand Scrapbook |url=https://books.google.com/books?id=-KkkPwXeGZkC&amp;pg=PA14&amp;dq=Johnny+Mathis+Barbra+Streisand+favorite+singer&amp;hl=en&amp;sa=X&amp;ei=T3XJUK2jNcnW2gW4v4CAAw&amp;ved=0CC0Q6AEwAA#v=onepage&amp;q=Johnny%20Mathis%20Barbra%20Streisand%20favorite%20singer&amp;f=false |accessdate=December 13, 2012 |year=2001 |publisher=[[Kensington Books|Citadel Press]] |isbn=0-8065-2218-6 |page=14}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Nudd |first1=Tim |last2=Wihlborg |first2=Ulrica|url=http://www.people.com/people/article/0,,20590521,00.html|title=Barbra Streisand Celebrates 70th Birthday with John Travolta &amp; Celeb Pals|date=April 26, 2012|work=People|accessdate=December 13, 2012}}&lt;/ref&gt;
+
+In 1993, ''The New York Times'' music critic [[Stephen Holden]] wrote that Streisand "enjoys a cultural status that only one other American entertainer, Frank Sinatra, has achieved in the last half century".&lt;ref&gt;{{cite news|url=https://www.nytimes.com/1993/06/27/arts/recordings-view-barbra-streisand-mixes-star-power-and-high-concept.html?scp=1&amp;sq=streisand%20holden%20sinatra&amp;st=cse |title=Barbra Streisand Mixes Star Power And High Concept |first=Stephen |last=Holden |work=The New York Times |date=June 27, 1993 |accessdate=August 17, 2011}}&lt;/ref&gt;  In September 1993, Streisand announced her first public concert appearances in 27 years (if one does not count her Las Vegas nightclub performances between 1969 and 1972). What began as a two-night New Year's event at the [[MGM Grand Las Vegas]] led to a multi-city tour in the summer of 1994. Tickets for the tour were sold out in under an hour. Streisand also appeared on the covers of major magazines in anticipation of what ''Time magazine'' named "The Music Event of the Century". The tour was one of the biggest all-media merchandise parlays in history. Ticket prices ranged from US$50 to US$1,500, making Streisand the highest-paid concert performer in history. ''[[The Concert (Barbra Streisand album)|Barbra Streisand: The Concert]]'' went on to be the top-grossing concert of the year and earned five [[Emmy Awards]] and the [[Peabody Award]], while the taped broadcast on [[HBO]] was the highest-rated concert special in HBO's 30-year history.  Following the tour's conclusion, Streisand once again kept a low profile musically, instead focusing her efforts on acting and directing duties as well as a burgeoning romance with actor [[James Brolin]].
+
+In 1996, Streisand released "[[I Finally Found Someone]]" as a duet with Canadian singer and songwriter [[Bryan Adams]]. The song was nominated for an Oscar as it was part of the soundtrack of Streisand's self-directed movie ''[[The Mirror Has Two Faces]]''. It reached #8 on the Billboard Hot 100, and was her first significant hit in almost a decade and her first top 10 hit on the Hot 100 (and first gold single) since 1981.
+
+In 1997, she finally returned to the recording studio, releasing ''[[Higher Ground (Barbra Streisand album)|Higher Ground]]'', a collection of songs of a loosely inspirational nature which also featured a duet with [[Cline Dion]]. The album received generally favorable reviews and once again debuted at No. 1 on the pop charts. Following her marriage to Brolin in 1998, Streisand recorded an album of love songs entitled ''[[A Love Like Ours]]'' the following year. Reviews were mixed, with many critics complaining about the somewhat syrupy sentiments and overly-lush arrangements; however, it did produce a modest hit for Streisand in the country-tinged "If You Ever Leave Me", a duet with [[Vince Gill]].
+
+On New Year's Eve 1999, Streisand returned to the concert stage, selling out in the first few hours, eight months before her return.&lt;ref&gt;{{cite web|url=http://www.barbrastreisand.com/us/biography|title=Biography|publisher=barbrastreisand.com|accessdate=December 13, 2012}}&lt;/ref&gt; At the end of the millennium, she was the number one female singer in the U.S., with at least two No. 1 albums in each decade since she began performing. A two-disc live album of the concert entitled ''[[Timeless: Live in Concert]]'' was released in 2000. Streisand performed versions of the ''Timeless'' concert in Sydney and Melbourne, Australia, in early 2000. In advance of four concerts (two each in Los Angeles and New York) in September 2000, Streisand announced that she was retiring from playing public concerts. Her performance of the song "[[People (1964 song)|People]]" was broadcast on the Internet via America Online.
+
+Streisand's most recent albums have been ''[[Christmas Memories]]'' (2001), a somewhat somber collection of holiday songs, and ''[[The Movie Album (Barbra Streisand album)|The Movie Album]]'' (2003), featuring famous film themes and backed by a large symphony orchestra. ''[[Guilty Pleasures (Barbra Streisand album)|Guilty Pleasures]]'' (called ''Guilty Too'' in the UK), a collaboration with Barry Gibb and a sequel to their ''Guilty'', was released worldwide in 2005.
+
+[[File:Barbra-streisand07.jpg|thumb|Streisand performing in July 2007 at [[The O2 Arena]] in London]]
+In February 2006, Streisand recorded the song "Smile" alongside [[Tony Bennett]] at Streisand's [[Malibu, California|Malibu]] home. The song is included on Bennett's 80th birthday album, ''[[Duets (Barbra Streisand album)|Duets]]''. In September 2006, the pair filmed a live performance of the song for a special directed by [[Rob Marshall]] entitled ''Tony Bennett: An American Classic''. The special aired on NBC November 21, 2006, and was released on DVD the same day. Streisand's duet with Bennett opened the special. In 2006, Streisand announced her intent to tour again, in an effort to raise money and awareness for multiple issues. After four days of rehearsal at the [[Sovereign Bank Arena]] in [[Trenton, New Jersey]], the tour began on October 4 at the [[Wells Fargo Center (Philadelphia)|Wachovia Center]] in [[Philadelphia]], continued with a featured stop in [[Fort Lauderdale, Florida]], (this was the concert Streisand chose to film for a TV special), and concluded at Staples Center in Los Angeles on November 20, 2006. Special guests [[Il Divo]] were interwoven throughout the show. The show was known as ''[[Streisand: The Tour]]''.
+
+Streisand's 20-concert tour set box-office records. At the age of 64, she grossed $92,457,062 and set house gross records in 14 of the 16 arenas played on the tour. She set the third-place record for her show of October 9, 2006 at Madison Square Garden, the first- and second-place records, of which are held by her two shows in September 2000. She set the second-place record at [[MGM Grand Garden Arena]] with her December 31, 1999, show being the house record and highest-grossing concert of all time. This led many people to openly criticize Streisand for [[price gouging]] as many tickets sold for upwards of $1,000.&lt;ref&gt;{{cite news|last=Tierney |first=John |url=https://www.nytimes.com/1994/06/26/magazine/the-big-city-scalping-fair-and-square.html |title=The Big City; Scalping, Fair and Square |work=The New York Times |date=June 26, 1994 |accessdate=December 4, 2013}}&lt;/ref&gt;
+
+A collection of performances culled from different stops on this tour, ''[[Live in Concert 2006]]'', debuted at No. 7 on the [[Billboard 200|''Billboard'' 200]], making it Streisand's 29th Top 10 album.&lt;ref&gt;{{cite web|url=http://www.billboard.com/articles/news/1052029/chart-beat-chat |title=Chart Beat Chat |work=Billboard |date=July 7, 2007 |accessdate=July 26, 2012}}&lt;/ref&gt; In the summer of 2007, Streisand gave concerts for the first time in continental Europe. The first concert took place in [[Zrich]] (June 18), then Vienna (June 22), Paris (June 26), Berlin (June 30), [[Stockholm]] (July 4, canceled), [[Manchester]] (July 10) and [[Celbridge]], near [[Dublin]] (July 14), followed by three concerts in London (July 18, 22 and  25), the only European city where Streisand had performed before 2007. Tickets for the London dates cost between 100.00 and 1,500.00, and for [[Ireland]], between 118 and 500. The Ireland date was marred by issues with serious parking and seating problems leading to the event's being dubbed a fiasco by ''[[Hot Press]]''.&lt;ref&gt;{{cite web|url=http://www.hotpress.com/features/reports/The-Streisand-fiasco--Fear-and-loathing-in-Castletown-House/3926410.html |title=The Streisand fiasco: Fear and loathing in Castletown House |work=Hot Press |accessdate=December 4, 2013}}&lt;/ref&gt; The tour included a 58-piece orchestra.
+
+In February 2008, ''[[Forbes]]'' listed Streisand as the No.-2-earning female musician between June 2006 and June 2007 with earnings of about $60&amp;nbsp;million.&lt;ref&gt;{{cite news|url=https://www.forbes.com/2008/01/28/music-madonna-hollywood-biz-cz_dp_0129musicwomen_slide_3.html?thisSpeed=15000 |title=In Pictures: The Top-Earning Women In Music |work=Forbes |accessdate=November 2, 2008 |first=Dorothy |last=Pomerantz |archiveurl=https://web.archive.org/web/20081027232611/http://www.forbes.com/2008/01/28/music-madonna-hollywood-biz-cz_dp_0129musicwomen_slide_3.html?thisSpeed=15000 |archivedate=October 27, 2008 |deadurl=no |df=mdy }}&lt;/ref&gt; On November 17, 2008, Streisand returned to the studio to begin recording what would be her sixty-third album&lt;ref name=wash&gt;Marks, Peter (December 7, 2008). [https://www.washingtonpost.com/wp-dyn/content/article/2008/12/05/AR2008120500947.html?sub=AR&amp;sid=ST2008120502751&amp;s_pos= "Kennedy Center Honoree Barbra Streisand."] ''[[The Washington Post]].'' Retrieved December 10, 2008.&lt;/ref&gt; and it was announced that [[Diana Krall]] was producing the album.&lt;ref&gt;{{cite news|last=Gardner |first=Elysa |url=https://www.usatoday.com/life/music/news/2009-04-09-krall-quiet-nights_N.htm |title=For Diana Krall, quiet time is a rare thing |work=USA Today |date=April 10, 2009 |accessdate=August 17, 2011}}&lt;/ref&gt; Streisand is one of the recipients of the 2008 Kennedy Center Honors.&lt;ref&gt;Frey, Jennifer. (December 8, 2008). [https://www.washingtonpost.com/wp-dyn/content/article/2008/12/07/AR2008120702715.html?hpid=topnews "A Night Filled With Extra Stars."] ''The Washington Post''. Retrieved December 10, 2008.&lt;/ref&gt; On December 7, 2008, she visited the White House as part of the ceremonies.&lt;ref name=wash /&gt;
+
+On April 25, 2009, [[CBS]] aired Streisand's latest television special, ''Streisand: Live in Concert'', highlighting the featured stop from her 2006 North American tour in [[Fort Lauderdale]], Florida. On September 26, 2009, Streisand performed a one-night-only show at the [[Village Vanguard]] in New York City's Greenwich Village.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2009/09/28/arts/music/28stre.html |work=The New York Times |title=Lucky Streisand Fans Were A-Listers for a Night |first=Ben |last=Sisario |date=September 28, 2009 |accessdate=April 26, 2010 |archiveurl=https://web.archive.org/web/20130113194207/http://www.nytimes.com/2009/09/28/arts/music/28stre.html |archivedate=January 13, 2013 |deadurl=no |df=mdy }}&lt;/ref&gt; This performance was later released on DVD as ''[[One Night Only: Barbra Streisand and Quartet at The Village Vanguard]].'' On September 29, 2009, Streisand and Columbia Records released her newest studio album, ''[[Love Is the Answer (album)|Love is the Answer]]'', produced by [[Diana Krall]].&lt;ref&gt;{{cite press release|url=http://www.barbrastreisand.com/ca/home?page=news&amp;n_id=1258 |title=Barbra Streisand official site |date=June 22, 2009 |publisher=Barbrastreisand.com |accessdate=August 17, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20111001041844/http://www.barbrastreisand.com/ca/home?page=news&amp;n_id=1258 |archivedate=October 1, 2011 }}&lt;/ref&gt; On October 2, 2009, Streisand made her British television performance debut with an interview on ''[[Friday Night with Jonathan Ross]]'' to promote the album. This album debuted at No. 1 on the Billboard 200 and registered her biggest weekly sales since 1997, making Streisand the only artist in history to achieve No. 1 albums in five different decades.
+
+On February 1, 2010, Streisand joined over eighty other artists in recording a new version of the 1985 charity single "[[We Are the World]]". [[Quincy Jones]] and [[Lionel Richie]] planned to release the new version to mark the 25th anniversary of its original recording. These plans changed, however, in view of the devastating earthquake that hit [[Haiti]] on January 12, 2010, and on February 12, the song, now called "[[We Are the World 25 for Haiti]]", made its debut as a charity single to support relief aid for the island nation.
+
+In 2011, Streisand sang ''[[Somewhere (song)|Somewhere]]'' from the Broadway musical ''[[West Side Story]]'', with [[child prodigy]] [[Jackie Evancho]], on Evancho's album ''[[Dream with Me]]''.&lt;ref&gt;{{cite web|title=Jackie Explains Duet|url=http://barbratimeless.com/2009jackie.htm|publisher=barbratimeless.com|date=June 17, 2011|accessdate=September 13, 2012|deadurl=yes|archiveurl=https://web.archive.org/web/20130121002637/http://barbratimeless.com/2009jackie.htm|archivedate=January 21, 2013|df=mdy-all}}&lt;/ref&gt;
+
+Streisand was honored as [[MusiCares Person of the Year]] on February 11, 2011, two days prior to the 53rd Annual [[Grammy Awards]].&lt;ref&gt;{{cite news|title=Barbra Streisand Named 2011 MusiCares Person Of The Year|url=http://www.grammy.org/musicares/news/barbra-streisand-named-2011-musicares-person-of-year|publisher=grammy.org|date=January 10, 2011|accessdate=September 13, 2012}}&lt;/ref&gt;
+
+On October 11, 2012, Streisand gave a three-hour concert performance before a crowd of 18,000 as part of the ongoing inaugural events of [[Barclays Center]] (and part of her current ''Barbra Live'' tour) in Brooklyn (her first-ever public performance in her home borough). Streisand was joined onstage by trumpeter [[Chris Botti]], Italian operatic trio [[Il Volo]], and her son [[Jason Gould]]. The concert included musical tributes by Streisand to [[Donna Summer]] and [[Marvin Hamlisch]], both of whom had died earlier in 2012. Confirmed attendees included [[Barbara Walters]], [[Jimmy Fallon]], [[Sting (musician)|Sting]], [[Katie Couric]], [[Woody Allen]], [[Michael Douglas]] and New York City mayor [[Michael Bloomberg]], as well as designers [[Calvin Klein]], [[Donna Karan]], [[Ralph Lauren]] and [[Michael Kors]].&lt;ref&gt;{{cite news |title=Her name is Barbra, and Brooklyn is her town |author=Gardner, Elysa |url=https://www.usatoday.com/story/life/music/2012/10/11/barbra-streisand-brooklyn-concert/1628669/ |newspaper=[[USA Today]] |date=October 12, 2012 |accessdate=October 12, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Barbra Streisand Is a Proud Brooklynite at Concert |author=Fekadu, Mesfin |url=https://www.usnews.com/news/entertainment/articles/2012/10/12/barbra-streisand-is-a-proud-brooklynite-at-concert |newspaper=Associated Press (via [[U.S. News &amp; World Report]]) |date=October 12, 2012 |accessdate=October 12, 2012}}&lt;/ref&gt; In June 2013 she gave two concerts in [[Bloomfield Stadium]], [[Tel Aviv]].
+
+Streisand is one of many singers who use [[teleprompter]]s during their live performances. Streisand has defended her choice in using teleprompters to display lyrics and, sometimes, banter.&lt;ref&gt;{{cite web|url=http://www.contactmusic.com/news.nsf/story/streisands-stagefright-prompted-by-forgotten-lyrics_1117130 |title=Barbra Streisand &amp;#124; Streisand's Stagefright Prompted By Forgotten Lyrics |publisher=Contactmusic |date=September 25, 2009 |accessdate=August 17, 2011}}&lt;/ref&gt;
+
+In September 2014,&lt;ref&gt;{{cite web|url=http://www.musicweek.com/news/read/barbra-streisand-sings-with-elvis-on-new-album/059352|title=Barbra Streisand sings with Elvis on new album|work=Music Week|accessdate=November 8, 2014}}&lt;/ref&gt; she released ''[[Partners (Barbra Streisand album)|Partners]]'', a new album of duets that features collaborations with [[Elvis Presley]], [[Andrea Bocelli]], [[Stevie Wonder]], [[Lionel Richie]], [[Billy Joel]], [[Babyface (musician)|Babyface]], [[Michael Bubl]], [[Josh Groban]], [[John Mayer]], [[John Legend]], [[Blake Shelton]] and [[Jason Gould]]. This album topped the [[Billboard 200|''Billboard'' 200]] with sales of 196,000 copies in the first week, making Streisand the only recording artist to have a number-one album in each of the last six decades.&lt;ref&gt;[http://www.billboard.com/articles/columns/chart-beat/6259282/barbra-streisand-no-1-partners "Barbra Streisand Makes History at No. 1 on ''Billboard'' 200 Chart"]. ''Billboard'' Chart Beat. September 23, 2014.&lt;/ref&gt; It was also certified gold in November 2014 and platinum in January 2015, thus becoming Streisand's 52nd gold and 31st Platinum album, more than any other female artist in history.&lt;ref&gt;{{cite web|url=http://www.gaystarnews.com/article/gay-icon-barbra-streisand-makes-more-history-latest-album071114#sthash.kqPUWSbU.dpuf|title=Gay icon Barbra Streisand makes more history with latest album|work=Gay Star News|accessdate= November 8, 2014}}&lt;/ref&gt;
+
+In May 2016, Streisand announced the upcoming album ''[[Encore: Movie Partners Sing Broadway]]'' to be released in August following a nine-city concert tour, ''[[Barbra: The Music, The Mem'ries, The Magic]]'', including performances in Los Angeles, Las Vegas, Philadelphia, and a return to her hometown of Brooklyn.&lt;ref&gt;{{cite web|url=http://www.broadwayworld.com/article/Breaking-News-Barbra-Streisand-is-Headed-Back-on-9-City-Tour-Plus-Reveals-Third-Broadway-Album-20160516|title=Breaking News: Barbra Streisand is Headed Back on 9-City Tour; Plus Reveals Third Broadway Album|work=broaDwayWorldNews|accessdate= May 16, 2016}}&lt;/ref&gt;
+
+=== Acting ===
+[[File:Streisand - Clear Day 1970.JPG|thumb|In ''[[On a Clear Day You Can See Forever (film)|On a Clear Day You Can See Forever]]'' (1970)]]
+Her first film was a reprise of her Broadway hit, ''[[Funny Girl (film)|Funny Girl]]'' (1968), an artistic and commercial success directed by Hollywood veteran [[William Wyler]].  Streisand won the 1968 [[Academy Award for Best Actress]] for the role,&lt;ref&gt;{{cite web|title=Funny Girl (1968)|url=http://www.tcm.com/tcmdb/title/25128/Funny-Girl/articles.html|work=[[Turner Classic Movies|tcm]]|accessdate=September 13, 2012}}&lt;/ref&gt; sharing it with [[Katharine Hepburn]] (''[[The Lion in Winter (1968 film)|The Lion in Winter]]''), the only time there has been a tie in this [[Academy Awards|Oscar]] category.&lt;ref&gt;{{cite book|last=Heinemann|first=Sue|title=Timelines of American Women's History|year=1996|publisher=Perigee Trade|isbn=978-0-399-51986-4|page=362}}&lt;/ref&gt; Her next two movies were also based on musicals, [[Jerry Herman]]'s ''[[Hello, Dolly! (film)|Hello, Dolly!]]'', directed by [[Gene Kelly]] (1969); and [[Alan Jay Lerner]]'s and [[Burton Lane]]'s ''[[On a Clear Day You Can See Forever (film)|On a Clear Day You Can See Forever]]'', directed by [[Vincente Minnelli]] (1970); while her fourth film was based on the Broadway play ''[[The Owl and the Pussycat (film)|The Owl and the Pussycat]]'' (1970).&lt;ref&gt;{{cite web|title=The Owl and the Pussycat (1970)|url=https://www.amazon.com/The-Owl-Pussycat-Barbra-Streisand/dp/B00005QCTZ|publisher=Amazon.com|accessdate=September 13, 2012}}&lt;/ref&gt;
+
+During the 1970s, Streisand starred in several [[screwball comedy film|screwball comedies]], including ''[[What's Up, Doc? (1972 film)|What's Up, Doc?]]'' (1972) and ''[[The Main Event (1979 film)|The Main Event]]'' (1979), both co-starring [[Ryan O'Neal]], and ''[[For Pete's Sake (film)|For Pete's Sake]]'' (1974) with [[Michael Sarrazin]].  One of her most famous roles during this period was in the drama ''[[The Way We Were]]'' (1973) with [[Robert Redford]], for which she received an [[Academy Award]] nomination as Best Actress. She earned her second [[Academy Award]] for [[Academy Award for Best Original Song|Best Original Song]] (with lyricist [[Paul Williams (songwriter)|Paul Williams]]) for the song "[[Evergreen (Love Theme from A Star Is Born)|Evergreen]]", from ''[[A Star Is Born (1976 film)|A Star Is Born]]'' in 1976,&lt;ref&gt;{{cite web|last=Ruhlmann|first=William|title=A Star Is Born|url=http://www.allmusic.com/album/a-star-is-born-mw0000196532|publisher=AllMusic|accessdate=September 13, 2012}}&lt;/ref&gt; in which she also starred.
+
+Along with [[Paul Newman]], [[Sidney Poitier]] and later [[Steve McQueen]], Streisand formed First Artists Production Company in 1969 so actors could secure properties and develop movie projects for themselves. Streisand's initial outing with First Artists was ''[[Up the Sandbox]]'' (1972).&lt;ref&gt;{{cite web|title=Art Isn't Easy |url=http://barbratimeless.com/2009firstartists.htm |accessdate=September 13, 2012 |deadurl=yes |archiveurl=https://web.archive.org/web/20100113170554/http://www.barbratimeless.com/2009firstartists.htm |archivedate=January 13, 2010 }}&lt;/ref&gt;
+
+From 1969 to 1980, Streisand appeared in [[Top Ten Money Making Stars Poll]], the annual motion picture exhibitors poll of Top 10 Box Office attractions a total of 10 times,&lt;ref&gt;{{cite news
+ |url=http://www.quigleypublishing.com/MPalmanac/Top10/Top10_lists.html 
+ |title=Top Ten Money Making Stars 
+ |work=Quigley Publishing Company 
+ |date=April 14, 2005 
+ |accessdate=August 17, 2011 
+ |deadurl=yes 
+ |archiveurl=https://web.archive.org/web/20141221063625/http://www.quigleypublishing.com/MPalmanac/Top10/Top10_lists.html 
+ |archivedate=December 21, 2014 
+}}&lt;/ref&gt; often as the only woman on the list. After the commercially disappointing ''[[All Night Long (1981 film)|All Night Long]]'' in 1981, Streisand's film output decreased considerably. She has acted in only eight films since.
+
+{{quote box|quote="I'm impressed with her choosing ''Yentl''; it was extraordinary. But for some reason, Hollywood turned against her...there was a lack of sympathy toward her...Christ, she could have played [[Cleopatra (1963 film)|''Cleopatra'']] better than [[Liz Taylor]], with her enormous power and the subtlety of her singing...She is one of the great actresses and she hasn't been well used."|source=director [[John Huston]], ''Playboy'' interview, 1985&lt;ref&gt;Grobel, Lawrence. "Playboy Interview with John Huston," ''Playboy'' magazine, September 1985&lt;/ref&gt;|align=left|width=25em|bgcolor = Cornsilk}}
+
+Streisand produced a number of her own films, setting up Barwood Films in 1972. The first film she made, ''[[Yentl (film)|Yentl]]'' (1983), was turned down by every Hollywood studio at least once when she asked to not only direct the picture, but also to star in the film, until Orion Pictures took on the project and gave the film a budget of $14 million.&lt;ref&gt;{{Cite journal|last=Spada|first=James|date=December 1983|title=Streisand's 15-Year Quest to Make 'Yentl'|url=|journal=Billboard (Archive: 1963 - 2000)|volume=95|pages=BS8, BS10|via=ProQuest}}&lt;/ref&gt; For ''[[Yentl (film)|Yentl]]'' (1983), she was producer, director, and star, an experience she repeated for ''[[The Prince of Tides]]'' (1991) and ''[[The Mirror Has Two Faces]]'' (1996). There was controversy when ''Yentl'' received five Academy Award nominations, but none for the major categories of Best Picture, Actress, or Director.&lt;ref&gt;[http://www.filmsite.org/aa83.html ''1983 Academy Awards Winners and History'']. Filmsite.com.&lt;/ref&gt; ''The Prince of Tides'' received even more Oscar nominations, including Best Picture and Best Screenplay, although not for director. Upon completion of the film, its screenwriter, [[Pat Conroy]], who also authored the novel, called Streisand "a goddess who walks upon the earth."&lt;ref name=Nickens/&gt;{{rp|xii}}
+
+Streisand also scripted ''Yentl'', something for which she is not always given credit. According to ''[[The New York Times]]'' editorial page editor [[Andrew Rosenthal]] in an interview with Allan Wolper, "The one thing that makes Barbra Streisand crazy is when nobody gives her the credit for having written ''Yentl''."&lt;ref&gt;{{cite web|url=http://wbgo-web.streamguys.net/audio/onDemand.php?podcastID=688|title=Listen to On-Demand audio|work=streamguys.net}}&lt;/ref&gt;
+
+In 2004, Streisand made a return to film acting after an eight-year hiatus, in the comedy ''[[Meet the Fockers]]'' (a sequel to ''[[Meet the Parents]]''), playing opposite [[Dustin Hoffman]], [[Ben Stiller]], [[Blythe Danner]] and [[Robert De Niro]].
+
+[[File:Streisand - Dolly signed.jpg|thumb|in ''[[Hello, Dolly! (film)|Hello, Dolly!]]'' (1969)]]
+In 2005, Streisand's Barwood Films, Gary Smith, and Sonny Murray purchased the rights to [[Simon Mawer]]'s book ''Mendel's Dwarf''.&lt;ref&gt;{{cite news|url=http://www.variety.com/article/VR1117921148.html?cs=1&amp;query=streisand+dwarf |title=Streisand buys 'Dwarf' |work=Variety |date=April 14, 2005 |accessdate=August 17, 2011}}&lt;/ref&gt; In December 2008, she stated that she was considering directing an adaptation of [[Larry Kramer]]'s play ''[[The Normal Heart]]'', a project she has worked on since the mid-1990s.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/1995/01/12/garden/at-home-with-larry-kramer-when-a-roaring-lion-learns-to-purr.html?sec=&amp;spon=&amp;pagewanted=2 |title=AT HOME WITH: Larry Kramer; When a Roaring Lion Learns to Purr |first=Alex |last=Witchel |work=The New York Times |date=January 12, 1995 |accessdate=August 17, 2011}}&lt;/ref&gt;
+
+In December 2010, Streisand appeared in ''[[Little Fockers]]'', the third film from the [[Meet the Parents|''Meet the Parents'' trilogy]].  She reprised the role of Roz Focker alongside [[Dustin Hoffman]].
+
+On January 28, 2011, ''[[The Hollywood Reporter]]'' announced that Paramount Pictures had given the green light to begin shooting the [[Road trip|road-trip]] comedy ''My Mother's Curse'', with [[Seth Rogen]] playing Streisand's character's son. [[Anne Fletcher]] directed the project with a script by [[Dan Fogelman]], produced by [[Lorne Michaels]], [[John Goldwyn]], and [[Evan Goldberg]]. Executive producers included Streisand, Rogen, Fogelman, and [[David Ellison]], whose [[Skydance Productions]] co-financed the [[road movie]].&lt;ref&gt;{{cite news|url=http://www.hollywoodreporter.com/news/barbra-streisand-seth-rogen-star-94217 |title=Exclusive: Barbra Streisand, Seth Rogen to Star in 'My Mother's Curse' for Paramount |work=The Hollywood Reporter |date=January 28, 2011 |accessdate=July 26, 2012 |first=Matthew |last=Belloni}}&lt;/ref&gt;  Shooting began in spring 2011 and wrapped in July; the film's title was eventually altered to ''[[The Guilt Trip (film)|The Guilt Trip]]'', and the movie was released in December 2012.
+
+Streisand has been set to star in a film adaptation of the musical ''[[Gypsy (musical)|Gypsy]]''{{spaced ndash}} featuring music by [[Jules Styne]], a book by [[Arthur Laurents]] and lyrics by [[Stephen Sondheim]]{{spaced ndash}} with [[Richard LaGravenese]] reportedly attached to the project as screenwriter.&lt;ref&gt;Perlman, Jake (August 1, 2014). [http://www.ew.com/article/2014/08/01/gypsy-film-barbra-streisand "The 'Gypsy' Film with Barbra Streisand Might Still Be Happening After All"]. ''[[Entertainment Weekly]]''. Retrieved June 16, 2015.&lt;/ref&gt; In April 2016, it was reported that Streisand was in advanced negotiations to star in and produce the film, which will be directed by [[Barry Levinson]] and distributed by [[STX Entertainment]].&lt;ref&gt;{{cite news|url=https://variety.com/2016/film/news/barbra-streisand-gypsy-barry-levinson-1201750655/|title=Barbra Streisand, Barry Levinson Reviving Gypsy for STX Entertainment (EXCLUSIVE) |work=Variety|date=April 11, 2016 |accessdate=April 11, 2016 }}&lt;/ref&gt; Two months later, the film's script had been completed and production was scheduled to begin in early 2017.&lt;ref&gt;{{cite news|url=http://www.playbill.com/article/barbra-streisand-gypsy-film-script-complete-and-aiming-for-2017-start|title=Barbra Streisand Gypsy Film Script Complete and Aiming for 2017 Start |work=Playbill|date=July 14, 2016 |accessdate=July 14, 2016 }}&lt;/ref&gt;
+
+Streisand is set to direct the historical drama ''Catherine the Great'', a feature biopic about the 18th-century Russian empress, based on the top 2014 Black List script, produced by  Gil Netter.&lt;ref&gt;{{cite news|url=https://variety.com/2015/film/news/barbra-streisand-catherine-the-great-movie-1201653005/ |title=Barbra Streisand Directing 'Catherine the Great' Movie |work=Variety Media|date=December 3, 2015  |accessdate=December 10, 2015 }}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.ew.com/article/2015/12/03/barbra-streisand-direct-catherine-great|title=Barbra Streisand to direct Catherine the Great |work=Entertainment Weekly|date=December 3, 2015  |accessdate=December 10, 2015 }}&lt;/ref&gt;
+
+== Artistry ==
+[[Whitney Balliett]] wrote, "Streisand wows her listeners with her shrewd dynamics (in-your-ear soft here, elbowing-loud there), her bravura climbs, her rolling vibrato, and the singular Streisand-from-Brooklyn nasal quality of her voice  a voice as immediately recognizable in its way as Louis Armstrong's."&lt;ref&gt;{{cite web|url=http://www.newyorker.com/magazine/1994/06/20/barbra-streisand|title=Barbra Streisand profile|date=June 20, 1994|accessdate=November 30, 2014|work=[[The New Yorker]]|last=Balliett|first=Whitney}}&lt;/ref&gt; Music writer Allegra Rossi adds that Streisand creates complete compositions in her head:
+
+{{quote|Even though she can't read or write music, Barbra hears melodies as completed compositions in her head. She hears a melody and takes it in, learning it quickly. Barbra developed her ability to sustain long notes because she wanted to. She can mold a tune that others cannot; she's able to sing between song and speech, keeping in tune, carrying rhythm and meaning.&lt;ref name=Rossi&gt;Rossi, Allegra. ''Barbra: A Retrospective'', Sterling Publishing, N.Y. (2012) pp. 176-179&lt;/ref&gt;{{Efn|Rossi gives an example of how Streisand's songs are infused with meaning, such as in the film ''A Star is Born''. A clip of her singing "Evergreen" with co-star Kris Kristofferson shows him horsing around with her as she sang, and the look of "pure seduction" she gave him in return is seen in her eyes and heard in her voice. "When Barbra's singing, she's singing just for you."&lt;ref name=Rossi/&gt;&lt;ref&gt;video clip:[https://www.youtube.com/watch?v=I0f1cMYF91A  Barbra Streisand and Kris Kristofferson in ''A Star is Born'']&lt;/ref&gt;}}}}
+
+While she is predominantly a pop singer, Streisand's voice has been described as "semi-operatic" due to its strength and quality of tone.&lt;ref name="nytimes1"&gt;{{cite news| url=https://www.nytimes.com/2012/10/13/arts/music/a-sentimental-and-glorious-brooklyn-homecoming-for-streisand.html?_r=0|work=The New York Times|first=Stephen|last=Holden|title=Barbra Streisand at Barclays Center, a Homecoming|date=October 12, 2012}}&lt;/ref&gt; According to Adam Feldman of ''[[Time Out (magazine)|Time Out]]'', Streisand's "signature vocal style" is "a suspension bridge between old-school belting and microphone pop."&lt;ref&gt;{{cite web|url = http://www.timeout.com/newyork/theater/broadways-25-all-time-greatest-divas-broadway|title = The 25 best Broadway divas of all time|date = January 23, 2012|access-date = February 15, 2016|website = Time Out|publisher = |last = Feldman|first = Alan}}&lt;/ref&gt; She is known for her ability to hold relatively high notes, both loud and soft, with great intensity, as well as for her ability to make slight but unobtrusive embellishments on a melodic line. The former quality led classical pianist [[Glenn Gould]] to call himself "a Streisand freak".&lt;ref&gt;{{cite web|url=http://barbra-archives.com/bjs_library/70s/high_fidelity_1976.html|title=Barbra Streisand Archives|publisher=Barbra-archives.com|accessdate= July 4, 2014}}&lt;/ref&gt;
+
+In recent years, critics and audiences have noted that her voice has "lowered and acquired an occasionally husky edge". However, ''New York Times'' music critic Stephen Holden noted that her distinctive tone and musical instincts remain, and that she still "has the gift of conveying a primal human longing in a beautiful sound".&lt;ref name="nytimes1" /&gt; Paul Taylor of ''[[The Independent (newspaper)|The Independent]] ''wrote that Streisand "has sounded a little scratchy and frayed, though the stout resolve and superb technique with which Streisand manages to hoist it over these difficulties has come to seem morally as well aesthetically impressive."&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/arts-entertainment/music/reviews/music-review-barbra-streisands-unparallelled-vocal-gifts-were-in-awesome-evidence-at-the-o2-8641790.html|title=Music review: Barbra Streisand's unparallelled vocal gifts were in awesome evidence at the O2|date=June 3, 2013|accessdate=November 11, 2014|website=The Independent|publisher=independent.co.uk|last=Taylor|first=Paul}}&lt;/ref&gt; Reviewing Streisand's most recent studio effort ''[[Partners (Barbra Streisand album)|Partners]]'', Gil Naveh of ''[[Haaretz]] ''described Streisand's voice as "velvety, clear and powerful  and the passing years have given it a fascinating depth and roughness."&lt;ref&gt;{{cite web|url=http://www.haaretz.com/life/music-theater/.premium-1.616032|title=Come rain and not shine: Barbra Streisand's 'Partners' is pretentious kitsch|date=September 16, 2014|accessdate=November 30, 2014|website=Haaretz|publisher=Haaretz Daily Newspaper Ltd|last=Naveh|first=Gil}}&lt;/ref&gt;
+
+== Personal life ==
+
+=== Relationships and family ===
+[[File:Streisand - Gould 1967.jpg|thumb|px 240|Streisand with husband [[Elliott Gould]] and son [[Jason Gould|Jason]] (1967)]]
+[[File:Barbra Streisand and James Brolin.jpg|thumb|px240|With [[James Brolin]] (2013) ]]
+Streisand has been married twice. Her first husband was actor [[Elliott Gould]], to whom she was married from 1963 until 1971. They had one child, [[Jason Gould]], who appeared as her on-screen son in ''[[The Prince of Tides]]''. In 1969 and 1970, Streisand dated [[Canadians|Canadian]] Prime Minister [[Pierre Trudeau]].&lt;ref&gt;{{cite news |work=Calgary Herald |last=Tierney |first=Ben |date=January 30, 1970 |accessdate=February 1, 2013 |url=https://news.google.com/newspapers?id=QGtkAAAAIBAJ&amp;sjid=-HwNAAAAIBAJ&amp;pg=5746%2C2992239 |title=Pierre Shy But Barbra Loved It |quote=Miss Streisand arrived in Ottawa Wednesday night...and attended a performance of the Royal Winnipeg Ballet Company, in capital's [sic] posh National Arts Centre, with the prime minister. The outing, their third together, was enough, said a local newspaper, to 'set Ottawa buzzing with romantic speculation.'}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Klassen |first=Nicholas |url=http://ballastmag.com/2012/09/longing-for-a-suave-prime-minister/|title=Longing for a Suave Prime Minister |publisher=Ballast|date=September 27, 2012 |accessdate=September 27, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=bcgyAAAAIBAJ&amp;sjid=3OwFAAAAIBAJ&amp;pg=5817,2172460&amp;dq=trudeau+streisand |title=BarbraAct 2 |work=Ottawa Citizen |date=June 8, 1970 |accessdate=February 1, 2013}}&lt;/ref&gt;
+
+She started a relationship with hairdresser/producer [[Jon Peters]] in 1974. He went on to be her manager and producer.&lt;ref&gt;{{cite web|title=Jon Peters|url=http://www.imdb.com/name/nm0005307/bio|publisher=Internet Movie Database|accessdate=November 27, 2013}}&lt;/ref&gt; She is the godmother of his daughters, [[Caleigh Peters]] and Skye Peters.&lt;ref&gt;{{cite news|last=Smith|first=Liz|url=https://pqasb.pqarchiver.com/newsday/access/696838721.html?dids=696838721:696838721&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Sep+22%2C+2004&amp;author=Liz+Smith&amp;pub=Newsday+%28Combined+editions%29&amp;desc=Time+to+say%2C+Youre+Friared!&amp;pqatl=google|title=Time to say, You're Friared!|date=September 22, 2004|work=Newsday|accessdate=December 13, 2012}}&lt;/ref&gt;
+
+Streisand dated tennis champion [[Andre Agassi]] in the early 1990s. Writing about the relationship in his 2009 autobiography, Agassi said: "We agree that we're good for each other, and so what if she's twenty-eight years older? We're simpatico, and the public outcry only adds spice to our connection. It makes our friendship feel forbidden, taboo  another piece of my overall rebellion. Dating Barbra Streisand is like wearing Hot Lava."&lt;ref name=Open_bio&gt;{{Citation |last=Agassi |first=Andre |date=2009 |title=Open: An Autobiography |publisher=Vintage |url=https://www.amazon.com/Open-An-Autobiography-Andre-Agassi/dp/0307388409 |accessdate= July 27, 2014 }}&lt;/ref&gt;
+
+Her second husband is actor [[James Brolin]], whom she married on July 1, 1998.&lt;ref&gt;{{cite web|last=Schindehette |first=Susan |title=The Way They Were |url=http://www.people.com/people/archive/article/0,,20125806,00.html |work=[[People (magazine)|People]] |date=July 20, 1998 | accessdate=September 13, 2012}}&lt;/ref&gt; While they have no children together, Brolin has two children from his first marriage, including actor [[Josh Brolin]], and one child from his second marriage.
+
+Streisand is the owner of multiple dogs, and she loved her dog Samantha so much, that she had her [[Pet cloning|cloned]].&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/2018/03/02/style/barbra-streisand-cloned-her-dog.html|title=Barbra Streisand Explains: Why I Cloned My Dog|last=Streisand|first=Barbra|date=2018-03-02|work=The New York Times|access-date=2018-03-29|language=en-US|issn=0362-4331}}&lt;/ref&gt;
+
+=== Name ===
+Streisand changed her name from "Barbara" to "Barbra" because, she said, "I hated the name, but I refused to change it."&lt;ref&gt;{{cite web|url=http://barbra-archives.com/bjs_library/60s/rogue_streisand.html|title=The Mouse That Wails|work=Rogue|publisher=Barbra |date=November 1963|accessdate=August 26, 2010}}&lt;/ref&gt; Streisand further explained, "Well, I was 18 and I wanted to be unique, but I didn't want to change my name because that was too false. You know, people were saying you could be Joanie Sands, or something like that. (My middle name is Joan.) And I said, 'No, let's see, if I take out the 'a,' it's still 'Barbara,' but it's unique."&lt;ref&gt;{{cite news|url=http://www.cbsnews.com/stories/2010/08/08/sunday/main6753884.shtml |title=Her name is Barbra |publisher=[[CBS News]] |date=September 27, 2010 |accessdate=August 26, 2010 |archiveurl=https://web.archive.org/web/20100825050655/http://www.cbsnews.com/stories/2010/08/08/sunday/main6753884.shtml |archivedate=August 25, 2010 |deadurl=no |df=mdy }}&lt;/ref&gt; A 1967 biography with a concert program said, "the spelling of her first name is an instance of partial rebellion: she was advised to change her last name and retaliated by dropping an "a" from the first instead."&lt;ref&gt;{{cite web|url=http://barbra-archives.com/live/60s/hollywood_bowl_67_streisand.html|title=An Evening With Barbra Streisand|publisher=Barbra Archives|date=July 9, 1967|accessdate=August 26, 2010}}&lt;/ref&gt;
+
+=== Politics ===
+Streisand has long been an active supporter of the [[Democratic Party (United States)|Democratic Party]] and many of its causes.  She was among the celebrities on President [[Richard Nixon]]'s [[Master list of Nixon's political opponents|1971 list of political enemies]].&lt;ref&gt;{{cite news |work=Anchorage Daily News |agency=Associated Press |date=June 27, 1973 |accessdate=February 1, 2013 |url=https://news.google.com/newspapers?id=9RwfAAAAIBAJ&amp;sjid=rKYEAAAAIBAJ&amp;pg=3962,4375455&amp;q=streisand |title=Harassment plots for Nixon's foes}}&lt;/ref&gt;  In 1995 Streisand spoke at [[Harvard University|Harvard's]] [[John F. Kennedy School of Government]] about the role of the [[artist]] as [[citizen]], in support of [[arts]] programs and funding.&lt;ref&gt;[http://www.barbrastreisand.com/news/artist-citizen/ "The Artist as Citizen"]&lt;/ref&gt;&lt;ref&gt;[http://iop.harvard.edu/forum/artist-citizen-barbra-streisand The Artist as Citizen - Barbra Streisand - Friday, February 3, 1995.]&lt;/ref&gt;
+
+Streisand is a supporter of gay rights, and in 2007 helped raise funds in an unsuccessful attempt to defeat [[California Proposition 8]].&lt;ref&gt;{{cite news|title=Barbra Streisand among host of stars to support gay marriage campaign in California|url=http://www.dailymail.co.uk/news/article-1078505/Barbra-Streisand-host-stars-support-gay-marriage-campaign-California.html|work=Daily Mail|accessdate=October 17, 2008|location=London}}&lt;/ref&gt;
+
+In June 2013, she helped celebrate the 90th birthday of [[Shimon Peres]] held at [[Jerusalem]]'s international convention center.&lt;ref&gt;[https://www.youtube.com/watch?v=tEfHmKTy0to "Barbra Streisand sings "Avinu Malkeinu" and "People" for Shimon Peres' 90 birthday]&lt;/ref&gt; She also performed at two other concerts in Tel Aviv that same week, part of her first concert tour of Israel.&lt;ref&gt;[https://www.theguardian.com/culture/2013/jun/19/barbra-streisand-shimon-peres-israel-gala "Barbra Streisand echoes Monroe's birthday tribute for Shimon Peres"], ''The Guardian'', June 19, 2013&lt;/ref&gt;
+ 	
+In January 2017, she participated in [[2017 Women's March]] in Los Angeles. Introduced by [[Rufus Wainwright]], Streisand appeared on stage and made a speech.&lt;ref name=CBSNewscelebsattend &gt;{{cite news|title=Celebrities attend Women's Marches around the world (Photos)|url=http://www.cbsnews.com/pictures/celebrities-attend-womens-marches-around-the-world/4/|accessdate=January 25, 2017|work=CBS News|date=January 21, 2017}}&lt;/ref&gt;
+
+=== Philanthropy ===
+In 1984, Streisand donated the Emanuel Streisand Building for Jewish Studies to the [[Hebrew University of Jerusalem]], in the Mount Scopus campus, in memory of her father, an educator and scholar who died when she was young.&lt;ref&gt;{{cite news |url=http://www.jpost.com/National-News/Barbra-Streisand-given-honorary-doctorate-at-Hebrew-University-316843 |title=Barbra Streisand given honorary doctorate at HU |newspaper=The Jerusalem Post |first=Daniel K. |last=Eisenbud |date=June 17, 2013 |accessdate=June 17, 2013 }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.barbratimeless.com/2009isr.htm |title=Barbra Picks Up PhD, Sees the Sights, Sings for President |date=June 17, 2013 |accessdate=June 17, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131203050516/http://www.barbratimeless.com/2009isr.htm |archivedate=December 3, 2013 |df=mdy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite news |url= http://www.jewishjournal.com/hollywoodjew/item/barbra_streisand_expected_to_perform_publicly_in_israel_for_the_first_time |accessdate=June 17, 2013 |newspaper=Jewish Journal |date=May 20, 2013 |title=Barbra Streisand expected to perform publicly in Israel for the first time |first=Danielle |last=Berrin }}&lt;/ref&gt;
+
+Streisand has personally raised $25&amp;nbsp;million&lt;ref&gt;{{cite web|last=Grein |first=Paul |url=http://www.grammy.com/news/barbra-streisand-the-way-she-is-part-one |title=Interview with Barbra Streisand |publisher=National Academy of Recording Arts and Sciences |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110711122524/http://www.grammy.com/news/barbra-streisand-the-way-she-is-part-one |archivedate=July 11, 2011 |deadurl=no |df=mdy }}&lt;/ref&gt; for organizations through her live performances. The Streisand Foundation,&lt;ref&gt;{{cite web|url=http://www.barbranews.com/streisandfoundint.htm |title=Barbra News.com 2006 Interview with Marge Tabankin |publisher=Barbranews.com |date=October 24, 2006 |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110720163109/http://www.barbranews.com/streisandfoundint.htm |archivedate=July 20, 2011 |deadurl=no |df=mdy }}&lt;/ref&gt; established in 1986, has contributed over $16&amp;nbsp;million through nearly 1,000 grants to "national organizations working on preservation of the environment, voter education, the protection of [[civil liberties]] and [[civil rights]], [[feminism|women's issues]]&lt;ref name="Heartworknews.com"&gt;{{cite news|title=Barbra Streisand Endows Program at Cedars-Sinai Women's Heart Center: $5 Million Gift Supports Women's Cardiovascular Research and Education |url=http://heartworknews.com/news/Barbra_Streisand_Endows_Program_at_Cedars_Sinai_Womens_Heart_Center_5_Million_Gift_Supports_Womens_Cardiovascular_Research_and_ |publisher=Heartworknews.com |accessdate=April 22, 2008 |archiveurl=https://web.archive.org/web/20080621000419/http://heartworknews.com/news/Barbra_Streisand_Endows_Program_at_Cedars_Sinai_Womens_Heart_Center_5_Million_Gift_Supports_Womens_Cardiovascular_Research_and_ |archivedate=June 21, 2008 |deadurl=yes |df=mdy }}&lt;/ref&gt; and [[nuclear disarmament]]".&lt;ref&gt;{{cite web|url=http://www.sonymusic.com/artists/BarbraStreisand/foundationguidelines.html |archiveurl=https://web.archive.org/web/20080227020438/http://www.sonymusic.com/artists/BarbraStreisand/foundationguidelines.html |archivedate=February 27, 2008 |title=Barbra Streisand |publisher=Sonymusic.com |accessdate=July 26, 2012 |deadurl=yes |df=mdy }}&lt;/ref&gt;
+
+In 2006, Streisand donated $1&amp;nbsp;million to the [[William J. Clinton Foundation]] in support of former President [[Bill Clinton]]'s climate change initiative.&lt;ref&gt;{{cite news|last=Dugger |first=Celia W. |url=https://www.nytimes.com/2006/09/23/world/23aid.html?_r=1&amp;oref=slogin |title=Clinton Effort Reaps Pledges of $7.3 Billion in Global Aid |work=The New York Times |date=September 23, 2006 |accessdate=August 17, 2011}}&lt;/ref&gt;
+
+In 2009, Streisand gifted $5&amp;nbsp;million to endow the Barbra Streisand Women's Cardiovascular Research and Education Program at [[Cedars-Sinai Medical Center]]'s Women's Heart Center.&lt;ref&gt;{{cite web|url=http://www.discoveringforlife.org/womens-heart-center/your-gift/barbra-streisand |title=Raising awareness about women's heart health |publisher=Discoveringforlife.org |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110726001245/http://www.discoveringforlife.org/womens-heart-center/your-gift/barbra-streisand |archivedate=July 26, 2011 |deadurl=no |df=mdy }}&lt;/ref&gt;  In September that year, ''Parade'' magazine included Streisand on its Giving Back Fund's second annual Giving Back 30 survey, "a ranking of the celebrities who have made the largest donations to charity in 2007 according to public records",&lt;ref&gt;{{cite web |url=http://www.givingback.org/Programs_Services/GivingBack30_2007.html |title=The Giving Back Fund press release. September 14, 2008 |publisher=Givingback.org |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110726110211/http://www.givingback.org/Programs_Services/GivingBack30_2007.html |archivedate=July 26, 2011 |deadurl=yes |df=mdy }}&lt;/ref&gt;  as the third most generous celebrity. The Giving Back Fund claimed Streisand donated $11&amp;nbsp;million, which The Streisand Foundation distributed. In 2012 she raised $22&amp;nbsp;million to support her women's cardiovascular center, bringing her own personal contribution to $10&amp;nbsp;million. The program was officially named the Barbra Streisand Women's Heart Center.
+
+At Julien's Auctions in October 2009, Streisand, a longtime collector of art and furniture, sold 526 items, with all the proceeds going to her foundation. Items included a costume from ''Funny Lady'' and a vintage dental cabinet purchased by the performer at 18 years old. The sale's most valuable lot was a painting by [[Kees van Dongen]].&lt;ref&gt;Douglas, Sarah. "[http://www.artinfo.com/news/story/32797/in-the-air-star-ambitions/ In the Air: Star Ambitions]."''[[Art+Auction]]'', October 2009.&lt;/ref&gt;
+
+In December 2011, she appeared at a fundraising gala for [[Israel Defense Forces]] charities.&lt;ref&gt;{{cite web  |url=http://www.jewishjournal.com/hollywoodjew/item/the_way_we_were_20111214/ | title=The way we were: Streisand and Saban shore up for Israel | work=Jewish Journal |date=December 14, 2011 |accessdate=July 29, 2015}}&lt;/ref&gt;
+
+== Legacy ==
+
+=== Honors ===
+Streisand was presented Distinguished Merit Award by [[Mademoiselle (magazine)|Mademoiselle]] in 1964, and selected as  Miss Ziegfeld in 1965. In 1968, she received the Israel Freedom Medal, the highest civilian award of [[Israel]], and she was awarded Pied Piper Award by [[ASCAP]] and [[Acadmie Charles Cros|Prix De L'Academie Charles Cros]] in 1969, Crystal Apple by her hometown City of New York, Woman of Achievement in the Arts by [[Anti-Defamation League]] in 1978. In 1984, Streisand was awarded the [[Women in Film Crystal + Lucy Awards|Women in Film Crystal Award]] for outstanding women who, through their endurance and the excellence of their work, have helped to expand the role of women within the entertainment industry.&lt;ref&gt;{{cite web|url=http://wif.org/past-recipients |title=Past Recipients |publisher=Wif.org |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110724120329/http://www.wif.org/past-recipients |archivedate=July 24, 2011 |deadurl=yes |df=mdy }}&lt;/ref&gt; She received the Woman of Courage Award by the [[National Organization for Women]] (NOW), [[the Ordre des Arts et des Lettres]] &lt;ref name="whoswho.com"&gt;{{cite web|url=http://www.whoswho.com/us/barbra-streisand |title=Barbra Streisand Career Professional honors and awards |publisher=whoswho.com|accessdate=December 10, 2014}}&lt;/ref&gt; and Scopus Award by [[American Friends of The Hebrew University]].
+
+She received Breakthrough Awards for "making films that portray women with serious complexity" at the Women, Men and Media symposium in 1991.&lt;ref&gt;{{cite web|url = http://articles.latimes.com/1991-04-05/news/vw-2038_1_breakthrough-awards|title = Breakthrough Awards to Go to 12 in Media|publisher = Los Angeles Times|accessdate = |date = April 5, 1991}}&lt;/ref&gt; In 1992, she was given the Commitment to Life Award by [[AIDS Project Los Angeles]](APLA), and the Bill of Rights Award by the [[American Civil Liberties Union of Southern California]], the Dorothy Arzner Special Recognition by [[Women in Film Los Angeles|Women in Film]], and the Golden Plate by the [[Academy of Achievement]]. She was honored with the Harry Chapin Humanitarian Award from the [[ASCAP]] in 1994 and the [[Peabody Award]] in 1995, the same year she was accorded an Honorary Doctorate In Arts and Humanities by [[Brandeis University]].&lt;ref name="whoswho.com" /&gt; She was also awarded Filmmaker of the Year Award  for "lifetime achievement in filmmaking" by ShowEast and [[Peabody Award]] in 1996, [[Christopher Award]] in 1998.
+
+In 2000, President Bill Clinton presented Streisand with the [[National Medal of Arts]], the highest honor specifically given for achievement in the arts,&lt;ref&gt;{{cite web|url=http://www.nea.gov/honors/medals/medalists_year.html#00 |title=Lifetime Honors  National Medal of Arts |publisher=Nea.gov |accessdate=August 17, 2011 |archiveurl=https://web.archive.org/web/20110721054307/http://www.nea.gov/honors/medals/medalists_year.html |archivedate=July 21, 2011 |deadurl=yes |df=mdy }}&lt;/ref&gt; and [[Library of Congress Living Legend]], she also received the highest honor for a career in film [[AFI Life Achievement Award]] from [[American Film Institute]] and Liberty and Justice Award from [[Rainbow/PUSH]] Coalition, [[Gracie Allen Award]]First Annual Jewish Image Awards in 2001, and Humanitarian Award "for her years of leadership, vision, and activism in the fight for civil liberties, including religion, race, gender equality and freedom of speech, as well as all aspects of gay rights" from [[Human Rights Campaign]] in 2004. In 2007, French President Nicolas Sarkozy presented Streisand with [[Legion of Honour]], the highest decoration in France, and President George W. Bush presented her [[Kennedy Center Honors]], the highest recognition of cultural achievement.
+
+In 2011, she was given Board of Governors Humanitarian Award for her efforts on behalf of women's heart health and her many other philanthropic activities." by [[Cedars-Sinai Medical Center|Cedars-Sinai Heart Institute]]. She received the L'Oral Paris Legend Award in 18th ''Elle'' Magazine Women in Hollywood. In 2012, she received a Lifetime Achievement Award from the [[Women Film Critics Circle]]. She was accorded an Honorary Doctorate of Philosophy by the [[Hebrew University of Jerusalem]] in 2013. In that year, she was also recipient of the Charlie Chaplin Award for Lifetime Achievement by the [[Film Society of Lincoln Center]] as the only female artist to direct, write, produce and star in the same major studio film, ''Yentl,''&lt;ref&gt;{{cite web|url=http://www.ew.com/article/2013/04/23/on-the-scene-barbra-streisand-chaplin-award |title=On the Scene: Barbra Streisand Receives Film Society of Lincoln Center's Charlie Chaplin Award |work = [[Entertainment Weekly]] |accessdate=April 23, 2013 }}&lt;/ref&gt; along with a Lifetime Achievement [[Glamour Awards]].&lt;ref&gt;{{cite web|url=http://www.glamour.com/inspired/women-of-the-year/2013/barbra-streisand |title=Barbra Streisand: The Legend |publisher=Glamour |accessdate=December 10, 2013}}&lt;/ref&gt; In 2014, Streisand was on one of eight different ''New York Magazine'' covers celebrating the magazine's "100 Years, 100 Songs, 100 Nights: A Century of Pop Music in New York". She also received the [[American Society of Cinematographers]] (ASC) Board of Governors Award,&lt;ref&gt;{{cite web|url=http://www.imdb.com/news/ni58169626/ |title=Barbra Streisand to be Honored by American Society of Cinematographers |publisher= [[Internet Movie Database]]|accessdate=January 14, 2015}}&lt;/ref&gt;  the Sherry Lansing Leadership Award at [[The Hollywood Reporter]]'s annual Women in Entertainment Breakfast,&lt;ref&gt;{{cite web|url=http://www.billboard.com/articles/news/6723076/barbra-streisand-honored-hollywood-reporter-women-in-entertainment |title=Barbra Streisand to be Honored at The Hollywood Reporter 2015 Women in Entertainment Breakfast |publisher= Billboard |accessdate=October 13, 2015 }}&lt;/ref&gt; and came first in the 1010 Wins Iconic Celebrity Poll by CBS in 2015.&lt;ref name="whoswho.com" /&gt; In November 2015, President [[Barack Obama]] announced that Streisand would receive the [[Presidential Medal of Freedom]], the highest [[Civilian decorations of the United States|civilian award]] of the [[United States]].&lt;ref&gt;{{cite web|url=https://www.whitehouse.gov/the-press-office/2015/11/16/president-obama-names-recipients-presidential-medal-freedom |title=President Obama Names Recipients of the Presidential Medal of Freedom | accessdate=November 16, 2015 |date=November 16, 2015|work=The White House}}&lt;/ref&gt;
+Streisand was inducted into and [[Hollywood Walk of Fame]] in 1976, [[Goldmine (magazine)|Goldmine Hall of Fama]] in 2002,&lt;ref&gt;{{cite web|url=http://www.goldminemag.com/blogs/great-blogs-of-fire/goldmine-hof-volume-3 |title=Goldmine's Hall of Fame Inductees |publisher=Goldmine Hall of Fame |accessdate=July 5, 2012 }}&lt;/ref&gt; [[Long Island Music Hall of Fame]] in 2007,&lt;ref&gt;{{cite web|url=http://www.limusichalloffame.org/project/5907 |title=Barbra Streisand &amp;#124; Long Island Music Hall of Fame |publisher=Long Island Music Hall of Fame|accessdate=April 23, 2014 }}&lt;/ref&gt; the [[Hit Parade Hall of Fame]] in 2009,&lt;ref&gt;{{cite web |url=http://hitparadehalloffame.com/barbra-streisand/ |archive-url=https://web.archive.org/web/20141007194812/http://hitparadehalloffame.com/barbra-streisand/ |dead-url=yes |archive-date=October 7, 2014 |title=Barbra Streisand &amp;#124; Hit Parade Hall of Fame |publisher=Hit Parade Hall of Fame |accessdate=January 23, 2014 }}&lt;/ref&gt; [[National Museum of American Jewish History]] and [[California Hall of Fame]] in 2010.&lt;ref name="whoswho.com" /&gt;
+
+In 1970, she received a [[Special Tony Award]] named "Star of the Decade", and was selected "Star of the Decade" by the [[National Association of Theatre Owners]] (NATO) in 1980, "Star of Decade" by NATO/ShowWest and President's Award by [[Music Business Association|NARM]] in 1988. That year she was also named as All-Time Favorite Musical Performer by [[People's Choice Awards]]. In 1986, [[Life (magazine)|''Life'']] named her as one of "Five Hollywood's Most Powerful Women".&lt;ref&gt;{{cite web|url=http://www.wonderwall.com/movies/Jessica-Lange-photos-850.celebrity?photoId=160187 |title=Hollywood's Most Powerful Women|publisher= Life magazine|accessdate=January 14, 2015}}&lt;/ref&gt; In 1998, [[Harris Poll]] reported that she is the "Most Popular Singer Among Adult Americans of All Ages." She was also featured on [[VH1]]'s 100 Greatest Women of Rock N Roll,&lt;ref name="Barbra Streisand's trivia"&gt;{{cite web|url=http://www.imdb.com/name/nm0000659/bio?ref_=nm_dyk_trv_sm#trivia |title=Barbra Streisand's Trivia |publisher= [[Internet Movie Database]] |accessdate=January 14, 2015}}&lt;/ref&gt; Top 100 Singers of all time by ''[[Mojo (magazine)|Mojo]]'' magazine,&lt;ref name=mojolist&gt;{{cite web |title=''Mojo'' Readers Top&amp;nbsp;100 Singers of All Time  |url=http://www.rocklistmusic.co.uk/mojo_p3.htm |publisher=Rock List Music (Julian White) |accessdate=June 30, 2012}}&lt;/ref&gt; named the century's best female singer in a Reuters/Zogby poll, and "Top Female Artist of the Century" by [[Recording Industry Association of America]] in 1999.&lt;ref&gt;{{cite news|url=http://www.people.com/people/article/0,,616842,00.html|title=Century Bests|agency=Time Inc|date=October 12, 1998|accessdate=August 28, 2005}}&lt;/ref&gt;&lt;ref name="*foot notes"&gt;{{cite news|url=http://articles.latimes.com/2000/jan/07/local/me-51816|title=*foot notes|agency=Los Angeles Times|date=January 7, 2000|accessdate=August 28, 2004}}&lt;/ref&gt; In 2006, Streisand was one of honorees at [[Oprah Winfrey's Legends Ball|Oprah Winfrey's white-tie Legends Ball]].&lt;ref name="abc"&gt;{{cite web|url=http://abc.go.com/primetime/legendsball/ |work=ABC.com|title=Oprah Winfrey's Legends Ball&lt;!-- Bot generated title --&gt; |archiveurl = https://web.archive.org/web/20071007071949/http://abc.go.com/primetime/legendsball/ |archivedate = October 7, 2007}}&lt;/ref&gt; In 2011, the British tabloid ''[[The Sun (United Kingdom)|The Sun]]'' ranked Streisand as "The 50 female singers who will never be forgotten".&lt;ref&gt;{{cite news|url=http://br.noticias.yahoo.com/s/080513/48/gjni65.html|archiveurl=https://web.archive.org/web/20100204230158/http://br.noticias.yahoo.com/s/080513/48/gjni65.html|title=As 50 cantoras que nunca sero esquecidas|work=[[Yahoo!]] Brazil|archivedate=February 4, 2010|accessdate=April 16, 2013|language=Portuguese}}&lt;/ref&gt;
+
+''[[The Daily Telegraph]]'' ranked Streisand as the 10 top female singer-songwriters of all time.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/culture/culturepicturegalleries/9645702/The-50-top-female-singer-songwriters.html?frame=2384360|title=The 50 top female singer-songwriters|agency=The Daily Telegraph|date=May 29, 2015|accessdate=August 28, 2015}}&lt;/ref&gt; [[A&amp;E (TV channel)|A&amp;E]]'s ''Biography'' magazine ranked Streisand as one of their favorite leading actress of all time,&lt;ref&gt;{{cite news|url=http://www.thefreelibrary.com/Audrey+Hepburn+Named+Favorite+All-Time+Oscar-Winning+Actress+by...-a075081004|title=Audrey Hepburn Named Favorite All-Time Oscar-Winning Actress by Biography Magazine Readers|agency=PR Newswire|date=May 29, 2001|accessdate=October 28, 2012}}&lt;/ref&gt; she was also featured on the Voices of the Century list by [[BBC]],&lt;ref&gt;{{cite news|url=https://www.theguardian.com/uk/2001/apr/17/helencarter|title=Ol' Blue Eyes is tops, poll shows |agency=The Guardian |date=May 17, 2001|accessdate=October 28, 2012}}&lt;/ref&gt; the "100 Greatest Movie Stars of  Time" list compiled by ''[[People (magazine)|People]]'',{{sfn|Laufenberg|2005|p=120}} [[VH1]]'s list of the "200 Greatest Pop Culture Icons of All Time",&lt;ref&gt;{{vcite press release | url = http://www.prnewswire.com/news-releases/the-200-greatest-pop-culture-icons-complete-ranked-list-70807437.html | title = The 200 Greatest Pop Culture Icons Complete Ranked List | publisher = VH1 | date = July 2125, 2003 | accessdate =March 17, 2011}}&lt;/ref&gt; the "100 Greatest Entertainers of All Time"ranked at #13 and the "Greatest Movie Star of all time list" by [[Entertainment Weekly]],&lt;ref name="Barbra Streisand's trivia" /&gt; "The 50 Greatest Actresses of All Tim" by [[AMC (TV channel)|AMC]],&lt;ref&gt;{{cite web|title = The 50 Greatest Actresses of All Time|url = http://www.amc.com/movie-guide/the-50-greatest-actresses-of-all-time|website = AMC|accessdate = November 24, 2015}}&lt;/ref&gt; and Billboard Hot 100 All-Time Top Artists.&lt;ref&gt;{{vcite web | url = http://www.billboard.com/bbcom/specials/hot100/charts/top100-artists-20.shtml | title = The ''Billboard'' Hot 100 All-Time Top Artists | publisher = Nielsen Business Media, Inc. | year = 2008 | accessdate =March 17, 2011}}&lt;/ref&gt; ''[[Billboard (magazine)|Billboard]]'' also ranked Streisand as the top female Jewish musician of all time.&lt;ref&gt;{{vcite web | url = http://www.billboard.com/articles/list/1481533/the-top-30-jewish-musicians?page=0%2C2 | title = The Top 30 Jewish Musicians | publisher = Nielsen Business Media, Inc. | year = 2013 | accessdate =March 17, 2014}}&lt;/ref&gt; As a gay icon, Streisand was named by ''[[The Advocate]]'' as one of the "25 Coolest Women" and the "9 Coolest Women Appealing to Both Lesbians and Gay Men",&lt;ref name="advocate"&gt;{{Cite news |title=The Advocate's 25 Coolest Women |date = November 23, 1999 |periodical=[[The Advocate]]}}&lt;/ref&gt; and was also placed among the "12 Greatest Female Gay Icons of All Time" by [[Out magazine]].&lt;ref&gt;{{cite news|url=http://www.out.com/entertainment/michael-musto/2014/08/25/12-greatest-female-gay-icons-all-time-also-nathan-matthew|title=The 12 Greatest Female Gay Icons of All Time|agency=Out magazine|date=May 17, 2014|accessdate=October 28, 2014}}&lt;/ref&gt; She was recognized as one of the top gay icons of the past three decades by [[Gay Times]].&lt;ref&gt;{{cite news|url=https://www.independent.co.uk/news/people/gay-times-top-30-gay-icons-of-the-last-30-years-9756312.html?action=gallery |title=Gay Times Top 30 gay icons of the last 30 years |agency=Gay Times |date=May 17, 2014|accessdate=October 28, 2014}}&lt;/ref&gt;
+
+During the first decade of the 21st century, the [[American Film Institute]] celebrated 100 years of the greatest films in American cinema. Four of Streisand's songs were represented on [[AFI's 100 Years...100 Songs]], which highlighted "America's Greatest Music in the Movies": "The Way We Were" at #8, "Evergreen (Love Theme From ''A Star Is Born'')" at # 16, "People" at #13, and "Don't Rain On My Parade" at #46. Many of her films were represented on AFI's 100 Years... series. [[AFI's 100 Years...100 Laughs]], highlighting "the films and film artists that have made audiences laugh throughout the century," ranked [[What's Up, Doc? (1972 film)|''What's Up, Doc?'']] at #61. [[AFI's 100 Years...100 Passions]] highlighted the top 100 greatest love stories in American cinema and placed ''[[The Way We Were]]'' at #8, [[Funny Girl (film)|''Funny Girl'']] at #41, and [[What's Up, Doc? (1972 film)|''What's Up, Doc?'']] at #68. [[AFI's Greatest Movie Musicals]] highlighted the 25 greatest American movie musicals, ranking [[Funny Girl (film)|''Funny Girl'']] at #16.
+
+In December 2016, the film ''Funny Girl'' was marked for preservation by the [[Library of Congress]] in the [[National Film Registry]].&lt;ref&gt;https://www.loc.gov/item/prn-16-209/with-20000-leagues-the-national-film-registry-reaches-700/2016-12-14/&lt;/ref&gt; In March 2017, the song "People" was selected for preservation in the [[National Recording Registry]]. Streisand said she was humbled to have the song honored "as part of the flow of our nation's culture."&lt;ref&gt;{{cite web | url=https://www.loc.gov/item/prn-17-029/ | title=National Recording Registry Picks Are "Over the Rainbow" | work=Library of Congress | date=March 29, 2016 | accessdate=March 29, 2016}}&lt;/ref&gt;
+
+=== Professional memberships ===
+As one of the most acclaimed actresses, singers, directors, writers, composers, producers, designers, photographers and activists in every medium that she's worked in, Barbra is the only artist who is concurrently a member of the [[American Society of Composers, Authors and Publishers]], [[Screen Actors Guild]], [[American Federation of Television and Radio Artists]], [[Academy of Motion Pictures Arts and Sciences]] and [[Actors' Equity Association]], as well as the honorary chairwoman of the board of directors of [[Hadassah Women's Zionist Organization of America|Hadassah]]'s International Research Institute on Women.&lt;ref&gt;{{cite web|url=http://www.whoswho.com/us/barbra-streisand |title=Barbra Streisand Career Professional memberships |publisher=whoswho.com|accessdate=December 10, 2014}}&lt;/ref&gt;
+
+== "Streisand effect" ==
+[[File:Streisand Estate.jpg|thumb|The image of Streisand's [[Malibu, California|Malibu]] house that led to the naming of the effect]]
+{{Main article|Streisand effect}}
+In 2003, Streisand sued aerial photographer Kenneth Adelman for displaying a photograph of her [[Malibu, California]] home, along with 12,000 other photos of the California coastline taken to illustrate coastal erosion. The picture had at that point been downloaded a total of six times, two of which were by Streisand's lawyers. The suit had the [[unintended consequence]] of drawing attention to the photograph, which suddenly became wildly popular and was rapidly copied to multiple [[mirror site]]s outside the immediate reach of US law. Her lawsuit was eventually dismissed under the anti-[[Strategic lawsuit against public participation]] (SLAPP) provisions of California law and she was ordered to pay Adelman's legal fees.&lt;ref&gt;''Streisand v. Adelman, et al., in California Superior Court; Case SC077257''&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Adelman |first=Kenneth |title=Barbra Streisand Sues to Suppress Free Speech Protection for Widely Acclaimed Website |url=http://www.californiacoastline.org/streisand/lawsuit.html |publisher=California Coastal Records Project |date=May 13, 2007 |accessdate=April 8, 2008 |archiveurl=https://web.archive.org/web/20080407234728/http://www.californiacoastline.org/streisand/lawsuit.html |archivedate=April 7, 2008 |deadurl=no |df=mdy }}&lt;/ref&gt;&lt;ref&gt;{{cite press release|title=Streisand's Lawsuit to Silence Coastal Website Dismissed |url=http://www.mindfully.org/Reform/2003/Barbra-Streisand-Coastal3dec03.htm |publisher=Mindfully.org |date=December 3, 2003 |accessdate=April 8, 2008 |archiveurl=http://arquivo.pt/wayback/20090706034700/http://www.mindfully.org/Reform/2003/Barbra-Streisand-Coastal3dec03.htm |archivedate=July 6, 2009 |deadurl=no |df=mdy }}&lt;/ref&gt; [[Mike Masnick]] of [[Techdirt]] coined the term "[[Streisand effect]]" in January 2005 to describe the publicity generated by Streisand's efforts to suppress the publication of the photograph.
+
+== Awards and nominations ==
+
+=== Music awards ===
+Streisand has been nominated 43 times for a [[Grammy Award]], winning eight. In addition, she has received two special non-competitive awards; the 1992 [[Grammy Legend Award]] and the 1994 [[Grammy Lifetime Achievement Award]]. She has also been inducted into the [[Grammy Hall of Fame]] four times. In 2011, she was honored as [[MusiCares Person of the Year]] by the Grammy Foundation for her artistic achievement in the music industry.
+
+{| class="wikitable"
+|- style="background:#ccc; text-align:center;"
+! Year !! Award !! Category !! Work !! Result
+|-
+| rowspan="3"|1963 || rowspan="11"|[[Grammy Award]]s || [[Grammy Award for Album of the Year|Album of the Year]] || rowspan="2"| ''[[The Barbra Streisand Album]]'' || {{Won}}
+|-
+| [[Grammy Award for Best Female Pop Vocal Performance|Best Female Vocal Performance]] || {{Won}}
+|-
+| [[Grammy Award for Record of the Year|Record of the Year]] || "[[Happy Days Are Here Again#Barbra Streisand version|Happy Days Are Here Again]]" || {{nom}}
+|-
+| rowspan="3"|1964 || Best Female Vocal Performance || rowspan="3"| ''[[People (Barbra Streisand album)|People]]'' || {{Won}}
+|-
+| Album of the Year || {{nom}}
+|-
+| Record of the Year || {{nom}}
+|-
+| rowspan="2"|1965 || Best Female Vocal Performance || rowspan="2"| ''[[My Name Is Barbra]]'' || {{Won}}
+|-
+| Album of the Year || {{nom}}
+|-
+| rowspan="2"|1966 || Best Female Vocal Performance || rowspan="2"| ''[[Color Me Barbra]]'' || {{nom}}
+|-
+| Album of the Year || {{nom}}
+|-
+| 1968 || Best Contemporary-Pop Vocal Performance || ''[[Funny Girl (film)|Funny Girl]]'' Soundtrack || {{nom}}
+|-
+| 1970 || [[AGVA]] Georgie Award || Entertainer of the Year || style="text-align:center;"| || {{Won}}
+|-
+| rowspan="2"|1972 || Grammy Awards || Best Pop Female Vocal Performance || "Sweet Inspiration / [[Where You Lead]]" || {{nom}}
+|-
+| AGVA Georgie Award || Singing Star of the Year || rowspan="2" style="text-align:center;"| || {{Won}}
+|-
+| 1975 || [[People's Choice Awards]] || Favorite Female Singer of the Year || {{Won}}
+|-
+| 1976 || rowspan="5"|Grammy Awards || Best Classical Vocal Soloist Performance || ''[[Classical Barbra]]'' || {{nom}}
+|-
+| rowspan="5"|1977 || Best Pop Female Vocal Performance || rowspan="4"| "[[Evergreen (Love Theme from A Star Is Born)|Evergreen]]" &lt;small&gt;(from ''[[A Star Is Born (1976 film)|A Star Is Born]]'')&lt;/small&gt; || {{Won}}
+|-
+| Song of the Year || {{Won}}
+|-
+| Record of the Year || {{nom}}
+|-
+| Best Original Score  Motion Picture or Television Special || {{nom}}
+|-
+| AGVA Georgie Award || Singing Star of the Year || style="text-align:center;"| || {{Won}}
+|-
+| 1978 || rowspan="7"|Grammy Awards || Best Pop Female Vocal Performance || rowspan="3"| "[[You Don't Bring Me Flowers]]" &lt;small&gt;(with [[Neil Diamond]]&lt;/small&gt;) || {{nom}}
+|-
+| rowspan="2"|1979 || Record of the Year || {{nom}}
+|-
+| rowspan="2"|Best Pop Vocal Performance  Duo, Group, or Chorus || {{nom}}
+|-
+| rowspan="5"|1980 || "[[Guilty (Barbra Streisand and Barry Gibb song)|Guilty]]" &lt;small&gt;(with [[Barry Gibb]])&lt;/small&gt; || {{Won}}
+|-
+| Album of the Year || ''[[Guilty (Barbra Streisand album)|Guilty]]'' || {{nom}} 
+|-
+| Record of the Year || rowspan="2"| "[[Woman in Love]]" || {{nom}}
+|-
+| Best Pop Vocal Female Performance || {{nom}}
+|-
+| AGVA Georgie Awards || Singing Star of the Year || rowspan="2" style="text-align:center;"| || {{Won}}
+|-
+| 1985 || People's Choice Awards || Favorite All-Around Female Entertainer || {{Won}}
+|-
+| rowspan="3"|1986 || rowspan="5"|Grammy Awards || Best Pop Vocal Female Performance || rowspan="2"| ''[[The Broadway Album]]'' || {{Won}}
+|-
+|  Album of the Year || {{nom}}
+|-
+| Best Instrumental Arrangement Accompanying Vocal || "[[Being Alive]]" || {{nom}}
+|-
+| rowspan="2"|1987 || Best Pop Vocal Female Performance || rowspan="2"| ''[[One Voice (Barbra Streisand album)|One Voice]]'' || {{nom}}
+|-
+| Best Music Video Performance || {{nom}}
+|-
+| 1988 || People's Choice Awards || Favorite All-Time Musical Performer || style="text-align:center;"| || {{Won}}
+|-
+| 1991 || rowspan="20"|Grammy Awards || Best Traditional Pop Vocal Performance || "Warm All Over" || {{nom}}
+|-
+| 1992 || '''Grammy Legend Award''' || style="text-align:center;"| || '''Special award'''
+|-
+| 1993 || Best Traditional Pop Vocal Performance || ''[[Back to Broadway]]'' || {{nom}}
+|-
+| rowspan="3"|1994 || '''Grammy Lifetime Achievement Award''' || style="text-align:center;"| || '''Special award'''
+|-
+| Best Traditional Pop Vocal Performance || ''Barbra: The Concert'' || {{nom}}
+|-
+| Best Pop Vocal Female Performance || "Ordinary Miracles" || {{nom}}
+|-
+| rowspan="2"|1997 || rowspan="2"|Best Pop Collaboration With Vocals || "[[Tell Him (Barbra Streisand and Celine Dion song)|Tell Him]]" &lt;small&gt;(with [[Celine Dion]])&lt;/small&gt; || {{nom}}
+|-
+| "[[I Finally Found Someone]]" &lt;small&gt;(with [[Bryan Adams]])&lt;/small&gt; || {{nom}}
+|-
+| 1998 || '''Grammy Hall of Fame''' || "[[People (1964 song)|People]]" || align=center| '''Inducted'''
+|-
+| 2000 || rowspan="3"|Best Traditional Pop Vocal Album || ''Timeless  Live In Concert'' || {{nom}}
+|-
+| 2002 ||  ''[[Christmas Memories]]'' || {{nom}}
+|-
+| 2003 || ''[[The Movie Album (Barbra Streisand album)|The Movie Album]]'' || {{nom}}
+|-
+| 2004 || rowspan="2"|'''Grammy Hall of Fame''' || ''[[Funny Girl (musical)|Funny Girl]]'' &lt;small&gt;(Barbra Streisand and [[Sydney Chaplin (American actor)|Sydney Chaplin]])&lt;/small&gt; || rowspan="2" align=center| '''Inducted'''
+|-
+| 2006 ||  ''[[The Barbra Streisand Album]]''
+|-
+| 2007 || Best Traditional Pop Vocal Album || ''[[Live in Concert 2006]]'' || {{nom}}
+|-
+| 2008 || '''Grammy Hall of Fame''' || "[[The Way We Were (song)|The Way We Were]]" || align=center| '''Inducted'''
+|-
+| 2011 || Best Traditional Pop Vocal Album || ''[[Love Is the Answer (album)|Love Is the Answer]]'' || {{nom}}
+|-
+| 2012 || Best Traditional Pop Vocal Album || ''[[What Matters Most]]'' || {{nom}}
+|-
+| 2015 || Best Traditional Pop Vocal Album || ''[[Partners (Barbra Streisand album)|Partners]]'' || {{nom}}
+|-
+| 2017 || Best Traditional Pop Vocal Album || ''[[Encore: Movie Partners Sing Broadway]]'' || {{nom}}
+|}
+
+=== Film awards ===
+Streisand has won two [[Academy Award]]s (Oscar) against five nominations: two for acting, two for songwriting and one for [[Academy Award for Best Picture|Best Picture]]. She won Oscars for Best Actress (''Funny Girl'') and Best Original Song ("Evergreen"). The three films she directed received a total of fourteen Oscar nominations.
+
+{| class="wikitable"
+|-
+! Year !! Award !! Category !! Work !! Result !! Notes
+|-
+| rowspan="2"|1969 || [[Academy Awards]] || Best Actress || rowspan="2"| ''[[Funny Girl (film)|Funny Girl]]'' || {{Won}} || Tied with [[Katharine Hepburn]]
+|-
+| rowspan="5"| [[Golden Globe Awards]] || rowspan="2"|Best Actress in a Motion Picture (Comedy or Musical) || {{Won}} ||
+|-
+| rowspan="2"|1970 || ''[[Hello, Dolly! (film)|Hello, Dolly!]]'' || {{nom}} ||
+|-
+| [[Henrietta Award|Henrietta World Film Favorite]] || style="text-align:center;"| || '''Special award''' ||
+|-
+| rowspan="2"|1971 || Best Actress in a Motion Picture (Comedy or Musical) || ''[[The Owl and the Pussycat (film)|The Owl and the Pussycat]]'' || {{nom}} ||
+|-
+| Henrietta World Film Favorite || style="text-align:center;"| || '''Special award''' ||
+|-
+| rowspan="2"|1974 || Academy Awards || Best Actress || rowspan="2"| ''[[The Way We Were]]'' || {{nom}} ||
+|-
+| rowspan="3"|Golden Globe Awards || Best Actress in a Motion Picture (Drama) || {{nom}} ||
+|-
+| 1975 || Henrietta World Film Favorite || style="text-align:center;"| || '''Special award''' ||
+|-
+| 1976 || Best Actress in a Motion Picture (Comedy or Musical) || ''[[Funny Lady]]'' || {{nom}} ||
+|-
+| rowspan="3"|1977 || Academy Awards || Best Original Song || rowspan="3"| "[[Evergreen (Love Theme from A Star Is Born)|Evergreen]]" &lt;small&gt;(from ''[[A Star Is Born (1976 film)|A Star Is Born]]'')&lt;/small&gt; || {{Won}} ||
+|-
+| rowspan="6"|Golden Globe Awards || Best Actress in a Motion Picture (Comedy or Musical)  || {{Won}} ||
+|-
+| Best Original Song || {{Won}} ||
+|-
+| 1978 || Henrietta World Film Favorite || style="text-align:center;"| || '''Special award''' ||
+|-
+| rowspan="3"|1984 || Best Actress in a Motion Picture (Comedy or Musical) || rowspan="4"| ''[[Yentl (film)|Yentl]]'' || {{nom}} ||
+|-
+| Best Director (Motion Picture) || {{Won}} ||
+|-
+| Best Motion Picture (Comedy Or Musical) || {{Won}} ||
+|-
+| 1983 || [[Golden Raspberry Awards]] || [[Golden Raspberry Award for Worst Actor]] ||{{nom}} ||
+|-
+| rowspan="2"|1988 || rowspan="2"|Golden Globe Awards||Best Actress in Motion Picture (Drama) || rowspan="2"|''[[Nuts (1987 film)|Nuts]]'' || {{nom}} ||
+|-
+| Best Motion Picture (Drama) || {{nom}} ||
+|-
+| rowspan="3"|1992 || Academy Awards || Best Picture || rowspan="3"| ''[[The Prince of Tides]]'' || {{nom}} ||
+|-
+| rowspan="2"|Golden Globe Awards || Best Director (Motion Picture) || {{nom}} ||
+|-
+| Best Motion Picture  (Drama) || {{nom}} ||
+|-
+| rowspan="3"|1997 || Academy Awards || Best Original Song || "[[I Finally Found Someone]]" &lt;small&gt;(from ''[[The Mirror Has Two Faces]]'')&lt;/small&gt; || {{nom}} ||
+|-
+| rowspan="3"|Golden Globe Awards || Best Actress in a Motion Picture (Comedy or Musical) || ''The Mirror Has Two Faces'' || {{nom}} ||
+|-
+| Best Original Song || "I Finally Found Someone" &lt;small&gt;(from ''The Mirror Has Two Faces'')&lt;/small&gt; || {{nom}} ||
+|-
+| 2000 || Cecil B. DeMille Award for Lifetime Achievement || style="text-align:center;"| || '''Special award''' ||
+|-
+| 2010 || rowspan="2"|Golden Raspberry Award || [[Golden Raspberry Award for Worst Supporting Actress]]||''[[Little Fockers]]''|| {{nom}} ||
+|-
+| 2012 ||[[Golden Raspberry Award for Worst Actress]]||''[[The Guilt Trip (film)|The Guilt Trip]]''|| {{nom}} ||
+|}
+
+== Appearances ==
+
+=== Broadway performances ===
+{| class="wikitable"
+|- style="background:#ccc; text-align:center;"
+! Year !! Title !! Notes
+|-
+| 19611963 || ''[[I Can Get It for You Wholesale]]'' || Nominated[[Tony Award for Best Performance by a Featured Actress in a Musical]]
+|-
+| 19641965 || ''[[Funny Girl (musical)|Funny Girl]]'' || Nominated[[Tony Award for Best Leading Actress in a Musical]]
+|}
+
+=== West End performances ===
+{| class="wikitable"
+|- style="background:#ccc; text-align:center;"
+! Year !! Title !! Notes
+|-
+| 1966 || ''[[Funny Girl (musical)|Funny Girl]]'' || April 13, 1966  July 16, 1966 at the Prince of Wales Theatre, London.
+|}
+
+=== Television specials ===
+{| class="wikitable"
+|- style="background:#ccc; text-align:center;"
+! Year !! Title !! Notes
+|-
+| 1965 || ''[[My Name Is Barbra (TV special)|My Name Is Barbra]]'' || Filmed in 1964 | Aired on CBS April 28, 1965
+|- style="background:#f0f0f0"
+| 1966 || ''[[Color Me Barbra]]'' || Filmed 1965 | Aired on CBS March 30, 1966
+|-
+| 1967 || ''The Belle of 14th Street'' ||Aired on CBS October 11, 1967
+|- style="background:#f0f0f0"
+| 1968 || ''[[A Happening in Central Park]]'' || Aired on CBS June 17, 1967
+|-
+| 1973 || ''[[Barbra Streisand...And Other Musical Instruments]]'' || Aired on CBS November 2, 1973
+|- style="background:#f0f0f0"
+| 1975 || ''Funny Girl to Funny Lady'' || Aired on ABC
+|-
+| 1976 || ''Barbra: With One More Look at You'' ||
+|-
+|-1978 || ''Getting in Shape for The Main Event'' ||
+|-
+| 1983 || ''A Film Is Born: The Making of 'Yentl{{'}}'' ||
+|-
+| 1986 || ''Putting it Together: The Making of The Broadway Album'' ||
+|-  
+| 1986 || ''[[One Voice (Barbra Streisand album)|One Voice]]'' ||
+|-
+| 1994 || ''Barbra Streisand: The Concert'' || Also producer and director
+|-
+| 2001 || ''Barbra Streisand: Timeless'' || Aired on FOX February 14, 2001 (1 hour edited version)
+|-
+| 2009 || ''Streisand: Live in Concert'' || Aired on CBS April 25, 2009&lt;ref&gt;CBS.com Online Schedule. Retrieved April 16, 2009.&lt;/ref&gt; (Filmed in Florida in 2006)
+|-
+| 2011 || ''Barbra Streisand: One Night Only at The Village Vanguard'' || Aired on PBS, premiered on August 6, 2011
+|-
+| 2013 || ''Barbra Streisand: Back to Brooklyn'' || Aired on PBS, premiered on November 29, 2013
+|-
+| 2017 || ''The Music...The Mem'ries...The Magic!'' || Aired on Netflix, premiered November 22, 2017
+
+|}
+
+== Tours and live performances ==
+{{Main article|List of Barbra Streisand concert tours and live performances}}
+
+{| class="wikitable"
+|-
+! Year !! Title !! Continents !! Box-office benefits !! Total audience
+|-
+| 1966 || An Evening with Barbra Streisand Tour || North America || $480,000 || 67,500
+|- style="background:#f0f0f0"
+| 199394 || [[Barbra Streisand in Concert]] || North America and Europe || $50 million || 400,000
+|-
+| 19992000 ||[[Timeless (Barbra Streisand)|Timeless]] || North America and Australia|| $70 million || 200,000
+|- style="background:#f0f0f0"
+| 200607 || [[Streisand (concert tour)|Streisand]] || North America and Europe || $119.5 million || 425,000
+|-
+| 201213 || [[Barbra Live]]|| North America and Europe|| $66 million || 254,958
+|- style="background:#f0f0f0"
+| 2016-17 || [[Barbra: The Music, The Mem'ries, The Magic]]|| North America|| $53 million || 203,423
+|}
+
+== Discography ==
+{{Main article|Barbra Streisand discography}}
+{{div col}}
+*''[[The Barbra Streisand Album]]'' (1963) 
+*''[[The Second Barbra Streisand Album]]'' (1963) 
+*''[[The Third Album (Barbra Streisand album)|The Third Album]]'' (1964) 
+*''[[People (Barbra Streisand album)|People]]'' (1964) 
+*''[[My Name Is Barbra]]'' (1965) 
+*''[[My Name Is Barbra, Two...]]'' (1965) 
+*''[[Color Me Barbra]]'' (1966) 
+*''[[Je m'appelle Barbra]]'' (1966) 
+*''[[Simply Streisand]]'' (1967) 
+*''[[A Christmas Album (Barbra Streisand album)|A Christmas Album]]'' (1967) 
+*''[[A Happening in Central Park]]'' (1968) 
+*''[[What About Today?]]'' (1969) 
+*''[[Stoney End (Barbra Streisand album)|Stoney End]]'' (1971) 
+* ''[[Barbra Joan Streisand (album)|Barbra Joan Streisand]]''  (1971) 
+*''[[Barbra Streisand...and Other Musical Instruments (album)|Barbra Streisand...and Other Musical Instruments]]''  (1973) 
+*''[[The Way We Were (Barbra Streisand album)|The Way We Were]]''  (1974) 
+*''[[ButterFly (Barbra Streisand album)|ButterFly]]''  (1974) 
+*''[[Lazy Afternoon (Barbra Streisand album)|Lazy Afternoon]]''  (1975) 
+*''[[Classical Barbra]]''  (1976) 
+*''[[A Star Is Born (soundtrack)|A Star Is Born]]''  (1976) 
+*''[[Superman (Barbra Streisand album)|Superman]]''  (1977) 
+*''[[Songbird (Barbra Streisand album)|Songbird]]''  (1978) 
+*''[[Wet (album)|Wet]]''  (1979) 
+*''[[Guilty (Barbra Streisand album)|Guilty]]'' (1980) 
+*''[[Memories (Barbra Streisand album)|Memories]]'' (1981) 
+*''[[Yentl (soundtrack)|Yentl]]'' (1983) 
+*''[[Emotion (Barbra Streisand album)|Emotion]]'' (1984) 
+*''[[The Broadway Album]]'' (1985) 
+*''[[Till I Loved You (album)|Till I Loved You]]'' (1988) 
+*''[[Back to Broadway]]'' (1993)
+*''[[Higher Ground (Barbra Streisand album)|Higher Ground]]'' (1997) 
+*''[[A Love Like Ours]]'' (1999) 
+*''[[Christmas Memories]]'' (2001) 
+*''[[The Movie Album (Barbra Streisand album)|The Movie Album]]'' (2003) 
+*''[[Guilty Pleasures (Barbra Streisand album)|Guilty Pleasures]]'' (2005) 
+*''[[Love Is the Answer (album)|Love Is the Answer]]'' (2009) 
+*''[[What Matters Most]]'' (2011) 
+*''[[Partners (Barbra Streisand album)|Partners]]'' (2014) 
+*''[[Encore: Movie Partners Sing Broadway]]'' (2016) 
+{{div col end}}
+
+== Autobiography ==
+
+Streisand has stated she is writing her autobiography but has stopped and started at various points.&lt;ref&gt;''People'' September 29, 2014&lt;/ref&gt; In May 2015, Viking Press announced it had bought Streisand's memoirs, which will cover her entire life and career, and would publish it in 2017.&lt;ref&gt;{{cite news |url=http://artsbeat.blogs.nytimes.com/2015/05/20/barbra-streisand-memoir-coming-in-2017/?ref=topics&amp;_r=0 |title=Barbra Streisand Memoir Coming in 2017 |date=May 20, 2015 |accessdate=May 20, 2015 }}&lt;/ref&gt;
+
+== Filmography ==
+{| class="wikitable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+| 1968
+| ''[[Funny Girl (film)|Funny Girl]]''
+| [[Fanny Brice]]
+| [[Academy Award for Best Actress]] &lt;small&gt;Tied with [[Katharine Hepburn]] for ''[[The Lion in Winter (1968 film)|The Lion in Winter]]''&lt;/small&gt;&lt;br /&gt;[[David di Donatello for Best Actress|David di Donatello for Best Foreign Actress]] &lt;small&gt;Tied with [[Mia Farrow]] for ''[[Rosemary's Baby (film)|Rosemary's Baby]]''&lt;/small&gt;&lt;br /&gt;[[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy]]&lt;br /&gt;Nominated[[BAFTA Award for Best Actress in a Leading Role]]
+|-
+| 1969
+| ''[[Hello, Dolly! (film)|Hello, Dolly!]]''
+| Dolly Levi
+| Nominated[[BAFTA Award for Best Actress in a Leading Role]]&lt;br /&gt;Nominated[[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy]]
+|-
+| rowspan=2| 1970
+| ''[[On a Clear Day You Can See Forever (film)|On a Clear Day You Can See Forever]]''
+| Daisy Gamble / Melinda Tentrees
+|
+|-
+| ''[[The Owl and the Pussycat (film)|The Owl and the Pussycat]]''
+| Doris Wilgus / Wadsworth / Wellington / Waverly
+| Nominated[[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy]]
+|-
+| rowspan=2| 1972
+| ''[[What's Up, Doc? (1972 film)|What's Up, Doc?]]''
+| Judy Maxwell
+|
+|-
+| ''[[Up the Sandbox]]''
+| Margaret Reynolds
+|
+|-
+| 1973
+| ''[[The Way We Were]]''
+| Katie Morosky
+| [[David di Donatello for Best Actress|David di Donatello for Best Foreign Actress]] &lt;small&gt;Tied with [[Tatum O'Neal]] for ''[[Paper Moon (film)|Paper Moon]]''&lt;/small&gt;&lt;br /&gt;Nominated[[Academy Award for Best Actress]]&lt;br /&gt;Nominated[[BAFTA Award for Best Actress in a Leading Role]]&lt;br /&gt;Nominated[[Golden Globe Award for Best Actress  Motion Picture Drama]]
+|-
+| 1974
+| ''[[For Pete's Sake (film)|For Pete's Sake]]''
+| Henrietta 'Henry' Robbins
+|
+|-
+| 1975
+| ''[[Funny Lady]]''
+| [[Fanny Brice]]
+| Nominated[[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy]]
+|-
+| 1976
+| ''[[A Star Is Born (1976 film)|A Star Is Born]]''
+| Esther Hoffman Howard
+| [[Academy Award for Best Original Song]] &lt;small&gt;Shared with [[Paul Williams (songwriter)|Paul Williams]] (lyrics) for the song "[[Evergreen (Love Theme from A Star Is Born)]]"&lt;/small&gt;&lt;br /&gt;[[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy]]&lt;br /&gt;[[Golden Globe Award for Best Original Song]] &lt;small&gt;Shared with [[Paul Williams (songwriter)|Paul Williams]] (lyrics) for the song "[[Evergreen (Love Theme from A Star Is Born)]]"&lt;/small&gt;&lt;br /&gt;Nominated[[BAFTA Award for Best Film Music]] &lt;small&gt;Shared with [[Paul Williams (songwriter)|Paul Williams]], [[Kenneth Ascher]], [[Rupert Holmes]], [[Leon Russell]], [[Kenny Loggins]], [[Alan and Marilyn Bergman]], Donna Weiss&lt;/small&gt;
+|-
+| 1979
+| ''[[The Main Event (1979 film)|The Main Event]]''
+| Hillary Kramer
+|
+|-
+| 1981
+| ''[[All Night Long (1981 film)|All Night Long]]''
+| Cheryl Gibbons
+| Nominated[[Razzie Award for Worst Actress]]
+|-
+| 1983
+| ''[[Yentl (film)|Yentl]]''
+| Yentl Mendel / Anshel Mendel
+| Also director, producer, and co-writer &lt;br /&gt;[[Golden Globe Award for Best Director]]&lt;br /&gt; Special [[Nastro d'Argento]] for Best New Foreign Director&lt;br /&gt;Nominated[[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy]]&lt;br /&gt;Nominated[[Razzie Award for Worst Actor]]
+|-
+| 1987
+| ''[[Nuts (1987 film)|Nuts]]''
+| Claudia Faith Draper
+| Nominated[[Golden Globe Award for Best Actress  Motion Picture Drama]]
+|-
+| 1991
+| ''[[The Prince of Tides]]''
+| Dr. Susan Lowenstein
+| Also director and producer&lt;br /&gt;Nominated[[Academy Award for Best Picture]] &lt;small&gt;Shared with Andrew S. Karsch&lt;/small&gt;&lt;br /&gt;Nominated[[Directors Guild of America Award]]&lt;br /&gt;Nominated[[Golden Globe Award for Best Director]]
+|-
+| 1996
+| ''[[The Mirror Has Two Faces]]''
+| Rose Morgan
+| Also director and producer&lt;br /&gt;Nominated[[Academy Award for Best Original Song]] &lt;small&gt;Shared with [[Marvin Hamlisch]], [[Robert John Lange]] and [[Bryan Adams]] for the song "[[I Finally Found Someone]]"&lt;/small&gt;&lt;br /&gt;Nominated[[Golden Globe Award for Best Actress  Motion Picture Musical or Comedy]]&lt;br /&gt;Nominated[[Golden Globe Award for Best Original Song]]  &lt;small&gt;Shared with [[Marvin Hamlisch]], [[Robert John Lange]] and [[Bryan Adams]] for the song "[[I Finally Found Someone]]"&lt;/small&gt;
+|-
+| 2004
+| ''[[Meet the Fockers]]''
+|Rozalin "Roz" Focker
+|
+|-
+| 2010
+| ''[[Little Fockers]]''
+|Rozalin "Roz" Focker
+| Nominated[[Razzie Award for Worst Supporting Actress]]
+|-
+| 2012
+| ''[[The Guilt Trip (film)|The Guilt Trip]]''
+| Joyce Brewster
+| Nominated[[Razzie Award for Worst Actress]]
+|}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|30em}}
+
+==Further reading==
+{{Wikipedia books|Barbra Streisand}}
+{{refbegin}}
+*{{Cite book | last=Andersen | first=Christopher | title=Barbra: The Way She Is | location= | publisher=Harper-Collins | year=2006 | isbn=0-06-056256-0}}
+*{{Cite book | last=Edwards | first=Anne | title=Streisand: A Biography | publisher=Little, Brown  | year=1997 | isbn=978-0-316-21138-3}}
+*Gabler, Neal. (2016). ''Barbra Streisand: Redefining Beauty, Femininity, and Power'', Yale University Press {{ISBN|978-0300210910}}
+*{{Cite book | last=Riese | first=Randall | title=Her Name Is Barbra: An Intimate Portrait of the Real Barbra Streisand | publisher=Birch Lane Press  | year=1993 | isbn=1-55972-203-7}}
+*{{Cite book | last=Santopietro | first=Tom | title=The Importance of Being Barbra: The Brilliant, Tumultuous Career of Barbra Streisand | publisher=Thomas Dunne  | year=2006 | isbn=978-0-312-34879-3}}
+*{{Cite book | last=Spada | first=James | title=Streisand: Her Life | location= | publisher=Crown Publishers, Inc | year=1995 | isbn=0-517-59753-5}}
+*{{Cite book | last=Pohly | first=Linda | title=The Barbra Streisand Companion: A Guide to Her Vocal Style and Repertoire| location= | publisher=Greenwood Press | year=2000 | isbn= 0-313-30414-9}}
+{{refend}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category|Barbra Streisand}}
+* {{Official website|http://www.barbrastreisand.com/}}
+* {{Britannica|568756}}
+* [http://www.barbranews.com/ BarbraNews.com]
+* [http://www.barbra-archives.com/ Barbra-Archives.com]
+* {{allmovie name|112652}}
+* {{allmusic|artist/barbra-streisand-mn0000855531}}
+* {{IMDb name|659}}
+* {{tcmdb name|id=185903|name=Barbra Streisand}}
+* {{IBDB name}}
+* {{iobdb name|29830|Barbra Streisand}}
+* video: [https://www.youtube.com/watch?v=oi0CyAKGu3Q "Barbra Streisand Accepts the AFI Life Achievement Award in 2001"] 9 min.
+
+{{Barbra Streisand}}
+{{Navboxes
+|title = Awards for Barbra Streisand
+|list =
+{{AcademyAwardBestActress 19611980}}
+{{AcademyAwardBestOriginalSong 19711980}}
+{{AFI Life Achievement Award}}
+{{Cecil B. DeMille Award 19762000}}
+{{David di Donatello for Best Foreign Actress}}
+{{EmmyAward VarietyPerformance}}
+{{Lincoln Center Gala Tribute}}
+{{GoldenGlobeBestActressMotionPictureMusicalComedy 19611980}}
+{{Golden Globe Award for Best Director 19661990}}
+{{Golden Globe Award for Best Original Song}}
+{{Grammy Award for Album of the Year 1960s}}
+{{Grammy Award for Song of the Year 1970s}}
+{{Kennedy Center Honorees 2000s}}
+{{MusiCares Person of the Year}}
+{{People's Choice Award for Favorite Movie Actress}}
+{{Billboard Year-End number one singles 19601979}}
+{{UK best-selling albums (by year) 19701989}}
+}}
+{{EGOT winners}}
+
+{{Use mdy dates|date=September 2017}}
+{{Authority control}}
+
+{{DEFAULTSORT:Streisand, Barbra}}
+[[Category:Barbra Streisand| ]]
+[[Category:1942 births]]
+[[Category:Living people]]
+[[Category:American female pop singers]]
+[[Category:American female singer-songwriters]]
+[[Category:American film actresses]]
+[[Category:American film directors]]
+[[Category:American mezzo-sopranos]]
+[[Category:American musical theatre actresses]]
+[[Category:American women film directors]]
+[[Category:English-language film directors]]
+[[Category:French-language singers of the United States]]
+[[Category:LGBT rights activists from the United States]]
+[[Category:Torch singers]]
+[[Category:Traditional pop music singers]]
+&lt;!--awards + honors--&gt;
+[[Category:Best Actress Academy Award winners]]
+[[Category:Best Director Golden Globe winners]]
+[[Category:Best Original Song Academy Award-winning songwriters]]
+[[Category:Brit Award winners]]
+[[Category:Cecil B. DeMille Award Golden Globe winners]]
+[[Category:Daytime Emmy Award winners]]
+[[Category:Grammy Award winners]]
+[[Category:Grammy Legend Award]]
+[[Category:Grammy Lifetime Achievement Award winners]]
+[[Category:Kennedy Center honorees]]
+[[Category:Nixon's Enemies List]]
+[[Category:Officiers of the Lgion d'honneur]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:United States National Medal of Arts recipients]]
+[[Category:Tony Award winners]]
+[[Category:Jewish American actresses]]
+[[Category:Jewish American philanthropists]]
+[[Category:Jewish singers]]
+[[Category:Jewish American songwriters]]
+[[Category:Columbia Records artists]]
+&lt;!--from--&gt;
+[[Category:Erasmus Hall High School alumni]]
+[[Category:Lee Strasberg Theatre and Film Institute alumni]]
+[[Category:Liberalism in the United States]]
+[[Category:California Democrats]]
+[[Category:New York (state) Democrats]]
+[[Category:American people of Austrian-Jewish descent]]
+[[Category:American people of Russian-Jewish descent]]
+[[Category:People from Flatbush, Brooklyn]]
+[[Category:Actresses from Los Angeles]]
+[[Category:Actresses from New York City]]
+[[Category:Film directors from New York City]]
+[[Category:Musicians from Brooklyn]]
+[[Category:Philanthropists from California]]
+[[Category:Singers from New York City]]
+[[Category:Singers from Los Angeles]]
+[[Category:20th-century American actresses]]
+[[Category:21st-century American actresses]]
+[[Category:20th-century American singers]]
+[[Category:21st-century American singers]]
+[[Category:20th-century women singers]]
+[[Category:21st-century women musicians]]
+[[Category:21st-century women singers]]</text>
+      <sha1>p5pg06j6ac7oc3ixfqvoniwljil3c8f</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,573 @@
+--music
+ person. 
+ name         = Stevie Wonder. 
+ background   = solo_singer. 
+ image        = Stevie Wonder 1973.JPG. 
+ caption      = Wonder performing in 1973. 
+ birth_name   = Stevland Hardaway Judkins. 
+ alias        = Stevland Hardaway Morris (legal)Little Stevie Wonder (stage). 
+ birth_date   = {{Birth date and age|mf=yes|1950|5|13}}. 
+ birth_place  = Saginaw, Michigan, U.S.. 
+ home_town       = Detroit, Michigan, U.S.. 
+ occupation   = {{flatlist|
+* Singer
+* songwriter
+* record producer
+* multi-instrumentalist
+}}. 
+ years_active = 1961present. 
+ spouse = {{Marriage|Syreeta Wright|1970|1972|reason=divorce filed}}{{Marriage|Kai Millard|2001|2012|reason=divorce filed}}{{Marriage|Tomeeka Bracy|2017|}}. 
+ children = 9. 
+ module             = {{Infobox musical artist|embed=yes. 
+ background          = solo_singer. 
+ genre        = {{flatlist|
+* Soul
+* pop
+* R&B
+* funk
+* jazz
+}}. 
+ instrument   = {{flatlist|
+* Vocals
+* piano
+* keyboards
+* harmonica
+* drums 
+}}. 
+ label        = {{flatlist|
+* Tamla
+* Motown
+}}. 
+ associated_acts = {{flatlist|
+* Elton John
+* Michael Jackson
+* Paul McCartney
+}}. 
+ website      = {{URL|steviewonder.net}}
+}}}}
+
+'''Stevland Hardaway Morris''' (n '''Judkins'''; born May 13, 1950), known by his stage name '''Stevie Wonder''', is an American singer, songwriter, record producer, and multi-instrumentalist. A child prodigy, he is considered to be one of the most critically and commercially successful musical performers of the late 20th century. Wonder signed with Motown's Tamla label at the age of 11, and he continued performing and recording for Motown into the 2010s. He has been blind since shortly after birth.
+
+Among Wonder's works are singles such as "Signed, Sealed, Delivered I'm Yours", "Superstition", "Sir Duke", "You Are the Sunshine of My Life" and "I Just Called to Say I Love You"; and albums such as ''Talking Book'', ''Innervisions'' and ''Songs in the Key of Life''. He has recorded more than 30 U.S. top ten hits and received 25 Grammy Awards, one of the most-awarded male solo artists, and has sold over 100 million records worldwide, making him one of the top 60 best-selling music artists. Wonder is also noted for his work as an activist for political causes, including his 1980 campaign to make Martin Luther King Jr.'s birthday a holiday in the United States. In 2009, Wonder was named a United Nations Messenger of Peace. In 2013, ''Billboard'' magazine released a list of the ''Billboard Hot'' 100 All-Time Top Artists to celebrate the US singles chart's 55th anniversary, with Wonder at number six.
+
+==Early life==
+Stevie Wonder was born in Saginaw, Michigan, in 1950, the third of six children of Calvin Judkins and Lula Mae Hardaway, a songwriter. He was born six weeks premature which, along with the oxygen-rich atmosphere in the hospital incubator, resulted in retinopathy of prematurity (ROP), a condition in which the growth of the eyes is aborted and causes the retinas to detach; so he became blind. When Wonder was four, his mother divorced his father and moved to Detroit with her children. She changed her name back to Lula Hardaway and later changed her son's surname to Morris, partly because of relatives. Wonder has retained Morris as his legal surname. He began playing instruments at an early age, including piano, harmonica and drums. He formed a singing partnership with a friend; calling themselves Stevie and John, they played on street corners, and occasionally at parties and dances.
+
+Wonder sang as a child in a choir at the Whitestone Baptist Church in Detroit, Michigan.
+
+==Career==
+
+===19611969: Sixties singles===
+thumb|left|Rehearsing for a performance on Dutch TV in 1967
+
+In 1961, when aged 11, Wonder sang his own composition, "Lonely Boy", to Ronnie White of the Miracles; White then took Wonder and his mother to an audition at Motown, where CEO Berry Gordy signed Wonder to Motown's Tamla label. Before signing, producer Clarence Paul gave him the name '''Little Stevie Wonder'''. Because of Wonder's age, the label drew up a rolling five-year contract in which royalties would be held in trust until Wonder was 21. He and his mother would be paid a weekly stipend to cover their expenses: Wonder received $2.50 ({{Inflation|US|2.5|1961|r=2|fmt=eq}}) per week, and a private tutor was provided for when Wonder was on tour.
+
+Wonder was put in the care of producer and songwriter Clarence Paul, and for a year they worked together on two albums. ''Tribute to Uncle Ray'' was recorded first, when Wonder was still 11 years old. Mainly covers of Ray Charles's songs, it included a Wonder and Paul composition, "Sunset". ''The Jazz Soul of Little Stevie'' was recorded next, an instrumental album consisting mainly of Paul's compositions, two of which, "Wondering" and "Session Number 112", were co-written with Wonder. Feeling Wonder was now ready, a song, "Mother Thank You", was recorded for release as a single, but then pulled and replaced by the Berry Gordy song "I Call It Pretty Music, But the Old People Call It the Blues" as his dbut single; released summer 1962, it almost broke into the ''Billboard'' 100, spending one week of August at 101 before dropping out of sight. Two follow-up singles, "Little Water Boy" and "Contract on Love",  both had no success, and the two albums, released in reverse order of recording''The Jazz Soul of Little Stevie'' in September 1962 and ''Tribute to Uncle Ray'' in October 1962also met with little success.
+
+At the end of 1962, when Wonder was 12 years old, he joined the Motortown Revue, touring the "chitlin' circuit" of theatres across America that accepted black artists. At the Regal Theater, Chicago, his 20-minute performance was recorded and released in May 1963 as the album ''Recorded Live: The 12 Year Old Genius''. A single, "Fingertips", from the album was also released in May, and became a major hit. The song, featuring a confident and enthusiastic Wonder returning for a spontaneous encore that catches out the replacement bass player, who is heard to call out "What key? What key?", was a No. 1 hit on the ''Billboard'' Hot 100 when Wonder was aged 13, making him the youngest artist ever to top the chart. The single was simultaneously No. 1 on the R&B chart, the first time that had occurred. His next few recordings, however, were not successful; his voice was changing as he got older, and some Motown executives were considering cancelling his recording contract. During 1964, Wonder appeared in two films as himself, ''Muscle Beach Party'' and ''Bikini Beach'', but these were not successful either. Sylvia Moy persuaded label owner Berry Gordy to give Wonder another chance. Dropping the "Little" from his name, Moy and Wonder worked together to create the hit "Uptight (Everything's Alright)", and Wonder went on to have a number of other hits during the mid-1960s, including "With a Child's Heart", and "Blowin' in the Wind", a Bob Dylan cover, co-sung by his mentor, producer Clarence Paul.{{Pop Chronicles|50|2}} He also began to work in the Motown songwriting department, composing songs both for himself and his label mates, including "The Tears of a Clown", a No. 1 hit for Smokey Robinson and the Miracles (it was first released in 1967, mostly unnoticed as the last track of their ''Make It Happen'' LP, but eventually became a major success when re-released as a single in 1970, which prompted Robinson to reconsider his intention of leaving the group).
+
+In 1968 he recorded an album of instrumental soul/jazz tracks, mostly harmonica solos, under the title ''Eivets Rednow'', which is "Stevie Wonder" spelled backwards. The album failed to get much attention, and its only single, a cover of "Alfie", only reached number 66 on the U.S. Pop charts and number 11 on the US Adult Contemporary charts. Nonetheless, he managed to score several hits between 1968 and 1970 such as "I Was Made to Love Her", "For Once in My Life" and "Signed, Sealed, Delivered I'm Yours". A number of Wonder's early hits, including "My Cherie Amour", "I Was Made to Love Her", and "Uptight (Everything's Alright)", were co-written with Henry Cosby.
+
+===19701979: Seventies albums and classic period===
+In September 1970, at the age of 20, Wonder married Syreeta Wright, a songwriter and former Motown secretary. Wright and Wonder worked together on the next album, ''Where I'm Coming From''; Wonder writing the music, and Wright helping with the lyrics. They wanted to "touch on the social problems of the world", and for the lyrics "to mean something". It was released at around the same time as Marvin Gaye's ''What's Going On''. As both albums had similar ambitions and themes, they have been compared; in a contemporaneous review by Vince Aletti in ''Rolling Stone'', Gaye's was seen as successful, while Wonder's was seen as failing due to "self-indulgent and cluttered" production, "undistinguished" and "pretentious" lyrics, and an overall lack of unity and flow. Also in 1970, Wonder co-wrote, and played numerous instruments on the hit "It's a Shame" for fellow Motown act the Spinners. His contribution was meant to be a showcase of his talent and thus a weapon in his ongoing negotiations with Gordy about creative autonomy. Reaching his 21st birthday on May 13, 1971, he allowed his Motown contract to expire.Posner, Gerald. ''Motown: Music, Money, Sex and Power'', p. 254.
+
+During this period, Wonder independently recorded two albums and signed a new contract with Motown Records. The 120-page contract was a precedent at Motown and gave Wonder a much higher royalty rate. Wonder returned to Motown in March 1972 with ''Music of My Mind''. Unlike most previous albums on Motown, which usually consisted of a collection of singles, B-sides and covers, ''Music of My Mind'' was a full-length artistic statement with songs flowing together thematically. Wonder's lyrics dealt with social, political, and mystical themes as well as standard romantic ones, while musically he began exploring overdubbing and recording most of the instrumental parts himself. ''Music of My Mind'' marked the beginning of a long collaboration with Tonto's Expanding Head Band (Robert Margouleff and Malcolm Cecil).[http://www.tontosexpandingheadband.com/ Tonto's Expanding Head Band]. Retrieved October 18, 2008.
+
+{{Listen|filename=Stevie Wonder-Superstition.ogg|title="Superstition" (reduced quality)|description= from ''Talking Book'' by Stevie Wonder, Motown 1972-10-27. Sample from ''Stevie Wonder Song Review: A Greatest Hits Collection'', Motown, 1996-12-10|format=Ogg}}
+
+Released in late 1972, ''Talking Book'' featured the No. 1 hit "Superstition", which is one of the most distinctive and famous examples of the sound of the Hohner Clavinet keyboard.[http://www.clavinet.de/en/history.html The history of the Hohner Clavinet] {{webarchive|url=https://web.archive.org/web/20090101090102/http://www.clavinet.de/en/history.html |date=January 1, 2009 }}. Retrieved October 18, 2008. ''Talking Book'' also featured "You Are the Sunshine of My Life", which also peaked at No. 1. During the same time as the album's release, Wonder began touring with the Rolling Stones to alleviate the negative effects from pigeonholing as a result of being an R&B artist in America. Wonder's touring with the Stones was also a factor behind the success of both "Superstition" and "You Are the Sunshine of My Life". Between them, the two songs won three Grammy Awards. On an episode of the children's television show ''Sesame Street'' that aired in April 1973,[http://www.imdb.com/title/tt1046111/ "Sesame Street" Episode 4.109 (1973) ''IMDb.com'']. Retrieved October 13, 2008. Wonder and his band performed "Superstition", as well as an original called "Sesame Street Song", which demonstrated his abilities with television.
+
+''Innervisions'', released in 1973, featured "Higher Ground" (No. 4 on the pop charts) as well as the trenchant "Living for the City" (No. 8). Both songs reached No. 1 on the R&B charts. Popular ballads such as "Golden Lady" and "All in Love Is Fair" were also present, in a mixture of moods that nevertheless held together as a unified whole. ''Innervisions'' generated three more Grammy Awards, including Album of the Year. The album is ranked No. 23 on ''Rolling Stone'''s 500 Greatest Albums of All Time. Wonder had become the most influential and acclaimed black musician of the early 1970s.
+
+On August 6, 1973, Wonder was in a serious automobile accident while on tour in North Carolina, when a car in which he was riding hit the back of a truck.Rockwell, John, "Stevie Wonder", in Miller, Jim (ed.), ''The Rolling Stone Illustrated History of Rock & Roll'', Random House/Rolling Stone Press, Revised Edition, 1980, pp. 364368, {{ISBN|0-394-73938-8}}. This left him in a coma for four days and resulted in a partial loss of his sense of smell and a temporary loss of sense of taste. Despite the setback, Wonder re-appeared for a European tour in early 1974, performing at the Midem convention in Cannes, at the Rainbow Theatre in London, and on the German television show Musikladen. On his return from Europe, he played a sold-out concert at Madison Square Garden in March 1974, highlighting both up-tempo material and long, building improvisations on mid-tempo songs such as "Living for the City". The album ''Fulfillingness' First Finale'' appeared in July 1974 and set two hits high on the pop charts: the No. 1 "You Haven't Done Nothin'" and the Top Ten "Boogie on Reggae Woman". The Album of the Year was again one of three Grammys won.
+
+The same year Wonder took part in a Los Angeles jam session that would become known as the bootleg album ''A Toot and a Snore in '74''. He also co-wrote and produced the Syreeta Wright album ''Stevie Wonder Presents: Syreeta''.}}
+
+On October 4, 1975, Wonder performed at the historic "Wonder Dream Concert" in Kingston, Jamaica, a benefit for the Jamaican Institute for the Blind.White, Timothy. ''Catch a Fire: The Life of Bob Marley''. Macmillan, 2006. {{ISBN|0-8050-8086-4}}. p. 275.
+
+By 1975, at age 25, Wonder had won two consecutive Grammy Awards: in 1974 for ''Innervisions'' and in 1975 for ''Fulfillingness' First Finale''. In 1975, he played harmonica on two tracks on Billy Preston's album ''It's My Pleasure''.
+
+The double album-with-extra-EP ''Songs in the Key of Life'' was released in September 1976. Sprawling in style, unlimited in ambition, and sometimes lyrically difficult to fathom, the album was hard for some listeners to assimilate, yet is regarded by many as Wonder's crowning achievement and one of the most recognizable and accomplished albums in pop music history. The album became the first by an American artist to debut straight at No. 1 in the ''Billboard'' charts, where it stood for 14 non-consecutive weeks.)|publisher=Continuum|year= 2007| ISBN= 0-8264-1926-7|page= 16}} Two tracks became No. 1 Pop/R&B hits "I Wish" and "Sir Duke". The baby-celebratory "Isn't She Lovely?" was written about his newborn daughter Aisha, while songs such as "Love's in Need of Love Today" and "Village Ghetto Land" reflected a far more pensive mood. ''Songs in the Key of Life'' won Album of the Year and two other Grammys. The album ranks 57th on ''Rolling Stone''{{'}}s 500 Greatest Albums of All Time.
+
+Until 1979's ''Stevie Wonder's Journey Through "The Secret Life of Plants"'' his only release was the retrospective three-disc album ''Looking Back'', an anthology of his early Motown period.
+
+===19801990: Commercial period===
+The 1980s saw Wonder achieving his biggest hits and highest level of fame; he had increased album sales, charity participation, high-profile collaborations, political impact, and television appearances. The 1979 mainly instrumental soundtrack album ''Stevie Wonder's Journey Through "The Secret Life of Plants"'' was composed using an early music sampler, a Computer Music Melodian. Wonder toured briefly in support of the album, and used a Fairlight CMI sampler on stage. In this year Wonder also wrote and produced the dance hit "Let's Get Serious", performed by Jermaine Jackson and (ranked by ''Billboard'' as the No. 1 R&B single of 1980).
+
+''Hotter than July'' (1980) became Wonder's first platinum-selling single album, and its single "Happy Birthday" was a successful vehicle for his campaign to establish Dr. Martin Luther King's birthday as a national holiday. The album also included "Master Blaster (Jammin')", "I Ain't Gonna Stand for It", and the sentimental ballad, "Lately".
+
+In 1982, Wonder released a retrospective of his 1970s work with ''Stevie Wonder's Original Musiquarium'', which included four new songs: the ten-minute funk classic "Do I Do" (which featured Dizzy Gillespie), "That Girl" (one of the year's biggest singles to chart on the R&B side), "Front Line", a narrative about a soldier in the Vietnam War that Wonder wrote and sang in the first person, and "Ribbon in the Sky", one of his many classic compositions. He also gained a No. 1 hit that year in collaboration with Paul McCartney in their paean to racial harmony, "Ebony and Ivory".
+
+In 1983, Wonder performed the song "Stay Gold", the theme to Francis Ford Coppola's film adaptation of S. E. Hinton's novel ''The Outsiders''. Wonder wrote the lyrics. In 1983, he scheduled an album to be entitled ''People Work, Human Play''. The album never surfaced and instead 1984 saw the release of Wonder's soundtrack album for ''The Woman in Red''. The lead single, "I Just Called to Say I Love You", was a No. 1 pop and R&B hit in both the United States and the United Kingdom, where it was placed 13th in the list of best-selling singles in the UK published in 2002. (The single was also a hit in lots of other countries as well). It went on to win an Academy award for best song in 1985. Wonder accepted the award in the name of Nelson Mandela and was subsequently banned from all South African radio by the Government of South Africa.  Incidentally, on the occasion of his 35th birthday, Stevie Wonder was honored by the United Nations Special Committee Against Apartheid for his stance against racism in South Africa that same year (1985). The album also featured a guest appearance by Dionne Warwick, singing the duet "It's You" with Stevie and a few songs of her own. Following the success of the album and its lead single,Wonder made an appearance on The Cosby Show,in the episode "A Touch of Wonder" where he demonstrated his ability to sample. The following year's ''In Square Circle'' featured the No. 1 pop hit "Part-Time Lover". The album also has a Top 10 Hit with "Go Home." It also featured the ballad "Overjoyed", which was originally written for ''Journey Through "The Secret Life of Plants"'', but did not make the album. He performed "Overjoyed" on ''Saturday Night Live'' when he was the host. He was also featured in Chaka Khan's cover of Prince's "I Feel For You", alongside Melle Mel, playing his signature harmonica. In roughly the same period he was also featured on harmonica on Eurythmics' single, "There Must Be an Angel (Playing with My Heart)" and Elton John's "I Guess That's Why They Call It the Blues".
+
+Wonder was in a featured duet with Bruce Springsteen on the all-star charity single for African Famine Relief, "We Are the World", and he was part of another charity single the following year (1986), the AIDS-inspired "That's What Friends Are For". He played harmonica on the album ''Dreamland Express'' by John Denver in the song "If Ever", a song Wonder co-wrote with Stephanie Andrews; wrote the track "I Do Love You" for the Beach Boys' 1985 self-titled album; and played harmonica on "Can't Help Lovin' That Man" on ''The Broadway Album'' by Barbra Streisand. In 1987, Wonder appeared on Michael Jackson's ''Bad'' album, on the duet "Just Good Friends". Michael Jackson also sang a duet with him entitled "Get It" on Wonder's 1987 album ''Characters''. This was a minor hit single, as were "Skeletons" and "You Will Know".
+
+===1991present: Later career===
+thumb|Stevie Wonder at the [[32nd Annual Grammy Awards|1990 Grammy Awards ]]
+
+After 1987's ''Characters'' album, Wonder continued to release new material, but at a slower pace. He recorded a soundtrack album for Spike Lee's film ''Jungle Fever'' in 1991. From this album, singles and videos were released for "Gotta Have You", "Fun Day"(remix only), "These Three Words" and "Jungle Fever" . The B-side to the "Gotta Have You" single was "Feeding Off The Love of the Land", which was played during the end credits of the movie ''Jungle Fever'' but was not included on the soundtrack. A piano and vocal version of "Feeding Off The Love of the Land" was also released on the ''Nobody's Child: Romanian Angel Appeal'' compilation. ''Conversation Peace'' and the live album ''Natural Wonder'' were released in the 1990s.
+
+Among his other activities he played harmonica on one track for the 1994 tribute album ''Kiss My Ass: Classic Kiss Regrooved''; sang at the 1996 Summer Olympics closing ceremony; collaborated in 1997 with Babyface on "How Come, How Long", a song about domestic violence that was nominated for a Grammy award; and played harmonica on Sting's 1999 "Brand New Day". In December 1999, Wonder announced that he was interested in pursuing an intraocular retinal prosthesis to partially restore his sight.
+
+Into the 21st century, Wonder continues to record and perform; though mainly occasional appearances and guest performances, he did do two tours, and released one album of new material, 2005's ''A Time to Love''. His key appearances include performing at the opening ceremony of the 2002 Winter Paralympics in Salt Lake City, the 2005 Live 8 concert in Philadelphia, the pre-game show for Super Bowl XL in 2006, the Obama Inaugural Celebration in 2009, and the opening ceremony of the 2011 Special Olympics World Summer Games in Athens, Greece.{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}
+
+He sang at the Michael Jackson memorial service in 2009, at Etta James' funeral, in 2012, and a month later at Whitney Houston's memorial service.
+
+Wonder's first new album in ten years, ''A Time to Love'', was released in October 2005 to lower sales than previous albums, and lukewarm reviewsmost reviewers appearing frustrated at the end of the long delay to get an album that mainly copied the style of Wonder's "classic period" without doing anything new. The first single, "So What the Fuss", was released in April. A second single, "From the Bottom of My Heart", was a hit on adult-contemporary R&B radio. The album also featured a duet with India Arie on the title track "A Time to Love". By June 2008, Wonder was working on two projects simultaneously: a new album called ''The Gospel Inspired By Lula'', which will deal with the various spiritual and cultural crises facing the world, and ''Through The Eyes Of Wonder'', an album he has described as a performance piece that will reflect his experience as a blind man. Wonder was also keeping the door open for a collaboration with Tony Bennett and Quincy Jones concerning a rumored jazz album.Graff, Gary (June 24, 2008). [http://www.billboard.com/articles/news/1044994/stevie-wonder-pressing-on-with-new-albums "Stevie Wonder Pressing On With New Albums"], ''Billboard''. If Wonder were to join forces with Bennett, it would not be for the first time; their rendition of "For Once in My Life" earned them a Grammy for best pop collaboration with vocals in 2006. Wonder's harmonica playing can be heard on the 2009 Grammy-nominated "Never Give You Up", featuring CJ Hilton and Raphael Saadiq.Dodds, Dan (November 17, 2008), [http://www.souljonespresents.com/heroes_raphael.html "Call me Stevie!"] {{webarchive|url=https://web.archive.org/web/20090416194457/http://www.souljonespresents.com/heroes_raphael.html |date=April 16, 2009 }} Raphael Saadiq talks to ''Soul Jones''.
+
+In October 2013, Wonder revealed that he had been recording new material for two albums, ''When the World Began'' and ''Ten Billion Hearts'', in collaboration with producer David Foster, the albums to be released in 2014.Stevie Wonder
+ Stevie Wonder  'I'm thinking of doing a gospel song in Arabic.' Photograph: Ian Gavan/Getty Images
+Harriet Gibsone, [https://www.theguardian.com/music/2013/oct/30/stevie-wonder-new-album-release "Stevie Wonder confirms first new albums in eight years."] ''The Guardian'', October 30, 2013. Retrieved December 1, 2013. He is featured on two tracks on Mark Ronson's new album ''Uptown Special''.
+
+Wonder did a 13-date tour of North America in 2007, starting in San Diego on August 23; this was his first U.S. tour in over ten years. On September 8, 2008, Wonder started the European leg of his Wonder Summer's Night Tour, the first time he had toured Europe in over a decade. His opening show was at the National Indoor Arena in Birmingham. During the tour, Wonder played eight UK gigs; four at the O2 Arena in London (filmed in HD and subsequently released as a live in concert release on DVD and Blu-Ray, "Live At Last"), two in Birmingham and two at the M.E.N. Arena in Manchester. Wonder's other stops in the tour's European leg also found him performing in the Netherlands (Rotterdam), Sweden (Stockholm), Germany (Cologne, Mannheim and Munich), Norway (Hamar), France (Paris), Italy (Milan) and Denmark (Aalborg). Wonder also toured Australia (Perth, Adelaide, Melbourne, Sydney and Brisbane) and New Zealand (Christchurch, Auckland and New Plymouth) in October and November. His 2010 tour included a two-hour set at the Bonnaroo Music Festival in Manchester, Tennessee, a stop at London's "Hard Rock Calling" in Hyde Park, and appearances at England's Glastonbury Festival, Rotterdam's North Sea Jazz Festival, and a concert in Bergen, Norway, and a concert in Dublin, Ireland, at the O2 Arena on June 24.
+
+thumb|left|Barack Obama presents Wonder with the Gershwin Prize in 2009.
+
+In 2000, Wonder contributed two new songs to the soundtrack for Spike Lee's ''Bamboozled'' album ("Misrepresented People" and "Some Years Ago"). |title=Bamboozled  Overview |accessdate=November 17, 2008 |work=allmusic}} In June 2006, Wonder made a guest appearance on Busta Rhymes' album ''The Big Bang'', on the track "Been through the Storm". He sings the refrain and plays the piano on the Dr. Dre and Sha Money XL-produced track. He appeared again on the last track of Snoop Dogg's album ''Tha Blue Carpet Treatment'', "Conversations". The song is a remake of "Have a Talk with God" from ''Songs in the Key of Life''. In 2006, Wonder staged a duet with Andrea Bocelli on the latter's album ''Amore'', offering harmonica and additional vocals on "Canzoni Stonate". Wonder also performed at Washington, D.C.'s 2006 "A Capitol Fourth" celebration. Wonder appeared on singer Celine Dion's studio album ''Loved Me Back to Life'' performing a cover of his 1985 song "Overjoyed". The album was released in October 2013.
+
+==Legacy==
+A prominent figure in popular music during the latter half of the 20th century, Wonder has recorded more than 30 U.S. top ten hits and won 25 Grammy Awards[http://www.grammy.com/GRAMMY_Awards/Winners/Results.aspx?title=&winner=stevie%20wonder&year=0&genreID=0&hp=1 Search for "Stevie Wonder" at Grammy.com]. (the most ever won by a solo artist) as well as a Lifetime Achievement Award. He has also won an Academy Award for Best Song,[http://awardsdatabase.oscars.org/ampas_awards/DisplayMain.jsp?curTime=1223760491617 Academy Awards Database]{{dead link|date=March 2018 |bot=InternetArchiveBot |fix-attempted=yes }}. ''Academy of Motion Picture Arts and Sciences''. Retrieved October 11, 2008. and been inducted into both the Rock and Roll[http://www.rockhall.com/inductees/inductee-list Rock and Roll Hall of Fame  Inductee list]. Retrieved October 11, 2008. and Songwriters[http://www.songwritershalloffame.org/exhibits/C25 Songwriters Hall of Fame  Stevie Wonder]. Retrieved October 11, 2008. halls of fame. He has also been awarded the Polar Music Prize.[http://www.polarmusicprize.com/ Polar Music Prize] Retrieved October 11, 2008. American music magazine ''Rolling Stone'' named him the ninth greatest singer of all time.[https://www.rollingstone.com/news/coverstory/24161972/page/103 ''Rolling Stone'': The 100 Greatest Singers of All Time]. Retrieved July 16, 2009.[https://www.rollingstone.com/music/lists/100-greatest-singers-of-all-time-19691231/stevie-wonder-20101202 ''Rolling Stone'': The 100 Greatest Singers of All Time: #9 Stevie Wonder]. Retrieved July 16, 2009. In June 2009 he became the fourth artist to receive the Montreal Jazz Festival Spirit Award.[http://www.montrealjazzfest.com/maison-du-festival-online/spirit-award.aspx Spirit Award] {{webarchive|url=https://web.archive.org/web/20090617233746/http://www.montrealjazzfest.com/maison-du-festival-online/spirit-award.aspx |date=June 17, 2009 }}. Retrieved July 1, 2009.
+
+He has had ten U.S. number-one hits on the pop charts as well as 20 R&B number one hits, and has sold over 100 million records, 19.5million of which are albums; he is one of the top 60 best-selling music artists with combined sales of singles and albums. Wonder has recorded several critically acclaimed albums and hit singles, and writes and produces songs for many of his label mates and outside artists as well. Wonder plays the piano, synthesizer, harmonica, congas, drums, bongos, organ, melodica and Clavinet. In his childhood, he was best known for his harmonica work, but today he is better known for his keyboard skills and vocal ability. Wonder was the first Motown artist and second African-American musician to win an Academy Award for Best Original Song, which he won for his 1984 hit single "I Just Called to Say I Love You" from the movie ''The Woman in Red''.
+
+Wonder's "classic period" is generally agreed to be between 1972 and 1977. Some observers see in 1971's ''Where I'm Coming From'' certain indications of the beginning of the classic period, such as its new funky keyboard style which Wonder used throughout the classic period. Some determine Wonder's first "classic" album to be 1972's ''Music of My Mind'', on which he attained personal control of production, and on which he programmed a series of songs integrated with one another to make a concept album. Others skip over early 1972 and determine the beginning of the classic period to be ''Talking Book'' in late 1972, the album in which Wonder "hit his stride".
+
+His classic 1970s albums were very influential on the music world: the 1983 ''Rolling Stone Record Guide'' said they "pioneered stylistic approaches that helped to determine the shape of pop music for the next decade"; ''Rolling Stone'''s 2003 list of the 500 Greatest Albums of All Time included four of the five albums, with three in the top 90; and in 2005, Kanye West said of his own work, "I'm not trying to compete with what's out there now. I'm really trying to compete with ''Innervisions'' and ''Songs in the Key of Life''. It sounds musically blasphemous to say something like that, but why not set that as your bar?"Jones, Steve (August 21, 2005). [https://www.usatoday.com/life/music/news/2005-08-21-kanye-main_x.htm "West hopes to register with musical daring"]. ''USA Today''.
+
+==Personal life==
+
+===Marriages===
+Wonder has been married three times. He was married to Motown singer-songwriter and frequent collaborator Syreeta Wright from 1970 until their amicable divorce in 1972. From 2001 until 2012 he was married to fashion designer Kai Millard. In October 2009, Wonder and Millard separated; Wonder filed for divorce in August 2012. In 2017 he married Tomeeka Bracy.
+
+===Children===
+
+Wonder has nine children by five different women. The mother of Wonder's first child is Yolanda Simmons, whom Wonder met when she applied for a job as secretary for his publishing company.''Woman's Own'' magazine, July 1978, pp. 6568. Book extract from "Stevie Wonder" by Constanza Elsner, published by Everest. Simmons gave birth to Wonder's daughter on February 2, 1975: Aisha Morris. After Aisha was born, Stevie said "she was the one thing that I needed in my life and in my music for a long time." Aisha was the inspiration for Wonder's hit single "Isn't She Lovely?" Aisha is a singer who has toured with her father and accompanied him on recordings, including his 2005 album, ''A Time to Love''. Wonder and Simmons had a son, Keita, in 1977.
+
+In 1983 Wonder had a son with Melody McCulley, Mumtaz Morris. Wonder has a daughter, Sophia, and a son, Kwame, with a woman whose identity has not been publicly disclosed.
+
+Wonder has two sons with second wife Kai Millard Morris; the elder is named Kailand and he occasionally performs as a drummer on stage with his father. The younger son, Mandla Kadjay Carl Stevland Morris, was born on May 13, 2005, his father's 55th birthday.
+
+Wonder's ninth child, his second with Tomeeka Robyn Bracy, was born in December 2014, amid rumors that Wonder would be the father to triplets.Sierra Marquina, [http://www.usmagazine.com/celebrity-moms/news/stevie-wonder-welcomes-ninth-child-baby-girl-named-nia-20141712 "Stevie Wonder, 64, Welcomes Ninth Child, a Baby Girl Named Nia!"], ''US Magazine'', December 17, 2014. This turned out not to be the case, and the couple's new daughter was given the name of Nia, meaning "purpose"  "one of the seven principles of Kwanzaa".
+The name of Wonder's first child with Bracy is unknown.
+
+===Other===
+In May 2006, Wonder's mother Lula Mae Hardaway died in Los Angeles at the age of 76. During his September 8, 2008, UK concert in Birmingham, he spoke of his decision to begin touring again following his loss: "I want to take all the pain that I feel and celebrate and turn it around."
+
+Wonder was introduced to Transcendental Meditation through his marriage to Syreeta Wright. Consistent with that spiritual vision, Wonder became vegetarian, and later a vegan, singing about it on ''The Late Late Show with James Corden'' during the show's "Carpool Karaoke" segment.Taylor Chambers, [http://www.onegreenplanet.org/news/stevie-wonder-vegan/ "Stevie Wonder Went Vegan and He Loves it So Much He Sings About it!"] (VIDEO), One Green Planet, October 13, 2015. Retrieved October 16, 2015.Linh Bui, [http://baltimore.cbslocal.com/2014/04/16/music-icon-stevie-wonder-visits-local-vegan-restaurant/ "Music Icon Stevie Wonder Visits Local Vegan Restaurant"], CBS Baltimore (online), April 16, 2014. Retrieved October 16, 2015.Richard Bowie, [http://vegnews.com/articles/page.do?pageId=7091&catId=1 "Stevie Wonder Creates Impromptu Song About Going Vegan"], ''VegNews'', October 15, 2015. Retrieved October 16, 2015.
+
+Stevie Wonder joined twitter on April 4, 2018, and his first tweet was a five-minute video honoring Martin Luther King Jr. Dozens of famous personalities were rounded up in the video, which was titled as "The Dream Still Lives". Each person involved shared their dream calling back to Kings popular speech in 1963. His very first tweet took the internet by storm where he also encouraged viewers to share their own videos about their dreams with the hashtag #DreamStillLives.
+
+===Religious views===
+Stevie Wonder has been a longtime Baptist affiliated with Black churches.
+
+==Awards and recognition==
+===Grammy Awards===
+Wonder has won 25 Grammy Awards: as well as a Grammy Lifetime Achievement Award in 1996. He is one of only two artists and groups who have won the Grammy for Album of the Year three times as the main credited artist, along with Frank Sinatra.
+
+{| class="wikitable collapsible collapsed" style="min-width:60em"
+! colspan=3 | Grammy Awards. 
+-
+!Year || Award || Title. 
+-. 
+1973 || Best Rhythm & Blues Song || "Superstition". 
+-. 
+1973 || Best R&B Vocal Performance, Male || "Superstition". 
+-. 
+1973 || Best Pop Vocal Performance, Male || "You are the Sunshine of My Life". 
+-. 
+1973 || Album of the Year || ''Innervisions''. 
+-. 
+1974 || Best Rhythm & Blues Song || "Living for the City". 
+-. 
+1974 || Best Male R&B Vocal Performance|| "Boogie on Reggae Woman". 
+-. 
+1974 || Best Male Pop Vocal Performance|| ''Fulfillingness' First Finale''. 
+-. 
+1974 || Album of the Year || ''Fulfillingness' First Finale''. 
+-. 
+1976 || Best Male R&B Vocal Performance|| "I Wish". 
+-. 
+1976 || Best Male Pop Vocal Performance|| ''Songs in the Key of Life''. 
+-. 
+1976 || Best Producer of the Year* || N/A. 
+-. 
+1976 || Album of the Year || ''Songs in the Key of Life''. 
+-. 
+1985 || Best Male R&B Vocal Performance|| ''In Square Circle''. 
+-. 
+1986 || Best Pop Performance by a Duo Or Group With Vocal''(awarded to Dionne Warwick, Elton John, Gladys Knight, and Wonder) || "That's What Friends Are For". 
+-. 
+1995 || Best Rhythm & Blues Song || "For Your Love". 
+-. 
+1995 || Best Male R&B Vocal Performance || "For Your Love". 
+-. 
+1998 || Best Instrumental Arrangement Accompanying Vocal(s)''(awarded to Herbie Hancock, Robert Sadin, and Wonder)|| "St. Louis Blues". 
+-. 
+1998 || Best Male R&B Vocal Performance || "St. Louis Blues". 
+-. 
+2002 || Best R&B Performance by a Duo Or Group With Vocals''(awarded to Wonder and Take 6)|| "Love's in Need of Love Today". 
+-. 
+2005 || Best Male Pop Vocal Performance || "From the Bottom of My Heart". 
+-. 
+2005 || Best R&B Performance by a Duo Or Group With Vocals''(awarded to Beyonc and Wonder)|| "So Amazing". 
+-. 
+2006 || Best Pop Collaboration With Vocals ''(awarded to Tony Bennett and Wonder) || "For Once in My Life". 
+-. 
+colspan=3 style="font-size:88%" |
+* From 1965 to 1980 a self-produced artist received one Grammy Award as an artist and an additional one as a producer in the Record of the Year and Album of the Year categories. 
+}
+
+{{awards table}}. 
+-. 
+ rowspan="2"|1967. 
+ rowspan="2"|"Uptight". 
+ Best Rhythm & Blues Recording. 
+ {{nom}}. 
+-. 
+ Best Rhythm & Blues Solo Vocal Performance, Male or Female. 
+ {{nom}}. 
+-. 
+ 1969. 
+ "For Once in My Life". 
+ Best Rhythm & Blues Vocal Performance, Male. 
+ {{nom}}. 
+-. 
+ rowspan="2"|1971. 
+ rowspan="2"|"Signed, Sealed, Delivered". 
+ Best Rhythm & Blues Song. 
+ {{nom}}. 
+-. 
+ rowspan="3"|Best R&B Vocal Performance, Male. 
+ {{nom}}. 
+-. 
+ 1972. 
+ "We Can Work It Out". 
+ {{nom}}. 
+-. 
+rowspan="6"|1974. 
+ rowspan="2"|"Superstition". 
+ {{won}}. 
+-. 
+ Best Rhythm & Blues Song. 
+ {{won}}. 
+-. 
+ rowspan="3"|"You Are the Sunshine of My Life". 
+ Best Pop Vocal Performance, Male. 
+ {{won}}. 
+-. 
+ Record of the Year. 
+ {{nom}}. 
+-. 
+ Song of the Year. 
+ {{nom}}. 
+-. 
+ ''Innervisions''. 
+ rowspan="2"|Album of the Year. 
+ {{won}}. 
+-. 
+rowspan="6"|1975. 
+ rowspan="2"|''Fulfillingness' First Finale''. 
+{{won}}. 
+-. 
+ Best Pop Vocal Performance, Male. 
+ {{won}}. 
+-. 
+ "Boogie On Reggae Woman". 
+ Best R&B Vocal Performance, Male. 
+ {{won}}. 
+-. 
+ "Living for the City". 
+ rowspan="2"|Best Rhythm & Blues Song. 
+ {{won}}. 
+-. 
+ "Tell Me Something Good". 
+ {{nom}}. 
+-. 
+ rowspan="2"|Stevie Wonder. 
+ rowspan="2"|Best Producer of the Year. 
+ {{nom}}. 
+-. 
+rowspan="7"|1977. 
+{{won}}. 
+-. 
+ rowspan="2"|"Contusion". 
+ Best Pop Instrumental Performance. 
+ {{nom}}. 
+-. 
+ Best Instrumental Composition. 
+{{nom}}. 
+-. 
+ "Have A Talk With God". 
+ Best Inspirational Performance. 
+ {{nom}}. 
+-. 
+ rowspan="2"|''Songs in the Key of Life''. 
+ Album of the Year. 
+{{won}}. 
+-. 
+ Best Pop Vocal Performance, Male. 
+{{won}}. 
+-. 
+ "I Wish". 
+ rowspan="2"|Best R&B Vocal Performance, Male. 
+ {{won}}. 
+-. 
+rowspan="4"|1981. 
+ "Master Blaster (Jammin')". 
+{{nom}}. 
+-. 
+ ''Stevie Wonder's Journey Through The Secret Life Of Plants''. 
+ Best Album of Original Score Written for a Motion Picture or a Television Special. 
+{{nom}}. 
+-. 
+ Stevie Wonder. 
+ Producer of the Year (Non-Classical). 
+ {{nom}}. 
+-. 
+ "Let's Get Serious". 
+ rowspan="3"|Best Rhythm & Blues Song. 
+{{nom}}. 
+-. 
+rowspan="7"|1983. 
+ "That Girl". 
+ {{nom}}. 
+-. 
+ rowspan="3"|"Do I Do". 
+{{nom}}. 
+-. 
+ Best R&B Vocal Performance, Male. 
+{{nom}}. 
+-. 
+ Best Instrumental Arrangement Accompanying Vocal(s). 
+{{nom}}. 
+-. 
+ rowspan="2"|"Ebony and Ivory". 
+ Record of the Year. 
+ {{nom}}. 
+-. 
+ Best Pop Performance by a Duo or Group with Vocal. 
+ {{nom}}. 
+-. 
+ "What's That You're Doing". 
+ Best R&B Performance by a Duo or Group with Vocal. 
+{{nom}}. 
+-. 
+rowspan="4"|1985. 
+ rowspan="2"|"I Just Called to Say I Love You". 
+ Song of the Year. 
+{{nom}}. 
+-. 
+ Best Pop Vocal Performance, Male. 
+{{nom}}. 
+-. 
+ "I Just Called To Say I Love You (Instrumental)". 
+ Best Pop Instrumental Performance. 
+{{nom}}. 
+-. 
+ ''The Woman In Red''. 
+ rowspan="2"|Best R&B Vocal Performance, Male. 
+{{nom}}. 
+-. 
+rowspan="2"|1986. 
+ ''In Square Circle''. 
+{{won}}. 
+-. 
+ "Part-Time Lover". 
+ Best Pop Vocal Performance, Male. 
+{{nom}}. 
+-. 
+ rowspan="2"|1987. 
+ rowspan="2"|"That's What Friends Are For". 
+ Best Pop Performance by a Duo or Group with Vocal. 
+ {{won}}. 
+-. 
+ Record of the Year. 
+ {{nom}}. 
+-. 
+ rowspan="2"|1988. 
+ rowspan="2"|"Skeletons". 
+ Best Rhythm & Blues Song. 
+{{nom}}. 
+-. 
+ rowspan="3"|Best R&B Vocal Performance, Male. 
+ {{nom}}. 
+-. 
+ 1989. 
+ ''Characters''. 
+ {{nom}}. 
+-. 
+ rowspan="3"|1992. 
+ rowspan="2"|"Gotta Have You". 
+ {{nom}}. 
+-. 
+ rowspan="2"|Best Song Written Specifically for a Motion Picture or for Television. 
+ {{nom}}. 
+-. 
+ "Jungle Fever". 
+ {{nom}}. 
+-. 
+ rowspan="2"|1996. 
+ rowspan="2"|"For Your Love". 
+ Best Male R&B Vocal Performance. 
+ {{won}}. 
+-. 
+ Best Rhythm & Blues Song. 
+ {{won}}. 
+-. 
+ 1997. 
+ "Kiss Lonely Goodbye (Harmonica with Orchestra)". 
+ Best Pop Instrumental Performance. 
+ {{nom}}. 
+-. 
+ rowspan="2"|1998. 
+ rowspan="2"|"How Come, How Long". 
+ Best Short Form Music Video. 
+ {{nom}}. 
+-. 
+ rowspan="2"|Best Pop Collaboration with Vocals. 
+ {{nom}}. 
+-. 
+ rowspan="3"|1999. 
+ "How Come, How Long" (Live). 
+ {{nom}}. 
+-. 
+ rowspan="2"|"St. Louis Blues". 
+ Best Male R&B Vocal Performance. 
+ {{won}}. 
+-. 
+ Best Instrumental Arrangement Accompanying Vocal(s). 
+ {{won}}. 
+-. 
+ rowspan="2"|2003. 
+ "Love's In Need Of Love Today". 
+ Best R&B Performance by a Duo or Group with Vocal. 
+ {{won}}. 
+-. 
+ "Christmas Song". 
+ rowspan="3"|Best Pop Collaboration with Vocals. 
+ {{nom}}. 
+-. 
+ 2005. 
+ "Moon River". 
+ {{nom}}. 
+-. 
+ rowspan="6"|2006. 
+ "A Time To Love". 
+ {{nom}}. 
+-. 
+ ''A Time To Love''. 
+ Best R&B Album. 
+ {{nom}}. 
+-. 
+ "So What the Fuss". 
+ Best Male R&B Vocal Performance. 
+ {{nom}}. 
+-. 
+ "How Will I Know". 
+ rowspan="2"|Best R&B Performance by a Duo or Group with Vocals. 
+ {{nom}}. 
+-. 
+ "So Amazing". 
+ {{won}}. 
+-. 
+ "From The Bottom Of My Heart". 
+ Best Male Pop Vocal Performance. 
+ {{won}}. 
+-. 
+ 2007. 
+ "For Once in My Life". 
+ Best Pop Collaboration with Vocals. 
+ {{won}}. 
+-. 
+ 2009. 
+ "Never Give You Up". 
+ Best R&B Performance by a Duo or Group with Vocals. 
+ {{nom}}. 
+-. 
+ 2010. 
+ "All About the Love Again". 
+ Best Male Pop Vocal Performance. 
+ {{nom}}
+{{end}}
+
+=== Other awards and recognition===
+Wonder has been given a range of awards for his music, and for his civil rights work, including induction into the Songwriters and the Rock and Roll halls of fame; gaining a Lifetime Achievement Award from the National Civil Rights Museum, being named one of the United Nations Messengers of Peace, and earning a Presidential Medal of Freedom from President Barack Obama in 2014.
+
+In December 2016, the City of Detroit recognized Wonder's legacy by renaming a portion of his childhood street, Milwaukee Avenue West, between Woodward Avenue and Brush Street, as "Stevie Wonder Avenue". He was also awarded an honorary key to the city, presented by Mayor Mike Duggan.
+
+{| class="wikitable collapsible collapsed" style="min-width:60em"
+! Awards and recognition. 
+-. 
+
+* 1983: inducted to the Songwriters Hall of Fame.
+* 1984: received an Academy Award for Best Song for "I Just Called to Say I Love You" from the movie ''The Woman in Red''.
+* 1989: inducted to the Rock and Roll Hall of Fame.
+* 1999: received the Polar Music Prize and Kennedy Center Honors.[//www.kennedy-center.org/programs/specialevents/honors/history/home.html The Kennedy Center  Past Honorees]. Retrieved on October 11, 2008.
+* 2000: received a Golden Raspberry Award for Worst Original Song for "Wild Wild West" from the movie ''Wild Wild West''
+* 2002: received the George and Ira Gershwin Lifetime Achievement Award at UCLA's Spring Sing. The same year, Wonder received the Sammy Cahn Lifetime Achievement Award from the Songwriters Hall of Fame.
+* 2004: received the Billboard Century Award. Also in 2004, ''Rolling Stone'' ranked him No. 15 on their list of the [//www.rollingstone.com/news/story/5939214/the_immortals_the_first_fifty/ 100 Greatest Rock and Roll Artists of All Time].
+* 2006: was inducted, as one of the first inductees, into the Michigan Walk of Fame. The same year, Wonder received a Lifetime Achievement Award from the National Civil Rights Museum in Memphis.
+* 2008: Ranked at number five on "The Billboard Hot 100 Top All-Time Artists", making him as the third most successful male artist in the history of ''Billboard'' Hot 100 chart.
+* February 23, 2009: Recipient of the Library of Congress's second Gershwin Prize For Popular Song, honored by US President Barack Obama at the White House.
+* 2009: Recipient of the Montreal Jazz Festival Spirit Award. This special award underlines a popular artist's extraordinary contribution to the musical world. The Montreal Jazz Festival Spirit Award is in bronze.
+* 2009: Named a Messenger of Peace by the United Nations.
+* March 6, 2010: Wonder was appointed a Commander of the Order of Arts and Letters by French Culture Minister Frdric Mitterrand. Wonder had been due to be invested with this honor in 1981, but scheduling problems prevented this from happening. A lifetime achievement award was also given to Wonder on the same day, at France's biggest music awards. * 2012: Inducted into The SoulMusic Hall of Fame Lifetime Achievement Award at SoulMusic.com.
+* June 2011: the Apollo Theater inducted Wonder into the Apollo Legends Hall of Fame.Allen, Floyd. [https://archive.is/20120709021900/http://au.ibtimes.com/articles/108732/20110204/stevie-wonder-apollo-legends-hall-of-fame-apollo-theater-wonder-child.htm "Stevie Wonder joins list of Apollo Legends Hall of Fame recipients"]. ''[http://au.ibtimes.com International Business Times AU]''. Retrieved February 4, 2011.
+* 2013: received the Music Makes One Global Ambassador Award from the outstanding music award ceremony of Asia and the World, Mnet Asian Music Awards.[//mama.interest.me/history?type=winner&year=2013 "2013 M.net Korean Music Festival Winners list"]. ''MAMA''. Retrieved December 14, 2014.
+* 2014: Recipient of the Presidential Medal of Freedom.. 
+}
+
+===Honorary degrees===
+Stevie Wonder has received many honorary degrees in recognition of his music career. These include: 
+
+{| border="1" border="1" cellpadding="4" cellspacing="0" style="width:100%; margin:0.5em 1em 0.5em 0; border:1px #056 solid; border-collapse:collapse;". 
+-
+!  style="background:#f5f5f5; width:20%;"| Country !!  style="background:#f5f5f5; width:20%;"| Date !!  style="background:#f5f5f5; width:40%;"| School !!  style="background:#f5f5f5; width:20%;"| Degree. 
+-. 
+ {{Flagu|Alabama}} || '''June 2, 1996''' || University of Alabama at Birmingham || Doctor of Music (D.Mus) https://www.uab.edu/institutionaleffectiveness/images/factbook/sections/15-16_FactsFigures2017_HonoraryDegrees.pdf. 
+-. 
+ {{Flagu|Connecticut}} || '''May 22, 2017''' || Yale University || Doctor of Music (D.Mus) . 
+-. 
+}
+
+{{Expand list|date=December 2017}}
+
+==Discography==
+{{Main article|Stevie Wonder discography}}
+
+{{columns-list|colwidth=30em|
+* ''The Jazz Soul of Little Stevie'' (1962)
+* ''Tribute to Uncle Ray'' (1962)
+* ''With a Song in My Heart'' (1963)
+* ''Stevie at the Beach'' (1964)
+* ''Up-Tight'' (1966)
+* ''Down to Earth'' (1966)
+* ''I Was Made to Love Her'' (1967)
+* ''Someday at Christmas'' (1967)
+* ''Eivets Rednow'' (1968)
+* ''For Once in My Life'' (1968)
+* ''My Cherie Amour'' (1969)
+* ''Signed, Sealed & Delivered'' (1970)
+* ''Where I'm Coming From'' (1971)
+* ''Music of My Mind'' (1972)
+* ''Talking Book'' (1972)
+* ''Innervisions'' (1973)
+* ''Fulfillingness' First Finale'' (1974)
+* ''Songs in the Key of Life'' (1976)
+* ''Stevie Wonder's Journey Through "The Secret Life of Plants"'' (1979)
+* ''Hotter than July'' (1980)
+* ''The Woman in Red'' (1984)
+* ''In Square Circle'' (1985)
+* ''Characters'' (1987)
+* ''Jungle Fever'' (1991)
+* ''Conversation Peace'' (1995)
+* ''A Time to Love'' (2005)
+}}
+
+==See also==
+{{Wikipedia books|Stevie Wonder}}
+{{Portal|African American}}
+* Harry Mendell, who collaborated musically with Stevie Wonder on two albums
+* List of ''Billboard'' Hot 100 chart achievements and milestones
+* List of artists who reached number one on the Hot 100 (U.S.)
+

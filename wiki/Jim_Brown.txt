@@ -1,0 +1,640 @@
+--sport
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jim Brown</title>
+    <ns>0</ns>
+    <id>453868</id>
+    <revision>
+      <id>844276130</id>
+      <parentid>844276006</parentid>
+      <timestamp>2018-06-03T21:39:16Z</timestamp>
+      <contributor>
+        <username>Itsjurassic</username>
+        <id>33352964</id>
+      </contributor>
+      <minor/>
+      <comment>Chnaged a uppercaed word to a lower case.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="46918">{{Other people|Jim Brown|James Brown (disambiguation)}}
+{{Use mdy dates|date=May 2012}}
+{{Infobox NFL player
+| name = Jim Brown
+| image = 1961 Kahn's Wieners Jim Brown-crop.jpg
+| image_size = 250
+| alt =
+| caption = Brown in 1961
+| number = 32
+| position = [[Fullback (gridiron football)|Fullback]]
+| birth_date = {{birth date and age|1936|02|17}}
+| birth_place = [[St. Simons, Georgia]]
+| death_date = &lt;!--{{birth date and age|20YY|MM|DD|1936|02|17}}--&gt;
+| death_place =
+| height_ft = 6
+| height_in = 2
+| weight_lbs = 232
+| high_school = [[Manhasset High School|Manhasset (NY)]]
+| college = [[Syracuse Orange football|Syracuse]]
+| draftyear = 1957
+| draftround = 1
+| draftpick = 6
+| pastteams =
+* [[Cleveland Browns]] ([[1957 NFL season|1957]][[1965 NFL season|1965]])
+| highlights =
+* [[History of National Football League Championship|NFL champion]] ([[1964 NFL Championship Game|1964]])
+* 9 [[Pro Bowl]] ([[1958 Pro Bowl|1957]][[1966 Pro Bowl|1965]])
+* 8 First-team [[All-Pro]] ([[1957 All-Pro Team|1957]][[1961 All-Pro Team|1961]], [[1963 All-Pro Team|1963]][[1965 All-Pro Team|1965]])
+* Second-team All-Pro ([[1962 All-Pro Team|1962]])
+* {{nowrap|3 [[AP NFL Most Valuable Player]] (1957, 1958, 1965)}}
+* [[Bert Bell Award]] (1963)
+* [[National Football League Rookie of the Year Award|NFL Rookie of the Year]] (1957)
+* 8 [[List of NFL rushing champions|NFL rushing yards leader]] (19571961, 19631965)
+* 5 [[List of National Football League rushing touchdowns leaders|NFL rushing touchdowns leader]] (19571959, 1963, 1965)
+* [[NFL 1960s All-Decade Team]]
+* [[NFL 75th Anniversary All-Time Team]]
+* [[Cleveland Browns#Retired uniform numbers|Cleveland Browns No. 32]] retired
+* Unanimous [[College Football All-America Team|All-American]] ([[1956 College Football All-America Team|1956]])
+* Second-team All-American ([[1955 College Football All-America Team|1955]])
+* [[Syracuse Orange football#Retired numbers|Syracuse Orange No. 44]] retired
+| statlabel1 = Rushing yards
+| statvalue1 = 12,312
+| statlabel2 = Yards per carry
+| statvalue2 = 5.2
+| statlabel3 = Rushing touchdowns
+| statvalue3 = 106
+| statlabel4 = Receptions
+| statvalue4 = 262
+| statlabel5 = Receiving yards
+| statvalue5 = 2,499
+| statlabel6 = Receiving touchdowns
+| statvalue6 = 20
+| nfl = BRO483276
+| pfr = B/BrowJi00
+| HOF = jim-brown
+| CollegeHOF = 50092
+}}
+
+'''James Nathaniel Brown''' (born February 17, 1936) is a former professional [[American football]] player and actor. He was a [[running back]] for the [[Cleveland Browns]] of the [[National Football League]] (NFL) from 1957 through 1965. Considered to be the greatest football player of all time,&lt;ref&gt;{{cite web|url=http://www.nflcdn.com/halloffame/story/0ap1000000221587/article/joe-montana-jim-brown-on-hall-of-fame-50th-anniversary-team|title=Joe Montana, Jim Brown on Hall of Fame 50th Anniversary Team|publisher=NFL.com |date=July 29, 2013|accessdate=February 21, 2017}}&lt;/ref&gt; Brown was a [[Pro Bowl]] invitee every season he was in the league, was recognized as the [[AP NFL Most Valuable Player]] three times, and won an [[NFL championship]] with the Browns in 1964. He led the league in rushing yards in eight out of his nine seasons, and by the time he retired, he had shattered most major rushing records. In 2002, he was named by ''[[The Sporting News]]'' as the greatest professional football player ever.&lt;ref name="TSN"&gt;{{cite web | url=http://archive.sportingnews.com/nfl/100/1.html | title=Football's 100 Greatest Players: No. 1 Jim Brown | publisher=The Sporting News | accessdate=April 1, 2008 | archiveurl=https://web.archive.org/web/20080916111521/http://archive.sportingnews.com/nfl/100/1.html | archivedate=September 16, 2008}}&lt;/ref&gt;
+
+Brown earned [[List of unanimous All-Americans in college football|unanimous]] [[College Football All-America Team|All-America]] honors playing college football at [[Syracuse University]] in New York, where he was an all-around player for the [[Syracuse Orangemen football]] team. He also excelled in [[basketball]], [[track and field]], and [[lacrosse]]. The football team later [[Retired number|retired]] his number 44 jersey. He was inducted into the [[College Football Hall of Fame]] in 1995.
+
+In his professional career, Brown carried the ball 2,359 times for 12,312 rushing yards and 106 touchdowns, which were all records when he retired. He averaged 104.1 rushing yards per game, and is the only player in NFL history to average over 100 rushing yards per game for his career. His 5.2 yards per rush is third-best among running backs. Brown was enshrined in the [[Pro Football Hall of Fame]] in 1971. He was named to the [[NFL 75th Anniversary All-Time Team]], comprising the best players in NFL history. His number 32 jersey is retired by the Browns. Shortly after his football career, Brown became an actor, and had several leading roles throughout the 1970s.
+
+==Early life==
+Brown was born in [[St. Simons Island, Georgia]], to Swinton Brown, a professional boxer, and his wife, Theresa, a homemaker.&lt;ref&gt;{{cite web|url=http://www.filmreference.com/film/69/Jim-Brown.html|title=Jim Brown profile|publisher=filmreference.com|accessdate=January 26, 2011}}&lt;/ref&gt;
+
+At [[Manhasset Secondary School]], Brown earned 13 letters playing [[American football|football]], [[lacrosse]], [[baseball]], and [[basketball]], and running track.&lt;ref name=Holden&gt;Holden, Stephen. "[https://movies.nytimes.com/movie/review?res=9A04E1D71138F931A15750C0A9649C8B63 FILM REVIEW; Jim Brown as Football Legend, Sex Symbol and Husband]", ''[[The New York Times]]'', March 22, 2002. Retrieved October 15, 2007.&lt;/ref&gt;{{quotation|Mr. Brown credits his self-reliance to having grown up on Saint Simons Island, a community off the coast of Georgia where he was raised by his grandmother and where [[racism]] did not affect him directly. At the age of eight, he moved to [[Manhasset, New York]], on [[Long Island]], where his mother worked as a [[Domestic worker|domestic]]. It was at Manhasset High School that he became a football star and athletic legend.|''[[The New York Times]]'' - film review, 2002.&lt;ref name=Holden /&gt;}}
+
+He averaged a then-Long Island record 38 points per game for his basketball team. That record was later broken by future [[Boston Red Sox]] star [[Carl Yastrzemski]] of [[Bridgehampton, New York|Bridgehampton]].&lt;ref&gt;{{cite news|author=Bob Rubin|url=http://nl.newsbank.com/nl-search/we/Archives?p_product=MH&amp;s_site=miami&amp;p_multi=MH&amp;p_theme=realcities&amp;p_action=search&amp;p_maxdocs=200&amp;p_topdoc=1&amp;p_text_direct-0=0EB35E1FABDBE6BF&amp;p_field_direct-0=document_id&amp;p_perpage=10&amp;p_sort=YMD_date:D&amp;s_trackval=GooglePM|title=Remember Jim Brown, lacrosse star?|work=[[The Miami Herald]]|date=November 25, 1983|accessdate=June 1, 2008}}&lt;/ref&gt;
+
+==College sports career==
+As a sophomore at Syracuse University (1954), Brown was the second-leading rusher on the team. As a junior, he rushed for 666 yards (5.2 per carry). In his senior year in [[1956 Syracuse Orangemen football team|1956]], Brown was a consensus first-team [[1956 College Football All-America Team|All-American]]. He finished [[1956 college football season#Heisman Trophy|fifth]] in the [[Heisman Trophy]] voting and set school records for highest season rush average (6.2) and most rushing touchdowns in a single game (6). He ran for 986 yardsthird-most in the country despite Syracuse playing only eight gamesand scored 14 touchdowns. In the regular-season finale, a 617 rout of [[Colgate Raiders football|Colgate]], he rushed for 197 yards, scored six touchdowns, and kicked seven extra points for a school-record 43 points. Then in the [[1957 Cotton Bowl Classic|Cotton Bowl]], he rushed for 132 yards, scored three touchdowns, and kicked three extra points, but a blocked extra point after Syracuse's third touchdown was the difference as [[1956 TCU Horned Frogs football team|TCU]] won 2827.&lt;ref&gt;{{cite web |url=http://www.mmbolding.com/bowls/Cotton_1957.htm |title=The Cotton Bowl 1957 |publisher=Mmbolding.com |accessdate=December 18, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20110608131328/http://www.mmbolding.com/bowls/Cotton_1957.htm |archivedate=June 8, 2011 |df=mdy-all }}&lt;/ref&gt;
+
+Brown is a member of [[The Pigskin Club of Washington, D.C.]] National Intercollegiate All-American Football Players Honor Roll.{{Citation needed|date=December 2008}}
+
+Perhaps more impressive was his success as a multisport athlete. In addition to his football accomplishments, he excelled in basketball, track, and especially lacrosse. As a sophomore, he was the second-leading scorer for the basketball team (15 ppg), and earned a letter on the track team. In 1955, he finished in fifth place in the [[USA Outdoor Track and Field Championships|Nation Championship]] [[decathlon]].&lt;ref&gt;https://trackandfieldnews.com/index.php/tafn-presults?list_id=36&amp;sex_id=M&amp;event_id=30&lt;/ref&gt;  His junior year, he averaged 11.3 points in basketball, and was named a second-team [[USILA All-American Team|All-American]] in lacrosse. His senior year, he was named a [[First-Team All-American in lacrosse]] (43 goals in 10 games to rank second in scoring nationally). He is in the Lacrosse Hall of Fame.&lt;ref&gt;Mann, Ronald. ''Bouncing Back: How to Recover When Life Knocks You Down'', [https://books.google.com/books?id=J8FP7673vRoC&amp;pg=PA19&amp;dq=%22Jim+Brown%22+lacrosse+43+goals+in+10+games+to+rank+second+in+scoring+nationally&amp;hl=en&amp;ei=I3EiTuabDoy00AHXvYnbAw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDwQ6AEwAA#v=onepage&amp;q=%22Jim%20Brown%22%20lacrosse%2043%20goals%20in%2010%20games%20to%20rank%20second%20in%20scoring%20nationally&amp;f=false page 19] (Wordclay, 2010).&lt;/ref&gt; The [[Carrier Dome]] has an 800 square-foot tapestry depicting Brown in football and lacrosse uniforms with the words "Greatest Player Ever".&lt;ref name="mcphee20100322"&gt;{{Cite magazine |last=McPhee |first=John |author-link=John McPhee |date=2010-03-22 |title=Pioneer |url=http://www.newyorker.com/magazine/2010/03/22/pioneer-10 |magazine=The New Yorker}}&lt;/ref&gt;
+
+==Professional football career==
+[[File:Jim Brown Cleveland.jpeg|thumb|left|150px|Brown with [[Cleveland Browns|Cleveland]]]]
+[[File:1964 Cleveland Brown helmet.jpg|thumb|right|180px|A helmet signed by Brown in exhibition]]
+
+Brown was taken in the first round of the [[1957 NFL draft]] by the [[1957 Cleveland Browns season|Cleveland Browns]], the sixth overall selection.&lt;ref&gt;{{cite web|url=https://www.pro-football-reference.com/players/BrowJi00.htm |title=Jim Brown NFL &amp; AFL Football Statistics |publisher=Pro-Football-Reference.com |date=February 17, 1936 |accessdate=December 18, 2010}}&lt;/ref&gt; In the ninth game of his rookie season, against the [[1957 Los Angeles Rams season|Los Angeles Rams]] he rushed for 237 yards,&lt;ref&gt;{{cite news|last1=Zeitlan|first1=Arnold|title=Four TDs For Brown, Cleveland Wins, 4531|url=https://www.newspapers.com/clip/8673488/alton_evening_telegraph/|accessdate=January 31, 2017|work=Alton Evening Telegraph|agency=Associated Press|date=November 25, 1957|page=10}}&lt;/ref&gt; setting an NFL single-game record that stood unsurpassed for 14 years{{efn|Brown later matched his own record with 237 yards against the [[1961 Philadelphia Eagles season|Philadelphia Eagles]] in 1961.&lt;ref&gt;{{cite news|last1=Exner|first1=Rich|title=This Day in Browns History: Jim Brown ties NFL record with 237 yards rushing|url=http://www.cleveland.com/datacentral/index.ssf/2009/11/this_day_in_browns_history_jim_1.html|accessdate=January 31, 2017|work=The Plain Dealer|publisher=Cleveland.com|date=November 19, 2009}}&lt;/ref&gt;}} and a rookie record that remained for 40 years. After only nine years in the NFL, he departed as the league's record holder for both single-season (1,863 in 1963) and career rushing (12,312 yards), as well as the all-time leader in rushing touchdowns (106), total touchdowns (126), and all-purpose yards (15,549). He was the first player ever to reach the 100-rushing-touchdowns milestone, and only a few others have done so since, despite the league's expansion to a 16-game season in 1978 (Brown's first four seasons were only 12 games, and his last five were 14 games).
+
+Brown's record of scoring 100 touchdowns in only 93 games stood until [[LaDainian Tomlinson]] did it in 89 games during the {{nfly|2006}} season. Brown holds the record for total seasons leading the NFL in all-purpose yards (five: 19581961, 1964), and is the only rusher in NFL history to average over 100 yards per game for a career. In addition to his rushing, Brown was a superb receiver out of the backfield, catching 262 passes for 2,499 yards and 20 touchdowns, while also adding another 628 yards returning kickoffs.
+
+Every season he played, Brown was voted into the [[Pro Bowl]], and he left the league in style by scoring three touchdowns in his final Pro Bowl game. He accomplished these records despite not playing past 29 years of age. Brown's six games with at least four touchdowns remains an NFL record. Tomlinson and [[Marshall Faulk]] both have five games with four touchdowns.
+
+Brown [[List of NFL rushing champions|led the league in rushing]] a record eight times.  He was also the first NFL player ever to rush for over 10,000 yards.
+
+{{quotation|He told me, 'Make sure when anyone tackles you he remembers how much it hurts.' He lived by that philosophy and I always followed that advice.|[[John Mackey (American football)|John Mackey]], 1999}}
+
+Brown's 1,863 rushing yards in the [[1963 Cleveland Browns season|1963]] season remain a Cleveland franchise record. It is currently the oldest franchise record for rushing yards out of all 32 NFL teams. His average of 133 yards per game that season is exceeded only by [[O. J. Simpson]]'s [[1973 Buffalo Bills season|1973]] season. While others have compiled more prodigious statistics, when viewing Brown's standing in the game, his style of running must be considered along with statistical measures. He was very difficult to tackle (shown by his leading 5.2 yards per carry), often requiring more than one defender to bring him down.&lt;ref&gt;Schwartz, Larry. "[http://espn.go.com/classic/biography/s/Brown_Jim.html Jim Brown was hard to bring down]", ESPN.com.  Retrieved July 17, 2011.&lt;/ref&gt;
+
+Brown retired in July 1966,&lt;ref name=jbarcptof&gt;{{cite news |url=https://news.google.com/newspapers?id=LQJJAAAAIBAJ&amp;sjid=-oIMAAAAIBAJ&amp;pg=493%2C4145279 |newspaper=Youngstown Vindicator |location=Ohio |agency=Associated Press |title=Jim Brown announces retirement; Collier plans to readjust offense |date=July 14, 1966 |page=31}}&lt;/ref&gt;&lt;ref name=jbrfpfb&gt;{{cite news |url=https://news.google.com/newspapers?id=EflNAAAAIBAJ&amp;sjid=bIsDAAAAIBAJ&amp;pg=927%2C8234115 |newspaper=Free Lance-Star |location=Fredericksburg, Virginia |agency=Associated Press |title=Jim Brown retires from pro football |date=July 14, 1966 |page=16 }}&lt;/ref&gt; after only nine seasons, as the NFL's all-time leading rusher. He held the record of 12,312 yards until it was broken by [[Walter Payton]] on October 7, 1984, during Payton's 10th NFL season. Brown is still the Cleveland Browns all-time leading rusher.&lt;ref&gt;[http://www.profootballhof.com/history/general/rushers/index.aspx Profootballhof.com]&lt;/ref&gt; Currently Jim Brown is ninth on the all-time rushing list.&lt;ref&gt;[https://www.pro-football-reference.com/leaders/rush_yds_career.htm Pro-football-reference.com]&lt;/ref&gt;
+
+During Brown's career, Cleveland won the [[History of the National Football League championship|NFL championship]] in [[1964 NFL Championship Game|1964]] and were runners-up in [[1957 NFL Championship Game|1957]] and [[1965 NFL Championship Game|1965]], his rookie and final season, respectively.
+
+==Acting career==
+[[File:...tick...tick...tick... (1970) 1.jpg|thumb|right|170px|Brown and [[Janet MacLachlan]] in ''[[...tick...tick...tick...]]'' (1970)]]
+
+===Early films===
+Brown began an acting career before the 1964 season, playing a [[buffalo soldier]] in a Western action film called ''[[Rio Conchos (1964 film)|Rio Conchos]]''.{{sfn|Pluto|1997|p=179}} The film premiered at Cleveland's Hippodrome theater on October 23, with Brown and many of his teammates in attendance. The reaction was lukewarm. Brown, one reviewer said, was a serviceable actor, but the movie's overcooked plotting and implausibility amounted to "a vigorous melodrama for the unsqueamish."&lt;ref name="Brown in Conchos review"&gt;{{cite news |last=Batdorff |first=Emerson |title=Brown Does OK in 'Conchos'|newspaper=Cleveland Plain Dealer|date=October 24, 1964|page=17}}&lt;!--|accessdate=May 19, 2012--&gt;&lt;/ref&gt;
+
+===MGM===
+In early 1966, Brown was shooting his second film in London.{{sfn|Pluto|1997|pp=176178}} [[MGM]]'s ''[[The Dirty Dozen]]'' cast Brown as Robert Jefferson, one of 12 convicts sent to France during World War II to assassinate German officers meeting at a castle near [[Rennes]] in [[Brittany]] before the [[Normandy landings|D-Day]] invasion. Production delays due to bad weather meant he missed at least the first part of training camp on the campus of [[Hiram College]], which annoyed Cleveland Browns owner [[Art Modell]], who threatened to fine Brown $1,500 for every week of camp he missed.{{sfn|Pluto|1997|pp=178179}} Brown, who had previously said that [[1966 Cleveland Browns season|1966]] would be his last season, the final year of a three-year contract,&lt;ref name=bbksoff&gt;{{cite news |url=https://news.google.com/newspapers?id=7cNOAAAAIBAJ&amp;sjid=bwEEAAAAIBAJ&amp;pg=3841%2C1351783 |newspaper=Toledo Blade |location=Ohio |title=Brown backs off |date=January 3, 1966 |page=14}}&lt;/ref&gt; announced his retirement, instead.&lt;ref name=jbarcptof/&gt;&lt;ref name=jbrfpfb/&gt;{{sfn|Pluto|1997|p=179}}
+
+Brown went on to play a villain in a 1967 episode of ''[[I Spy (1965 TV series)|I Spy]]'' called "Cops and Robbers".
+
+''Dirty Dozen'' was a huge hit and MGM signed him to a multi-film contract. His second film for the studio was ''[[Dark of the Sun]]'' (1968), an action movie set in the Congo where he played a mercenary who was [[Rod Taylor]]'s best friend.
+
+''[[Ice Station Zebra]]'' (1968) was also for MGM, an expensive adventure movie based on a [[Ice Station Zebra (novel)|novel]] by [[Alistair MacLean]] where Brown supported [[Rock Hudson]], [[Patrick McGoohan]] and [[Ernest Borgnine]].
+
+===Leading man===
+MGM cast Brown in his first lead role in ''[[The Split (film)|The Split]]'' (1969), based on a [[Parker (Stark novels character)|Parker]] novel by [[Donald E. Westlake]]. He was paid $125,000 for the role.&lt;ref name="jim"&gt;Jim Brown's End Run Around Race Prejudice
+TUSHER, WILLIAM. Los Angeles Times (1923-Current File) [Los Angeles, Calif] 28 Jan 1968: d11.&lt;/ref&gt;
+
+Brown followed it with ''[[Riot (1969 film)|Riot]]'' (1969), a prison film for MGM. Both it and ''The Split'' were solid hits at the box office. Biographer Mike Freeman credits Brown with becoming "the first black action star", due to roles such as the [[United States Marine|Marine captain]] he portrayed in the hit 1968 film ''[[Ice Station Zebra]]''.&lt;ref&gt;Freeman, Mike.  ''[https://books.google.com/books?id=Iks00GgKFp8C&amp;pg=PA271&amp;dq=%22Jim+Brown%22+monique+daughters&amp;hl=en&amp;ei=0vMZTsnYB4eDgAfZ2MEe&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCwQ6AEwAA#v=onepage&amp;q=Monique&amp;f=false Jim Brown: The Fierce Life of an American Hero]'', page 17 (HarperCollins 2007).&lt;/ref&gt;
+
+Brown went to [[20th Century Fox]] for ''[[100 Rifles]]'' (1969), his first Western. Brown was billed over co stars [[Raquel Welch]] and [[Burt Reynolds]] and had a love scene with Welch, one of the first interracial love scenes.&lt;ref&gt;Hollie I. West (26 Mar 1969). "Jim Brown: Crisp and Direct as a Fullback" ''The Washington Post'', ''Times Herald'' (1959-1973): B1&lt;/ref&gt; Raquel Welch reflects on the scene in [[Spike Lee]]'s ''[[Jim Brown: All-American]]''.
+
+Brown had a change of pace with ''[[Kenner (film)|Kenner]]'' (1969) at MGM, an adventure film partly set in India where Brown plays a man who befriends a young boy. For the same studio he starred as a sheriff in ''[[...tick...tick...tick...]]'' (1970) which was another hit.
+
+Brown appeared in ''[[The Grasshopper (1970 film)|The Grasshopper]]'' (1970), a drama for [[National General Pictures]] where he played an ex football player who becomes the lover of [[Jacqueline Bisset]]. More typical was ''[[El Condor (film)|El Condor]]'' (1970), a Western shot in Spain by [[John Guillermin]], also for National General.
+
+===Blaxploitation===
+The release of ''[[Shaft (1971 film)|Shaft]]'' (1971) led the rise of [[blaxploitation]] movies. Brown starred in several of the genre: ''[[Slaughter (1972 film)|Slaughter]]'' (1972), a huge hit for [[Action International Pictures|AIP]]; ''[[Black Gunn]]'' (1972) for Columbia; ''[[Slaughter's Big Rip-Off]]'' (1973); ''[[The Slams]]'' (1973), back at MGM; ''[[I Escaped from Devil's Island]]'' (1973); and ''[[Three the Hard Way (film)|Three the Hard Way]]'' (1974) with [[Fred Williamson]] and [[Jim Kelly (martial artist)|Jim Kelly]].
+
+He did a [[spaghetti Western]] with Williamson, ''[[Take a Hard Ride]]'' (1975). The popularity of blaxploitation ebbed in the mid 70s and Brown made fewer films.
+
+===Late 70s through to present day===
+Brown appeared in ''[[Fingers (1978 film)|Fingers]]'' (1978), the directorial debut of [[James Toback]].
+
+His 1980s appearances were mostly on television. Brown appeared in some TV shows including ''[[Knight Rider (1982 TV series)|Knight Rider]]'' in the season-three premiere episode "Knight of the Drones". Brown appeared alongside footballer [[Joe Namath]] on ''[[The A-Team]]'' episode "Quarterback Sneak".&lt;ref&gt;[http://www.imdb.com/title/tt0504191/ "Quarterback Sneak"] (episode of ''[[The A-Team]]'') at the [[Internet Movie Database]]&lt;/ref&gt; Brown also appeared on ''ChiPs'', episodes one and two, in season three, as a pickpocket on roller skates.
+
+He was in 1987's ''[[The Running Man (1987 film)|The Running Man]]'', an adaptation of a [[Stephen King]] story, as Fireball and had a cameo in the blaxploitation spoof ''[[I'm Gonna Git You Sucka]]'' (1988).
+
+He played a defensive coach, Montezuma Monroe, in ''[[Any Given Sunday]]'', and also appeared in ''[[Sucker Free City]]'' and ''[[Mars Attacks!]]''.
+
+==Filmography==
+{| class="wikitable"
+|-
+! Year !! Title !! Role !! Notes
+|-
+| 1964 || ''[[Rio Conchos (film)|Rio Conchos]]'' || Sgt. Franklyn || First film
+|-
+| 1967 || ''[[The Dirty Dozen]]'' || Robert Jefferson || 
+|-
+| rowspan="3" | 1968 || ''[[Dark of the Sun]]'' || Ruffo || Lead
+|-
+| ''[[Ice Station Zebra]]'' || Capt. Leslie Anders || 
+|-
+| ''[[The Split (film)|The Split]]'' || McClain || Lead
+|-
+| rowspan="4" | 1969 || ''[[Riot (1969 film)|Riot]]'' || Cully Briston || Lead
+|-
+| ''[[100 Rifles]]'' || Lyedecker || Lead
+|-
+| ''[[The Grasshopper (1970 film)|The Grasshopper]]'' || Tommy Marcott || 
+|-
+| ''[[Kenner (film)|Kenner]]'' || Roy Kenner || Lead
+|-
+| rowspan="2" | 1970 || ''[[...tick...tick...tick...]]'' || Jimmy Price || Lead
+|-
+| ''[[El Condor (film)|El Condor]]'' || Luke || Lead
+|-
+| rowspan="2" | 1972 || ''[[Slaughter (1972 film)|Slaughter]]'' || Slaughter || Lead
+|-
+| ''[[Black Gunn]]'' || Gunn || Lead
+|-
+| rowspan="2" | 1973 || ''[[Slaughter's Big Rip-Off]]'' || Slaughter || Lead
+|-
+| ''[[The Slams]]'' || Curtis Hook || Lead
+|-
+| rowspan="2" | 1974 || ''[[I Escaped from Devil's Island]]'' || Le Bras || Lead
+|-
+| ''[[Three the Hard Way (film)|Three the Hard Way]]'' || Jimmy Lait || Lead
+|-
+| 1975 || ''[[Take a Hard Ride]]'' || Pike || Lead
+|-
+| 1977 || ''[[Vengeance (1977 film)|Vengeance]]'' || Isaac || Lead
+|-
+| rowspan="2" | 1978 || ''[[Fingers (1978 film)|Fingers]]'' || Dreems ||  
+|-
+| ''[[Pacific Inferno]]'' || Clyde Preston || Lead
+|-
+| 1982 || ''[[One Down, Two to Go]]'' || J || Lead
+|-
+| 1985 || ''[[Lady Blue (TV series)|Lady Blue]]'' || Stoker || 
+|-
+| 1987 || ''[[The Running Man (1987 film)|The Running Man]]'' || Fireball ||
+|-
+| 1988 || ''[[I'm Gonna Git You Sucka]]'' || Slammer ||
+|-
+| rowspan="2" | 1989 || ''[[L.A. Heat (film)|L.A. Heat]]'' || Captain ||  
+|-
+| ''[[Crack House (film)|Crack House]]'' || Steadman ||
+|-
+| rowspan="3" | 1990 || ''[[Killing American Style]]'' || Sunset || 
+|-
+| ''[[Twisted Justice]]'' || Morris || 
+|-
+| ''[[Hammer, Slammer, &amp; Slade]]'' || Slammer || 
+|-
+| 1992 || ''[[The Divine Enforcer]]'' || King ||
+|-
+| rowspan="2" | 1996 || ''[[Original Gangstas]]'' || Jake Trevor ||
+|-
+| ''[[Mars Attacks!]]'' || Byron Williams || 
+|-
+| rowspan="2" | 1998 || ''[[He Got Game]]'' || Spivey || 
+|-
+| ''[[Small Soldiers]]'' || Butch Meathook  || Voice
+|-
+| rowspan="2" | 1999 || ''New Jersey Turnpikes'' || Unknown ||
+|-
+| ''[[Any Given Sunday]]'' || Montezuma Monroe || 
+|-
+| 2002 || ''[[On the Edge (2002 film)|On the Edge]]'' || Chad Grant || 
+|-
+| rowspan="2" | 2004 || ''[[She Hate Me]]'' || Geronimo Armstrong ||
+|-
+| ''[[Sucker Free City]]'' || Don Strickland || 
+|-
+| 2005 || ''[[Animal (2005 film)|Animal]]'' || Berwell || 
+|-
+| 2006 || ''[[Sideliners]]'' || Monroe || 
+|-
+| 2010 || ''[[Dream Street]]'' || Unknown || 
+|-
+| 2014 || ''[[Draft Day]]'' || Himself ||
+|}
+
+==Other after-football activities==
+[[File:Jbrown.JPG|thumb|170px|right|Brown at an autograph signing in 2004]]
+
+Brown served as a [[color analyst]] on NFL telecasts for [[NFL on CBS|CBS]] in 1978, teaming with [[Vin Scully]] and [[George Allen (American football coach)|George Allen]].
+
+In 1983, 17 years after retiring from professional football, Brown mused about coming out of retirement to play for the [[Los Angeles Raiders]] when it appeared that [[Pittsburgh Steelers]] running back [[Franco Harris]] would break his all-time rushing record.&lt;ref name=baddream&gt;{{cite web|first=Dave|last=Anderson|date=November 21, 1983|url=https://www.nytimes.com/1983/11/21/sports/jim-brown-s-bad-dream.html|title=JIM BROWN"S BAD DREAM|work=[[The New York Times]]|accessdate=12 December 2016}}&lt;/ref&gt; Brown disliked Harris' style of running, criticizing the Steelers' running back's tendency to run out of bounds, a marked contrast to Brown's approach of fighting for every yard and taking on the oncoming tackler.{{citation needed|date=December 2016}} Eventually, Walter Payton of the Chicago Bears broke the record on October 7, 1984, with Brown having ended thoughts of a comeback. Harris himself, who retired after the [[1984 NFL season|1984 season]] after playing eight games with the [[Seattle Seahawks]], fell short of Brown's mark.  Following Harris's last season, in that January, a challenge between Brown and Harris in a 40-yard dash was nationally televised.  Brown, at 48 years old, was certain he could beat Harris, though Harris was only 34 years old and just ending his elite career.  Harris clocked in at 5.16 seconds, and Brown in at 5.72 seconds.&lt;ref&gt;{{cite web|url=http://articles.latimes.com/1985-01-19/sports/sp-8178_1_franco-harris|title=Harris Beats Brown at 40 Yards, Wins 2-Day Competition|work=latimes.com|accessdate=12 December 2016}}&lt;/ref&gt;
+[[File:JimBrownByPhilKonstantin.jpg|thumb|left|170px|Brown in November 2007]]
+
+Brown's autobiography, published in 1989 by Zebra Books, was titled ''[[Out of Bounds (autobiography)|Out of Bounds]]'' and was co-written with Steve Delsohn.&lt;ref name=LAT&gt;{{cite web|work=[[Los Angeles Times]]|title=Jim Brown's Tale of Sex, Football, Sex, Life and Sex|date=September 15, 1989|first=Mergan|last=Rosenfeld|url=http://articles.latimes.com/1989-09-15/news/vw-270_1_jim-brown}}&lt;/ref&gt; He was a subject of the book ''Jim: The Author's Self-Centered Memoir of the Great Jim Brown'', by [[James Toback]].
+
+In 1993, Brown was hired as a [[color commentator]] for the [[Ultimate Fighting Championship]], a role he occupied for the first six [[pay-per-view]] events.
+
+In 1988, Brown founded the [[Amer-I-Can]] Program. He currently works with juveniles caught up in the [[gang]] scene in Los Angeles and [[Cleveland]] through this Amer-I-Can program.&lt;ref&gt;{{cite web|url=http://www.amer-i-can.org |title=The Amer-I-Can Program |publisher=Amer-i-can.org |accessdate=February 6, 2012}}&lt;/ref&gt; It is a life-management skills organization that operates in inner cities and prisons.
+
+In 2002, film director Spike Lee released the film ''[[Jim Brown: All-American]]'', a [[retrospective]] on Brown's professional career and personal life.
+[[File:Jim Brown at LBJ Foundation 2014.jpg|thumb|right|250px|Brown during an interview at the Civil Rights Summit, 2014]]
+In 2008, Brown initiated a lawsuit against [[Sony]] and [[EA Sports]] for using his likeness in the [[Madden NFL]] video game series. He claimed that he "never signed away any rights that would allow his likeness to be used".&lt;ref&gt;{{cite web|url=http://videogames.yahoo.com/feature/football-great-jim-brown-suing-ea-sony/1234058 |title=Football great Jim Brown suing EA, Sony |publisher=[[Yahoo!]] Video Games |accessdate=August 3, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20080810124036/http://videogames.yahoo.com/feature/football-great-jim-brown-suing-ea-sony/1234058 |archivedate=August 10, 2008 |df= }}&lt;/ref&gt;
+
+As of 2008, Brown was serving as an executive advisor to the Browns, assisting to build relationships with the team's players and to further enhance the NFL's wide range of sponsored programs through the team's player programs department.&lt;ref&gt;{{cite web | url=http://www.clevelandbrowns.com/team/frontoffice_detail.php?id=245 | archiveurl=https://web.archive.org/web/20081223184036/http://www.clevelandbrowns.com/team/frontoffice_detail.php?id=245 | archivedate=December 23, 2008 | title=Cleveland Browns Front Office | accessdate=November 22, 2008}}&lt;/ref&gt;
+
+On May 29, 2013, Brown was named a special adviser to the Browns.&lt;ref&gt;{{cite web|url=http://www.nfl.com/news/story/0ap1000000207562/article/jim-brown-rejoins-cleveland-browns-as-special-advisor|title=Jim Brown rejoins Cleveland Browns as special adviser|work=NFL.com|accessdate=12 December 2016}}&lt;/ref&gt;
+
+Brown is also a part owner of the [[New York Lizards]] of [[Major League Lacrosse]], joining a group of investors in the purchase of the team in 2012.&lt;ref&gt;{{cite web | url=http://www.majorleaguelacrosse.com/press-release/5369/investors-purchase-lizards-jim-brown-among-owners|title=Investors Purchase Lizards; Jim Brown Among Owners|accessdate=12 December 2016}}&lt;/ref&gt;
+
+==Legal troubles and controversy==
+
+In 1965, Brown was arrested in his hotel room for assault and battery against an 18-year-old named Brenda Ayres; he was later acquitted on the charges.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=ucEDAAAAMBAJ&amp;pg=PA16&amp;lpg=PA16&amp;dq=jim+brown+brenda+ayres&amp;source=bl&amp;ots=Eh-0QJbCzx&amp;sig=PK9LbiKTNPkosMEDi9v5L5dK0Vw&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwi9wLyAy__KAhVEFT4KHeD-CHcQ6AEIQTAH#v=onepage&amp;q=jim%20brown%20brenda%20ayres&amp;f=false|title=Jet|last=Company|first=Johnson Publishing|date=1965-08-05|publisher=Johnson Publishing Company|language=en}}&lt;/ref&gt; A year later, he fought paternity allegations that he fathered Brenda Ayres' child. In 1968, Brown was charged with assault with intent to commit murder after model Eva Bohn-Chin was found beneath the balcony of Brown's second-floor apartment.&lt;ref&gt;{{Cite news|url=http://articles.latimes.com/1989-09-15/news/vw-270_1_jim-brown/2|title=Jim Brown's Tale of Sex, Football, Sex, Life and Sex|last=ROSENFELD|first=MEGAN|date=1989-09-15|newspaper=Los Angeles Times|language=en-US|issn=0458-3035|access-date=2016-12-14}}&lt;/ref&gt; The charges were later dismissed after Bohn-Chin refused to cooperate with the prosecutor's office. Brown was also ordered to pay a $300 fine for striking a deputy sheriff involved in the investigation during the incident. In Brown's autobiography, he stated that Bohn-Chin was angry and jealous over an affair he had been having with [[Gloria Steinem]] and this argument is what led to the "misunderstanding with the police."&lt;ref&gt;{{Cite web|url=http://thebiglead.com/2016/02/17/jim-brown-had-more-than-a-few-issues-off-the-field-with-both-women-and-men/|title=Jim Brown Had More Than a Few Issues Off the Field With Both Women and Men|date=2016-02-17|website=The Big Lead|access-date=2016-12-14}}&lt;/ref&gt;
+
+In 1970, Brown was found not guilty of assault and battery, the charges stemming from a road-rage incident that had occurred in 1969. In 1975, Brown was sentenced to one day in prison and two years probation, and to pay a fine of $500 for beating and choking his golfing partner Frank Snow.&lt;ref&gt;{{Cite web|url=https://news.google.com/newspapers?nid=2211&amp;dat=19780520&amp;id=wSEmAAAAIBAJ&amp;sjid=Hv4FAAAAIBAJ&amp;pg=4997,2062796&amp;hl=en|title=The Afro American - Google News Archive Search|website=news.google.com|access-date=2016-12-14}}&lt;/ref&gt; In 1985, Brown was charged with raping a 33-year-old woman.&lt;ref&gt;{{Cite news|url=http://articles.latimes.com/1985-03-19/local/me-31733_1_jim-brown|title=Jim Brown Will Be Charged With Rape|last=STEWART|first=ROBERT W.|date=1985-03-19|newspaper=Los Angeles Times|language=en-US|issn=0458-3035|access-date=2016-12-14}}&lt;/ref&gt; The charges were later dismissed.&lt;ref&gt;{{Cite news|url=http://thestacks.deadspin.com/whats-the-matter-with-jim-brown-1636247285|title=What's The Matter With Jim Brown?|last=Shah|first=Diane K.|newspaper=The Stacks|language=en-US|access-date=2016-12-14}}&lt;/ref&gt; In 1986, Brown was arrested for assaulting his girlfriend Debra Clark. Clark refused to press charges, though, and Brown was released.&lt;ref&gt;{{Cite news|url=http://articles.chicagotribune.com/1986-08-23/sports/8603030213_1_debra-clark-assault-charges-sign-free-agents|title=Jim Brown Faces Battery Charge|newspaper=tribunedigital-chicagotribune|access-date=2016-12-14}}&lt;/ref&gt; In 1999, Brown was arrested and charged with making terrorist threats toward his wife. Later that year, he was found guilty of vandalism for smashing his wife's car with a shovel.&lt;ref&gt;{{Cite web|url=http://usatoday30.usatoday.com/sports/comment/saraceno/2002-04-10-saraceno.htm|title=USATODAY.com - True manhood and perspective elude Brown|website=usatoday30.usatoday.com|access-date=2016-12-14}}&lt;/ref&gt; He was sentenced to three years' probation, one year of domestic violence counseling, and 400 hours of community service or 40 hours on a work crew along with a $1,800 fine.&lt;ref&gt;{{Cite news|url=http://articles.latimes.com/1999/aug/28/local/me-4466|title=Spousal Abuse Trial of Jim Brown Opens|last=MITCHELL|first=JOHN L.|date=1999-08-28|newspaper=Los Angeles Times|language=en-US|issn=0458-3035|access-date=2016-12-14}}&lt;/ref&gt; Brown ignored the terms of his sentence, and in 2000 was sentenced to six months in jail for refusing the court-ordered counseling and community service. He was released after 3 months.&lt;ref&gt;{{Cite news|url=http://articles.latimes.com/2002/mar/14/local/me-brown14|title=Jim Brown Rejects Judge's Offer, Is Jailed in Domestic Violence Case|last=REICH|first=KENNETH|date=2002-03-14|newspaper=Los Angeles Times|language=en-US|issn=0458-3035|access-date=2016-12-14}}&lt;/ref&gt;&lt;ref&gt;"[https://www.usatoday.com/sports/nfl/stories/2002-07-03-brown.htm Brown completes jail term]", [[Associated Press]] via ''[[USA Today]]'' (July 4, 2002).&lt;/ref&gt;&lt;ref&gt;Freeman, Mike.  ''[https://books.google.com/books?id=Iks00GgKFp8C&amp;pg=PA271&amp;dq=%22Jim+Brown%22+monique+daughters&amp;hl=en&amp;ei=0vMZTsnYB4eDgAfZ2MEe&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCwQ6AEwAA#v=onepage&amp;q=Monique&amp;f=false Jim Brown: The Fierce Life of an American Hero]'', page 12 (HarperCollins 2007).&lt;/ref&gt;
+
+==Sporting accolades==
+Brown's memorable professional career led to his induction into the Pro Football Hall of Fame in 1971. His football accomplishments at Syracuse garnered him a berth in the College Football Hall of Fame.
+
+Jim Brown also earned a spot in the [[Lacrosse Museum and National Hall of Fame|Lacrosse Hall of Fame]], giving him a rare triple crown of sorts.
+
+In 118 career games, Brown averaged 104.3 yards per game and 5.2 yards per carry; only Barry Sanders (99.8 yards per game and 5.0 yards per carry)&lt;ref&gt;{{cite web |url=https://www.pro-football-reference.com/leaders/rush_yds_per_g_career.htm |title=NFL Rushing Yards per Game Career Leaders |publisher=[[Pro-Football-Reference.com]] |accessdate=November 22, 2017}}&lt;/ref&gt; comes close to these totals. For example, Hall of Famer Walter Payton averaged only 88 yards per game during his career with a 4.4 yards-per-carry average. [[Emmitt Smith]] averaged only 81.2 yards per game with a 4.2 yards-per-carry average.&lt;ref&gt;{{cite web|url=https://www.pro-football-reference.com/leaders/rush_yds_career.htm |title=NFL Career Rushing Yards Leaders |publisher=Pro-Football-Reference.com |accessdate=December 18, 2010}}&lt;/ref&gt; Brown has famously said on the subject: "When running backs get in a room together, they don't argue about who is the best."{{cite quote|date=December 2017}}
+
+The only top-10 all-time rusher who even approaches Brown's totals, [[Barry Sanders]], posted a career average of 99.8 yards per game and 5.0 yards per carry. However, Barry Sanders' father, William, was frequently quoted as saying that Jim Brown was "the best I've ever seen."&lt;ref&gt;{{cite web|url=https://espn.go.com/classic/biography/s/sanders_barry.html |title=Sanders' humility makes him distinctive |publisher=ESPN Classic |accessdate=December 18, 2010}}&lt;/ref&gt;
+
+Brown currently holds NFL records for most games with 24 or more points in a career (6), highest career touchdowns per game average (1.068), most career games with three or more touchdowns (14), most games with four or more touchdowns in a career (6), most seasons leading the league in rushing attempts (6), most seasons leading league in rushing yards (8), highest career rushing yards-per-game average (104.3), most seasons leading the league in touchdowns (5), most seasons leading the league in yards from scrimmage (6), highest average yards from scrimmage per game in a career (125.52), and most seasons leading the league in combined net yards (5).
+
+In 2002, ''[[The Sporting News]]'' selected him as the greatest football player of all time,&lt;ref name=TSN/&gt; as did the ''[[New York Daily News]]'' in 2014.&lt;ref&gt;{{cite news|last1=Myers|first1=Gary|title=NFL Top 50: Jim Brown is best player in league history, edges Giants' Lawrence Taylor in Daily News' rankings (Nos. 110)|url=http://www.nydailynews.com/sports/football/nfl-top-50-nos-1-10-jim-brown-greatest-time-article-1.2031278|accessdate=July 13, 2017|work=New York Daily News|date=December 3, 2014}}&lt;/ref&gt; On November 4, 2010, Brown was chosen by [[NFL Network]]'s [[NFL Films]] production ''[[The Top 100: NFL's Greatest Players]]'' as the second-greatest player in NFL history, behind only [[Jerry Rice]].
+
+==NFL career statistics==
+{| class="wikitable mw-collapsible mw-collapsed"
+! colspan="2"|Legend
+|-
+| style="background:#cfecec; width:3em;"| 
+|Led the league
+|-
+|style="background:#E0CEF2; width:3em"|
+|NFL record
+|-
+| style="background:#FFE6BD; width:3em;"|
+| NFL champion
+|-
+| style="background:#FFFF00; width:3em;"|
+| AP [[NFL MVP]]
+|-
+| '''Bold'''
+|Career high
+|}
+ {| class="wikitable sortable" style="text-align:center;" 
+|-
+!colspan=3|
+!colspan=7|Rushing 
+!colspan=5|Receiving 
+|-
+! Year
+! Team
+! GP
+! Att
+! Yds
+! TD
+! Lng
+! Avg
+! Yds/G
+! Att/G
+! Rec
+! Yds
+! Avg
+! TD
+! Lng
+|-
+|style="background:#FFFF00; width:3em;"| [[1957 NFL season|1957]]
+| [[1957 Cleveland Browns season|CLE]]
+| 12
+| 202
+|style="background:#cfecec; width:3em;"| 942
+|style="background:#cfecec; width:3em;"| 9
+| 69
+| 4.7
+| style="background:#cfecec; width:3em;"|78.5
+| 16.8
+| 16
+| 55
+| 3.4
+| 1
+| 12
+|-
+| style="background:#FFFF00; width:3em;"|[[1958 NFL season|1958]]
+| [[1958 Cleveland Browns season|CLE]]
+| 12
+| style="background:#cfecec; width:3em;"|257
+|style="background:#cfecec; width:3em;"| 1,527
+| style="background:#cfecec; width:3em;"|17
+| 65
+| 5.9
+|style="background:#cfecec; width:3em;"| 127.3
+| 21.4
+| 16
+| 138
+| 8.6
+| 1
+| 46
+|-
+| [[1959 NFL season|1959]]
+| [[1959 Cleveland Browns season|CLE]]
+| 12
+| style="background:#cfecec; width:3em;"|290
+| style="background:#cfecec; width:3em;"|1,329
+|style="background:#cfecec; width:3em;"| 14
+| 70
+| 4.6
+| style="background:#cfecec; width:3em;"|110.8
+| '''24.2'''
+| 24
+| 190
+| 7.9
+| 0
+| 25
+|-
+| [[1960 NFL season|1960]]
+|[[1960 Cleveland Browns season|CLE]] 
+| 12
+| 215
+| style="background:#cfecec; width:3em;"|1,257
+| 9
+| 71
+| 5.8
+| style="background:#cfecec; width:3em;"|104.8
+| 17.9
+| 19
+| 204
+| 10.7
+| 2
+| 37
+|-
+| [[1961 NFL season|1961]]
+| [[1961 Cleveland Browns season|CLE]] 
+| 14
+| style="background:#cfecec; width:3em;"|'''305'''
+| style="background:#cfecec; width:3em;"|1,408
+| 8
+| 38
+| 4.6
+| style="background:#cfecec; width:3em;"|100.6
+| 21.8
+| 46
+| 459
+| 10.0
+| 2
+| 77
+|-
+| [[1962 NFL season|1962]]
+| [[1962 Cleveland Browns season|CLE]] 
+| 14
+| 230
+| 996
+| 13
+| 31
+| 4.3
+| 71.1
+| 16.4
+| '''47'''
+| '''517'''
+| 11.0
+| '''5'''
+| 53
+|-
+| [[1963 NFL season|1963]]
+| [[1963 Cleveland Browns season|CLE]] 
+| 14
+| style="background:#cfecec; width:3em;"|291
+| style="background:#cfecec; width:3em;"|'''1,863'''
+|style="background:#cfecec; width:3em;"| 12
+| style="background:#cfecec; width:3em;"|'''80'''
+| style="background:#cfecec; width:3em;"|'''6.4'''
+| style="background:#cfecec; width:3em;"|'''133.1'''
+| 20.8
+| 24
+| 268
+| '''11.2'''
+| 3
+| '''83'''
+|-
+| [[1964 NFL season|1964]]
+|  style="background:#FFE6BD; width:3em;"|[[1964 Cleveland Browns season|CLE]] 
+| 14
+| 280
+| style="background:#cfecec; width:3em;"|1,446
+| 7
+| 71
+| style="background:#cfecec; width:3em;"|5.2
+| style="background:#cfecec; width:3em;"|103.3
+| 20.0
+| 36
+| 340
+| 9.4
+| 2
+| 40
+|-
+|style="background:#FFFF00; width:3em;"| [[1965 NFL season|1965]]
+| [[1965 Cleveland Browns season|CLE]] 
+| 14
+| style="background:#cfecec; width:3em;"|289
+| style="background:#cfecec; width:3em;"|1,544
+| style="background:#cfecec; width:3em;"|'''17'''
+| style="background:#cfecec; width:3em;"|67
+| 5.3
+| style="background:#cfecec; width:3em;"|110.3
+| 20.6
+| 34
+| 328
+| 9.6
+| 4
+| 32
+|-
+! colspan=2|Career
+! 118
+! 2,359
+! 12,312
+! 106
+! 80
+! 5.2
+! style="background:#E0CEF2; width:3em"|104.3
+! 20.0
+! 262
+! 2,499
+! 9.5
+! 20
+! 83
+|}
+''Source'':&lt;ref&gt;{{cite web | url=https://www.pro-football-reference.com/players/B/BrowJi00.htm| title=Jim Brown Stats | publisher=Sports Reference LLC | work=pro-football-reference.com | accessdate=November 16, 2016}}&lt;/ref&gt;
+
+==See also==
+*[[List of most consecutive starts and games played by National Football League players#Offensive skilled|Most consecutive starts by a fullback]]
+* [[List of National Football League rushing yards leaders]]
+* [[List of National Football League rushing champions]]
+* [[List of NCAA major college yearly punt and kickoff return leaders]]
+
+==Notes==
+{{notelist}}
+
+==References==
+{{Reflist|2}}
+
+==Further reading==
+*{{Cite book |author=Jim Brown |title=Off My Chest |author2=[[Myron Cope]] |year=1964 |publisher=Doubleday |isbn= |page=}} (autobiography)
+*{{Cite book |author=Jim Brown |title=[[Out of Bounds (autobiography)|Out of Bounds]] |author2=Steve Delsohn |year=1989 |publisher=Zebra Books |isbn= |page=380}} (autobiography)
+*{{Cite book |last=Freeman| first=Mike |title=Jim Brown: The Fierce Life of an American Hero |year=2006 |publisher=Harper Collins World |isbn= |page=}}
+*{{Cite book |last=Toback| first=James |authorlink=James Toback|title=Jim: The Author's Self-Centered Memoir on the Great Jim Brown |origyear=1971|year=2009 |publisher=Doubleday and Company, Inc. (1971) &amp; Rat Press (Mar 3, 2009)|isbn= |page=}} 
+*{{Cite book |last=Pluto|first=Terry|authorlink=Terry Pluto|year=1997|title=Browns Town 1964: Cleveland Browns and the 1964 Championship|publisher=Gray &amp; Company|location=Cleveland|isbn=978-1-886228-72-6|ref={{sfnRef|Pluto|1997}}}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category}}
+* {{Profootballhof|id=33}}
+* {{cfbhof|id=50092}}
+{{Footballstats |nfl=BRO483276 |espn= |cbs= |yahoo= |si= |pfr=BrowJi00 |dbf=BROWNJIM01 }}
+* {{IMDb name|0000987}}
+* {{Amg name|83235}}
+* [https://web.archive.org/web/20100524004333/http://apps.uslacrosse.org/museum/halloffame/view_profile.php?prof_id=35 National Lacrosse Hall of Fame profile]
+* [http://www.amer-i-can.org/ Amer-I-Can Program]
+
+{{Navboxes
+| title = Jim Brownawards, championships, and honors
+| list =
+{{S-start}}
+{{S-ach|rec}}
+{{Succession box| title=[[NFL career rushing yards leader]] | before=[[Joe Perry (American football)|Joe Perry]] | years=19631984 | after=[[Walter Payton]]}}
+{{Succession box| title=[[NFL career rushing touchdowns leader]] | before=[[Steve Van Buren]] | years=19621987 | after=[[Walter Payton]]}}
+{{Succession box| title=NFL season rushing yards record | before=[[Steve Van Buren]] | years=19581973 | after=[[O. J. Simpson]]}}
+{{Succession box| title=NFL season rushing touchdowns record | before=[[Steve Van Buren]] | years=19581962 | after=[[Jim Taylor (American football)|Jim Taylor]]}}
+{{Succession box| title=NFL single-game rushing yards record | before=[[Tommy Wilson (American football)|Tommy Wilson]] | years=November 24, 1957  December 5, 1971 | after=[[Willie Ellison]]}}
+{{S-end}}
+{{1956 College Football Consensus All-Americans}}
+{{1957 NFL Draft}}
+{{BrownsFirstPick}}
+{{AP NFL MVPs}}
+{{Bert Bell Award}}
+{{1964 Cleveland Browns}}
+{{NFL rushing touchdowns leaders}}
+{{NFL rushing yards leaders}}
+{{10,000 rushing yards club}}
+{{NFL1960s}}
+{{NFL75}}
+{{Browns Retired Numbers}}
+{{1971 Football HOF}}
+{{Pro Football Hall of Fame members}}
+{{National Football Foundation Distinguished American Award}}
+{{National Football Foundation Gold Medal Winners}}
+{{Hickok Belt}}
+{{NAACP Image Award for Outstanding Actor in a Motion Picture}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Brown, Jim}}
+[[Category:1936 births]]
+[[Category:Living people]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American actor-athletes]]
+[[Category:Male actors from Georgia (U.S. state)]]
+[[Category:African-American activists]]
+[[Category:African-American basketball players]]
+[[Category:American male film actors]]
+[[Category:African-American players of American football]]
+[[Category:All-American college football players]]
+[[Category:American football fullbacks]]
+[[Category:American football running backs]]
+[[Category:American lacrosse players]]
+[[Category:Basketball players from Georgia (U.S. state)]]
+[[Category:Cleveland Browns players]]
+[[Category:College Football Hall of Fame inductees]]
+[[Category:Eastern Conference Pro Bowl players]]
+[[Category:National Football League announcers]]
+[[Category:National Football League players with retired numbers]]
+[[Category:National Lacrosse Hall of Fame inductees]]
+[[Category:People from St. Simons, Georgia]]
+[[Category:People from Manhasset, New York]]
+[[Category:Players of American football from Georgia (U.S. state)]]
+[[Category:Pro Football Hall of Fame inductees]]
+[[Category:Male Spaghetti Western actors]]
+[[Category:Syracuse Nationals draft picks]]
+[[Category:Syracuse Orange football players]]
+[[Category:Syracuse Orange men's lacrosse players]]
+[[Category:Syracuse Orange men's basketball players]]
+[[Category:African-American male actors]]
+[[Category:American male television actors]]
+[[Category:Manhasset High School alumni]]</text>
+      <sha1>ipffmfdpatr7qgeclq3u2n81ov2hr16</sha1>
+    </revision>
+  </page>
+</mediawiki>

@@ -1,0 +1,276 @@
+--film
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Robert De Niro</title>
+    <ns>0</ns>
+    <id>20913302</id>
+    <revision>
+      <id>844874264</id>
+      <parentid>844862358</parentid>
+      <timestamp>2018-06-07T19:21:23Z</timestamp>
+      <contributor>
+        <username>Cawhee</username>
+        <id>17788163</id>
+      </contributor>
+      <comment>Reverted 1 pending edit by [[Special:Contributions/73.239.118.217|73.239.118.217]] to revision 844557398 by Zingarese</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="47310">{{redirect|De Niro|other people with the surname|De Niro (surname)}}
+{{pp-pc1}}
+{{Use mdy dates|date=May 2017}}
+{{Infobox person
+| name               = 
+| image              = Robert De Niro Cannes 2016.jpg
+| image_size         = 
+| caption            = De Niro at the [[2016 Cannes Film Festival]]
+| birth_name         = Robert Anthony De Niro Jr.
+| birth_date         = {{Birth date and age|mf=yes|1943|8|17}}
+| birth_place        = [[New York City]], [[New York (state)|New York]], U.S.
+| residence          = [[Gardiner, New York]], U.S.
+| occupation         = Actor, producer, director
+| years_active       = 1963present
+| notable_works      = [[Robert De Niro filmography|Filmography]]
+| spouse             = {{marriage|[[Diahnne Abbott]]&lt;br /&gt;|1976|1988|reason=divorced}}&lt;br /&gt;{{marriage|[[Grace Hightower]]&lt;br /&gt;|1997}}
+| children           = 6, including [[Drena De Niro]]
+| parents            = [[Robert De Niro Sr.]]&lt;br /&gt;[[Virginia Admiral]]
+}}
+
+'''Robert Anthony De Niro Jr.''' ({{IPAc-en|d||_||n|r|o}}; born August 17, 1943) is an American actor, producer, and director.&lt;ref name="web.archive.org"&gt;{{cite web|url=http://www.romacinemafest.it/ecm/web/fcr/en/home/international-rome-film-festival/past-editions/2006/news/content/de-niro-i-have-an-italian-passport-i-have-finally-come-home.0000.FCR-352|archive-url=https://web.archive.org/web/20131230233200/http://www.romacinemafest.it/ecm/web/fcr/en/home/international-rome-film-festival/past-editions/2006/news/content/de-niro-i-have-an-italian-passport-i-have-finally-come-home.0000.FCR-352|dead-url=yes|archive-date=December 30, 2013|title=International Rome Film Festival  De Niro: "I have an Italian passport, I have finally come home"|date=December 30, 2013}}&lt;/ref&gt;&lt;ref name="femalefirst.co.uk"&gt;{{cite web|url=http://www.femalefirst.co.uk/celebrity/Robert%20De%20Niro-703.html|title=De Niro Will Get Italian Citizenship|work=femalefirst.co.uk}}&lt;/ref&gt;&lt;ref&gt;https://www.youtube.com/watch?v=hMD-U5YfKDs&amp;t=29s&lt;/ref&gt;
+
+De Niro was cast as the young [[Vito Corleone]] in the 1974 film ''[[The Godfather Part II]]'', for which he won the [[Academy Award for Best Supporting Actor]]. His [[Martin Scorsese and Robert De Niro|longtime collaboration]] with director [[Martin Scorsese]] earned him the [[Academy Award for Best Actor]] for his portrayal of [[Jake LaMotta]] in the 1980 film ''[[Raging Bull]]''. He received the [[AFI Life Achievement Award]] in 2003, the [[Golden Globe Cecil B. DeMille Award]] in 2010, and the [[Presidential Medal of Freedom]] from [[President of the United States|President]] [[Barack Obama]] in 2016.
+
+De Niro's first major film roles were in the sports drama ''[[Bang the Drum Slowly (film)|Bang the Drum Slowly]]'' (1973) and Scorsese's crime film ''[[Mean Streets]]'' (1973). He earned [[Academy Awards|Academy Award]] nominations for the psychological thrillers ''[[Taxi Driver]]'' (1976) and ''[[Cape Fear (1991 film)|Cape Fear]]'' (1991), both directed by Scorsese. De Niro received additional nominations for [[Michael Cimino]]'s Vietnam war drama ''[[The Deer Hunter]]'' (1978), [[Penny Marshall]]'s drama ''[[Awakenings]]'' (1990), and [[David O. Russell]]'s romantic comedy-drama ''[[Silver Linings Playbook]]'' (2012). His portrayal of gangster [[James Burke (gangster)|Jimmy Conway]] in Scorsese's crime film ''[[Goodfellas]]'' (1990), and his role as Rupert Pupkin in the black comedy film ''[[The King of Comedy (film)|The King of Comedy]]'' (1983), earned him [[British Academy Film Awards|BAFTA Award]] nominations.&lt;ref&gt;{{cite web|url=http://www.bafta.org/awards/film/nominations/?year=1990 |title=BAFTA Film Awards: 1990 |publisher=Bafta.org |date=February 11, 2014 |accessdate=August 15, 2014}}&lt;/ref&gt;
+
+De Niro has earned four nominations for the [[Golden Globe Award for Best Actor  Motion Picture Musical or Comedy]], for his work in the musical drama ''[[New York, New York (1977 film)|New York, New York]]'' (1977), the action comedy ''[[Midnight Run]]'' (1988), the gangster comedy ''[[Analyze This]]'' (1999), and the comedy ''[[Meet the Parents]]'' (2000). Other notable performances include roles in ''[[1900 (film)|1900]]'' (1976), ''[[Once Upon a Time in America]]'' (1984), ''[[Brazil (1985 film)|Brazil]]'' (1985), [[The Mission (1986 film)|''The Mission'']] (1986), ''[[The Untouchables (film)|The Untouchables]]'' (1987), ''[[Heat (1995 film)|Heat]]'' (1995), and ''[[Casino (film)|Casino]]'' (1995). He has directed and starred in films such as the crime drama ''[[A Bronx Tale]]'' (1993) and the spy film ''[[The Good Shepherd (film)|The Good Shepherd]]'' (2006).
+
+== Early life ==
+Robert Anthony De Niro Jr.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=iG2BAwAAQBAJ&amp;pg=PP1#v=onepage&amp;q=%22Robert%20Anthony%22&amp;f=false |title=De Niro: A Life |author=Shawn Levy |publisher=[[Crown Archetype]] |date=2014}}&lt;/ref&gt; was born on August 17, 1943, in the [[Manhattan|Manhattan borough]] of [[New York City]], the only child of painters [[Virginia Admiral]] and [[Robert De Niro Sr.]]&lt;ref name=vansha&gt;{{cite news| author=Bosworth, Patricia||url=http://www.vanityfair.com/news/1987/10/robert-de-niro-life-story |title=The Shadow King |newspaper=[[Vanity Fair (magazine)|Vanity Fair]] |date=February 3, 2014}}&lt;/ref&gt; He is of [[Irish people|Irish]] and [[Italians|Italian]]&lt;!-- PLEASE DO NOT ADD THAT HE HAS ALBANIAN ANCESTRY. THAT IS A MISUNDERSTANDING OF SOMETHING DE NIRO SAID IN A YOUTUBE CLIP. THE MISUNDERSTANDING HAS WIDELY CIRCULATED ON THE INTERNET BUT IS UNTRUE AND NOT SUPPORTED BY RELIABLE SOURCES. SEE ARTICLE TALK PAGE. --&gt; descent on his father's side,&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=iG2BAwAAQBAJ&amp;pg=PP1#v=onepage&amp;q=%22Giovanni%20Di%20Niro%22&amp;f=false |title=De Niro: A Life |author=Shawn Levy |publisher=Crown Archetype |date=2014}}&lt;/ref&gt; while his mother had [[Dutch people|Dutch]], [[English people|English]], [[French people|French]], and [[German people|German]] ancestry.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=iG2BAwAAQBAJ&amp;pg=PP1#v=snippet&amp;q=%22Donald%20Admiral%22&amp;f=false |title=De Niro: A Life |author=Shawn Levy |publisher=Crown Archetype |date=2014}}&lt;/ref&gt; De Niro's parents, who had met at the painting classes of [[Hans Hofmann]] in [[Provincetown, Massachusetts]], divorced when he was two years old after his father announced that he was gay.&lt;ref name=":1"&gt;{{Cite web|title = Robert De Niro's Religion and Political Views|url = http://hollowverse.com/robert-de-niro/|website = hollowverse.com|access-date = February 16, 2016}}&lt;/ref&gt; De Niro was raised by his mother in the [[Greenwich Village]] and [[Little Italy, Manhattan|Little Italy]] areas of Manhattan. His father lived within walking distance and De Niro spent much time with him as he grew up.&lt;ref&gt;Dougan, p. 10.&lt;/ref&gt; His mother was raised [[Presbyterianism|Presbyterian]] but became an [[Atheism|atheist]] as an adult, while his father had been a [[lapsed Catholic]] since the age of 12.&lt;ref name=":1" /&gt;&lt;ref name=":2"&gt;{{Cite web|title = The religion of Robert De Niro, actor|url = http://www.adherents.com/people/pd/Robert_DeNiro.html|website=adherents.com|access-date = February 16, 2016}}&lt;/ref&gt; Against his parents' wishes, his grandparents had him secretly [[Baptism|baptized]] into the Catholic Church while he was staying with them during his parents' divorce.&lt;ref name=":1" /&gt;&lt;ref name=":2" /&gt;
+
+De Niro attended [[PS 41]], a public elementary school in Manhattan, through the sixth grade. He then went to [[Elisabeth Irwin High School]], the private upper school of the [[Little Red School House]], for the seventh and eighth grades.&lt;ref&gt;Dougan, pp. 1213.&lt;/ref&gt; He was accepted into the [[Fiorello H. LaGuardia High School|High School of Music and Art]] for the ninth grade, but only attended for a short time before transferring to a public junior high school.&lt;ref&gt;Dougan, pp. 1314.&lt;/ref&gt; De Niro began high school at the private [[McBurney School]]&lt;ref name="baxter"&gt;{{cite book|last=Baxter|first=John|title=De Niro: A Biography|year=2002|publisher=HarperCollins|isbn=978-0-00-257196-8}} pp. 3738.&lt;/ref&gt; and later attended the private [[Rhodes Preparatory School]],&lt;ref&gt;Baxter, p. 37.&lt;/ref&gt; although he graduated from neither.&lt;ref name="Dougan, pp. 17-18"&gt;Dougan, pp. 1718.&lt;/ref&gt; Nicknamed "Bobby Milk" for his pallor, De Niro hung out with a group of street kids as a youth in Little Italy, some of whom have remained his lifelong friends.&lt;ref name="Dougan, p. 17"&gt;Dougan, p. 17.&lt;/ref&gt; His stage debut was at age 10, when he played the [[Cowardly Lion]] in a school production of ''[[The Wonderful Wizard of Oz|The Wizard of Oz]]''.&lt;ref name=tca&gt;Stated on ''[[Inside the Actors Studio]]'', 1998&lt;/ref&gt;&lt;ref&gt;Dougan, p.15.&lt;/ref&gt; Along with finding relief from shyness through performing, he was also fixated by cinema, and he dropped out of high school at age 16 to pursue acting.&lt;ref name="Dougan, p. 17" /&gt; He studied acting at [[HB Studio]], the [[Stella Adler Conservatory]], as well as [[Lee Strasberg]]'s [[Actors Studio]].&lt;ref name="Dougan, pp. 17-18" /&gt;
+
+== Career ==
+=== Acting and filmmaking ===
+De Niro's first film role came at the age of 20, when he appeared in [[Brian De Palma]]'s 1963 film ''[[The Wedding Party (film)|The Wedding Party]]'', but the film was not released until 1969. He then appeared in [[Roger Corman]]'s film ''[[Bloody Mama]]'' (1970). He gained popular attention with his role as a dying [[Major League Baseball]] player in ''[[Bang the Drum Slowly (film)|Bang the Drum Slowly]]'' (1973) and began his collaboration with Martin Scorsese when he played the small-time criminal Johnny Boy in ''Mean Streets'' (1973).&lt;ref name=tca /&gt;
+
+De Niro had a pivotal role in the [[Francis Ford Coppola]] film ''[[The Godfather Part II]]'' (1974), playing the young [[Vito Corleone]]. Coppola had remembered his previous auditions for the roles of [[Sonny Corleone]], [[Michael Corleone]], Carlo Rizzi, and Paulie Gatto in ''[[The Godfather]]''. His performance earned him his first [[Academy Award]], for [[Academy Award for Best Supporting Actor|Best Supporting Actor]], although Coppola accepted the award as De Niro was not present at the ceremony. De Niro became the first actor to win an Academy Award speaking mainly a foreign language. In this case, several [[Sicilian language|Sicilian]] dialects,&lt;ref name=tca /&gt; although he delivered a few lines in English. He and [[Marlon Brando]], who played the older Vito Corleone in the first film, are the only actors to have won Oscars for portraying the same fictional character.&lt;ref&gt;{{cite news|title=The inside track on Oscars, Emmys, Grammys and all the award shows|url=http://goldderby.latimes.com/awards_goldderby/2010/09/true-grit-oscars-academy-awards-movie-news.html|accessdate=February 11, 2017|work=LA Times|date=September 28, 2010}}&lt;/ref&gt;
+After working with Scorsese in ''Mean Streets'', De Niro went on to have a successful working relationship with him in films such as ''Taxi Driver'' (1976), ''[[New York, New York (1977 film)|New York, New York]]'' (1977), ''[[Raging Bull]]'' (1980), ''[[The King of Comedy (film)|The King of Comedy]]'' (1983), ''Goodfellas'' (1990), ''[[Cape Fear (1991 film)|Cape Fear]]'' (1991), and ''[[Casino (film)|Casino]]'' (1995). They also acted together in ''[[Guilty by Suspicion]]'' (1991) and provided their voices for the animated feature ''[[Shark Tale]]'' (2004). ''Taxi Driver'' was particularly important to De Niro's career. His iconic performance as [[Travis Bickle]] catapulted him to stardom and forever linked his name with Bickle's famous "[[Taxi Driver#"You talkin' to me?"|You talkin' to me?]]" monologue, which De Niro largely improvised.&lt;ref&gt;{{cite news|title='There was a sense of exhilaration about what we had done'|work=The Guardian |location=London | url=https://www.theguardian.com/film/2004/sep/01/features.extract | date=October 16, 2004}}&lt;/ref&gt; The role of Bickle earned him his first Academy Award Nomination for Best Actor. His portrayal of [[Jake LaMotta]] in ''Raging Bull'' was lauded, as well as his interpretation of [[Max Cady]] in ''Cape Fear''.&lt;ref&gt;{{cite news|title=Review/Film; De Niro as Revenge Seeker In Scorsese's 'Cape Fear'|url=https://www.nytimes.com/1991/11/13/movies/review-film-de-niro-as-revenge-seeker-in-scorsese-s-cape-fear.html|accessdate=February 11, 2017|work=The New York Times|date=November 13, 1991}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Cape Fear|url=http://www.rogerebert.com/reviews/cape-fear-1991|accessdate=February 11, 2017|publisher=Rogerebert.com}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Robert De Niro's 11 Best and 10 Worst Performances|url=http://www.indiewire.com/2014/08/robert-de-niros-11-best-and-10-worst-performances-23493/|accessdate=February 11, 2017|publisher=indiewire}}&lt;/ref&gt;
+[[File:RobertdeNiro26.JPG|thumb|left|De Niro in 1988]]
+In 1976, De Niro appeared in ''[[1900 (film)|1900]]'', [[Bernardo Bertolucci]]'s biographical exploration of life in Italy before [[World War II]], seen through the eyes of two Italian childhood friends at the opposite sides of society's hierarchy. He also starred in ''[[The Last Tycoon (1976 film)|The Last Tycoon]]'' (1976), directed by [[Elia Kazan]]. Kazan recalls that De Niro "would do almost anything to succeed" and noted that he cut his weight down from 170 to 128 pounds for the role in this film. Kazan adds that De Niro "is one of a select number of actors I've directed who work hard at their trade, and the only one who asked to rehearse on Sundays. Most of the others play tennis. Bobby and I would go over the scenes to be shot. Bobby is more meticulous... he's very imaginative. He's very precise. He figures everything out both inside and outside. He has good emotion. He's a [[character actor]]: everything he does he calculates. In a good way, but he calculates."&lt;ref name=Kazan&gt;Kazan, Elia. ''Elia Kazan: A Life'', Da Capo Press (1997)&lt;/ref&gt;{{rp|766}} Kazan developed and used those personality traits for his character in the film.&lt;ref name=Kazan /&gt;{{rp|766}} And although the film did poorly at the box office, reviewers praised De Niro's acting. Film critic Marie Brenner wrote that "for De Niro, it is a role that surpasses even his brilliant and daring portrayal of Vito Corleone in ''The Godfather Part II''... his performance deserves to be compared with the very finest".&lt;ref&gt;Brenner, Marie. "Tender is the Plight", ''Texas Monthly'', January 1977.&lt;/ref&gt;
+[[File:Robert De Niro - GianAngelo Pistoia.jpg|thumb|De Niro in 1993]]
+De Niro played Michael Vronsky in the acclaimed Vietnam War film ''[[The Deer Hunter]]'' (1978), for which he was nominated for Best Actor in a Leading Role. Fearing he had become typecast in [[Mafia film|mob]] roles, he began expanding into occasional comedic roles in the mid-1980s and has had much success there as well, with such films as ''[[Brazil (1985 film)|Brazil]]'' (1985), ''[[Midnight Run]]'' (1988), ''[[Analyze This]]'' (1999), ''[[Meet the Parents]]'' (2000), and ''[[Meet the Fockers]]'' (2004). Other films include ''[[True Confessions (film)|True Confessions]]'' (1981), ''[[Falling in Love (1984 film)|Falling in Love]]'' (1984), ''[[Once Upon a Time in America]]'' (1984), ''[[The Mission (1986 film)|The Mission]]'' (1986), ''[[Angel Heart]]'' (1987), ''[[The Untouchables (film)|The Untouchables]]'' (1987), ''Goodfellas'' (1990), ''[[Awakenings]]'' (1990), ''[[Mary Shelley's Frankenstein (film)|Mary Shelley's Frankenstein]]'' (1994), ''[[Heat (1995 film)|Heat]]'' (1995), ''[[The Fan (1996 film)|The Fan]]'' (1996), ''[[Sleepers (film)|Sleepers]]'' (1996), ''[[Wag the Dog]]'' (1997), ''[[Jackie Brown]]'' (1997), ''[[Ronin (film)|Ronin]]'' (1998) and ''[[Flawless (1999 film)|Flawless]]'' (1999).
+
+In 1987, De Niro was the President of the Jury at the [[15th Moscow International Film Festival]].&lt;ref name="Moscow1987"&gt;{{cite web|url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1987 |title=15th Moscow International Film Festival (1987) |accessdate=February 18, 2013 |work=MIFF |deadurl=yes |archiveurl=https://web.archive.org/web/20130116194338/http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1987 |archivedate=January 16, 2013 }}&lt;/ref&gt; He appeared in ''[[This Boy's Life (film)|This Boy's Life]]'' (1993). Around this time, he was offered the role of Mitch Leary in ''[[In the Line of Fire]]'' (1993). However, due to scheduling conflicts with his directorial debut ''[[A Bronx Tale]]'' (1993), he gave up the role to [[John Malkovich]], who later received an Academy Award nomination for it. In ''A Bronx Tale'', which De Niro agreed to direct after seeing the screenwriter's one-man [[off-Broadway]] play, he played a bus driver who struggles to keep his son away from a local mobster. At the [[20th Moscow International Film Festival]] in 1997, he was awarded an Honorable Prize for contribution to cinema.&lt;ref name="Moscow1997"&gt;{{cite web|url=http://www.moscowfilmfestival.ru/miff34/eng/archives/?year=1997 |title=20th Moscow International Film Festival (1997) |accessdate=March 22, 2013 |work=MIFF |deadurl=yes |archiveurl=https://web.archive.org/web/20130322163106/http://moscowfilmfestival.ru/miff34/eng/archives/?year=1997 |archivedate=March 22, 2013 }}&lt;/ref&gt;
+
+[[File:Robert De Niro 2011 Shankbone.JPG|thumb|De Niro in April 2011 at [[Tribeca Film Festival]]]]
+
+De Niro would reference ''In the Line of Fire'', along with ''[[Dirty Harry]]'' (1971) and ''[[Magnum Force]]'' (1973), two more of Eastwood's films, in ''[[Righteous Kill]]'' (2008). He also appeared in the crime drama ''[[Cop Land]]'' (1997). He starred in the police action-thriller ''[[Heat (1995 film)|Heat]]'' (1995), along with fellow actor and long-time friend, [[Al Pacino]]. The duo drew much attention from fans, as both have generally been compared throughout their careers. Though Pacino and De Niro both starred in ''The Godfather Part II'' (1974), they shared no screen time. They once again appeared together in ''Righteous Kill'' (2008).&lt;ref&gt;{{cite news|title=De Niro, Pacino reunite for 'Kill'|work=Variety |url=http://www.variety.com/index.asp?layout=Cannes2007&amp;jump=story&amp;id=1061&amp;articleid=VR1117965130&amp;cs=1|accessdate=August 20, 2008 | first=Dade | last=Hayes | date=May 17, 2007}}&lt;/ref&gt;
+
+De Niro played Master Chief Billy Sunday in the biographical film ''[[Men of Honor]]'' (2000), based on the life of [[Carl Brashear]], the first African American to become a [[Master Diver (United States Navy)|U.S. Navy Master Diver]]. He also hosted ''[[9/11 (2002 film)|9/11]]'' (2002), a documentary about the [[September 11 attacks|9/11 attacks]], shown on [[CBS]] and focusing on video footage made by [[Jules and Gedeon Naudet]] that showed the role of firefighters following the attacks. He reprised his role as Jack Byrnes in ''[[Meet the Fockers]]'' (2004) and was featured in ''[[Stardust (2007 film)|Stardust]]'' (2007). All of the films were successful at the box office, but received mixed reviews.{{citation needed|date=October 2016}}
+[[File:Robert De Niro 2011 2.JPG|thumb|upright|left|De Niro in 2011]]
+
+De Niro had to turn down a role in ''[[The Departed]]'' (2006) due to commitments with preparing ''[[The Good Shepherd (film)|The Good Shepherd]]'' (2006). He said: "I wanted to. I wish I could've been able to, but I was preparing ''The Good Shepherd'' so much that I couldn't take the time to. I was trying to figure a way to do it while I was preparing. It just didn't seem possible."&lt;ref name="tfdeniro"&gt;{{cite journal|title=The Total Film Interview|journal=Total Film|date=March 2007|first=Jamie|last=Graham|issue=125|page=105}}&lt;/ref&gt; In June 2006, it was announced that De Niro had donated his film archive (including scripts, costumes, and props) to the [[Harry Ransom Center]] at the [[University of Texas at Austin]]. On April 27, 2009, it was announced that the De Niro collection at the Ransom Center was open to researchers and the public. De Niro directed and starred in ''The Good Shepherd'' (2006). The film reunited him onscreen with [[Joe Pesci]], with whom he had starred in ''Raging Bull'', ''Goodfellas'', ''A Bronx Tale'', ''Once Upon a Time in America'', and ''Casino''.
+De Niro announced that he would appear in the [[Edge of Darkness (2010 film)|film version]] of the BBC crime series ''[[Edge of Darkness]]'' in 2010. However, just after he arrived to begin shooting, De Niro left the film due to creative differences.&lt;ref&gt;{{cite news|author=Michael Fleming|title=De Niro exits 'Edge of Darkness'|work=Variety |date=September 4, 2008|url=http://www.variety.com/article/VR1117991604.html?categoryid=13&amp;cs=1|accessdate=September 4, 2008}}&lt;/ref&gt; He was replaced by [[Ray Winstone]].&lt;ref&gt;{{cite news|author=Michael Fleming|title=Winstone replaces De Niro in 'Edge'|work=Variety |date=September 12, 2008|url=http://www.variety.com/article/VR1117992081.html|accessdate=September 12, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/tvshowbiz/article-1318227/Robert-De-Niro-seduced-Monica-Bellucci-shooting-Italian-love-story.html|title=Monica Bellucci shows off her hourglass figure as she films with Robert De Niro in Rome|author=Jessica Satherley|work=Daily Mail |location=UK|date=October 7, 2010}}&lt;/ref&gt; He appeared as Senator John McLaughlin in the action film ''[[Machete (2010 film)|Machete]]'' (2010), and starred in the thriller ''[[Stone (2010 film)|Stone]]'' (2010). He again reprised his role as Jack Byrnes in ''[[Little Fockers]]'' (2010). He appeared in the action film ''[[Killer Elite (film)|Killer Elite]]'' (2011), ''[[Limitless (film)|Limitless]]'' (2011) and the romantic comedy film ''[[New Year's Eve (2011 film)|New Year's Eve]]'' (2011).&lt;ref&gt;{{IMDb name|134}}&lt;/ref&gt;&lt;ref name="imdb.com"&gt;{{IMDb title|1598822|New Year's Eve}}&lt;/ref&gt;
+
+De Niro starred in the film ''[[Manuale d'amore 3]]'' (2011).&lt;ref&gt;{{cite news|last=Vivarelli |first=Nick |url=http://www.variety.com/article/VR1118023501.html?categoryid=4109&amp;cs=1 |title=De Laurentiis: Serials killer at box office |work=Variety |date=August 31, 2010 |accessdate=January 9, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|author=Satherley, Jessica |url=http://www.dailymail.co.uk/tvshowbiz/article-1318227/Robert-De-Niro-seduced-Monica-Bellucci-shooting-Italian-love-story.html |title=Monica Bellucci shows off her hourglass figure as she films with Robert De Niro in Rome |work=Daily Mail |location=London |date= October 7, 2010|accessdate=January 9, 2011}}&lt;/ref&gt; In January 2011, [[CBS]] picked up De Niro's crime pilot, ''[[NYC 22]]'' (originally titled ''Rookies''), but it was cancelled after airing only four episodes.&lt;ref&gt;{{cite web |url= http://www.tvguide.com/News/CBS-Robert-DeNiro-1028175.aspx |title= CBS Orders Robert De Niro Crime Pilot |work=tvguide.com |author=Abrams, Natalie |accessdate=January 21, 2011}}&lt;/ref&gt; In 2011, De Niro was the President of the Jury for the 64th Cannes Film Festival.&lt;ref&gt;{{cite web|url=http://www.festival-cannes.com/en/article/57948.html |title=ROBERT DE NIRO, PRESIDENT OF THE JURY OF THE 64th FESTIVAL DE CANNES  Festival de Cannes 2014 (International Film Festival) |publisher=Festival-cannes.com |date= |accessdate=August 15, 2014}}&lt;/ref&gt; In 2012, he starred in the films ''[[Silver Linings Playbook]]'', ''[[Freelancers (film)|Freelancers]]'', ''[[Red Lights (2012 film)|Red Lights]]'', and ''[[Being Flynn]]''. He received a nomination for an [[Academy Award for Best Supporting Actor]] for his role in ''Silver Linings Playbook''.&lt;ref&gt;{{cite web|last=Miller|first=Julie|title=After His First Oscar Nomination in 21 Years, Robert De Niro Opens Up with Rare Interviews, Even Rarer Tears|date=February 5, 2013|publisher=''[[Vanity Fair (magazine)|Vanity Fair]]''|url=http://www.vanityfair.com/hollywood/2013/02/robert-de-niro-academy-awards-talk-show-silver-linings-playbook|accessdate=March 12, 2016}}&lt;/ref&gt;
+
+===  TriBeCa Productions ===
+De Niro's capital ventures have included co-founding the film studio [[TriBeCa Productions]], the [[Tribeca Film Festival]], the restaurants [[Nobu]] and [[Tribeca Grill]] (which he co-owns with Broadway producer [[Stewart F. Lane]]),&lt;ref&gt;{{cite news| url=https://www.nytimes.com/1989/08/23/movies/de-niro-is-trying-life-behind-the-camera.html?pagewanted=print|newspaper=The New York Times|title=De Niro Is Trying Life Behind the Camera|first=William H.|last=Honan|date=August 23, 1989}}&lt;/ref&gt; The Greenwich Hotel (located in Tribeca),&lt;ref&gt;[http://www.thegreenwichhotel.com/ Greenwich Hotel]. Greenwich Hotel. Retrieved on August 14, 2010.&lt;/ref&gt; and the restaurant inside the hotel, Locanda Verde (run by executive chef and co-owner [[Andrew Carmellini]]).&lt;ref&gt;{{cite news |title=Locanda Verde |url=http://www.zagat.com/r/locanda-verde-new-york |work=Zagat.com |date=May 12, 2009}}&lt;/ref&gt; According to the July 2010 issue of ''Gourmet'' magazine, De Niro and internationally renowned chef, Natalia Jibladze began plans to open a restaurant in Manhattan under his Tribeca trademark but the project was not completed.
+
+== Acting style and legacy ==
+[[File:RobertDeNiroTCLChineseTheatreJan2013.jpg|thumb|right|De Niro having his hand- and shoe-prints placed in cement at [[TCL Chinese Theatre]] in February 2013]]
+De Niro studied with [[Stella Adler]], from whom he learned about the techniques of the [[Stanislavski's system|Stanislavski system]]. The technique encouraged him to explore both internal and external aspects to fully realize the character being portrayed. He is praised for his commitment to roles; he gained 60&amp;nbsp;lb (27&amp;nbsp;kg) and learned how to [[boxing|box]] for his role as [[Jake LaMotta]] in ''Raging Bull'',&lt;ref name=tca /&gt; ground his teeth down for ''Cape Fear'', lived in [[Sicily]] for ''The Godfather Part II'', worked as a cab driver for a few weeks for ''Taxi Driver'',&lt;ref&gt;Dougan, p. 75.&lt;/ref&gt; and learned to play the saxophone for ''New York, New York''. He again put on weight for his performance as [[Al Capone]] in ''The Untouchables''.&lt;ref&gt;{{cite news|title=The Untouchanles|url=http://www.rogerebert.com/reviews/the-untouchables-1987|accessdate=February 11, 2017|publisher=Rogerebert.com}}&lt;/ref&gt;
+
+De Niro's brand of acting includes employing whatever extreme tactic he feels is necessary to elicit the best performance from those with whom he is working. During the filming of ''The King of Comedy'', he directed a slew of [[anti-Semitic]] epithets at co-star [[Jerry Lewis]] to enhance and authenticate the anger demonstrated by Lewis' character. According to [[People (magazine)|''People'']] magazine, the technique was successful, with Lewis recalling, "I forgot the cameras were there... I was going for Bobby's throat."&lt;ref&gt;{{cite web|title=People Magazine|publisher=Google |url=https://docs.google.com/View?docid=dg6n6657_55cffn74|accessdate=August 20, 2007}}&lt;/ref&gt;
+
+== Personal life ==
+[[File:Robert De Niro Cannes 2016 5.jpg|thumb|De Niro and wife [[Grace Hightower]] in 2016]]
+
+=== Family ===
+De Niro married his first wife, [[Diahnne Abbott]], in 1976. They have a son, Raphael, a former actor who works in New York real estate.&lt;ref&gt;{{cite web|url=http://www.elliman.com/rad |title=New York Real Estate  Prudential Douglas Elliman |publisher=Elliman.com |accessdate=January 9, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20070502175157/http://www.elliman.com/RAD |archivedate=May 2, 2007 }}&lt;/ref&gt; De Niro also adopted Abbott's daughter [[Drena De Niro]] from a previous relationship. They divorced in 1988. De Niro has twin sons Aaron Kendrick and Julian Henry de Niro conceived by [[in vitro fertilization|''in vitro'' fertilization]] and delivered by a surrogate mother in 1995, from a long relationship with former model [[Toukie Smith]].&lt;ref&gt;{{cite web|url=http://connection.ebscohost.com/c/articles/9512093006/toukie-smith-actor-robert-de-niro-become-parents-twins|title=Toukie Smith and actor Robert De Niro become parents of twins|date=October 20, 1995|work=Jet|page=36|accessdate=December 19, 2010}}&lt;/ref&gt;
+
+In 1997, De Niro married his second wife, actress [[Grace Hightower]], at their [[Marbletown, New York|Marbletown]] home.&lt;ref Name="Custody"&gt;{{cite news |url=https://www.theguardian.com/film/2001/jul/26/news1?INTCMP=SRCH |title=Drug allegations hit De Niro custody battle |work=The Guardian |location=London |date=July 26, 2001 |accessdate=August 15, 2014}}&lt;/ref&gt; Their son Elliot was born in 1998 and the couple split in 1999. The divorce was never finalized and in 2004 they renewed their vows.&lt;ref Name="Custody" /&gt; In December 2011, a daughter named Helen Grace was born via surrogate.&lt;ref&gt;{{cite web|url=http://www.people.com/people/article/0,,20556674,00.html|title=Robert De Niro &amp; Wife Welcome Baby Girl|date=December 23, 2011|work=People|accessdate=December 23, 2011}}&lt;/ref&gt;&lt;ref&gt;{{cite news|title=Robert De Niro and wife welcome a child via surrogate|url=http://www.dailymail.co.uk/tvshowbiz/article-2078244/Robert-De-Niro-68-wife-56-welcome-child-surrogate.html|accessdate=December 24, 2011|newspaper=Daily Mail|date=December 24, 2011|location=London}}&lt;/ref&gt; In addition to his six children, De Niro has four grandchildren; his daughter Drena has one child, and his son Raphael has three.&lt;ref&gt;{{cite web|author=|url=http://www.contactmusic.com/news/robert-de-niro-welcomes-granddaughter_3332426 |title=Robert de Niro four grandchildren |publisher=Contactmusic.com |date=October 18, 2012 |accessdate=August 15, 2014}}&lt;/ref&gt;&lt;ref&gt;[http://celebritybabyscoop.com/2011/03/19/robert-de-niro-welcomes-another-grandchild De Niro welcomes another grandchild] {{webarchive |url=https://web.archive.org/web/20110914054338/http://celebritybabyscoop.com/2011/03/19/robert-de-niro-welcomes-another-grandchild |date=September 14, 2011 }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.imdb.com/name/nm0210584/bio|title=Drena De Niro|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=|url=http://www.okmagazine.com/dads/robert-deniros-daughter-dishes-her-dad |title=De Niro's daughter on him as a father and grandfather |publisher=Okmagazine.com |date=April 26, 2008 |accessdate=August 15, 2014}}&lt;/ref&gt;
+
+De Niro announced on March 25, 2016, that his son Elliot has [[autism]] and explained his interest in its causes and treatment.&lt;ref&gt;Pam Belluck and Melena Ryzik, "Robert De Niro Defends Screening of Anti-Vaccine Film at Tribeca Festival." ''New York Times'' [https://www.nytimes.com/2016/03/26/health/vaccines-autism-robert-de-niro-tribeca-film-festival-andrew-wakefield-vaxxed.html]&lt;/ref&gt;
+
+It was reported in October 2003 that De Niro had been diagnosed with [[prostate cancer]]. He underwent surgery at the [[Memorial Sloan-Kettering Cancer Center]] in December 2003.&lt;ref&gt;{{cite web |url=http://inhealth.cnn.com/treating-advanced-prostate-cancer/8-famous-men-with-prostate-cancer/3 |title=8 Famous Men With Prostate Cancer |publisher=Inhealth.cnn.com |date=July 12, 2012 |accessdate=August 15, 2014 |deadurl=yes |archiveurl=https://archive.is/20130110204639/http://inhealth.cnn.com/treating-advanced-prostate-cancer/8-famous-men-with-prostate-cancer/3 |archivedate=January 10, 2013 |df=mdy-all }}&lt;/ref&gt;
+
+=== Properties ===
+De Niro, who has long resided in [[New York City]], has been investing in [[Manhattan]]'s [[Tribeca]] neighborhood since 1989. He has residences on the [[East Side (Manhattan)|east]] and [[West Side (Manhattan)|west sides]] of Manhattan. He also has a {{convert|78|acre|adj=on}} estate in [[Gardiner (town), New York|Gardiner, New York]], which serves as his primary residence.&lt;ref name="Gardiner lawsuit"&gt;{{cite news|last=Horrigan|first=Jeremiah|title=Gardiner in battle for Robert De Niro's dinero|url=http://www.recordonline.com/article/20141027/NEWS/141029487|newspaper=[[Times-Herald Record]]|location=[[Middletown, Orange County, New York|Middletown, NY]]|date=October 28, 2014|accessdate=October 29, 2014}}&lt;/ref&gt;
+====Tribeca Grill====
+[[Tribeca Grill]] is a New American restaurant located at 375 Greenwich Street (at Franklin Street) in Tribeca, Manhattan, in New York City, co-owned by Robert De Niro, Drew Nieporent and [[Lou Diamond Phillips]], among others. It opened in 1990. The Executive Chef is Scott Burnett. The "large mahogany bar is from the Maxwell's Plum restaurant."
+
+=== Legal issues ===
+During a film shoot in [[France]] in February 1998, De Niro was questioned as a witness about the Bourgeois prostitution ring.&lt;ref&gt;{{cite news|title=Cinq ans de prison pour le photographe proxnte| work=Libration| language=French|trans-title=Five years in prison for pimp photographer| date=January 7, 1999 | accessdate=May 15, 2013
+| url=http://www.liberation.fr/societe/0101272284-cinq-ans-de-prison-pour-le-photographe-proxenete
+}}&lt;/ref&gt; De Niro denied any involvement,&lt;ref name=bbcfurious&gt;{{cite news|title=De Niro furious over French grilling|work=BBC News |url=http://news.bbc.co.uk/1/hi/world/europe/59817.stm|accessdate=August 20, 2007|date=February 24, 1998}}&lt;/ref&gt; later filing a complaint.&lt;ref&gt;{{cite news
+| title=De Niro chez le juge | language=French |trans-title=De Niro in court
+| date=May 8, 1999 | accessdate=May 15, 2013 | work=Libration
+| url=http://www.liberation.fr/societe/0101281640-de-niro-chez-le-juge
+}}&lt;/ref&gt; Despite saying at the time that he would not return to France, he later filmed there and presided over the jury at the [[2011 Cannes Film Festival]].&lt;ref&gt;{{cite news|title=Robert De Niro will be President of the Jury of the 64th Festival de Cannes|url=http://www.festival-cannes.com/en/article/56304.html|archiveurl=https://web.archive.org/web/20131203001920/http://www.festival-cannes.com/en/article/56304.html|archivedate=December 3, 2013|accessdate=August 29, 2013|newspaper=cannes.com|date=April 23, 2009}}&lt;/ref&gt;
+
+In 2006, the [[land trust|trust]] that owns De Niro's Gardiner estate sued the town to have its [[property tax]] [[Tax assessment|assessment]] reduced, arguing that, at $6 million, it was too high and should be compared only with similar properties in [[Ulster County, New York|Ulster County]], where Gardiner is located. The town, which had been comparing its value to similar estates in [[Dutchess County, New York|Dutchess County]], across the [[Hudson River]], and [[Connecticut]]'s [[Litchfield County, Connecticut|Litchfield County]], east of Dutchess, where many other wealthy New York City residents maintain estates on large properties, won in [[New York State Supreme Court|State Supreme Court]].&lt;ref name="NY Times Gardiner story"&gt;{{cite news|last=Chaban|first=Matt A.V.|title=De Niro, in Tax Fight, Wins Little Sympathy From His Neighbors |url=https://www.nytimes.com/2014/11/04/nyregion/de-niros-hudson-valley-neighbors-feel-his-presence-mostly-in-court.html?_r=0|newspaper=[[The New York Times]]|date=November 4, 2014|accessdate=November 20, 2014}}&lt;/ref&gt; But in 2014, the trust's lawyers appealed the decision and the town was unsure if it should continue to defend the suit because of its own financial limitations (it would have earned far less in payments on the increased taxes than it had spent in legal bills). This has made many residents, who initially sympathized with De Niro, angry, and some proposed to raise money privately to help the town continue the suit.&lt;ref name="Gardiner lawsuit" /&gt;
+
+A local newspaper's report on the continued dispute was picked up by ''[[The New York Times]]'' and made international news. "When he read about it on [[Election Day (United States)|Election Day]], he went bananas," due to the negative publicity, said Gardiner town councilman Wiegand. He had apparently been unaware that the trust had filed the lawsuit. Its accountants took the blame, citing their [[fiduciary duty]]. A short time later, his lawyer met with town officials, at De Niro's direction, and offered them withdrawal of the suit and $129,000 in reimbursement for the town's legal bills, paid by the accounting firm.&lt;ref name="NYT Gardiner settlement story"&gt;{{cite news|last=Chaban|first=Matt A.V.|title=De Niro and New York Town End Fight Over Property Taxes|url=https://www.nytimes.com/2014/11/19/nyregion/deal-reached-by-de-niro-and-a-town-on-his-taxes.html|newspaper=The New York Times|date=November 19, 2014|accessdate=November 20, 2014}}&lt;/ref&gt; "[He] made it very clear that De Niro didn't want to screw the town, that he didn't know about any of it and that he wanted it settled as quickly as possible," Wiegand said.&lt;ref name="Gardiner settlement"&gt;{{cite news|last=Horrigan|first=Jeremiah|title=De Niro ends tax assessment fight|url=http://www.recordonline.com/article/20141118/NEWS/141119336|newspaper=Times-Herald Record|date=November 19, 2014|accessdate=November 20, 2014}}&lt;/ref&gt;
+
+=== Political activism ===
+In 1998, he lobbied Congress against impeaching President [[Bill Clinton]].&lt;ref&gt;{{cite news|title=Scepticism and support swirl around Clinton|work=BBC News |url=http://news.bbc.co.uk/1/hi/events/crisis_in_the_gulf/latest_news/236582.stm|accessdate=August 20, 2007|date=December 17, 1998}}&lt;/ref&gt;
+
+While promoting the film ''[[The Good Shepherd (film)|The Good Shepherd]]'' with co-star [[Matt Damon]] on the December 8, 2006, episode of ''[[Hardball with Chris Matthews]]'' at [[George Mason University]], De Niro was asked whom he would like to see as President of the United States. De Niro responded, "Well, I think of two people: [[Hillary Clinton]] and [[Barack Obama|Obama]]."&lt;ref&gt;{{cite news |url=http://www.nydailynews.com/news/politics/robert-de-niro-backing-hillary-clinton-runs-2016-article-1.2172947 |title=Robert De Niro backing Hillary Clinton if she runs in 2016 |work=New York Daily News|date= April 3, 2015 |author=Slattery, Denis |accessdate=June 20, 2015}}&lt;/ref&gt; On February 4, 2008, De Niro supported Obama at a rally at the [[Izod Center]] in [[New Jersey]] before [[Super Tuesday]].&lt;ref&gt;{{cite web|title=De Niro, Damon: Spies, patriotism and politics|publisher=MSNBC|url=http://www.msnbc.msn.com/id/16269379/page/4/|accessdate=August 20, 2007}}&lt;/ref&gt;
+
+In 2012, De Niro joined the anti-fracking campaign [[Artists Against Fracking]].&lt;ref&gt;{{cite web | url=http://green.blogs.nytimes.com/2012/08/29/yoko-ono-and-sean-lennon-organize-artists-against-fracking/?_r=1 | title=Yoko Ono and Sean Lennon Organize Artists Against Fracking | publisher=New York Times | date=August 29, 2012 | accessdate=May 17, 2016 |author=Mireya Navarro}}&lt;/ref&gt;
+
+During the [[United States presidential election, 2016|2016 presidential campaign]], De Niro was an outspoken critic of [[Donald Trump]], calling him "so blatantly stupid" and stating, "He wants to punch people in the face?! I'd like to punch him in the face." This was in reference to the similar desire Trump expressed towards protestors at one of his rallies.&lt;ref&gt;{{cite web|title=Robert De Niro: Id like to punch Donald Trump in the face  video|url=https://www.theguardian.com/global/video/2016/oct/08/robert-de-niro-id-like-to-punch-donald-trump-in-the-face-video|website=The Guardian|accessdate=October 8, 2016}}&lt;/ref&gt;
+
+=== Religious views ===
+De Niro was raised by an atheist mother and a [[lapsed Catholic]] father who left the [[Catholic Church]] at age 12.&lt;ref name=":1" /&gt;&lt;ref name=":2" /&gt; His grandparents had him secretly [[Baptism|baptized]] Catholic, and his grandmother was the main advocate of Catholicism in the family.&lt;ref&gt;Dougan, pp. 172-173&lt;/ref&gt; He refuses to be asked about religion in interviews.
+
+When asked why he would not play [[Jesus|Jesus Christ]] in Martin Scorsese's 1988 film ''[[The Last Temptation of Christ (film)|The Last Temptation of Christ]]'', he explained on at least two different occasions:
+
+{{cquote|''Last Temptation'' was something I was never interested in doing. But I did tell [Scorsese], "If you really have a problem, if you really want to do it, and you need me, I'll do it. If you're against the wall and have no other way, I'll do it as a friend."&lt;ref name=":1" /&gt;&lt;ref name=":2"/&gt; [...] I was not interested in playing Christ. It's like playing [[Prince Hamlet|Hamlet]]. I just didn't want to do it. Marty and I talked about it. We do things with each other because we like to work together, but also for our separate reasons. I have mine as an actor, he has his as a director. That's the best way.&lt;ref name=":2"/&gt;}}
+
+In addition, De Niro has played a number of Catholic characters in his movies. He played a Catholic penitent in the 1986 film ''[[The Mission (1986 film)|The Mission]]''.
+
+De Niro initially supported the inclusion of the controversial documentary about an alleged vaccination coverup, ''[[Vaxxed]]'', at the 2016 [[Tribeca Film Festival]].&lt;ref&gt;{{cite news|url=http://www.latimes.com/entertainment/movies/moviesnow/la-et-mn-robert-de-niro-anti-vaccine-autism-movie-tribeca-20160325-story.html|title=Robert De Niro reveals he was the one to push for anti-vaccine movie at Tribeca|work=Los Angeles Times|date=March 25, 2016}}&lt;/ref&gt;&lt;ref name=Guardian2016&gt;{{cite news|url=https://www.theguardian.com/film/2016/mar/26/robert-de-niro-autism-vaccination-tribeca-andrew-wakefield-vaxxed|title=Robert De Niro steps into autism vaccination row by screening film|date=March 26, 2016|work=The Guardian|accessdate=March 26, 2016}}&lt;/ref&gt;&lt;ref name=HRoffit&gt;{{cite news |title=Anti-Vaccine Doc 'Vaxxed': A Doctor's Film Review |url=http://www.hollywoodreporter.com/news/anti-vaccine-doc-vaxxed-a-882651 |work=[[The Hollywood Reporter]] |date=April 11, 2016 |author=Offit, Paul |author-link=Paul Offit |accessdate=April 12, 2016}}&lt;/ref&gt; He explained his interest in the film resulted from his family experience with an autistic son.&lt;ref name=Guardian2016 /&gt; De Niro withdrew his recommendation after discussion with the scientific community.&lt;ref name=Guardian2016 /&gt;&lt;ref&gt;{{cite news |title=Tribeca Film Festival, Robert De Niro Announce They're Pulling Anti-Vax Film From Schedule |url=http://jezebel.com/tribeca-film-festival-robert-de-niro-announce-theyre-p-1767288170 |work=[[Jezebel (website)]] |author=Merlan, Anna |date=March 26, 2016 |access-date=March 27, 2016}}&lt;/ref&gt; He said he was pressured by some festival filmmakers to remove ''Vaxxed'' from the festival line-up. He also said that he intends to be a part of the conversation about vaccines and autism in the future.&lt;ref&gt;{{cite news |title=Robert De Niro on anti-vaccine film controversy: 'Let's find out the truth' |url=http://www.today.com/video/robert-de-niro-on-anti-vaccine-film-controversy-let-s-find-out-the-truth-665031235642 |work=[[Today show]] |date=April 13, 2016 |author=. |access-date=April 14, 2016}}&lt;/ref&gt; The director of the film, [[Andrew Wakefield]],&lt;ref name=HRoffit /&gt; who is considered the father of the anti-vaccination movement,&lt;ref name=awnw&gt;{{cite news |url=http://www.newsweek.com/2015/02/20/andrew-wakefield-father-anti-vaccine-movement-sticks-his-story-305836.html |title=Andrew Wakefield, Father of the Anti-Vaccine Movement, Responds to the Current Measles Outbreak for the First Time |author=Ziv, Stav |work=[[Newsweek]] |date=February 10, 2015 |accessdate=March 20, 2016 }}&lt;/ref&gt; had reportedly been communicating with Grace Hightower and once reportedly told them that "your family's life [has] been blighted by autism".&lt;ref name=lbrb&gt;{{cite news |url=https://leftbrainrightbrain.co.uk/2016/04/22/andrew-wakefield-to-grace-hightower-your-familys-life-has-been-blighted-by-autism/ |title=Andrew Wakefield to Grace Hightower: "your familys life [has] been blighted by autism" |author=Carey, Matt |work=Left Brain/Right Brain |date=April 22, 2015 |accessdate=April 23, 2016 }}&lt;/ref&gt;
+
+=== Citizenship ===
+De Niro received an Italian passport in 2006. His Italian citizenship was granted by the Prime Minister despite strong opposition by the [[Order Sons of Italy in America|Sons of Italy]], who believe that De Niro damaged the public image of Italians by portraying criminals.&lt;ref name="web.archive.org"/&gt;&lt;ref name="femalefirst.co.uk"/&gt;
+
+== Awards and nominations ==
+{{Main|List of awards and nominations received by Robert De Niro}}
+
+== Filmography ==
+{{Main|Robert De Niro filmography}}
+
+== See also ==
+{{Wikipedia books|Robert De Niro}}
+* [[List of Academy Award records]]
+
+== References ==
+{{Reflist|30em}}
+
+== Biographies ==
+* Baxter, John (2002). ''De Niro: A Biography''. HarperCollins. {{ISBN|978-0-00-257196-8}}.
+* Dougan, Andy (2003). ''Untouchable: A Biography of Robert De Niro''. [[Da Capo Press]]. {{ISBN|1-56025-469-6}}.
+
+== External links ==
+{{Sister project links |commmons=Robert De Niro}}
+*{{official website|http://www.tribecafilm.com/}}
+* {{Britannica|153862}}
+*[https://www.tribecashortlist.com/ Tribeca Shortlist]
+* {{Mojo name|robertdeniro}}
+* [http://www.playbill.com/person/robert-de-niro-vault-0000108495 Robert De Niro] on [[Playbill]]
+* {{Rotten Tomatoes person|robert_de_niro|Robert De Niro}}
+* {{IMDb name|134}}
+* {{IBDB name}}
+
+{{Robert De Niro}}
+{{Navboxes
+| title = [[List of awards and nominations received by Robert De Niro|Awards for Robert De Niro]]
+| list  = 
+{{AcademyAwardBestActor 19611980}}
+{{AcademyAwardBestSupportingActor 19611980}}
+{{AFI Life Achievement Award}}
+{{AACTA International Award for Best Supporting Actor}}
+{{BAFTA Los Angeles Britannia Awards}}
+{{Boston Society of Film Critics Award for Best Actor}}
+{{Broadcast Film Critics Association Award for Best Cast}}
+{{Cecil B. DeMille Award 20012025}}
+{{GoldenGlobeBestActorMotionPictureDrama 19611980}}
+{{Hasty Pudding Man of the Year}}
+{{Kennedy Center Honorees 2000s}}
+{{Lincoln Center Gala Tribute}}
+{{Los Angeles Film Critics Association Award for Best Actor}}
+{{National Board of Review Award for Best Actor}}
+{{National Society of Film Critics Award for Best Actor}}
+{{National Society of Film Critics Award for Best Supporting Actor}}
+{{New York Film Critics Circle Award for Best Actor}}
+{{New York Film Critics Circle Award for Best Supporting Actor}}
+{{Satellite Award Best Actor Television Miniseries or Film}}
+}}
+{{Cannes Film Festival jury presidents}}
+
+{{Portal bar| New York |Biography | Theatre | Arts | Drama | Comedy | Film | Culture |Food |Italy |Television}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:De Niro, Robert}}
+[[Category:1943 births]]
+[[Category:20th-century American male actors]]
+[[Category:21st-century American male actors]]
+[[Category:American film producers]]
+[[Category:American male film actors]]
+[[Category:American male voice actors]]
+[[Category:American people of Dutch descent]]
+[[Category:American people of English descent]]
+[[Category:American people of French descent]]
+[[Category:American people of German descent]]
+[[Category:American people of Irish descent]]
+[[Category:American people of Italian descent]]
+[[Category:Anti-fracking movement]]
+[[Category:Best Actor Academy Award winners]]
+[[Category:Best Drama Actor Golden Globe (film) winners]]
+[[Category:Best Supporting Actor AACTA International Award winners]]
+[[Category:Best Supporting Actor Academy Award winners]]
+[[Category:Cancer survivors]]
+[[Category:Cecil B. DeMille Award Golden Globe winners]]
+[[Category:Film festival founders]]
+[[Category:Kennedy Center honorees]]
+[[Category:Living people]]
+[[Category:Male actors from New York City]]
+[[Category:Male actors of German descent]]
+[[Category:Male actors of Italian descent]]
+[[Category:New York (state) Democrats]]
+[[Category:People of Molisan descent]]
+[[Category:People from Manhattan]]
+[[Category:People from Marbletown, New York]]
+[[Category:Stella Adler Studio of Acting alumni]]
+[[Category:Chevaliers of the Lgion d'honneur]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:McBurney School alumni]]</text>
+      <sha1>kshcqn2yywdk7jqqrdq9vsl15sygtme</sha1>
+    </revision>
+  </page>
+</mediawiki>

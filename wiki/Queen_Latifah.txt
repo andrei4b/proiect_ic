@@ -1,0 +1,1034 @@
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Queen Latifah</title>
+    <ns>0</ns>
+    <id>148784</id>
+    <revision>
+      <id>844642309</id>
+      <parentid>844642065</parentid>
+      <timestamp>2018-06-06T05:19:28Z</timestamp>
+      <contributor>
+        <username>Yeenosaurus</username>
+        <id>16635116</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted 1 edit by [[Special:Contributions/Aqueen73736373737|Aqueen73736373737]] ([[User talk:Aqueen73736373737|talk]]) to last revision by Ipigott. ([[WP:TW|TW]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="56817">{{Redirect|Latifah|other uses|Latifa (disambiguation)}}
+{{pp-pc1}}
+{{Use mdy dates|date=January 2014}}
+{{Infobox person
+|name            = Queen Latifah
+|image           = Queen Latifah performing BET.jpg
+|caption         = Latifah performing at the 2nd Annual BET Honors, 2009
+|birth_name      = Dana Elaine Owens
+|alias           = 
+|birth_date      = {{Birth date and age|mf=yes|1970|3|18}}&lt;ref&gt;{{cite journal|title=Monitor|journal=[[Entertainment Weekly]]|date=March 22, 2013|issue=1251|page=25}}&lt;/ref&gt;
+|birth_place     = [[Newark, New Jersey]], U.S.
+|residence       = [[Colts Neck, New Jersey]], U.S.&lt;br&gt;[[Rumson, New Jersey]], U.S.&lt;br&gt;[[Beverly Hills, California]], U.S.
+|occupation      = {{flatlist|
+* Singer
+* songwriter
+* rapper
+* actress
+* model
+* producer
+* talk show host}}
+|years_active    = 1988present
+| home town      = [[East Orange, New Jersey]], U.S.
+|website         = {{URL|http://www.queenlatifah.com}}
+| module = {{Infobox musical artist|embed=yes
+| background = solo_singer
+|instrument      = {{flatlist|
+* Vocals
+* piano}}
+|genre           = {{flatlist|
+* [[Contemporary R&amp;B|R&amp;B]]
+* [[Soul music|soul]]
+* [[jazz]]
+* [[Hip hop music|hip hop]]
+* [[Gospel music|gospel]]
+* [[Dance music|dance]]}}
+|label           = {{flatlist|
+* [[Verve Records|Verve]]
+* [[A&amp;M Records|A&amp;M]]
+* [[Interscope Records|Interscope]]
+* [[Motown Records|Motown]]
+* [[PolyGram Records|PolyGram]]
+* [[Tommy Boy Entertainment|Tommy Boy]]
+* [[Warner Bros. Records|Warner Bros.]]
+* [[Walt Disney Records|Disney]]}}
+|associated_acts = {{flatlist|
+* [[Andra Crouch|Andrae Crouch and his Choir]]
+* [[L.A. Mass Choir]]
+* [[Lakim Shabazz]]
+* [[Apache (rapper)|Apache]]
+* [[Chill Rob G]]
+* [[DJ Mark the 45 King]]
+* [[Native Tongues]]
+* [[De La Soul]]
+* [[Jungle Brothers]]
+* [[A Tribe Called Quest]]
+}}
+}}
+}}
+
+'''Dana Elaine Owens''' (born March 18, 1970),&lt;ref&gt;{{cite web |url=http://movies.msn.com/celebrities/celebrity-biography/queen-latifah.1/|title=Queen Latifah:Biography|author=Jason Buchanan, Allmovie |accessdate=September 4, 2008 |year=2008 |publisher=[[MSN]]}}&lt;/ref&gt; known professionally as '''Queen Latifah''', is an American rapper, songwriter, singer, actress, and producer. Born in [[Newark, New Jersey]], she signed with [[Tommy Boy Records]] in 1989 and released her debut album ''[[All Hail the Queen]]'' the same year, featuring the hit single "Ladies First". ''[[Nature of a Sista]]'' (1991) was her second and final album with Tommy Boy Records.
+
+Latifah starred as Khadijah James on the [[Fox Broadcasting Company|FOX]] sitcom ''[[Living Single]]'', from 1993 to 1998. Her third album ''[[Black Reign]]'' (1993), spawned the single "[[U.N.I.T.Y.]]", which won a [[Grammy Award]] and was successful on the [[Billboard Hot 100|''Billboard'' Hot 100]]. She then starred in the lead role of ''[[Set It Off (film)|Set It Off]]'' (1996) and released her fourth album, ''[[Order in the Court]]'', in 1998, with [[Motown Records Group|Motown Records]]. Latifah gained mainstream success and acclaim with her performance in the film ''[[Chicago (2002 film)|Chicago]]'' (2002), receiving an [[Academy Awards|Academy Award]] nomination for [[Academy Award for Best Supporting Actress|Best Supporting Actress]].
+
+Latifah released her fifth album ''[[The Dana Owens Album]]'' in 2004. In 2007 and 2009, she released two more studio albums  ''[[Trav'lin' Light (Queen Latifah album)|Trav'lin' Light]]'' and ''[[Persona (Queen Latifah album)|Persona]]''. She created the daytime talk show ''[[The Queen Latifah Show]]'', which ran from late 2013 to early 2015 on [[CBS]]. She has appeared in a number of films, such as ''[[Bringing Down the House (film)|Bringing Down the House]]'' (2003), ''[[Taxi (2004 film)|Taxi]]'' (2004), ''[[Barbershop 2: Back in Business]]'' (2005), ''[[Beauty Shop]]'' (2005), ''[[Last Holiday (2006 film)|Last Holiday]]'' (2006), ''[[Hairspray (2007 film)|Hairspray]]'' (2007), ''[[Joyful Noise (film)|Joyful Noise]]'' (2012), ''[[22 Jump Street]]'' (2014) and ''[[Girls Trip]]'' (2017). Latifah received critical acclaim for her portrayal of blues singer [[Bessie Smith]] in the [[HBO]] film ''[[Bessie (film)|Bessie]]'' (2015), which she co-produced, winning the [[Primetime Emmy Award for Outstanding Television Movie]]. Since 2016, she has starred as Carlotta Brown in the musical drama series ''[[Star (TV series)|Star]]''.
+
+She has long been considered one of hip-hop's pioneer feminists.&lt;ref&gt;{{cite web|title="Ladies First": Queen Latifah's Afrocentric Feminist Music Video|url=http://www.public.asu.edu/~kleong/queenlatifahfeminism.pdf|work=African American Review|accessdate=June 17, 2013}}&lt;/ref&gt; Queen Latifah received a star on the [[Hollywood Walk of Fame]] in 2006. Latifah's work in music, film and television has earned her a [[Grammy Award]], an [[Emmy Award]], a [[Golden Globe Award]], three [[Screen Actors Guild Awards]], two [[NAACP Image Awards]], an [[Academy Award]] nomination and sales of over two million records.
+
+==Early life==
+Latifah was born in [[Newark, New Jersey]] on March 18, 1970, and lived primarily in [[East Orange, New Jersey]].&lt;ref&gt;[http://hiphopruckus.com/2009/02/on-da-come-up-with-clap-cognac.html On Da Come Up with Clap Cognac] ''from HipHopRuckus.com'', date February 24, 2009. Retrieved June 13, 2009.&lt;/ref&gt; She is the daughter of Rita (ne Bray), a teacher at [[Irvington High School (New Jersey)|Irvington High School]] (Latifah's [[alma mater]]), and Lancelot Owens, Sr., a police officer.&lt;ref name="parents"&gt;. Owens attended Essex Catholic Girls' High School in Irvington, but graduated from Irvington High School, {{cite news|last=Hyman|first=Vicki|title=The Queen holds court|work=The Star-Ledger|date=July 18, 2007|url=http://www.nj.com/entertainment/ledger/index.ssf?/base/entertainment-1/118473419494000.xml&amp;coll=1|accessdate=July 21, 2007}}&lt;/ref&gt; Owens attended Essex Catholic Girls' High School in Irvington, but graduated from Irvington High School.&lt;ref&gt;{{cite news|last=Hyman|first=Vicki|title=The Queen holds court|work=The Star-Ledger|date=July 18, 2007|url=http://www.nj.com/entertainment/ledger/index.ssf?/base/entertainment-1/118473419494000.xml&amp;coll=1|accessdate=July 21, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=https://www.nytimes.com/2008/10/05/magazine/05latifah-t.html?pagewanted=print | work=The New York Times | title=Her Highness Still Rules | first=Alex | last=Witchel | date=October 5, 2008}}&lt;/ref&gt;&lt;ref name="actors"&gt;Stated in interview on ''[[Inside the Actors Studio]]'', 2006&lt;/ref&gt; Her parents divorced when Latifah was ten.&lt;ref name="actors"/&gt; Latifah was raised in the [[Baptist]] faith&lt;ref&gt;[http://www.beliefnet.com/story/182/story_18272_1.html Queen Latifah Discusses God, Jesus, Rap, and Her New Movie, 'Last Holiday,' in this Beliefnet Interview ]. Beliefnet.com. Retrieved October 1, 2011.&lt;/ref&gt; and attended [[Catholic school]] in Newark, New Jersey.&lt;ref&gt;{{cite web|last=Winfrey|first=Oprah|url=http://www.oprah.com/spirit/Queen-Latifahs-Aha-Moment|title=Queen Latifah's Aha! Moment|work=[[The Oprah Winfrey Show]] |date=July 15, 2007|accessdate=September 16, 2010}}&lt;/ref&gt;&lt;ref name=rd&gt;{{cite news|url=http://www.rd.com/your-america-inspiring-people-and-stories/queen-latifah-queen-bee-interview/article99958.html|title=Queen Latifah: Queen Bee|work=[[Reader's Digest]]|date=October 2008|accessdate=September 19, 2010|first=Margy|last=Rochlin}}&lt;/ref&gt; She found her stage name, ''Latifah'' ({{lang|ar|}} ''lafa''), meaning "delicate" and "very kind" in [[Arabic language|Arabic]], in a book of Arabic names when she was eight.&lt;ref name="actors"/&gt; Always tall, the {{convert|5|ft|10|in|adj=on}} Latifah was a [[Power forward (basketball)|power forward]] on her high school basketball team.&lt;ref&gt;[http://www.people.com/people/queen_latifah bio]. ''People''. Retrieved October 1, 2011.&lt;/ref&gt;&lt;ref&gt;{{cite news| url=https://www.cbsnews.com/stories/2003/01/08/earlyshow/leisure/celebspot/main535725.shtml | publisher=CBS News | title='Queen' Of Many Hats | date=January 8, 2003}}&lt;/ref&gt; She performed the number "Home" from the musical ''[[The Wiz]]'' in a grammar school play.&lt;ref&gt;[interview on Access Hollywood Live]. Retrieved October 6, 2016.&lt;/ref&gt;
+
+==Music career==
+
+===19881989: Career beginnings===
+She started [[beat boxing]] for the hip-hop group Ladies Fresh and was an original member of the [[Flavor Unit]], which, at that time, was a crew of [[MC]]s grouped around producer [[DJ King Gemini]], who made a demo recording of Queen Latifah's rap Princess of the Posse. He gave the recording to [[Fab 5 Freddy]], the host of ''Yo! MTV Raps''. The song got the attention of Tommy Boy Music employee [[Dante Ross]], who signed Latifah and in 1988 issued her first single, "Wrath of My Madness".
+
+===19892002: Rap &amp; hip-hop===
+Latifah made her mark in hip-hop by rapping about issues of black women. Her songs covered topics including [[domestic violence]], harassment on the streets, and relationship problems.&lt;ref&gt;{{cite book|last=White, Bay, Martin Jr.|first=Debora, Mia, Waldo E.|title=Freedom on My Mind A History of African Americans With Documents|date=2013|publisher=Bedford/St.Martin's|pages=766}}&lt;/ref&gt;
+Freddy helped Latifah sign with [[Tommy Boy Records]], which released Latifah's first album ''[[All Hail the Queen]]'' in 1989, when she was nineteen.&lt;ref name="actors"/&gt; That year, she appeared as Referee on the UK label Music of Life album ''1989The Hustlers Convention (live)''. She received a [[Candace Award]] from the [[National Coalition of 100 Black Women]] in 1992.&lt;ref name="jet92"&gt;{{cite journal |title=Camille Cosby, Kathleen Battle Win Candace Awards |journal=Jet |date=July 20, 1992 |volume= 82 |issue=13 |pages=1617 |url=https://books.google.com/books?id=gbkDAAAAMBAJ&amp;pg=PA16}}&lt;/ref&gt; In 1998, co-produced by Ro Smith, now CEO of Def Ro Inc., she released her fourth hip-hop album ''[[Order in the Court]]'', which was released by [[Motown Records]]. Latifah was also a member of the hip-hop collective [[Native Tongues]].
+
+===20032009: Change to traditional singing===
+[[File:Queen Latifah 1.jpg|thumb|Queen Latifah hosts LEAGUE National Awards and Recognition Luncheon 2008]]
+After ''Order in the Court'', Latifah shifted primarily to singing soul music and jazz standards, which she had used sparingly in her previous hip-hop-oriented records. In 2004, she released the [[soul music|soul]]/jazz standards ''[[The Dana Owens Album]]''. On July 11, 2007, Latifah sang at the famed [[Hollywood Bowl]] in Los Angeles as the headlining act in a live [[jazz]] concert. Before a crowd of more than 12,400, she was backed by a 10-piece live orchestra and three backup vocalists, which was billed as the Queen Latifah Orchestra. Latifah performed new arrangements of standards including "[[California Dreaming]]", first made popular by 1960s icons [[the Mamas &amp; the Papas]]. Later in 2007, Latifah released an album titled ''[[Trav'lin' Light (Queen Latifah album)|Trav'lin' Light]]''. [[Jill Scott]], [[Erykah Badu]], [[Joe Sample]], [[George Duke]], [[Christian McBride]], and [[Stevie Wonder]] made guest appearances.&lt;ref&gt;{{cite web|url=http://www.eurweb.com/story/eur35097.cfm|title=LATIFAH OPENING FATBURGER IN MIAMI: Plus, new album due September 25|date=July 17, 2007|publisher=EURweb|deadurl=yes|archiveurl=https://web.archive.org/web/20070820155723/http://www.eurweb.com/story/eur35097.cfm|archivedate=August 20, 2007|df=mdy-all}}&lt;/ref&gt; It was nominated for a Grammy in the "Best Traditional Pop Vocal Album" category.&lt;ref&gt;[http://www.grammy.com/GRAMMY_Awards/50th_Show/list.aspx GRAMMY.com] {{webarchive |url=https://web.archive.org/web/20080514002913/http://www.grammy.com/GRAMMY_Awards/50th_Show/list.aspx |date=May 14, 2008}}&lt;/ref&gt;
+
+In 2009, Latifah, along with the [[NJPAC]] Jubilation Choir,&lt;ref&gt;{{cite web | url=http://www.jubilationinc.com/about.htm | title=History: Rev. Dr. Stefanie R. Minatee &amp; JUBILATION | publisher=JUBILATION | accessdate=December 20, 2012 | deadurl=yes | archiveurl=https://web.archive.org/web/20130524012021/http://www.jubilationinc.com/about.htm | archivedate=May 24, 2013 | df=mdy-all }}&lt;/ref&gt; recorded the title track on the album ''[[Oh, Happy Day: An All-Star Music Celebration]]'', covering the [[Oh, Happy Day|song]] that the [[Edwin Hawkins Singers]] made popular in 1969.&lt;ref&gt;{{cite news|url=https://www.reuters.com/article/musicNews/idUSTRE52Q6WQ20090327|title=Jon Bon Jovi, Queen Latifah go gospel for "Day"|date=March 27, 2009|agency=Reuters}}&lt;/ref&gt;
+
+===2008present: Return to hip-hop===
+In 2008, Latifah was asked if she would make another hip-hop album. She was quoted saying the album was done already and it would be called "All Hail the Queen II". The following year, in 2009, she released her album ''[[Persona (Queen Latifah album)|Persona]]''. The song "Cue the Rain" was released as the album's lead single. She also has a song with [[Missy Elliott]].&lt;ref&gt;{{cite web|url=https://www.rollingstone.com/rockdaily/index.php/2008/09/12/queen-latifah-returns-to-hip-hop-with-dr-dre-on-lp-she-nearly-named-the-l-word/|title=Queen Latifah Returns to Hip-Hop With Dre on LP She Nearly Named "The L Word"}}&lt;/ref&gt; 2011 saw Queen Latifah sing "Who Can I Turn To" in a duet with Tony Bennett for his album "Duets II".&lt;ref&gt;{{cite web|url=https://itunes.apple.com/au/album/duets-ii/id462337212/|title=iTunes  Music  Duets II by Tony Bennett}}&lt;/ref&gt; In January 2012, while appearing on ''[[106 &amp; Park]]'' with [[Dolly Parton]], to promote ''[[Joyful Noise (film)|Joyful Noise]]'', Latifah stated that she had been working on a new album.
+
+[[Category:Hip-hop culture in Essex County, New Jersey]]
+[[Category:Hip-hop musicians from Essex County, New Jersey]]
+
+==Film and television==
+
+===19912001: Early career===
+From 1993 to 1998, Latifah had a starring role on ''[[Living Single]]'', the [[FOX]] sitcom, which gained high ratings among black audiences; she also wrote and performed its theme music. Her mother Rita played her mother on-screen. She began her film career in supporting roles in the 1991 and 1992 films ''[[House Party 2]]'', ''[[Juice (film)|Juice]]'' and ''[[Jungle Fever]]''. She had her own talk show, ''[[The Queen Latifah Show]]'', from 1999 to 2001 and revamped in 2013. On January 6, 2014, ''The Queen Latifah Show'' was renewed for a second season. However, on November 21, 2014, Sony Pictures Television canceled Latifah's show due to declining ratings. Production of the series closed down, taking effect on December 18, 2014, leaving new episodes that were broadcast until March 6, 2015. She also guest starred in 2 episodes during the second season (19911992) of the [[NBC]] hit ''[[The Fresh Prince of Bel-Air]]''. She made a guest role as herself on ''[[Hangin' with Mr. Cooper]]'' in 1993. Latifah appeared in the 1996 box-office hit, ''[[Set It Off (film)|Set It Off]]'', and had a supporting role in the [[Holly Hunter]] film ''[[Living Out Loud]]'' (1998). She played the role of Thelma in the 1999 movie ''[[The Bone Collector]]'', alongside [[Denzel Washington]] and [[Angelina Jolie]].
+
+===2002present: Mainstream success===
+[[File:QueenLatifah2009WATF 2.jpg|right|thumb|Queen Latifah performing at the "Kids Inaugural: We Are the Future" concert in 2009]]
+Although Latifah had previously received some critical acclaim, she gained mainstream success after being cast as Matron "Mama" Morton in ''[[Chicago (2002 film)|Chicago]]'', a musical film that won the [[Academy Awards|Academy Award]] for [[Academy Award for Best Picture|Best Picture]].&lt;ref name="actors"/&gt; Latifah herself received the nomination for [[Academy Award for Best Supporting Actress|Best Supporting Actress]] for her role, but lost to co-star [[Catherine Zeta-Jones]].&lt;ref name="actors"/&gt; Latifah is one of five [[Hip hop|hip-hop]]/[[R&amp;B]] artists to receive an Academy Award nomination in an acting category. The others are [[Will Smith]] (Best Actor, ''[[Ali (film)|Ali]]'', 2001, and ''[[The Pursuit of Happyness]]'', 2006), [[Jennifer Hudson]] (Best Supporting Actress, "[[Dreamgirls (film)|Dreamgirls]]", 2007), [[Jamie Foxx]], (Best Actor, ''[[Ray (film)|Ray]]'', and Best Supporting Actor ''[[Collateral (film)|Collateral]]'', both in 2004, also winning the first) and [[Mary J. Blige]], (Best Supporting Actress, [[Mudbound (film)|Mudbound]].
+
+In 2003, she starred with [[Steve Martin]] in the film ''[[Bringing Down the House (movie)|Bringing Down the House]]'', which was a major success at the box office.&lt;ref name="actors"/&gt; She also recorded a song "Do Your Thing" for the soundtrack. Since then, she has had both leading and supporting roles in a multitude of films that received varied critical and box office receptions, including films such as ''[[Scary Movie 3]]'', ''[[Barbershop 2: Back in Business]]'', ''[[Taxi (2004 film)|Taxi]]'', ''[[Kung Faux]]'', ''[[Beauty Shop]]'', and ''[[Hairspray (2007 film)|Hairspray]]''. In early 2006, Latifah appeared in a romantic comedy/drama entitled ''[[Last Holiday (2006 film)|Last Holiday]]''.&lt;ref name="actors"/&gt; Film critic [[Richard Roeper]] stated that "this is the Queen Latifah performance I've been waiting for ever since she broke into movies".&lt;ref&gt;{{cite web| author1=Roger Ebert| author2=Richard Roeper| publisher=Movies.com| title=Reviews for the Weekend of January 78, 2006| url=http://tvplex.go.com/buenavista/ebertandroeper/060109.html| date=January 9, 2006| accessdate=February 16, 2007| deadurl=yes| archiveurl=https://web.archive.org/web/20060701032240/http://tvplex.go.com/buenavista/ebertandroeper/060109.html| archivedate=July 1, 2006| df=mdy-all}}&lt;/ref&gt; Also in 2006, Latifah voiced Ellie, a friendly [[mammoth]], in the animated film, ''[[Ice Age: The Meltdown]]'' (her first voice appearance in an animated film), and appeared in the drama ''[[Stranger than Fiction (2006 film)|Stranger Than Fiction]]''.
+
+The summer of 2007 brought Latifah triple success in the big-screen version of the Broadway smash hit ''[[Hairspray (2007 film)|Hairspray]]'', in which she acted, sang, and danced. The film rated highly with critics. It starred, among others, [[John Travolta]], [[Michelle Pfeiffer]], [[Allison Janney]], [[James Marsden]], [[Christopher Walken]], and [[Zac Efron]]. Also in 2007, she portrayed an HIV-positive woman in the film ''[[Life Support (film)|Life Support]]'', a role for which she garnered her first [[Golden Globe Award]], [[Screen Actors Guild]] Award and an [[Emmy Award|Emmy]]&lt;ref&gt;{{cite web|url=http://www.emmys.com/celebrities/queen-latifah |title=Queen Latifah Emmy Nominated |publisher=Emmys.com |accessdate=December 27, 2013}}&lt;/ref&gt; nomination. For her work, Queen Latifah received a star on the [[Hollywood Walk of Fame]], on January 4, 2006, located at 6915 Hollywood Blvd.
+
+[[File:Super Bowl 44 Queen Latifah God Bless America (4344821074) (cropped).jpg|thumb|Latifah performing [[God Bless America]] at [[Super Bowl XLIV]] in 2010]]
+Latifah produced the 2007 film ''[[The Perfect Holiday]]''. In addition to producing the film, Latifah starred alongside [[Terrence Howard]], [[Morris Chestnut]], [[Gabrielle Union]], [[Charlie Murphy|Charles Q. Murphy]], [[Jill Marie Jones]], and [[Faizon Love]].&lt;ref name="upcoming"&gt;{{cite news | publisher=EURWeb.com | first=Roz | last=Stevenson | title=Queen Latifah Makes Animated Film Debut | url=http://eurweb.com/story/eur25611.cfm | date=March 1, 2006 | accessdate=February 16, 2007 | deadurl=yes | archiveurl=https://web.archive.org/web/20070409083046/http://eurweb.com/story/eur25611.cfm | archivedate=April 9, 2007 | df=mdy-all }}&lt;/ref&gt; In 2008, Latifah appeared in the crime comedy ''[[Mad Money (film)|Mad Money]]'' opposite [[Academy Award]]-winner [[Diane Keaton]] as well as [[Katie Holmes]] and [[Ted Danson]]. She appeared on ''[[Saturday Night Live]]'' on October 4, 2008, as moderator [[Gwen Ifill]] in a comedic sketch depicting the [[United States vice-presidential debate, 2008|vice-presidential debate]] between then-Senator [[Joe Biden]] and then-Governor [[Sarah Palin]].&lt;ref&gt;[http://www.nbc.com/Saturday_Night_Live/video/clips/vp-debate-open-palin-biden/727421/ Saturday Night Live  All Videos : Newest  Videos] {{webarchive |url=https://web.archive.org/web/20081006070324/http://www.nbc.com/Saturday_Night_Live/video/clips/vp-debate-open-palin-biden/727421/ |date=October 6, 2008}}. NBC.com. Retrieved October 1, 2011.&lt;/ref&gt; In 2009, Latifah was a presenter at the [[81st Academy Awards]], presenting the segment honoring film professionals who had died during 2008 and singing "[[I'll Be Seeing You (song)|I'll Be Seeing You]]" during the montage. Latifah spoke at [[Michael Jackson]]'s memorial service in Los Angeles. She also hosted the 2010 People's Choice Awards. Latifah sang ''America the Beautiful'' at [[Super Bowl XLIV]] hosted in [[Miami, Florida]] on February 7, 2010, with [[Carrie Underwood]]. Latifah hosted the [[BET Awards 2010|2010 BET Awards]] on June 27, 2010. She starred with [[Dolly Parton]] in ''[[Joyful Noise (film)|Joyful Noise]]'' (2012).&lt;ref&gt;Ziegbe, Mawuse. (August 21, 2010) [http://www.mtv.com/news/articles/1646239/queen-latifah-dolly-parton-make-joyful-noise.jhtml Queen Latifah, Dolly Parton To Make 'Joyful Noise'  Music, Celebrity, Artist News]. MTV. Retrieved October 1, 2011.&lt;/ref&gt; In June 2011, Latifah received an honorary doctorate degree in Humane Letters from Delaware State University in Dover, Delaware. On September 16, 2013, Latifah premiered her own syndicated daytime television show titled ''[[The Queen Latifah Show]]''.&lt;ref&gt;{{cite web|url=http://www.hollywoodreporter.com/live-feed/queen-latifah-sings-dances-surprises-629842 |title=Queen Latifah Sings, Dances and Surprises Kids on Talk Show Premiere |work=The Hollywood Reporter |date=September 16, 2013 |accessdate=January 28, 2014}}&lt;/ref&gt;&lt;ref&gt;queenlatifah.com&lt;/ref&gt; On January 26, 2014, Latifah officiated the weddings of 33 same-sex and opposite-sex couples during a performance of "[[Same Love]]" by [[Macklemore]] at the [[56th Annual Grammy Awards]].&lt;ref&gt;{{cite web|last=Hill |first=Simone |url=http://blog.theknot.com/2014/01/27/33-weddings-officiated-by-queen-latifah-at-the-grammys/ |title=33 Weddings Officiated by Queen Latifah at the Grammys |publisher=blog.theknot.com |date=January 14, 2014 |accessdate=January 28, 2014}}&lt;/ref&gt; In 2015, Latifah received a Best Actress [[Emmy award|Emmy]] nomination for her lead role as Bessie Smith in [[Bessie (film)|''Bessie'']], an HBO film which received a total of 12 Emmy nominations.&lt;ref&gt;{{cite news|last1=Blake|first1=Meredith|title=Emmys 2015: Queen Latifah stays calm (on the outside) over 'Bessie' nomination|url=http://www.latimes.com/entertainment/tv/showtracker/la-et-st-emmys-2015-queen-latifah-on-bessie-nomination-20150716-story.html|accessdate=July 17, 2015|work=[[Los Angeles Times]]|date=July 16, 2015}}&lt;/ref&gt;
+
+On April 26, 2017, [[MTV]] announced that Latifah will be an executive producer for the third season of the slasher television series ''[[Scream (TV series)|Scream]]''. The show will undergo a reboot with a new cast and [[Brett Matthews]] serving as show runner. In addition, Shakim Compere and Yaneley Arty will also be credited as executive producers for the series under [[Flavor Unit Entertainment]].&lt;ref name="Screenrant.com"&gt;{{cite web|url=http://screenrant.com/scream-tv-series-season-3-reboot-showrunner/|title=Scream TV Series Reboot Confirmed; New Showrunner Announced|website=Screenrant.com|date=April 26, 2017}}&lt;/ref&gt;&lt;ref name="Deadline"&gt;{{cite web|url=http://deadline.com/2017/04/scream-queen-latifah-new-showrunner-season-3-revamp-1202077736/|title=Scream: Queen Latifah &amp; New Showrunner Join Season 3 Revamp|first=Denise|last=Petski|date=April 26, 2017|website=[[Deadline Hollywood]]}}&lt;/ref&gt;
+
+==Artistry==
+
+Latifah's music usually contains [[hip-hop]], [[jazz]] and [[gospel]] and has the elements of R&amp;B, soul, and [[dance]]. She possesses a two-octave vocal range. Queen Latifah is a [[contralto]], and she has the ability to rap and sing.
+Her biggest musical influences are [[EPMD]], [[KRS-One]], [[LL Cool J]], [[Public Enemy (band)|Public Enemy]], and [[RunD.M.C.]].&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/queen-latifah/related-artists/?filter=influencedBy |title=Queen Latifah Music Influences |publisher=MTV |accessdate=September 15, 2015}}&lt;/ref&gt; She also cites [[Bessie Smith]] as one of her influences.
+
+==Products and endorsements==
+Latifah is a celebrity spokesperson for [[CoverGirl]] cosmetics, Curvation ladies underwear, [[Pizza Hut]] and [[Jenny Craig, Inc.|Jenny Craig]].&lt;ref&gt;[http://www.etonline.com/news/2008/01/57203/index.html "Queen Latifah is the Newest Face of Jenny Craig"], ETonline.com, January 10, 2008&lt;/ref&gt; She represents her own line of cosmetics for women of color called the CoverGirl Queen Collection.&lt;ref&gt;[http://www.covergirl.com/queen Covergirl] {{webarchive|url=https://web.archive.org/web/20070103115016/http://covergirl.com/queen/ |date=January 3, 2007 }}. Covergirl. Retrieved October 1, 2011.&lt;/ref&gt; Latifah has also launched a perfume line called "Queen" and "Queen of Hearts".
+
+==Personal life==
+Raised in [[East Orange, New Jersey]], Latifah has been a resident of [[Colts Neck, New Jersey]]; [[Rumson, New Jersey]]; and [[Beverly Hills, California]].&lt;ref&gt;[http://www.highbeam.com/doc/1P1-118942332.html "The Robertson Treatment Vol. 6.7; Queen Latifah holding court in Hollywood!"], ''Baltimore Afro-American'', March 28, 2003. She is 6 foot 1, about 200 pounds. Retrieved December 11, 2007. "'I've always loved musicals,' admits the actress who was born Dana Owens and was raised in the East Orange, NJ area and who presently lives in Rumson, NJ."&lt;/ref&gt;
+
+Latifah's older brother, Lancelot Jr., was killed in 1992 in an accident involving a motorcycle that Latifah had previously 
+purchased for him.&lt;ref name="actors"/&gt; A 2006 interview revealed that Latifah still wears the key to the motorcycle around her neck,&lt;ref name="actors"/&gt; visible throughout her performance in her sitcom ''[[Living Single]]''. She also dedicated ''Black Reign'' to him. In her 1999 autobiography, ''Ladies First: Revelations of a Strong Woman'', Latifah discussed how her brother's death had led to a bout of depression and drug abuse, from which she later recovered.
+
+In 1995, Latifah was the victim of a [[carjacking]], which also resulted in the shooting of her boyfriend, Sean Moon.&lt;ref&gt;[https://www.nytimes.com/1995/07/18/nyregion/two-teen-agers-arrested-in-carjacking-involving-rap-star.html "Two Teen-Agers Arrested in Carjacking Involving Rap Star"], ''[[The New York Times]]'', July 18, 1995. Retrieved September 1, 2013.&lt;/ref&gt;
+
+In 1996, she was arrested and charged with possession of marijuana and possession of a loaded handgun.&lt;ref&gt;{{cite news |url=http://articles.latimes.com/1996-02-04/local/me-32221_1_weapons-charges |title=Rap Singer Arrested on Drug, Weapons Charges |date=February 4, 1996|first=Eric|last=Slater |work=Los Angeles Times}}&lt;/ref&gt; In 2002, she was arrested for driving under the influence in Los Angeles County.&lt;ref&gt;{{cite web|title=Queen Latifah arrested on DUI charge|url=http://archives.cnn.com/2002/SHOWBIZ/11/20/queen.latifah.dui/|accessdate=July 15, 2013}}&lt;/ref&gt; She was placed on three years' probation after being convicted.&lt;ref&gt;{{cite web|title=Queen Latifah Biography|url=http://www.allmusic.com/artist/queen-latifah-mn0000372229/biography|publisher=AllMusic|accessdate=July 15, 2013}}&lt;/ref&gt;
+
+She also works out with a trainer for [[kickboxing]].&lt;ref name="kickbox"&gt;{{cite news|author1=Suzanne Rozdeba |author2=Ben Widdicombe |work=Daily News|location=New York |title=To 'C' the Queen |url=http://www.nydailynews.com/front/story/94618p-85741c.html |date=June 22, 2003 |accessdate=February 16, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20060524023458/http://www.nydailynews.com/front/story/94618p-85741c.html |archivedate=May 24, 2006}}&lt;/ref&gt;
+
+At a memorial service for [[Michael Jackson]] in July 2009, [[Maya Angelou]], who was unable to attend the service, asked Latifah to recite a poem that Angelou had written.
+
+On March 21, 2018 her mother actress [[Rita Owens]] passed away due to heart failure, an issue she had been battling since 2004.&lt;ref&gt;{{Cite news|url=https://www.billboard.com/articles/news/8257476/queen-latifah-mom-rita-owens-heart-condition|title=Queen Latifah's Mom Rita Owens Dies After Battle With Heart Condition|work=Billboard|access-date=2018-03-22}}&lt;/ref&gt;
+
+===Feud with Foxy Brown===
+Disagreements between [[Foxy Brown (rapper)|Foxy Brown]] and Queen Latifah ensued in mid-1996, where media reports indicated that Brown was a prime target in Latifah's diss record "Name Callin'", which was featured in the movie soundtrack ''[[Set It Off (soundtrack)|Set It Off]]''.&lt;ref&gt;{{cite web|title=Queen Latifah  Name Callin' Lyrics|url=http://rapgenius.com/Queen-latifah-name-callin-lyrics|work=[[Rap Genius]]|publisher=rapgenius.com|accessdate=May 8, 2013}}&lt;/ref&gt; In response, Brown made allegations of Latifah "checking her out" at musical events and had even gone further to question Latifah's sexuality in various public radio interviews. In 1998, Brown released a diss record titled "10% Dis", where she continually questioned Latifah's sexuality and accused her of being jealous.&lt;ref&gt;"Vibe Confidential: Everything You Want to Know Before You're Supposed to Know It." ''[[Vibe (magazine)|Vibe]]''. August 1998: 44. Print.&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Funkmaster Flex  10% Dis Lyrics|url=http://rapgenius.com/Funkmaster-flex-10-dis-lyrics|work=[[Rap Genius]]|publisher=rapgenius.com|accessdate=May 8, 2013}}&lt;/ref&gt;
+
+By late spring of 1998, Latifah responded to Brown through another diss record titled, "Name Callin' Part II".&lt;ref name="daveyd"&gt;{{cite web|last=D|first=Davey|title=May '98 Hip Hop News|url=http://www.daveyd.com/fnvmaynews.html|work=Davey D's Hip Hop Corner|publisher=daveyd.com|date=May 15, 1998|accessdate=May 8, 2013}}&lt;/ref&gt;&lt;ref name="egotrip"&gt;{{citation| last1= Jenkins | first1= Sacha | last2= Wilson | first2= Elliott | last3= Mao | first3= Chairman | last4= Alvarez | first4= Gabriel | last5= Rollins | first5= Brent| title = ego trip's: Book of Rap | publisher = St. Martin's Griffin | year = 1999 | page = 239 | isbn = 0-312-24298-0}}&lt;/ref&gt; In the record, Latifah disses Brown about her heavy reliance on sex-appeal, in which she implies that Brown has to rely on skimpy outfits to hide her "half-assed flow".&lt;ref name="daveyd"/&gt;&lt;ref&gt;{{cite web|title=Queen Latifah  Name Callin', Part 2 (Foxy Brown Diss)|url=https://www.youtube.com/watch?v=ccZDbKtz23E|via=YouTube|accessdate=May 8, 2013}}&lt;/ref&gt; Foxy Brown retaliated via a response-diss record titled "Talk to Me", in which Brown made fun of the ratings of Latifah's [[The Queen Latifah Show|television talk show]] and went on to make various homophobic remarks to both Latifah and thennewcomer [[Queen Pen]].&lt;ref&gt;{{cite web|title=Foxy Brown  Talk To Me Lyrics|url=http://rapgenius.com/Foxy-brown-talk-to-me-lyrics|work=[[Rap Genius]]|publisher=rapgenius.com|accessdate=May 8, 2013}}&lt;/ref&gt;
+
+A significant part of media dubbed Latifah as "the winner" of the feud.&lt;ref name="egotrip"/&gt; Hip-hop magazine [[Ego trip (magazine)|''ego trip'']] stated that Latifah won the feud with her diss record "Name Callin' Part II" and added that she showed that "the lady's still first", in reference to Latifah's 1990 single, "Ladies First".&lt;ref name="egotrip"/&gt; In 2000, Brown and Latifah reconciled; to show truce, Brown performed her song "Na Na Be Like" on ''[[The Queen Latifah Show]]''.&lt;ref&gt;{{cite web|title=Foxy Brown  "Na Na Be Like"  Live (2000)|url=https://www.youtube.com/watch?v=jlGFNoTYvKc|via=YouTube|accessdate=May 8, 2013}}&lt;/ref&gt;
+
+==Legacy and influence==
+{{see also|List of awards and nominations received by Queen Latifah}}
+In her music career, she sold nearly 2 million records worldwide.&lt;ref&gt;{{cite web|title="Verve//Remixed," and Queen Latifah.|url=http://www.billboard.com/articles/news/71633/15ask|work=Billboard|accessdate=April 9, 2003}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=Queen Latifah Returns To Rap On 'Persona'|url=http://www.billboard.com/articles/news/267935/queen-latifah-returns-to-rap-on-persona|work=Billboard|accessdate=July 27, 2009}}&lt;/ref&gt; Queen Latifah has been dubbed as the "Queen of Jazz-Rap". She became the first female hip-hop recording artist to get nominated for an [[Academy Awards|Oscar]]. ''[[The Root (magazine)|The Root]]'' ranked her at number 35 on ''The Root'' 100 list.&lt;ref&gt;{{cite web|title=The Root 100 2014|url=http://www.theroot.com/articles/lists/2014/09/the_root_100_2014/dana_queen_latifah_owens.html|work=The Root|publisher=theroot.com|accessdate=September 9, 2014|deadurl=yes|archiveurl=https://web.archive.org/web/20140913014014/http://www.theroot.com/articles/lists/2014/09/the_root_100_2014/dana_queen_latifah_owens.html|archivedate=September 13, 2014|df=mdy-all}}&lt;/ref&gt; Latifah was inducted into the [[Hollywood Walk of Fame]] in 2006 and the [[New Jersey Hall of Fame]] in 2011.&lt;ref&gt;{{cite web|title=QUEEN LATIFAH|url=http://njhalloffame.org/hall-of-famers/2011-inductees/queen-latifah/|work=The Root|publisher=njhalloffame.org|accessdate=August 8, 2011}}&lt;/ref&gt; She is a recipient of a [[Grammy Award]], with six nominations, a [[Golden Globe Award]], two Screen Actors Guild Awards, with two nominations, two NAACP Image Awards, including thirteen nominations, one [[Emmy Award]], with three nominations and an Academy Award nomination. Queen Latifah became an influence to R&amp;B, soul, and hip-hop artists, such as [[Eve (rapper)|Eve]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/eve/related-artists/?filter=influencedBy|title=Eve Music Influences |publisher=MTV|accessdate=September 26, 2014}}&lt;/ref&gt; [[Da Brat]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/da-brat/related-artists/?filter=influencedBy |title=Da Brat Music Influences|publisher=MTV |accessdate=March 26, 2014}}&lt;/ref&gt; [[Lil' Kim]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/lil-kim/related-artists/?filter=influencedBy |title=Lil Kim Music Influences |publisher=MTV |accessdate=June 8, 2014}}&lt;/ref&gt; [[Fugees]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/fugees/related-artists/?filter=influencedBy |title=Fugees Music Influences |publisher=MTV |accessdate=March 8, 2014}}&lt;/ref&gt; [[Jill Scott]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/jill-scott/related-artists/?filter=influencedBy |title=Jill Scott Music Influences |publisher=MTV |accessdate=April 14, 2013}}&lt;/ref&gt; [[Lauryn Hill]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/lauryn-hill/related-artists/?filter=influencedBy |title=Lauryn Hill Music Influences |publisher=MTV |accessdate=August 23, 2013}}&lt;/ref&gt; [[Missy Elliott]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/missy-elliott/related-artists/?filter=influencedBy |title=Missy Elliott Music Influences |publisher=MTV |accessdate=March 8, 2014}}&lt;/ref&gt; [[Remy Ma]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/remy-ma/related-artists/?filter=influencedBy |title=Remy Ma Music Influences |publisher=MTV |accessdate=May 26, 2014}}&lt;/ref&gt; [[Ivy Queen]],&lt;ref&gt;{{cite web|url=http://www.allmusic.com/artist/ivy-queen-mn0000101664/related|title=Ivy Queen  Similar Artists, Influenced By, Followers: Allmusic|publisher=[[AllMusic]]|accessdate=April 20, 2016}}&lt;/ref&gt; [[Foxy Brown (rapper)|Foxy Brown]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/foxy-brown/related-artists/?filter=influencedBy |title=Foxy Brown Music Influences |publisher=MTV |accessdate=June 28, 2012}}&lt;/ref&gt; [[Ms. Dynamite]],&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/ms-dynamite/related-artists/?filter=influencedBy |title=Ms. Dynamite Music Influences |publisher=MTV |accessdate=May 8, 2014}}&lt;/ref&gt; and [[Naughty by Nature]].&lt;ref&gt;{{cite web|url=http://www.mtv.com/artists/naughty-by-nature/related-artists/?filter=influencedBy |title=Naughty by Nature Music Influences |publisher=MTV |accessdate=July 5, 2014}}&lt;/ref&gt;
+
+==Discography==
+{{main|Queen Latifah discography}}
+
+*1989: ''[[All Hail the Queen]]''
+*1991: ''[[Nature of a Sista]]''
+*1993: ''[[Black Reign]]''
+*1998: ''[[Order in the Court]]''
+*2004: ''[[The Dana Owens Album]]''
+*2007: ''[[Trav'lin' Light (Queen Latifah album)|Trav'lin' Light]]''
+*2009: ''[[Persona (Queen Latifah album)|Persona]]''
+
+==Tours==
+Queen Latifah, [[Jill Scott]] and [[Erykah Badu]] joined together to create and own the rights to the Sugar Water Festival Tour, LLC. All three singers toured together, while inviting music duo [[Floetry]] in 2005 and singer [[Kelis]] in 2006 as opening acts. Comedian/actress [[Mo'Nique]] served as host for the 2006 Sugar Water Tour.
+
+* ''[[Sugar Water Festival Tour]]'' (200506)
+* ''Travlin' Light Tour'' (2007)
+
+==Filmography==
+
+===Film===
+{| class="wikitable sortable"
+|-
+! Year
+! Film
+! Role
+! Notes
+|-
+|1991
+|''[[Jungle Fever]]
+|Waitress
+|
+|-
+|1991
+|''[[House Party 2]]''
+|Zora
+|
+|-
+|1992
+|''[[Juice (film)|Juice]]''
+|Ruffhouse M.C.
+|
+|-
+|1993
+|''[[Who's the Man?]]''
+|Herself
+|Cameo role
+|-
+
+|1993
+|''[[My Life (film)|My Life]]''
+|Theresa
+|
+|-
+|1996
+|''[[Set It Off (film)|Set It Off]]''
+|Cleopatra 'Cleo' Sims
+|
+|-
+|1997
+|''[[Hoodlum (film)|Hoodlum]]''
+|Sulie
+|
+|-
+|1998
+|''[[Living Out Loud]]''
+|Liz Bailey
+|
+|-
+
+|1998
+|''[[Sphere (1998 film)|Sphere]]''
+|Alice "Teeny" Fletcher
+|
+|-
+|1999
+|''{{sortname|The|Bone Collector}}''
+|Thelma
+|
+|-
+|1999
+|''[[Bringing Out the Dead]]''
+|Dispatcher Love
+|
+|-
+|2002
+|''[[Chicago (2002 film)|Chicago]]''
+|Matron "Mama" Morton
+|
+|-
+|2002
+|''[[Pinocchio (2002 film)|Roberto Benigni's Pinocchio]]''
+|Dove (English voice)
+|
+|-
+|2002
+|''[[Brown Sugar (2002 film)|Brown Sugar]]''
+|Francine
+|
+|-
+|2002
+|''{{sortname|The|Country Bears}}''
+|Cha-Cha
+|
+|-
+|2003
+|''[[Scary Movie 3]]''
+|Aunt Shaneequa/The Oracle
+|
+|-
+|2003
+|''[[Bringing Down the House (film)|Bringing Down the House]]''
+|Charlene Morton
+|Producer
+|-
+| 2004
+|''[[Taxi (2004 film)|Taxi]]''
+|Belle
+|
+|-
+
+|2004
+|''{{sortname|The|Cookout}}''
+|Security Guard
+|Also producer
+|-
+
+|2004
+|''[[Barbershop 2: Back in Business]]''
+|Gina Norris
+|
+|-
+|2005
+|''[[Beauty Shop]]''
+|Gina Norris
+|Producer
+|-
+|2006
+|''[[Stranger than Fiction (2006 film)|Stranger than Fiction]]''
+|Penny Escher
+|
+|-
+
+|2006
+|''[[Ice Age: The Meltdown]]''
+|Ellie
+|Voice
+|-
+
+|2006
+|''[[Last Holiday (2006 film)|Last Holiday]]''
+|Georgia Byrd
+|
+|-
+|2007
+|''[[Hairspray (2007 film)|Hairspray]]''
+|Motormouth Maybelle
+|
+|-
+
+|2007
+|''{{sortname|The|Perfect Holiday}}''
+|Mrs. Christmas
+|Producer
+|-
+|2008
+|''[[Mad Money (film)|Mad Money]]''
+|Nina Brewster
+|
+|-
+
+|2008
+|''[[What Happens in Vegas]]...''
+|Dr. Twitchell
+|
+|-
+
+|2008
+|''{{sortname|The|Secret Life of Bees|dab=film}}''
+|August Boatwright
+|
+|-
+|2009
+|''[[Ice Age: Dawn of the Dinosaurs]]''
+|Ellie
+|Voice role
+|-
+|2010
+|''[[Valentine's Day (2010 film)|Valentine's Day]]''
+|Paula Thomas
+|
+|-
+|2010
+|''[[Just Wright]]''
+|Leslie Wright
+|Producer
+|-
+|2011
+|''{{sortname|The|Dilemma}}''
+|Susan Warner
+|
+|-
+|2012
+|''[[Ice Age: Continental Drift]]''
+|Ellie and a [[Siren (Greek mythology)|siren]]
+|Voice
+|-
+|2012
+|''[[Joyful Noise (film)|Joyful Noise]]''
+|Vi Rose Hill
+|
+|-
+|2013
+|''[[House of Bodies]]''
+|Nicole
+|Executive Producer&lt;br /&gt;Netflix Instant Exclusive
+|-
+|2014
+|''[[22 Jump Street]]''
+|Mrs. Dickson
+|
+|-
+| 2016
+| ''[[Miracles from Heaven (film)|Miracles from Heaven]]''
+|Angela
+| 
+|-
+| 2016
+| ''[[Ice Age: Collision Course]]''
+|Ellie
+|Voice
+|-
+| 2017
+| ''[[Girls Trip]]''
+|Sasha Franklin
+|
+|}
+
+===Television film===
+{| class="wikitable sortable"
+! Year
+! Title
+! Role
+! Notes
+|-
+|1998
+|''[[Mama Flora's Family]]''
+|Diana
+|
+|-
+|2002
+|''[[Living with the Dead (film)|Living with the Dead]]''
+|Midge Harmon
+|
+|-
+|2005
+|''{{sortname|The|Muppets' Wizard of Oz}}''
+|[[Aunt Em]]
+|
+|-
+|2007
+|''[[Life Support (film)|Life Support]]''
+|Ana Wallace
+|Producer
+|-
+| 2012
+|''[[Steel Magnolias (2012 film)|Steel Magnolias]]''
+|M'Lynn
+|
+|-
+| 2015
+| ''[[Bessie (film)|Bessie]]''
+| [[Bessie Smith]]
+| 
+|-
+|2015
+|''[[The Wiz Live!]]''
+|The Wiz
+|[[NBC]] Musical based on ''[[The Wiz]]''
+|-
+|2017
+|''[[Flint (film)|Flint]]''
+| Iza Banks 
+|[[Lifetime (TV network)|Lifetime]] drama&lt;ref&gt;{{cite web|last1=Saraiya|first1=Sonia|title=TV Review: Lifetimes Flint Starring Queen Latifah|url=https://variety.com/2017/tv/reviews/flint-review-queen-latifah-lifetime-1202600467/|website=Variety|date=27 October 2017}}&lt;/ref&gt;
+|}
+
+===Television===
+{| class="wikitable sortable"
+|-
+! Year
+! Title
+! Role
+! Notes
+|-
+|1991
+|''{{sortname|The|Fresh Prince of Bel-Air}}''
+|Dee Dee / Marissa Redman
+|2 episodes
+|-
+|19931998
+|''[[Living Single]]''
+|[[Khadijah James]]
+|Lead Role
+|-
+|19992001
+|''[[The Queen Latifah Show]]''
+|Host
+|Also Creator, Executive Producer
+|-
+|2001
+|''[[Spin City]]''
+|Robin Jones
+|1 episode
+|-
+|2004
+|''[[Eve (U.S. TV series)|Eve]]''
+|Simone
+|1 episode
+|-
+|2004
+|''{{sortname|The|Fairly OddParents}}''
+|Pam Dromeda (voice)
+|1 episode
+|-
+|2005
+|''[[47th Annual Grammy Awards]]''
+|Host
+|TV Special
+|-
+|2008
+|''Sweet Blackberry Presents''
+|
+|1 episode
+|-
+|2010
+|''[[Entourage (U.S. TV series)|Entourage]]''
+|Herself
+|1 episode
+|-
+|2010
+|''[[30 Rock]]''
+|Regina Bookman
+|2 episodes
+|-
+|20112012
+|''[[Single Ladies (TV series)|Single Ladies]]''
+|Sharon Love
+|Recurring; 4 episodes&lt;br&gt;Also Executive Producer
+|-
+|2011
+|''[[Ice Age: A Mammoth Christmas]]''
+|Ellie
+|Voice
+|-
+|2012
+|''[[Let's Stay Together (TV series)|Let's Stay Together]]''
+|Bobbie
+|1 episode&lt;br&gt;Also Executive Producer
+|-
+|20132015
+|''[[The Queen Latifah Show]]''
+|Host
+|Also Creator, Executive Producer
+|-
+|2014
+|''[[Hot In Cleveland]]''
+|Aunt Esther Jean Johnson
+|1 episode
+|-
+|2016
+|''[[Ice Age: The Great Egg-Scapade]]''
+|Ellie
+|Voice
+|-
+|2016present
+|''[[Star (TV series)|Star]]''
+|Carlotta Brown
+|Main Cast
+|-
+|2017
+|''[[Empire (2015 TV series)|Empire]]''
+|Carlotta Brown
+|1 episode
+|-
+|2018
+|''[[Scream (TV series)|Scream]]''
+|
+|Executive Producer
+|}
+
+==Awards and nominations==
+{| class="wikitable" 
+|-
+! Year 
+! Award
+! Category 
+! Nominated work 
+! Result 
+|-
+| 1995
+| [[Nickelodeon Kids' Choice Awards]]
+| [[Nickelodeon Kids' Choice Awards|Favorite TV Actress]]
+| &lt;center&gt;''[[Living Single]]''&lt;/center&gt;
+| {{nom}}
+|-
+| rowspan=4| 1996
+| [[American Black Film Festival]]
+| [[American Black Film Festival|Best Actress]]
+| rowspan=2| &lt;center&gt;''[[Set It Off (film)|Set It Off]]''&lt;/center&gt;
+| {{won}}
+|-
+| [[Independent Spirit Award]]
+| [[Independent Spirit Award for Best Supporting Female|Best Supporting Female]]
+| {{nom}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Comedy Series]]&lt;ref&gt;{{cite web|last1=SNOW|first1=SHAUNA|title=5 Films Head Nominations for NAACP Image Awards|url=http://articles.latimes.com/1996-02-22/entertainment/ca-38541_1_naacp-image-awards|website=Los Angeles Times|accessdate=January 21, 2017|date=February 22, 1996}}&lt;/ref&gt;
+| rowspan=2|&lt;center&gt;''[[Living Single]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[Nickelodeon Kids' Choice Awards]]
+| [[Nickelodeon Kids' Choice Awards|Favorite TV Actress]]
+| {{nom}}
+|-
+| 1997
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| &lt;center&gt;''[[Set It Off (film)|Set It Off]]''&lt;/center&gt;
+| {{won}}
+|-
+| 1999
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Supporting Actress in a Motion Picture|Outstanding Supporting Actress in a Motion Picture]]
+| &lt;center&gt;''[[Living Out Loud]]''&lt;/center&gt;
+| {{nom}}
+|-
+| rowspan=2| 2000
+| [[Black Reel Award]]
+| Best Supporting Actress
+| rowspan=2| &lt;center&gt;''[[The Bone Collector]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Supporting Actress in a Motion Picture|Outstanding Supporting Actress in a Motion Picture]]
+| {{nom}}
+|-
+| rowspan=13| 2002
+| [[Academy Award]]
+| [[Academy Award for Best Supporting Actress|Best Supporting Actress]]
+| rowspan=12| &lt;center&gt;''[[Chicago (2002 film)|Chicago]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[BAFTA Award]]
+| [[BAFTA Award for Best Actress in a Supporting Role|Best Actress in a Supporting Role]]
+| {{nom}}
+|-
+| [[BET Award]]
+| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| {{won}}
+|-
+| [[Black Reel Award]]
+| Best Supporting Actress
+| {{won}}
+|-
+| [[Broadcast Film Critics Association Award]]
+| [[Broadcast Film Critics Association Award for Best Cast|Best Cast]]
+| {{won}}
+|-
+| [[Golden Globe Award]]
+| [[Golden Globe Award for Best Supporting Actress  Motion Picture|Best Supporting Actress  Motion Picture]]
+| {{nom}}
+|-
+| [[MTV Movie Award]]
+| [[MTV Movie Award for Best Performance|Best Female Performance]]
+| {{nom}}
+|-
+| Phoenix Film Critics Society Award
+| Best Cast
+| {{nom}}
+|-
+| rowspan=2| [[Screen Actors Guild Award]]
+| [[Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture|Outstanding Performance by a Cast in a Motion Picture]]
+| {{won}}
+|-
+| [[Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Supporting Role|Outstanding Performance by a Female Actor in a Supporting Role]]
+| {{nom}}
+|-
+| rowspan=2| [[Teen Choice Award]]
+| [[Teen Choice Award|Choice Movie Actress: Comedy]]
+| {{won}}
+|-
+| [[Teen Choice Award|Choice Movie: Breakout Actress]]
+| {{nom}}
+|-
+| [[Satellite Award]]
+| [[Satellite Award for Best Supporting Actress  Series, Miniseries or Television Film|Best Supporting Actress  Series, Miniseries or Television Film]]
+| &lt;center&gt;''[[Living with the Dead (film)|Living with the Dead]]''&lt;/center&gt;
+| {{nom}}
+|-
+| rowspan=12| 2003
+| [[BET Award]]
+| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| rowspan=2| &lt;center&gt;''[[Brown Sugar (2002 film)|Brown Sugar]]''&lt;/center&gt;
+| {{won}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| {{nom}}
+|-
+| [[BET Award]]
+| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| rowspan=10| &lt;center&gt;''[[Bringing Down the House (film)|Bringing Down the House]]''&lt;/center&gt;
+| {{won}}
+|-
+| [[BET Award]]
+| [[BET Award|Outstanding Lead Actress in a Box Office Movie]]
+| {{nom}}
+|-
+| [[Black Reel Award]]
+| [[Black Reel Award for Best Actress|Best Actress]]
+| {{nom}}
+|-
+| rowspan=2| [[MTV Movie Award]]
+| [[MTV Movie Award|Best Female Performance]]
+| {{nom}}
+|-
+| [[MTV Movie Award for Best Fight|Best Fight]] &lt;small&gt;(shared with [[Missi Pyle]])&lt;/small&gt;
+| {{nom}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| {{won}}
+|-
+| [[Nickelodeon Kids' Choice Award]]
+| [[Nickelodeon Kids' Choice Award|Favorite Movie Actress]]
+| {{nom}}
+|-
+| rowspan=3| [[Teen Choice Award]]
+| [[Teen Choice Award|Choice Movie Actress: Comedy]]
+| {{won}}
+|-
+| [[Teen Choice Award|Choice Movie: Breakout Actress]]
+| {{nom}}
+|-
+| [[Teen Choice Award|Choice Movie: Chemistry]] &lt;small&gt;(shared with [[Eugene Levy]])&lt;/small&gt;
+| {{nom}}
+|-
+| rowspan=8| 2005
+| rowspan=4| [[BET Award]]
+| rowspan=2| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| &lt;center&gt;''[[Taxi (2004 film)|Taxi]]''&lt;/center&gt;
+| {{nom}}
+|-
+| rowspan=2|&lt;center&gt;''[[The Cookout]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[BET Award|Outstanding Writing for a Theatrical Film]]
+| {{nom}}
+|-
+| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| rowspan=7| &lt;center&gt;''[[Beauty Shop]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[Black Movie Award]]
+| [[Black Movie Award|Outstanding Performance by an Actress in a Leading Role]]
+| {{nom}}
+|-
+| rowspan=3| [[Teen Choice Award]]
+| [[Teen Choice Award for Choice Movie Actress  Comedy|Choice Movie Actress: Comedy]]
+| {{nom}}
+|-
+| [[Teen Choice Award for Choice Hissy Fit|Choice Movie: Hissy Fit]]
+| {{nom}}
+|-
+| [[Teen Choice Award|Choice Movie: Rap Artist]]
+| {{nom}}
+|-
+| rowspan=7| 2006
+| [[Black Reel Award]]
+| [[Black Reel Award for Outstanding Actress|Outstanding Actress]]
+| {{nom}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| {{nom}}
+|-
+| [[BET Award]]
+| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| rowspan=5| &lt;center&gt;''[[Last Holiday (2006 film)|Last Holiday]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[Black Reel Award]]
+| [[Black Reel Award for Outstanding Actress|Outstanding Actress]]
+| {{nom}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| {{nom}}
+|-
+| rowspan=2| [[Teen Choice Award]]
+| [[Teen Choice Award for Choice Movie Actress  Comedy|Choice Movie Actress: Comedy]]
+| {{nom}}
+|-
+| [[Teen Choice Award|Choice Movie: Liplock]]
+| {{nom}}
+|-
+| rowspan=14| 2007
+| [[BET Award]]
+| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| rowspan=7| &lt;center&gt;''[[Hairspray (2007 film)|Hairspray]]''&lt;/center&gt;
+| {{nom}}
+|-
+| rowspan=2| [[Broadcast Film Critics Association Award]]
+| [[Broadcast Film Critics Association Award for Best Song|Best Song]]
+| {{nom}}
+|-
+| [[Broadcast Film Critics Association Award for Best Cast|Best Cast]]
+| {{won}}
+|-
+| [[Hollywood Film Festival| Hollywood Film Festival Award]]
+| [[Hollywood Film Festival|Best Ensemble Cast]]
+| {{won}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Supporting Actress in a Motion Picture|Outstanding Supporting Actress in a Motion Picture]]
+| {{nom}}
+|-
+| [[Palm Springs International Film Festival]]
+| [[Palm Springs International Film Festival|Ensemble Cast]]
+| {{won}}
+|-
+| [[Screen Actors Guild Award]]
+| [[Screen Actors Guild Award for Outstanding Performance by a Cast in a Motion Picture|Outstanding Performance by a Cast in a Motion Picture]]
+| {{nom}}
+|-
+| [[Golden Globe Award]]
+| [[Golden Globe Award for Best Actress  Miniseries or Television Film|Best Actress  Miniseries or Television Film]]
+| rowspan=7| &lt;center&gt;''[[Life Support (film)|Life Support]]''&lt;/center&gt;
+| {{won}}
+|-
+| [[Gracie Allen|Gracie Allen Award]]
+| [[Gracie Allen|Outstanding Female Lead  Drama Series or Special]]
+| {{won}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Television Movie, Mini-Series or Dramatic Special|Outstanding Actress in a Television Movie, Mini-Series or Dramatic Special]]
+| {{won}}
+|-
+| [[Primetime Emmy Award]]
+| [[Primetime Emmy Award for Outstanding Lead Actress  Miniseries or a Movie|Outstanding Lead Actress  Miniseries or a Movie]]
+| {{nom}}
+|-
+| Prism Award
+| Performance in a TV Movie or Miniseries
+| {{nom}}
+|-
+| [[Satellite Award]]
+| [[Satellite Award for Best Actress  Miniseries or Television Film|Best Actress  Miniseries or Television Film]]
+| {{nom}}
+|-
+| [[Screen Actors Guild Award]]
+| [[Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie|Outstanding Performance by a Female Actor in a Miniseries or Television Movie]]
+| {{won}}
+|-
+| rowspan=2| 2008
+| [[BET Award]]
+| [[BET Award for Best Actor &amp; Actress|Best Actress]]
+| &lt;center&gt;''[[The Perfect Holiday]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[Black Reel Award]]
+| [[Black Reel Award for Outstanding Actress|Outstanding Actress]]
+| rowspan=4| &lt;center&gt;''[[The Secret Life of Bees (film)|The Secret Life of Bees]]''&lt;/center&gt;
+| {{won}}
+|-
+| rowspan=3| 2009
+| [[Hollywood Film Festival| Hollywood Film Festival Award]]
+| [[Hollywood Film Festival|Best Ensemble Cast]]
+| {{won}}
+|-
+| [[Black Reel Award]]
+| [[Black Reel Award for Outstanding Ensemble|Outstanding Ensemble]]
+| {{nom}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| {{nom}}
+|-
+| rowspan=5| 2010
+| [[Teen Choice Award]]
+| [[Teen Choice Award|Choice Movie Actress: Romantic Comedy]]
+| &lt;center&gt;''[[Valentine's Day (2010 film)|Valentine's Day]]''&lt;/center&gt;
+| {{nom}}
+|-
+| rowspan=2| [[Black Reel Award]]
+| [[Black Reel Award for Best Actress|Best Actress]]
+| rowspan=4|&lt;center&gt;''[[Just Wright]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[Black Reel Award for Best Original or Adapted Song|Best Original or Adapted Song]] &lt;small&gt;(for the song "Champion")&lt;/small&gt;
+| {{nom}}
+|-
+| [[NAACP Image Award]]
+| [[NAACP Image Award for Outstanding Actress in a Motion Picture|Outstanding Actress in a Motion Picture]]
+| {{nom}}
+|-
+| [[Teen Choice Award]]
+| [[Teen Choice Award|Choice Movie Actress: Romantic Comedy]]
+| {{nom}}
+|-
+| rowspan=6| 2015
+| [[Critics' Choice Television Award]]
+| [[Critics' Choice Television Award for Best Actress in a Movie/Miniseries|Best Actress in a Movie/Miniseries]]
+| rowspan=6| &lt;center&gt;''[[Bessie (film)|Bessie]]''&lt;/center&gt;
+| {{nom}}
+|-
+| [[Golden Globe Award]]
+| [[Golden Globe Award for Best Actress  Miniseries or Television Film|Best Actress  Miniseries or Television Film]]
+| {{nom}}
+|-
+| [[Primetime Emmy Award]]
+| [[Primetime Emmy Award for Outstanding Television Movie|Outstanding Television Movie]] &lt;small&gt;(as a producer)&lt;/small&gt;
+| {{won}}
+|-
+| [[Screen Actors Guild Award]]
+| [[Screen Actors Guild Award for Outstanding Performance by a Female Actor in a Miniseries or Television Movie|Outstanding Performance by a Female Actor in a Miniseries or Television Movie]]
+| {{won}}
+|-
+| [[Satellite Award]]
+| [[Satellite Award for Best Actress  Miniseries or Television Film|Best Actress  Miniseries or Television Film]]
+| {{nom}}
+|}
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{Commons category}}
+* {{Official website|http://queenlatifah.com}}
+* {{IMDb name|0001451}}
+* [http://www.tv.com/queen-latifah/person/54643/summary.html?q=Queen%20Latifah&amp;tag=search_results;title;0 Queen Latifah] at [[TV.com]]
+* [http://www.emmys.com/celebrities/queen-latifah Queen Latifah at Emmys.com]
+
+{{Queen Latifah}}
+{{Navboxes
+|title = Awards for Queen Latifah
+|list=
+{{Broadcast Film Critics Association Award for Best Cast}}
+{{GoldenGlobeBestActressTVMiniseriesFilm 2000-2019}}
+{{ScreenActorsGuildAward FemaleTVMiniseriesMovie 1994-2009}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Queen Latifah}}
+[[Category:1970 births]]
+[[Category:Living people]]
+[[Category:20th-century American actresses]]
+[[Category:20th-century American singers]]
+[[Category:21st-century American actresses]]
+[[Category:21st-century American singers]]
+[[Category:Queen Latifah| ]]
+[[Category:A&amp;M Records artists]]
+[[Category:Actresses from Newark, New Jersey]]
+[[Category:African-American actresses]]
+[[Category:American actresses]]
+[[Category:African-American businesspeople]]
+[[Category:American businesspeople]]
+[[Category:African-American Christians]]
+[[Category:African-American comedians]]
+[[Category:American comedians]]
+[[Category:African-American female models]]
+[[Category:American female models]]
+[[Category:African-American models]]
+[[Category:African-American female rappers]]
+[[Category:African-American female singer-songwriters]]
+[[Category:African-American singer-songwriters]]
+[[Category:American singer-songwriters]]
+[[Category:American female singer-songwriters]]
+[[Category:African-American feminists]]
+[[Category:American feminists]]
+[[Category:African-American pianists]]
+[[Category:American women pianists]]
+[[Category:American cosmetics businesspeople]]
+[[Category:American dance musicians]]
+[[Category:American fashion businesspeople]]
+[[Category:American film actresses]]
+[[Category:American gospel singers]]
+[[Category:American hip hop singers]]
+[[Category:American female jazz singers]]
+[[Category:American rhythm and blues singer-songwriters]]
+[[Category:American soul singers]]
+[[Category:African-American television producers]]
+[[Category:American television producers]]
+[[Category:Women television producers]]
+[[Category:American television actresses]]
+[[Category:American television talk show hosts]]
+[[Category:American voice actresses]]
+[[Category:American women comedians]]
+[[Category:American women in business]]
+[[Category:Baptists from the United States]]
+[[Category:Best Miniseries or Television Movie Actress Golden Globe winners]]
+[[Category:Businesspeople from New Jersey]]
+[[Category:East Coast hip hop musicians]]
+[[Category:Feminist musicians]]
+[[Category:Five percenters]]
+[[Category:Grammy Award winners]]
+[[Category:Interscope Records artists]]
+[[Category:Motown artists]]
+[[Category:Musicians from Newark, New Jersey]]
+[[Category:Native Tongues Posse]]
+[[Category:Outstanding Performance by a Cast in a Motion Picture Screen Actors Guild Award winners]]
+[[Category:Outstanding Performance by a Female Actor in a Miniseries or Television Movie Screen Actors Guild Award winners]]
+[[Category:People from Colts Neck Township, New Jersey]]
+[[Category:People from Irvington, New Jersey]]
+[[Category:People from Rumson, New Jersey]]
+[[Category:Musicians from East Orange, New Jersey]]
+[[Category:Rappers from Newark, New Jersey]]
+[[Category:Songwriters from New Jersey]]
+[[Category:Tommy Boy Records artists]]
+[[Category:Verve Records artists]]
+[[Category:Primetime Emmy Award winners]]
+[[Category:Actors from East Orange, New Jersey]]
+[[Category:American contemporary R&amp;B singers]]
+[[Category:20th-century women singers]]
+[[Category:21st-century women singers]]</text>
+      <sha1>kkiizuru55kzqz73w1yyvrj6we7rcwu</sha1>
+    </revision>
+  </page>
+</mediawiki>

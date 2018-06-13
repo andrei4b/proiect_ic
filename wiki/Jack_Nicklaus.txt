@@ -1,0 +1,936 @@
+--sport
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Jack Nicklaus</title>
+    <ns>0</ns>
+    <id>242911</id>
+    <revision>
+      <id>842619118</id>
+      <parentid>842577089</parentid>
+      <timestamp>2018-05-23T15:52:37Z</timestamp>
+      <contributor>
+        <username>Tewapack</username>
+        <id>1370770</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by [[Special:Contribs/67.140.163.125|67.140.163.125]] ([[User talk:67.140.163.125|talk]]) to last version by 50.5.88.195</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="117011">{{redirect|The Golden Bear|other uses|Golden Bear (disambiguation)}}
+{{Use mdy dates|date=May 2011}}
+{{Infobox golfer
+| name              = Jack Nicklaus
+| image             = JackNicklaus.cropped.jpg
+| image_size        = 230
+| caption           = Nicklaus in September 2006
+| fullname          = Jack William Nicklaus
+| nickname          = The Golden Bear
+| birth_date        = {{Birth date and age|1940|1|21}}
+| birth_place       = [[Columbus, Ohio]]
+| death_date        = &lt;!-- {{Death date and age|YYYY|MM|DD|1940|1|21}} --&gt;
+| death_place       = 
+| height            = {{height|ft=5|in=10}}
+| nationality       = {{USA}}
+| residence         = [[North Palm Beach, Florida]], U.S.
+| spouse            = Barbara Bash&lt;br /&gt;(m. 1960present)
+| children          = Jack, Steven, Nancy, Gary, Michael
+| college           = [[Ohio State University]]
+| yearpro           = 1961
+| retired           = 2005
+| extour            = [[PGA Tour]]&lt;br /&gt;[[Champions Tour]]
+| prowins           = [[List of career achievements by Jack Nicklaus#Professional wins (117)|117]]
+| pgawins           = [[List of career achievements by Jack Nicklaus#PGA Tour wins (73)|73]] ([[List of golfers with most PGA Tour wins|3rd all time]])
+| eurowins          = &lt;!-- Number of European Tour wins --&gt;
+| auswins           = [[List of career achievements by Jack Nicklaus#PGA Tour of Australasia wins  (7)|7]]
+| champwins         = [[List of career achievements by Jack Nicklaus#Senior PGA Tour wins (10)|10]]
+| otherwins         = [[List of career achievements by Jack Nicklaus#Other wins (19)|19]] (regular)&lt;br /&gt;[[List of career achievements by Jack Nicklaus#Other senior wins (8)|8]] (senior)
+| majorwins         = 18
+| masters           = '''Won''': [[1963 Masters Tournament|1963]], [[1965 Masters Tournament|1965]], [[1966 Masters Tournament|1966]], [[1972 Masters Tournament|1972]], [[1975 Masters Tournament|1975]], [[1986 Masters Tournament|1986]]
+| usopen            = '''Won''': [[1962 U.S. Open (golf)|1962]], [[1967 U.S. Open (golf)|1967]], [[1972 U.S. Open (golf)|1972]], [[1980 U.S. Open (golf)|1980]]
+| open              = '''Won''': [[1966 Open Championship|1966]], [[1970 Open Championship|1970]], [[1978 Open Championship|1978]]
+| pga               = '''Won''': [[1963 PGA Championship|1963]], [[1971 PGA Championship|1971]], [[1973 PGA Championship|1973]], [[1975 PGA Championship|1975]], [[1980 PGA Championship|1980]]
+| wghofid           = jack-nicklaus
+| wghofyear         = 1974
+| award1            = [[PGA Tour#Money winners and most wins leaders|PGA Tour&lt;br /&gt;leading money winner]]
+| year1             = 1964, 1965, 1967, 1971, 1972, 1973, 1975, 1976
+| award2            = [[PGA Player of the Year]]
+| year2             = 1967, 1972, 1973, 1975, 1976
+| award3            = [[Bob Jones Award]]
+| year3             = 1975
+| award4            = [[Payne Stewart Award]]
+| year4             = 2000
+| award5            = [[PGA Tour Lifetime Achievement Award|PGA Tour Lifetime&lt;br /&gt;Achievement Award]]
+| year5             = 2008
+| award6            = [[Congressional Gold Medal]]
+| year6             = 2015
+| awardssection     = List of career achievements by Jack Nicklaus#Awards
+}}
+'''Jack William Nicklaus''' (born January 21, 1940), nicknamed '''The Golden Bear''', is a retired American [[professional golfer]]. Many observers regard him as the  greatest golfer of all time.&lt;ref&gt;{{cite web|last1=Auclair|first1=T.J.|title=10 Greatest golfers of all time|url=http://www.pga.com/news/golf-buzz/10-greatest-golfers-all-time|website=pga.com|accessdate=May 19, 2017}}&lt;/ref&gt;&lt;ref&gt;https://www.thoughtco.com/ranking-golfs-greatest-players-1561114&lt;/ref&gt; During a span of more than 25 years, he won a record 18 career [[Men's major golf championships|major championships]] while producing 19 second-place and 9 third-place finishes.&lt;ref name="Top50"&gt;{{cite book |last=Spencer |first=Reid |title=The Sporting News selects 50 Greatest Golfers |publisher=The Sporting News |isbn=0-89204-692-9 }}&lt;/ref&gt; Nicklaus focused on the major championships[[Masters Tournament]], [[U.S. Open (golf)|U.S. Open]], [[The Open Championship|Open Championship]] and [[PGA Championship]]and played a selective schedule of regular [[PGA Tour]] events, yet still finished with 73 victories, third on the all-time list behind [[Sam Snead]] (82) and [[Tiger Woods]] (79).
+
+Nicklaus won the [[U.S. Amateur]] in 1959 and 1961 and challenged for the [[1960 U.S. Open (golf)|1960 U.S. Open]], where he finished in second place, two shots behind [[Arnold Palmer]]. Nicklaus turned professional at age 21 toward the end of 1961. He earned his first professional win a major championship, the [[1962 U.S. Open (golf)|1962 U.S. Open]], when he defeated Palmer by three shots in a next day 18-hole  playoff. This win over Palmer began the on-course rivalry between the two golf superstars. In 1966, Nicklaus won the Masters Tournament for the second year in a row, becoming the first golfer to achieve this distinction, and also won The Open Championship, completing his career slam of major championships.&lt;ref name=open&gt;{{cite web|url=http://www.theopen.com/en/History/OpenChampions.aspx#player=Jack+NICKLAUS |title=1966 Jack Nicklaus |publisher=The Open |accessdate=October 18, 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131016164928/http://www.theopen.com/en/History/OpenChampions.aspx |archivedate=October 16, 2013 |df= }}&lt;/ref&gt; At age 26, he became the youngest to do so at the time. He won another Open Championship in 1970.&lt;ref name=open/&gt;
+
+Between 1971 and 1980, he won an additional nine major championships, overtook [[Bobby Jones (golfer)|Bobby Jones]]' record of 13 majors, and became the first player to complete double and triple career slams of golf's four professional major championships. When Nicklaus claimed his 18th and final major championship at age 46 at the [[1986 Masters Tournament|1986 Masters]], he became the tournament's oldest winner. Nicklaus joined the Senior PGA Tour (now known as the [[PGA Tour Champions]])  when he became eligible in January 1990, and by April 1996 had won 10 tournaments, including eight major championships despite playing a very limited schedule. He continued to play at least some of the four regular Tour majors until 2005, when he made his final appearances at the Masters Tournament and The Open Championship.
+
+Nicklaus has also taken part in various other activities, including [[golf course design]], charity work and book writing. He is a member of the [[American Society of Golf Course Architects]] and has helped design courses such as [[Harbour Town Golf Links]]. Nicklaus also runs his own tournament on the PGA Tour, the [[Memorial Tournament]]. His golf course design company is one of the largest in the world. Nicklaus' books vary from instructional to autobiographical, with his ''Golf My Way'' considered one of the best instructional golf books of all time; the video of the same name is the best selling golf instructional to date.
+
+==Early life and amateur golf pursuits==
+Nicklaus was born in [[Columbus, Ohio]] and grew up in the suburb of [[Upper Arlington, Ohio|Upper Arlington]]. He is of [[German American|German descent]], the son of Helen (Schoener) (19092000)&lt;ref&gt;https://www.findagrave.com/memorial/12954763/nellie-helen-nicklaus&lt;/ref&gt; and Charlie Nicklaus (1913 1970),&lt;ref&gt;https://www.findagrave.com/memorial/12954762/louis-charles-nicklaus&lt;/ref&gt; a pharmacist who ran several businesses named Nicklaus Drug Store.&lt;ref&gt;http://www.golfchannel.com/news/golf-central-blog/know-jack-charlie-and-helen-nicklaus/&lt;/ref&gt; Charlie was a skilled all-round athlete who had played football for the [[Ohio State Buckeyes football|Ohio State Buckeyes]] and had gone on to play semi-professional football under an assumed name for the [[Portsmouth Spartans]] (who later became the [[NFL]]'s [[Detroit Lions]]). Charlie had also been a scratch golfer and local [[tennis]] champion in his youth.&lt;ref name=fairway&gt;{{cite book |title=On &amp; Off the Fairway |first1=Jack |last1=Nicklaus |first2=Ken |last2=Bowden |year=1978 |publisher=Simon &amp; Schuster |isbn=978-0671225681}}&lt;/ref&gt;&lt;ref name=rivalry/&gt; Charlie Nicklaus died of [[pancreatic cancer]] at age fifty six.&lt;ref&gt;https://www.everydayhealth.com/pancreatic-cancer/1006/dana-delany-jack-nicklaus-lisa-niemi-swayze-unite-to-raise-awareness-for-pancreatic-cancer.aspx&lt;/ref&gt;
+
+Nicklaus was raised in Upper Arlington and attended [[Upper Arlington High School (Ohio)|Upper Arlington High School]], whose nickname and mascot are coincidentally the Golden Bears. In his senior year, Nicklaus was an honorable mention All-Ohio selection in [[basketball]] as a shooting guard, and he received some recruiting interest from college basketball programs, including Ohio State. During his youth, he also competed successfully in football, baseball, tennis, and track and field.&lt;ref name=fairway/&gt;&lt;ref&gt;{{cite book |title=The Wicked Game: Arnold Palmer, Jack Nicklaus, Tiger Woods, and the Story of Modern Golf |first=Howard |last=Sounes |authorlink=Howard Sounes |year=2005 |publisher=William Morrow |isbn=978-0-06-051386-3}}&lt;/ref&gt;
+
+Nicklaus took up golf at the age of 10, scoring a 51 at [[Scioto Country Club]] for his first nine holes ever played. Charlie Nicklaus had joined Scioto that same year, returning to golf to help heal a [[volleyball]] injury. Jack Nicklaus was coached at Scioto by club pro [[Jack Grout]], a Texas-developed contemporary of golf greats [[Byron Nelson]] and [[Ben Hogan]]; Grout had played quite successfully on the [[PGA Tour]] and would become Nicklaus' lifelong golf instructor.&lt;ref name=fairway/&gt; Nicklaus overcame a [[List of polio survivors|mild case]] of [[polio]] as a 13-year-old.&lt;ref&gt;{{cite journal |first=Guy |last=Yocum |title=My Shot: Jack Nicklaus |url=http://www.golfdigest.com/magazine/myshot_gd0404 |magazine=[[Golf Digest]] |date=April 2004 |accessdate=May 22, 2007}}&lt;/ref&gt;
+
+Nicklaus won the first of five straight&lt;ref name="Golf My Way"&gt;{{cite book |last1=Nicklaus |first1=Jack |last2=Bowden |first2=Ken |title=Golf My Way |publisher=William Heinemann Ltd |year=1974 |isbn=1-85051-475-5}}&lt;/ref&gt; Ohio State Junior titles at the age of 12. At 13, he broke 70 at Scioto Country Club for the first time, and became that year's youngest qualifier into the [[U.S. Junior Amateur]], where he survived three match-play rounds. He had earned a handicap of +3 at age 13, the lowest in the Columbus area.&lt;ref name=fairway/&gt;&lt;ref name=rivalry/&gt; Nicklaus won the Tri-State High School Championship (Ohio/[[Kentucky]]/[[Indiana]]) at the age of 14 with a round of 68, and also recorded his first [[hole-in-one]] in tournament play the same year. At 15, Nicklaus shot a 66 at Scioto Country Club, which was the amateur course record, and qualified for his first [[U.S. Amateur]]. He won the [[Ohio Open]] in 1956 at age 16, highlighted by a phenomenal third round of 64, competing against professionals. In all, Nicklaus won 27 events in the Ohio area from age 10 to age 17.
+
+In 1957, Nicklaus won the [[International Jaycee Junior Golf Tournament]], having lost the previous year in a playoff. Nicklaus also competed in his first of 44 consecutive [[U.S. Open (golf)|U.S. Open]]s that year, but missed the cut. In 1958 at age 18, he competed in his first PGA Tour event, the Rubber City Open, at [[Akron, Ohio|Akron]], Ohio, tying for 12th place after being just one out of the lead at the 36-hole mark,&lt;ref&gt;{{cite news |url=https://select.nytimes.com/gst/abstract.html?res=FA0B14FE3C5F117B93C7A9178CD85F4C8585F9 |title=Wall's 67 for 132 Keeps Golf Lead; Bolt, Phillips, Nicklaus and Balding Share Second, a Stroke Back, at Akron |newspaper=The New York Times |date=July 4, 1958 |agency=UPI}}&lt;/ref&gt; and made the cut in the [[U.S. Open (golf)|U.S. Open]], tying for 41st place. Nicklaus also won two [[Trans-Mississippi Amateur]]s  in 1958 at [[Prairie Dunes Country Club]] and 1959 at Woodhill Country Club, with final match victories of 9 &amp; 8 and 3 &amp; 2, respectively. Also in 1959, Nicklaus won the [[North and South Amateur]] at [[Pinehurst, North Carolina]] and competed in three additional [[PGA Tour]] events, with his best finish being another 12th place showing at the [[Buick Open]].
+
+While attending [[Ohio State Buckeyes|Ohio State]], he won the [[U.S. Amateur]] twice (1959, 1961), and an [[NCAA Division I Men's Golf Championships|NCAA Championship]] (1961). In the 1959 U.S. Amateur, Nicklaus defeated two-time winner and defending champion [[Charles Coe]] 1-up in the final 36-hole match when he birdied the eighteenth hole.&lt;ref name=nwnanxpl&gt;{{cite news |url=https://news.google.com/newspapers?id=lztYAAAAIBAJ&amp;sjid=XPcDAAAAIBAJ&amp;pg=3302,1924641 |newspaper=The Bulletin |location=[[Bend, Oregon]] |agency=United Press International |title=Nicklaus wins National Am; nixes pro life |date=September 21, 1959 |page=3}}&lt;/ref&gt; This was significant not only because of Coe's proven ability as a player, but also because Nicklaus became the then-youngest champion in the modern era, second only to [[Robert A. Gardner (golfer)|Robert A. Gardner]], who won in 1909. In 1961, Nicklaus became the first player to win the individual title at the NCAA Championship and the U.S. Amateur in the same year. He was followed by [[Phil Mickelson]] (1990), [[Tiger Woods]] (1996), [[Ryan Moore (golfer)|Ryan Moore]] (2004), and [[Bryson DeChambeau]] (2015). Nicklaus also won the NCAA [[Big Ten Conference]] Championship that year with a 72-hole aggregate of 283, while earlier claiming the [[Western Amateur]] in New Orleans. In his second and last U.S. Amateur win in 1961, Nicklaus convincingly defeated [[Dudley Wysong]] 8 &amp; 6 at [[Pebble Beach Golf Links|Pebble Beach]] in the 36-hole championship match. For the week, Nicklaus was 20 strokes under par, including 34 birdies and two eagles.
+
+At the [[1960 U.S. Open (golf)|1960 U.S. Open]], twenty-year-old Nicklaus shot a two-under par 282, finishing in second place two strokes behind [[Arnold Palmer]], who won the tournament for the only time with a final round charge of six-under-par 65. This score remains the lowest ever by an amateur in the [[U.S. Open (golf)|U.S. Open]]. Nicklaus played the final 36 holes with [[Ben Hogan]], who later remarked that he had just played 36 holes with a kid who should have won by 10 shots. During the final 36 holes, Nicklaus was two-under-par; he had shot every round of the tournament at or below par and was the only entrant to do so. Nicklaus had led by two shots with six holes to play. In 1960, Nicklaus also tied for 13th in the [[Masters Tournament]]. He tied for fourth in the 1961 [[U.S. Open (golf)|U.S. Open]], three shots behind champion [[Gene Littler]], having played the final 54 holes one under par. Each of these three major championship finishes designated Nicklaus as low amateur. However, Nicklaus' one-under-par 287 tied for seventh in the 1961 [[Masters Tournament]], and was second that year only to [[Charles Coe]]'s low amateur placing, when he tied for second with Arnold Palmer at seven-under par 281, one shot behind champion [[Gary Player]].
+
+Nicklaus represented the United States against Great Britain and Ireland on winning [[Walker Cup]] teams in both 1959 and 1961, decisively winning both of his matches in each contest. On the 1959 trip to Britain, he also made his only attempt at the [[British Amateur]], the world's oldest international amateur event, at [[Royal St George's Golf Club]], reaching the quarterfinal round (top 8).&lt;ref name=fairway/&gt; He was also a member of the victorious 1960 U.S. [[Eisenhower Trophy]] team, winning the unofficial individual title by 13 shots over teammate [[Deane Beman]] with a four-round score of 269, a record which still stands; this score was 18 shots lower than [[Ben Hogan]]'s earlier [[U.S. Open (golf)|U.S. Open]] aggregate of 287 at the same site (which had, however, been scored under much tougher conditions).&lt;ref name=fairway/&gt;&lt;ref&gt;{{cite web|url=http://www.internationalgolffederation.org/2006/men/FactSheet.html|title=2006 World Amateur Championship Fact Sheet|accessdate=March 17, 2007}}&lt;/ref&gt; For three straight years (19591961), Nicklaus was named the world's top amateur golfer by ''[[Golf Digest]]'' magazine.
+
+===College studies and marriage===
+Nicklaus attended Ohio State from 1957 to 1961. He majored in pre-[[pharmacy]] and had good grades in his first three years; he intended to follow his father into pharmacy after graduation.&lt;ref name=nwnanxpl/&gt;&lt;ref name=nsthwtp&gt;{{cite news |url=https://news.google.com/newspapers?id=H7BPAAAAIBAJ&amp;sjid=5AQEAAAAIBAJ&amp;pg=6981,2995885 |newspaper=Ocala Star-Banner |location=[[Ocala, Florida]] |agency=Associated Press |title=Nicklaus says that he won't turn pro |date=August 24, 1959 |page=8}}&lt;/ref&gt; As his amateur golf achievements mounted, Nicklaus changed his mind on his career path; he switched programs to study [[insurance]]. At that stage, he planned to remain an amateur golfer and earn his living by selling insurance. For a time, he worked in the insurance field while he also attended college. He married Barbara Bash (b. 1940), who was a nursing student at Ohio State,&lt;ref&gt;https://jack-columbus.pgatour.com/13-meeting-barbara&lt;/ref&gt; in July 1960,&lt;ref name=ckelifar&gt;{{cite news |url=http://chronicle.augusta.com/content/blog-post/john-boyette/2010-07-23/nicklauses-celebrate-50-years?v=1279895179 |newspaper=Augusta Chronicle |last=Boyette |first=John |title=Nicklauses celebrate 50 years |date=July 23, 2010 |accessdate=February 25, 2013}}&lt;/ref&gt; and their first of five children, Jack Jr., was born in September 1961, but the following month, Nicklaus was still intent on becoming the first amateur to win the Masters.&lt;ref name=nwtpdp&gt;{{cite news |url=https://news.google.com/newspapers?id=xswVAAAAIBAJ&amp;sjid=HhEEAAAAIBAJ&amp;pg=2233,420008 |newspaper=Milwaukee Sentinel |agency=Associated Press |title=Nicklaus won't turn pro, despite pressure |date=October 21, 1961 |page=4-part 2}}&lt;/ref&gt;&lt;ref name=abptan&gt;{{cite news |url=https://news.google.com/newspapers?id=Sv4sAAAAIBAJ&amp;sjid=8s4FAAAAIBAJ&amp;pg=849,4538450 |newspaper=Palm Beach Post |agency=Associated Press |title=Attractive bait put to entice Nicklaus |date=October 24, 1961 |page=14}}&lt;/ref&gt; In early November, he changed his mind and announced that he was turning professional in order to support his family.&lt;ref name=abejtp&gt;{{cite news |url=https://news.google.com/newspapers?id=mXBAAAAAIBAJ&amp;sjid=AVkMAAAAIBAJ&amp;pg=2634,2764789 |newspaper=Youngstown Vindicator |agency=Associated Press |title=Amateurs breathing easy, Jack Nicklaus turns pro |date=November 9, 1961 |page=32}}&lt;/ref&gt;&lt;ref name=aknrhtp&gt;{{cite news |url=https://news.google.com/newspapers?id=wgJdAAAAIBAJ&amp;sjid=BVoNAAAAIBAJ&amp;pg=5112,2271600 |newspaper=St. Joseph Gazette |agency=Associated Press |location=[[St. Joseph, Missouri]] |title=Amateur king Nicklaus reports he'll turn pro |date=November 9, 1961 |page=7}}&lt;/ref&gt; He wound up a few course hours short of graduating from college. In a goodwill gesture, Ohio State granted him an honorary doctorate in 1972.&lt;ref name=fairway/&gt;
+
+==PGA Tour career==
+
+===Professional breakthrough: 19621963===
+Nicklaus began his career on the [[PGA Tour]] in 1962. While Nicklaus officially turned professional in late 1961, he heavily debated the idea of remaining an amateur in order to further emulate his idol, [[Bobby Jones (golfer)|Bobby Jones]]. However, Nicklaus realized that in order to be regarded as the best, he would have to compete in greater frequency against the best. Shortly after turning professional, Nicklaus' future agent, [[Mark McCormack]], was interviewed by ''Melbourne Age'' writer [[Don Lawrence]], who inquired about the American golf scene. When McCormack described Nicklaus, Lawrence referred to the "large, strong, and blond" player as "the Golden Bear," a nickname that would become synonymous with Nicklaus throughout his professional life. However, another possible origination of the name derives from the [[Upper Arlington High School|high school]] that Nicklaus attended in Upper Arlington, Ohio, which uses the mascot the Golden Bears for its sports teams. As mentioned above, Nicklaus played on several Golden Bear athletic teams, including captaining its 1956 state-champion golf squad, suggesting that McCormack may have adopted the name through Nicklaus' high school affiliation. Regardless, by 1963, the nickname had stuck.
+
+Nicklaus won his first PGA tournament in his 17th start, when he defeated  [[Arnold Palmer]] in a Sunday playoff at [[Oakmont Country Club|Oakmont]] for the 1962 [[U.S. Open (golf)|U.S. Open]]; Nicklaus earned $17,500 for his efforts. The galleries were more vocal in their support for Palmerwho had grown up in nearby [[Latrobe, Pennsylvania|Latrobe]]but Nicklaus won the playoff by three shots (71 to 74). In 90 holes, Nicklaus had only one three-putt green. The [[U.S. Open (golf)|U.S. Open]] victory made Nicklaus the reigning U.S. Open and [[U.S. Amateur]] champion. In addition, at age 22, Nicklaus was the youngest U.S. Open champion since Bobby Jones won at age 21 in 1923, and he has remained the youngest winner since (John McDermott is still the youngest winner of the U.S. Open at age 19 in 1911).&lt;ref&gt;The Boston Globe, August 13, 2013&lt;/ref&gt; The U.S. Open win thrust Nicklaus into the national spotlight, and he was featured on the cover of ''[[Time (magazine)|Time]]'' magazine. This was also the beginning of the Nicklaus-Palmer rivalry, which attracted viewers to golf on television.&lt;ref name=rivalry&gt;{{cite book |title=Arnie &amp; Jack: Palmer, Nicklaus, and Golf's Greatest Rivalry |last=O'Connor |first=Ian |publisher=Houghton Mifflin |date=April 11, 2008 |isbn=0-618-75446-6}}&lt;/ref&gt;
+
+By the end of 1962, Nicklaus had won two more tournaments, which were back-to-back in the [[Seattle Open]] and [[Portland Open]]. In addition, he tied for third in his first attempt at the [[PGA Championship]]. Nicklaus completed the year with over $60,000 in prize-money, made 26 of 26 cuts with 16 top-10 finishes, placed third on the PGA Tour money list, and was named Rookie of the Year. He also won the inaugural staging of the World Series of Golf, a select-field event for the year's major champions, and collected another $50,000 (unofficial money) for that win.&lt;ref name="Golf My Way"/&gt;
+
+In 1963, Nicklaus won two of the four majorsthe [[Masters Tournament|Masters]] and the [[PGA Championship]]. These victories made him the then-youngest winner of the Masters and third-youngest winner of the PGA Championship, and each win came in just his second year as a professional. Earlier in 1963, Nicklaus injured his left hip playing an approach shot from the roughan injury that would manifest itself years later. Ironically, Nicklaus credits this injury with assisting him in altering his swing heading into the 1963 Masters, thus allowing him to play a draw more easily. Along with three other wins including the [[Tournament of Champions (PGA Tour)|Tournament of Champions]], he placed second to [[Arnold Palmer]] on the PGA Tour money list with just over $100,000.&lt;ref name="Golf My Way"/&gt; He also teamed with Palmer to win the [[Canada Cup (golf)|Canada Cup]] (now the [[World Cup of Golf]]) in France, representing the United States (this event was shortened to 63 holes due to heavy fog). Nicklaus also finished as low individual scorer for that event.
+
+====Business success====
+Nicklaus' meteoric rise to fame immediately after turning professional brought opportunities for him to earn significant endorsement income.&lt;ref name=nssssn&gt;{{cite news |url=https://news.google.com/newspapers?id=AZscAAAAIBAJ&amp;sjid=wmUEAAAAIBAJ&amp;pg=5365%2C1032152 |newspaper=Sarasota Herald-Tribune |location=Florida |agency=Associated Press |last=Grimsley |first=Will |title=Nicklaus: none so successful so soon |date=April 4, 1965 |page=3D }}&lt;/ref&gt; These business opportunities were facilitated by [[Mark McCormack]], who also managed Palmer and [[Gary Player]]. Golf was growing rapidly in popularity and media coverage during the early 1960s, led by the performances of these three star players. Palmer's charging style and popularity with the galleries made him the world's most marketable sports figure. This association was the start of the agency that became known as [[International Management Group]], and IMG, after building a base in golf management, eventually expanded into other sports. The Palmer-Nicklaus-Player rivalry developed into the so-called "Big Three" of Golf. McCormack set up a series of televised golf matches around the world amongst the three stars, known as Big Three Golf, in the early 1960s. Nicklaus left IMG in the early 1970s, to set up his own management agency, Golden Bear Inc.&lt;ref name=rivalry/&gt;
+
+===Continued excellence: 19641967===
+Despite winning no majors in 1964 (he had three runner-up finishes), Nicklaus led the PGA Tour money list for the first time in his career by a slim margin of $81.13 over Palmer. At [[The Open Championship]] at [[Old Course at St Andrews|St Andrews]], Nicklaus set a new record for the lowest score in the final 36 holes with 66-68 in high winds (the first time in the championship's history that 70 had been broken in each of the last two rounds). This was not enough, however, to win the event; Nicklaus placed second to [[Tony Lema]].&lt;ref name="Golf My Way"/&gt; Nicklaus also set a record for the lowest final round score in the PGA Championship with a 64 (since broken by [[Brad Faxon]] in 1995 with a 63), but fell three shots short of champion [[Bobby Nichols]] and his record-setting 271 score. In 31 official worldwide events in 1964, Nicklaus achieved six victories, seven runners-up, placed in the top-five 21 times, the top-10 21 times, and had only one missed cut. Nicklaus and Palmer also defended their team title at the [[World Cup (men's golf)|World Cup]] in Hawaii, with Nicklaus again finishing as low individual scorer.
+
+When Nicklaus won the [[Masters Tournament|Masters]] in 1965 and 1966, he became the tournament's first back-to-back winner and the youngest two-time and three-time winner. He broke [[Ben Hogan]]'s 72-hole scoring record of 274 in 1953 when he compiled a new aggregate of 271 in the [[1965 Masters Tournament]]. This record was tied by [[Raymond Floyd]] in 1976 and lasted until [[Tiger Woods]] shot 270 in 1997, which was a 72-hole record that was subsequently tied by [[Jordan Spieth]] in 2015. When Woods and Spieth shot 270, the scores were achieved with significantly improved golf equipment on essentially the same-length golf course over which Nicklaus and Floyd shot 271. During the 1965 tournament, Nicklaus hit 62 of 72 greens in regulation and had 123 putts, inclusive of just one three-putt green. This was good enough to win by nine shots over [[Arnold Palmer]] and [[Gary Player]]; this margin of victory was a tournament record that would last for 32 years until Woods won by 12 shots in 1997. The week's performance was highlighted by a third-round 64 that consisted of eight birdies and no bogeys. It was of this round that Nicklaus said, "I had never before and have never since played quite as fine a complete round of golf in a major championship as I did in the third round of the 1965 Masters". This round tied [[Lloyd Mangrum]]'s record set in 1940 at [[Augusta National]] and remained in place until [[Nick Price]] shot 63 during the third round in 1986. It was at this time that [[Bobby Jones (golfer)|Bobby Jones]] stated Nicklaus played a game with which he was unfamiliar; Jones called Nicklaus' result "the greatest performance in all of golfing history."
+
+After Nicklaus' record performance at Augusta National in 1965,  the course underwent some minor changes to make it tougher. These modifications and the difficult weather in the [[1966 Masters Tournament|1966 tournament]] did not deter Nicklaus. He successfully defended his title with an even-par aggregate of 288, 17 shots higher. He won in an 18-hole playoff over [[Gay Brewer]] (Brewer had three-putted the 18th green to force the playoff) and [[Tommy Jacobs]] by shooting a two-under-par 70. Nicklaus led the PGA Tour money list again in 1965 by a healthy margin over Tony Lema. Nicklaus and Lema formed the U.S. team for the World Cup, held in [[Madrid]], Spain,&lt;ref name=fairway/&gt; but could not defend the title, as South Africa won. In all, Nicklaus competed in 28 official worldwide events in 1965, accumulating five victories, seven runners-up, 19 top-5 finishes, 23 top-10 finishes, and zero missed cuts.
+
+In 1966, Nicklaus also won [[The Open Championship]] at [[Muirfield]] in Scotland under difficult weather conditions; he used his driver just 17 times because of very heavy rough. This was the only major he had failed to win up to that point. This win made him the youngest player, age 26 (his fifth year on Tour), and the only one after [[Gene Sarazen]], [[Ben Hogan]], and [[Gary Player]] (until Tiger Woods at age 24 in 2000, also during his fifth year on Tour) to win all four major championships, now known as the Career Slam. Nicklaus eventually accomplished the double career slam in 1971 and the triple career slam in 1978, winning all four majors two and three times, respectively. Nicklaus was part of another title for the U.S. in the [[World Cup (men's golf)|World Cup]] in Japan. Nicklaus concluded 1966 playing 22 official worldwide events, with four victories, four runners-up, 14 top-5 finishes, 16 top-10 finishes, and zero missed cuts.
+
+In [[1967 U.S. Open (golf)|1967]], Nicklaus won the [[U.S. Open (golf)|U.S. Open]] for a second time. The tournament was held at [[Baltusrol Golf Club|Baltusrol]], and he broke Hogan's 72-hole record by one shot with a 275 when he birdied the par 5 18th hole.&lt;ref name="Golf My Way"/&gt; During the four rounds, Nicklaus hit 61 of 72 greens in regulation. Nicklaus finished this record win with a dramatic 238-yard 1-iron shot, uphill into a breeze and light rain, to the 72nd green (an approximate 260-yard equivalent) and holing a {{convert|22|ft|m|adj=on}} birdie putt to close out a final nine of 30 and final round of 65 to beat [[Arnold Palmer]] by four shots. Nicklaus and Palmer were the only two players to break par for the week. ''Sports Illustrated'' ran a cover photo of Nicklaus throwing his leg high in the air with the headline, "Nicklaus Breaks the Open Record."&lt;ref&gt;https://www.ebay.com/itm/SI-Sports-Illustrated-June-26-1967-Jack-Nicklaus-Breaks-the-Open-Record-G-/361470599668&lt;/ref&gt;&lt;ref&gt;{{cite magazine |url=https://www.si.com/vault/1967/06/26/610071/jack-delivers-the-crusher |title=Jack Delivers The Crusher |magazine=Sports Illustrated |first=Alfred |last=Wright |date=June 26, 1967}}&lt;/ref&gt; He also finished runner up in [[The Open Championship]] and third in the [[PGA Championship]], one shot out of a playoff between [[Don January]] and [[Don Massengale]]. In 1967, Nicklaus led the PGA Tour money list for the third time. Later that year, Nicklaus and Palmer teamed up for a 13-shot wire-to-wire [[World Cup (men's golf)|World Cup]] victory in [[Mexico City]]. Nicklaus competed in 24 official worldwide events in 1967, with five victories, four runners-up, 14 top-5 finishes, 16 top-10 finishes, and one missed cut. For most of his professional career, Nicklaus employed [[Angelo Argea]] as his caddie.
+
+===Career downturn (19681970)===
+After Nicklaus won the [[1967 U.S. Open (golf)|1967 U.S. Open]] in record breaking fashion, he did not win another major championship until the [[1970 Open Championship]] at the [[Old Course at St Andrews]]. Moreover, his highest finish on the Tour money list for the years 196870 was second; his lowest was fourth, his worst ranking on the list since turning professional. However, it should be noted that his fourth-place ranking in 1970 would have been elevated to second if [[The Open Championship]] winnings were included during that period in the official PGA Tour money list, as they are today. Nicklaus finished runner-up in both the 1968 U.S. Open (to new rival [[Lee Trevino]]) and the 1968 Open Championship (to old rival Gary Player).
+
+Nicklaus did not make his inaugural appearance in the [[Ryder Cup]] until [[1969 Ryder Cup|1969]] at age 29; eligibility rules at the time required a minimum five-year PGA Tour membership before points could be counted for team qualification; rules have been relaxed significantly since.&lt;ref name="story"/&gt; In the [[1969 Ryder Cup]], the entire competition came down to the anchor singles match between Nicklaus and [[Tony Jacklin]]. At the par-5 17th hole with Nicklaus leading by the score of 1 up, Jacklin made a {{convert|35|ft|sing=on}} eagle putt to square the match. With the entire competition outcome riding on this match, Nicklaus made a five-foot par putt on the last hole before controversially conceding Jacklin's par putt, ensuring that this game, and the overall match, ended in a tie.&lt;ref&gt;{{cite web |url=http://www.rydercup.com/2008/usa/history/results/1969.html |title=The 2008 Ryder Cup  History  1969 |publisher=Ryder Cup |accessdate=December 29, 2012}}&lt;/ref&gt; Afterwards United States team Captain Sam Snead said "This is the greatest golf match you have ever seen in England".&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=I8paAAAAIBAJ&amp;sjid=u3sDAAAAIBAJ&amp;pg=1271,2026044&amp;dq=tony+jacklin+sam+snead+ryder+cup&amp;hl=en |title=Yanks great golf good for tie |newspaper=St. Petersburg Times |agency=AP |date=September 22, 1969 |page=4-C}}&lt;/ref&gt;
+
+During this period, Nicklaus' physical condition declined somewhat; he put on some excess weight, which affected his stamina. Following the Ryder Cup, he significantly improved his condition in the fall of 1969 by losing {{convert|25|lb}} in one month,&lt;ref name=wtlose70&gt;{{cite news |url=https://news.google.com/newspapers?id=4ppQAAAAIBAJ&amp;sjid=NuEDAAAAIBAJ&amp;pg=6555%2C2916364 |newspaper=Eugene Register-Guard |agency=Associated Press |title=Jack seeks 2nd title sweep |date=August 14, 1970 |page=3B}}&lt;/ref&gt; and his game started to return to top form.&lt;ref name="story"&gt;{{cite book |title=Jack Nicklaus: My Story |last1=Nicklaus |first1=Jack |last2=Bowden |first2=Ken |publisher=Simon &amp; Schuster |year=1997 |isbn=978-0-684-83628-7}}&lt;/ref&gt; In February 1970, Nicklaus' father, Charlie Nicklaus, died. Five months after this, Nicklaus won the [[1970 Open Championship]] under difficult scoring conditions in Scotland where the wind howled up to 56 MPH, defeating fellow American [[Doug Sanders]] in an 18-hole playoff round in emotional fashion. On the 18th hole of the playoff, Nicklaus drove about 380 yards, through the par-4 green with a three-wood, and was forced to pitch back to the hole. His eagle pitch finished approximately eight feet short of the hole. Nicklaus threw his putter into the air after sinking the winning putt, as he was thrilled to have won the Open at the home of golf, St Andrews.&lt;ref&gt;{{cite web |url=http://nicklaus.com/nicklaus_facts/1970.php |title=Professional Highlights 1970 |publisher=Nicklaus.com |accessdate=November 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20081201200255/http://nicklaus.com/nicklaus_facts/1970.php |archivedate=December 1, 2008 |df=mdy-all }}&lt;/ref&gt; He describes this period in his life:
+&lt;blockquote&gt;I was playing good golf, but it really wasn't that big a deal to me one way or the other. And then my father died and I sort of realized that he had certainly lived his life through my golf game. I really hadn't probably given him the best of that. So I sort of got myself back to work. So '70 was an emotional one for me from that standpoint.&amp;nbsp;... It was a big boost.&lt;ref&gt;{{cite news |last=Soffian |first=Seth |url=http://www.nicklaus.com/design/oldcorkscrew/news_062606a.php |title=Nicklaus, Woods have major ties |publisher=News-Press |accessdate=November 11, 2007}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Nicklaus also went on to capture the [[Piccadilly World Match Play Championship]] in 1970 with a 2 &amp; 1 win over [[Lee Trevino]] in the championship match. In all for the year, Nicklaus competed in 23 official worldwide events, won four, placed in the top-5 10 times, and the top-10 in 14.
+
+Although Nicklaus' performance had declined somewhat during this period, he was still ranked as the #1 player in the world, for 10 straight years, beginning in 1968, on the [[McCormack's World Golf Rankings]], which were introduced that year by sports agent [[Mark McCormack]]. These rankings, the first attempt to take into account results from professional tours around the world, were not official during that era, but they eventually evolved into the current [[Official World Golf Ranking]], starting in 1986.
+
+===Resurgence (19711977)===
+With his win in the [[1971 PGA Championship]], Nicklaus became the first golfer to win all four majors twice.&lt;ref name="Golf My Way"/&gt; In this championship, Nicklaus was the only player to break 70 consecutively in the first two rounds under windy conditions; he finished at seven-under par 281. Nicklaus finished second twice and fifth in the remaining three major championships for the year. While he finished tied for second in the [[Masters Tournament|Masters]] with [[Johnny Miller]], Nicklaus made a big enough impression on a young [[Nick Faldo]] (watching on TV in England) in order for Faldo to take up the game seriously.
+
+By the end of 1971, Nicklaus had won four additional PGA tournaments including the [[Tournament of Champions (PGA Tour)|Tournament of Champions]] by eight shots and the [[National Team Championship]] with [[Arnold Palmer]] by six shots. With $244,490 in official PGA Tour earnings, Nicklaus established a new single-season money record during the year. Nicklaus also claimed his third [[World Cup (men's golf)|World Cup]] individual title in 1971, with help from a 63 in the third round. He also won the team competition with partner [[Lee Trevino]] by 12 shots. The year 1971 brought Nicklaus a victory in the Australian Dunlop International as well, punctuated by a course record 62 (his career low score in competition; one of three) in the second round. For the record, Nicklaus played in 23 official worldwide events in 1971, won eight, had 17 top-5 finishes, 20 top-10 finishes, and compiled a 510 record in that year's [[Ryder Cup]] competition.
+
+Nicklaus won the first two major championships of 1972 by three shots each in wire-to-wire fashion. He won the [[Masters Tournament|Masters]] and the [[U.S. Open (golf)|U.S. Open]], creating talk of a calendar-year [[Grand Slam (golf)|Grand Slam]]. Nicklaus opened with a four-under-par 68 at Augusta National and never looked back. He was the only player under par for the week as he and the field battled difficult scoring conditions. In the U.S. Open at [[Pebble Beach Golf Links|Pebble Beach]] again under severe scoring conditions, Nicklaus struck a one-iron on the 218-yard par-three 17th hole during the final round into a stiff, gusty ocean breeze that hit the flagstick and ended up three inches from the cup. The [[U.S. Open (golf)|U.S. Open]] was Nicklaus' 13th career major and tied him with [[Bobby Jones (golfer)|Bobby Jones]] for career majors (although a different group of tournaments had been considered majors in Jones's time). This victory was also Nicklaus' 11th professional major, tying him with [[Walter Hagen]], and made him the first player to win the U.S. Amateur and U.S. Open championships on the same golf course.
+
+During the 1972 PGA Tour season, Nicklaus won seven tournaments and was runner-up in three events. However, Nicklaus did not win the Grand Slam that year, as [[Lee Trevino]] repeated as the Open Championship winner (Nicklaus finished second, one shot behind), and [[Gary Player]] prevailed in the [[PGA Championship]]. Nicklaus closed out this remarkable year with a second of three consecutive [[Walt Disney World Golf Classic]] victories by shooting a 21-under par 267 to win by nine shots. He concluded 1972 by competing in 20 official worldwide events winning seven, placing second in four, and compiling 15 top-10 finishes.
+
+Bobby Jones' record of majors was soon broken when Nicklaus won the [[PGA Championship]] in August 1973 by four shots over [[Bruce Crampton]] for his 12th professional major (surpassing Hagen's mark of 11) and 14th overall when using the old-style configuration of Jones' day. In that year he won another six tournaments. When he won the 1973 Ohio King's Island Open, he became the first PGA Tour player to win a Tour event on a course that he designed himself. The [[PGA Player of the Year]] was awarded to Nicklaus for the third time, and the second year in a row. Nicklaus was also the first player to win over $300,000.00 in official money for a single season in 1972 at $320,542; he eclipsed that threshold again the following year with $308,362. The former total was $106,137 more than runner-up [[Lee Trevino]]. The latter total for the year 1973 catapulted Nicklaus over the $2&amp;nbsp;million career PGA Tour earnings mark, making him the first player to reach that milestone. Nicklaus teamed with [[Johnny Miller]] for another team title in the [[World Cup of Golf]], held in Spain. For the year, Nicklaus competed in 20 official worldwide events and claimed seven victories, 14 top-five finishes, 17 top-10s, and compiled a 411 record in that year's Ryder Cup competition.
+
+Nicklaus' failure to win a major in 1974 was somewhat offset when he won the inaugural [[Tournament Players Championship]] and was named one of the 13 original inductees into the [[World Golf Hall of Fame]].&lt;ref&gt;{{cite web |url=http://www.worldgolfhalloffame.org/jack-nicklaus/ |title=Jack Nicklaus in the World Golf Hall of Fame |publisher=World Golf Hall of Fame |accessdate=January 17, 2014}}&lt;/ref&gt; Nicklaus said this honor was a "nice memento" after a "disappointing season".&lt;ref&gt;{{cite web |url=http://nicklaus.com/nicklaus_facts/1974.php |title=Professional Highlights 1974 |publisher=Nicklaus.com |accessdate=November 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20100117083025/http://nicklaus.com/nicklaus_facts/1974.php |archivedate=January 17, 2010 |df=mdy-all }}&lt;/ref&gt; Although he had no major championship victories in 1974, Nicklaus still achieved four top-10 finishes in the four events, three of which were in the top four, and placed second on the official money list behind [[Johnny Miller]]. While less than a stellar year, Nicklaus was able to claim two victories and 13 top-10 finishes in 20 official worldwide events.
+
+Nicklaus started off well in 1975: he won the [[Doral-Eastern Open]], the [[Sea Pines Heritage Classic]], and the [[Masters Tournament|Masters]] in consecutive starts. His Masters win was his fifth, a record he was to break eleven years later. In this tournament, Nicklaus's {{convert|40|ft|m|adj=on}} birdie putt on the 16th hole of the final round was a key in his victory over [[Tom Weiskopf]] and [[Johnny Miller]] in a riveting final-round battle. He also won the [[PGA Championship]] in August at [[Firestone Country Club]] by two shots over [[Bruce Crampton]] for his fourth win. Having won the Masters and PGA Championship, Nicklaus missed a playoff for the [[U.S. Open (golf)|U.S. Open]] by two shots and a playoff for [[Open Championship]] by one shot. His performance in 1975 resulted in his being named [[PGA Player of the Year]] for the fourth time, tying [[Ben Hogan]], and he was also named [[American Broadcasting Company|ABC's]] [[Wide World of Sports (U.S. TV series)|Wide World of Sports]] Athlete of the Year. Nicklaus also captured his fourth Australian Open during the year. The year 1975 yielded Nicklaus six wins, 12 top-5 finishes, and 16 top-10 finishes in 18 official worldwide events.
+
+Nicklaus placed first on the PGA Tour money list again in 1976, despite competing in only 16 events, winning just two ([[The Players Championship|Tournament Players Championship]] and [[World Series of Golf (PGA Tour)|World Series of Golf]])  neither of them majors  and playing what he called "hang-back-and-hope golf".&lt;ref&gt;{{cite web |url=http://nicklaus.com/nicklaus_facts/1976.php |title=Professional Highlights 1975 |publisher=Nicklaus.com |accessdate=November 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20081201200306/http://nicklaus.com/nicklaus_facts/1976.php |archivedate=December 1, 2008 |df=mdy-all }}&lt;/ref&gt; The 1976 Tournament Players Championship saw Nicklaus set a championship record of 19-under par 269 for his second win in this event which remained in place until [[Greg Norman]]'s 24-under-par 264 assault in 1994. He also won the PGA Player of the Year award for a record fifth time. Between 1972 and 1976 the only time he failed to win this award was 1974. The year 1976 also concluded an official streak of 105 consecutive cuts made on the PGA Tour (ending at the World Open), which began for Nicklaus in 1970. At the time this streak was second only to [[Byron Nelson]]'s record of 113.
+
+The following year, 1977, was also majorless for Nicklaus, but he did achieve four top-10 finishes in the four events inclusive of two second and one third-place finish  this being one shot out of the [[PGA Championship]] playoff between [[Lanny Wadkins]] and [[Gene Littler]]. Despite a brilliant final round 66 at the Masters, he finished second by two shots to [[Tom Watson (golfer)|Tom Watson]]. But his subsequent second-place finish behind Watson at the Open Championship at [[Turnberry (golf course)|Turnberry]] created headlines around the world. In a one-on-one battle dubbed the "Duel in the Sun," Nicklaus shot 65-66 in the final two rounds, only to be beaten by Watson, who scored 65-65. This event marked the first time 270 was broken in a major championship, and the third-place finisher [[Hubert Green]] scored 279. Nicklaus would later say:
+&lt;blockquote&gt;There are those in golf who would argue into next month that the final two rounds of the 1977 British Open were the greatest head-to-head golf match ever played. Not having been around for the first five hundred or so years of the game, I'm not qualified to speak on such matters. What's for sure, however, is that it was the most thrilling one-on-one battle of my career.&lt;ref&gt;{{cite web |url=http://nicklaus.com/nicklaus_facts/1977.php |title=Professional Highlights 1977 |publisher=Nicklaus.com |accessdate=November 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20100117082859/http://nicklaus.com/nicklaus_facts/1977.php |archivedate=January 17, 2010 |df=mdy-all }}&lt;/ref&gt;
+&lt;/blockquote&gt;
+In 1977, Nicklaus won his 63rd tour event, passing [[Ben Hogan]] to take second place on the career wins list, behind only [[Sam Snead]] (subsequently Hogan's official career PGA Tour victory total was put at 64, including his  1953 Open Championship which was retroactively deemed an official PGA Tour event). He also became the first player to amass over $3&amp;nbsp;million in official [[PGA Tour]] earnings. The year also saw Nicklaus win for the first time his own [[Memorial Tournament]], where he described the victory as the most emotional moment of his entire career, and nearly decided to retire from competitive golf.
+
+====Proposes Ryder Cup modifications====
+During the [[1977 Ryder Cup]] at Royal Lytham &amp; St Annes, Nicklaus approached the PGA of Great Britain about the urgency to improve the competitive level of the contest. The issue had been discussed earlier the same day by both past [[PGA of America]] President Henry Poe and [[Professional Golfers' Association (Great Britain &amp; Ireland)|British PGA]] President Lord Derby. Nicklaus pitched his ideas, adding: "It is vital to widen the selection procedures if the [[Ryder Cup]] is to continue to enjoy its past prestige." The changes in team selection procedure were approved by descendants of the [[Samuel Ryder]] family, along with The PGA of America. The major change was expanding selection procedures to include players from the European Tournament Players' Division, and "that European Members be entitled to play on the team." This meant that professional players on the European Tournament Players' Division, the forerunner to the European Tour we have today, from continental Europe would be eligible to play in the Ryder Cup.
+
+====Achieves triple career grand slam (1978)====
+When Nicklaus won the [[1978 Open Championship]] at St. Andrews, he became the only player to win each major championship three times.&lt;ref name=open/&gt; This record was tied by [[Tiger Woods]] when he won the [[2008 U.S. Open (golf)|2008 U.S. Open]]. Nicklaus and Woods are the only two players to win three "Career Grand Slams". Nicklaus considered his performance in the 1978 Open as the finest four days of tee-to-green golf he had ever produced, and was most proud that the win came at St. Andrews, his favorite place to play golf. The victory was also his most emotional to date.
+
+Nicklaus won three other tournaments on the [[PGA Tour]] in 1978. One of those wins came in the [[Jackie Gleason-Inverrary Classic]], where he played the final 36 holes 13 under par and scored five consecutive birdies over the closing holes in the final round.&lt;ref&gt;{{cite news |url=https://news.google.com/newspapers?id=L6RHAAAAIBAJ&amp;sjid=Tf8MAAAAIBAJ&amp;pg=1460,4074304&amp;dq=grier+jones+jack+nicklaus&amp;hl=en |title=Nicklaus rally topples Jones |newspaper=The Morning Record and Journal |location=Meriden, Connecticut |agency=UPI |date=February 27, 1978 |page=10}}&lt;/ref&gt; He also won his third [[Tournament Players Championship]] in difficult weather conditions; he had won three of the first five stagings of that tournament, and he remains the championship's only three-time winner. He was named [[Sportsman of the Year]] by ''[[Sports Illustrated]]''. The year 1978 also marked Nicklaus' sixth and final [[Australian Open (golf)|Australian Open]] victory.
+
+===Short slump and revamping===
+In 1979, Nicklaus suffered a lapse of form and did not win a tournament. This was the first year in his professional career in which he failed to win a PGA Tour event. He had only one runner-up finish, plus a tied-for-second with [[Ben Crenshaw]] behind 22-year-old [[Seve Ballesteros]] at [[The Open Championship]]. He would not win another tournament until June 1980. Previously, Nicklaus won at least one PGA Tour tournament per year (a record he shares with Arnold Palmer), and a minimum of two tournaments per year for 17 consecutive years, and this is another PGA Tour record.
+
+During the offseason, Nicklaus addressed two problems that had hurt his performance. His lifelong teacher [[Jack Grout]] noticed that he had become much too upright with his full swing, which caused a steep, oblique approach into the ball, compared with a more direct hit; this was corrected by slightly flattening his backswing. Then Nicklaus' short game, never a career strength, was further developed with the help of [[Phil Rodgers]], a friend for more than 20 years, and earlier PGA Tour rival, who had become a fine coach. Rodgers lived for a time at the Nicklaus home while this work was going on.&lt;ref name="story"/&gt;
+
+===Wins fourth U.S. Open, fifth PGA Championship (1980)===
+In 1980, Nicklaus recorded only four top-10 finishes in 14 events, but two of these were record-setting victories in majors (the U.S. Open and the PGA Championship); the other two were a tie for fourth in [[The Open Championship]] and a runner-up finish in the [[Doral-Eastern Open]] to [[Raymond Floyd]] via his chip-in birdie on the second hole of a sudden-death playoff. These victories and placements more than justified the work Nicklaus put in toward his game during the off-season.
+
+Nicklaus set a new scoring record for the [[1980 U.S. Open (golf)|1980 U.S. Open]] with an aggregate of 272, eclipsing his earlier record of 275 from 1967 over the same golf course. That record, while since having been tied by three other players, stood until Rory McIlroy's 268 in winning the 2011 US Open. This was Nicklaus's second major win at [[Baltusrol Golf Club]]. Nicklaus opened with a record-tying 63 in round one and fought off his playing partner of all four rounds, 1978 [[Colgate World Match Play Championship]] winner, [[Isao Aoki]]. Entering the final round, Aoki had caught Nicklaus after three consecutive rounds of 68, but over the course of the last day, Nicklaus pulled away by two shots. Each player birdied the final two holes for a dramatic finish. Aoki's aggregate of 274 was the lowest score for a [[U.S. Open (golf)|U.S. Open]] runner-up. Nicklaus' win was his fourth and final victory in the championship, tying him with [[Willie Anderson (golfer)|Willie Anderson]], [[Bobby Jones (golfer)|Bobby Jones]], and [[Ben Hogan]]. Nicklaus referred to this win as "by far the most emotional and warmest reaction to any of my wins in my own country".
+
+In the [[1980 PGA Championship]], Nicklaus set another record when he won the tournament by seven shots over [[Andy Bean]] at the [[Oak Hill Country Club]]; the win was largely due to exceptional putting. Nicklaus shot an even-par 70 in the first round. This was followed by three successive rounds in the 60s over the difficult course, and he was the only player to break par for 72 holes. For the week, the field averaged 74.60 strokes while Nicklaus averaged 68.50. This was Nicklaus' fifth and final victory in the PGA Championship, which elevated him to record-holder for the most wins in the stroke-play era, and which tied him with [[Walter Hagen]] for the most wins overall, since Hagen's victories were all during the match-play era. Nicklaus' seven-shot winning margin remained the largest for the stroke-play version of the championship until Rory's McIroy's 2012 victory. This victory also made Nicklaus the only player since [[Gene Sarazen]] in 1922 and [[Ben Hogan]] in 1948 to win the [[U.S. Open (golf)|U.S. Open]] and PGA Championship the same year (subsequently equaled by [[Tiger Woods]] in 2000).
+
+===19811985===
+Between 1981 and 1985, Nicklaus accumulated seven more top-10 placements in major championships, including three runner-up performances. He won only twice on the PGA Tour during this period, the [[Colonial National Invitation]] in 1982 and his own [[Memorial Tournament]] in 1984 for the second time, defeating Andy Bean in a sudden-death playoff to become the tournament's first repeat champion.
+
+In 1983, Nicklaus closed out the [[PGA Championship]] and [[World Series of Golf]] with brilliant final rounds in the mid-60's, and passed many players to move into contention, but finished runner-up in each to [[Player of the Year]] [[Hal Sutton]] and [[Nick Price]], respectively, who dominated the tournaments from start to finish. Despite not winning a PGA Tour event in 1983, Nicklaus finished 10th on the PGA Tour money list, and passed a significant milestone by becoming the first player to eclipse the $4&amp;nbsp;million level in career earnings.
+
+In 1985, Nicklaus finished second to [[Curtis Strange]] in the [[Canadian Open (golf)|Canadian Open]], which marked his seventh and final second-place finish in that tournament; this is a record for that event. These seven runner-up finishes came over the course of 21 eventsor one second-place finish for every three tournaments playedand does not include a third-place finish in 1983, one shot out of the playoff between [[John Cook (golfer)|John Cook]] and [[Johnny Miller]].
+
+During the five-year period between 1981 and 1985, the [[Ryder Cup]] matches provided Nicklaus with two bright spots. He completed his competition as a player in style by contributing a perfect 400 record (inclusive of a 5 &amp; 3 anchor singles match win over [[Eamonn Darcy]]) in 1981, and captained the United States team in 1983 to a one-point win over Europe.
+
+===Wins sixth Masters at age 46 (1986)===
+In 1986, Nicklaus capped his major championship career by winning his sixth Masters title under challenging circumstances; he posted a six-under-par 30 on the back nine for a final round of seven-under-par 65. At the 17th hole, Nicklaus hit his second shot to within {{convert|18|ft|m}} and rolled it in for birdie; he raised his putter in celebration and completed an eagle-birdie-birdie run. Nicklaus made a solid par-4 at the 72nd hole, and waited for the succeeding players, several of whom ([[Tom Kite]], [[Greg Norman]]) were still in contention, to fall short. Nicklaus played the final ten holes seven under par, with six birdies and an eagle. At age 46, Nicklaus became the oldest Masters winner in history, a record that still stands. On the feat, sports columnist [[Thomas Boswell]] remarked,
+&lt;blockquote&gt;Some things cannot possibly happen, because they are both too improbable and too perfect. The [[Miracle on Ice|U.S. hockey team cannot beat the Russians in the 1980 Olympics]]. Jack Nicklaus cannot shoot 65 to win The Masters at age 46. Nothing else comes immediately to mind.&lt;ref name="Quote"&gt;{{cite book |editor-last=Apfelbaum |editor-first=Jim |title=The Gigantic Book of Golf Quotations |year=2007 |publisher=Skyhorse Publishing |isbn=978-1-60239-014-0}}&lt;/ref&gt;&lt;/blockquote&gt;
+This victory was his 18th and final major title as a professional.
+
+This victory was to be his last in his long career on the PGA Tour, and was described at the time by noted golf historian and writer Herbert Warren Wind as "nothing less than the most important accomplishment in golf since [[Bobby Jones (golfer)|Bobby Jones]]' Grand Slam in 1930".
+
+Author Ken Bowden wrote after the win:
+&lt;blockquote&gt;There have been prettier swingers of the club than Jack Nicklaus. There may have been better ball-strikers than Jack Nicklaus. There have definitely been better short-game exponents than Jack Nicklaus. Other golfers have putted as well as Jack Nicklaus. There may have been golfers as dedicated and fiercely competitive as Jack Nicklaus. But no individual has been able to develop, combine and sustain all of the complex physical skills and the immense mental and emotional resources the game demands at its highest level as well as Jack Nicklaus has for as long as he has.
+&lt;/blockquote&gt;
+
+At the [[1998 Masters Tournament|1998 Masters]], Nicklaus was 58 when he tied for sixth place despite being hampered by an ever-increasing painful left hip.&lt;ref&gt;{{cite news |last=Michaux |first=Scott |url=http://www.augusta.com/masters/stories/040305/pre_3693161.shtml |title=Langer sees time to wear third jacket |newspaper=The Augusta Chronicle |date=April 3, 2005 |accessdate=November 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20090728005755/http://www.augusta.com/masters/stories/040305/pre_3693161.shtml |archivedate=July 28, 2009 |df=mdy-all }}&lt;/ref&gt; Nicklaus' five-under par 283 is the lowest 72-hole score in the Masters by a player older than fifty.
+
+During the course of a 25-year span (19621986), Nicklaus won 18 major championships and finished second 18 times (excluding the second-place finish at the [[1960 U.S. Open (golf)|1960 U.S. Open]] as an amateur). He also placed third nine times and fourth seven times in this span and was one stroke out of a playoff on five of those occasions ([[1963 Open Championship]], [[1967 PGA Championship]], [[1975 Open Championship]], [[1977 PGA Championship]], and [[1979 Masters Tournament]]). His total span of 73 top-10 finishes over 39 years (19601998) is a record in total number as well as longevity among the four major championships and encompassed his tenure from an amateur through the majority of his [[Champions Tour]] career.
+
+==Senior golf career==
+Nicklaus became eligible to join the [[Senior PGA Tour]], now known as PGA Tour Champions,&lt;!--The tour was known as the Senior PGA Tour throughout his career on that circuit. Name changed to Champions Tour in 2003, and PGA Tour Champions in 2016.--&gt; when he turned 50 in January 1990,&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/nicklaus_facts/1990.php |title=Professional Highlights 1990 |publisher=Nicklaus.com |accessdate=November 11, 2007}}&lt;/ref&gt; at which point he declared, "I'm never satisfied. Trouble is, I want to play like meand I can't play like me anymore."&lt;ref name="Quote"/&gt; He then quickly won in his first start on the Tour, [[The Tradition]], also a Senior Tour major championship. Nicklaus would go on to win another three Traditionsthe final two in successionwhile the most anyone else has won is two. [[File:JackNicklaus2006MastersPar3.jpg|thumb|right|300px|Nicklaus walks up to his ball on the 9th hole of the par-3 course at Augusta National Golf Club during the 2006 par-3 contest.]]
+Later in the year, Nicklaus won the [[Senior Players Championship]] by six shots over [[Lee Trevino]] for his second win of the year, and also his second major of the year by shooting a record 27-under par 261. The next year, in 1991, Nicklaus won three of the five events he started in, those being the [[U.S. Senior Open]] at Oakland Hills by firing a 65 in a playoff against [[Chi-Chi Rodrguez]] and his fine round of 69, the [[PGA Seniors Championship]] and [[The Tradition]] for the second year straight. These, again, were all majors on the senior circuit.
+
+Nicklaus has won all the [[Senior major golf championships|senior majors]] with the exception of the [[Senior Open Championship]] (also known as the Senior British Open). However, he never played in that event until after he turned 60, and it was only elevated to a major in 2003. After a winless year in 1992, Nicklaus came back to win the U.S. Senior Open for the second time in 1993 by one shot over [[Tom Weiskopf]]. Also in that year he teamed up with Chi-Chi Rodrguez and [[Raymond Floyd]] to win the [[Wendy's 3-Tour Challenge]] for the Senior PGA Tour team.&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/nicklaus_facts/1993.php |title=Professional Highlights 1993 |publisher=Nicklaus.com |accessdate=November 11, 2007}}&lt;/ref&gt;
+
+In 1994, Nicklaus won the Senior PGA Tour's version of the Mercedes Championship for his only win of the year.&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/nicklaus_facts/1994.php |title=Professional Highlights 1994 |publisher=Nicklaus.com |accessdate=November 11, 2007}}&lt;/ref&gt; The Tradition was his again in 1995, in a year where he made the top 10 in all of the seven tournaments he entered in.&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/nicklaus_facts/1995.php |title=Professional Highlights 1995 |publisher=Nicklaus.com |accessdate=November 11, 2007}}&lt;/ref&gt; His 100th career win came the next year, when he won the Tradition for the fourth time, and second time in succession. He made a [[double eagle (golf)|double eagle]] in the final round. Nicklaus closed the final 36 holes with back-to-back seven-under par rounds of 65 to shoot a 16-under par 272 and win by three shots over [[Hale Irwin]]. This was to be his last win on the Senior PGA Tour, and the last official win of his career.&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/nicklaus_facts/1996.php |title=Professional Highlights 1996 |publisher=Nicklaus.com |accessdate=November 11, 2007}}&lt;/ref&gt;
+
+==Close of playing career==
+In [[2000 U.S. Open (golf)|2000]], Nicklaus played in his final [[U.S. Open (golf)|U.S. Open]]. He shot 73-82 and missed the cut at [[Pebble Beach Golf Links]]. This was the same tournament where Tiger Woods won his first Open when he outclassed the nearest competitors by a 15-shot margin.&lt;ref&gt;{{cite journal |url=http://www.golf.com/golf/special/article/0,28136,1716703,00.html |title=Open and Shut |last=Garity |first=John |magazine=Sports Illustrated |accessdate=December 18, 2008 |date=June 26, 2000 |deadurl=yes |archiveurl=https://web.archive.org/web/20090603020018/http://www.golf.com/golf/special/article/0,28136,1716703,00.html |archivedate=June 3, 2009 |df=mdy-all }}&lt;/ref&gt; Later in the year, he was paired with [[Tiger Woods]] and [[Vijay Singh]] in his final [[PGA Championship]] only a few days after the death of his 91-year-old mother,&lt;ref&gt;https://www.theglobeandmail.com/sports/grieving-nicklaus-plays-to-honour-wish-of-late-mother/article18425065/&lt;/ref&gt; where he missed the cut by one shot.&lt;ref&gt;{{cite web |url=http://www.pga.com/pgachampionship/2005/news/pairings_challenge080905.html |title=The Pairings Challenge |accessdate=December 18, 2008 |last=Denney |first=Bob}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/nicklaus_facts/majors.php |title=Major Championship Performances |publisher=Nicklaus.com |accessdate=November 8, 2007}}&lt;/ref&gt; In both tournaments, Nicklaus provided last-minute heroics by reaching the par-5 18th in two shots in the U.S. Open and nearly holing his wedge shot for eagle at the par-5 18th in the PGA Championship.
+
+Nicklaus played without much preparation in the [[2005 Masters Tournament|2005 Masters]], a month after the drowning death of his 17-month-old grandson Jake (child of his son Steve) on March 1, 2005. In a written statement, Nicklaus said that it was impossible to put into words the devastation of his family. Nicklaus later spoke emotionally about the tragedy. He said: "It's been an overwhelmingly difficult and trying time for my entire family. The loss of our precious 17-month-old grandson Jake was devastating."&lt;ref&gt;{{cite news |url=https://www.washingtonpost.com/wp-dyn/content/article/2005/03/25/AR2005032503829.html |title=Nicklaus to Focus Attention on Family |newspaper=Washington Post |date=March 25, 2005 |accessdate=December 29, 2012}}&lt;/ref&gt; Nicklaus and his son Steve played golf as therapy for their grief following Jake's death. After days of playing, Steve suggested his father return to [[Masters Tournament|The Masters]]. He made that his last appearance in the tournament.&lt;ref&gt;{{cite news |last=Van Brimmer |first=Adam |url=http://www.augusta.com/masters/stories/040905/nicklaus.shtml |title=Golden Bear says goodbye |publisher=Morris News Service |date=April 9, 2005 |accessdate=November 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20090728005800/http://www.augusta.com/masters/stories/040905/nicklaus.shtml |archivedate=July 28, 2009 |df=mdy-all }}&lt;/ref&gt;
+
+Later in 2005, Nicklaus finished his professional career at [[The Open Championship]] played at [[Old Course at St Andrews|St Andrews]] on July 15, 2005.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/golf/4645647.stm |title=Nicklaus set for St Andrews bow |work=BBC Sport |accessdate=November 11, 2007 |date=July 3, 2005}}&lt;/ref&gt; On St Andrews, Nicklaus stated:
+&lt;blockquote&gt;I'm very sentimental and the place gets to me every time I go there. In May I walked around and welled up with hardly anyone watching me. St Andrews was always where I wanted to finish my major career.&lt;ref&gt;{{cite web |url=http://news.bbc.co.uk/sport1/hi/golf/4645647.stm |title=Nicklaus set for St Andrews bow |publisher=BBC Sport |accessdate=March 4, 2014}}&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+Nicklaus turned 65 in January that year, which was the last year he could enter The Open Championship as an exempt player. He played with [[Luke Donald]] and [[Tom Watson (golfer)|Tom Watson]] in his final round.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/golf/4687903.stm |title=Woods shines as Nicklaus bows out |work=BBC Sport   |accessdate=November 11, 2007 |date=July 15, 2005 |first=Matt |last=Slater}}&lt;/ref&gt; After hitting his tee shot off the 18th tee in the second round, Nicklaus received a ten-minute standing ovation from the crowd. On the eighteenth fairway, he gave his final farewell to professional golf while standing on the iconic [[Swilken Bridge]].&lt;ref&gt;{{cite web |url=http://www.pga.com/openchampionship/2010/news/swilcan-hof-071210.cfm |title=Swilcan Bridge replica a true World Golf Hall of Fame highlight |publisher=PGA of America |accessdate=March 4, 2014}}&lt;/ref&gt; Soon afterwards, Nicklaus ended his career with a birdie, holing a 15-foot birdie putt on the 18th green. Nicklaus missed the 36-hole cut with a score of +3 (147).&lt;ref name="GolfLegends"&gt;{{cite web|url=http://www.golflegends.org/jack-nicklaus.php |title=Jack Nicklaus Bio |accessdate=November 8, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20071102202914/http://www.golflegends.org/jack-nicklaus.php |archivedate=November 2, 2007 }}&lt;/ref&gt;
+
+The last competitive tournament in which Nicklaus played in the United States was the Champions Tour's [[Bayer Advantage Classic]] in [[Overland Park, Kansas]], on June 13, 2005.&lt;ref name="GolfLegends"/&gt;
+
+On April 8, 2015, Nicklaus hit his first-ever [[hole-in-one]] at the Augusta National Golf Club at the age of 75 when participating in the Masters' Par 3 Contest, albeit on the Par 3 Course, while playing with [[Gary Player]] and [[Ben Crenshaw]].&lt;ref&gt;{{cite web |title=75-Year-Old Jack Nicklaus Picks Up an Ace at 2015 Masters Par 3 Contest |url=http://bleacherreport.com/articles/2424237-75-year-old-jack-nicklaus-picks-up-an-ace-at-2015-masters-par-3-contest |publisher=Bleacher Report |first=Kyle |last=Newport |date=April 8, 2015}}&lt;/ref&gt; He hit 20 holes-in-one in professional tournament play at other venues over his career.&lt;ref&gt;{{cite web |title=Facts and Figures |url=http://www.nicklaus.com/wp-content/uploads/2013/09/facts.pdf |website=www.nicklaus.com |accessdate=July 20, 2016}}&lt;/ref&gt;
+
+==Off-the-course activities==
+
+===Golf course design===
+{{main article|Nicklaus Design}}
+
+Nicklaus devotes much of his time to golf course design and operates one of the largest golf design practices in the world. In the mid-1960s, [[Pete Dye]] initially requested Nicklaus' opinion in the architecture process of The Golf Club in suburban Columbus, Ohio, and the input increased from that point forward. Nicklaus considered golf course design another facet of the game that kept him involved and offered a challenge. His first design, [[Harbour Town Golf Links]], co-credited with Dye, was opened for play in 1969.&lt;ref name="Design"&gt;{{cite web |url=http://www.nicklaus.com/design/ |title=Nicklaus Design |publisher=Nicklaus.com |accessdate=November 8, 2007}}&lt;/ref&gt; A subsequent early, yet more prominent design was [[Muirfield Village]] Golf Club in Dublin, OH which opened in 1974 and has hosted the [[Memorial Tournament]] since its inception in 1976. This course has also hosted the 1987 [[Ryder Cup]] and the 1998 [[Solheim Cup]] matches. For the first few years, all of his projects were co-designs with either Pete Dye or [[Desmond Muirhead]], who were two of the leading golf course architects of that era.
+
+His first solo design, [[Glen Abbey Golf Course]] in [[Oakville, Ontario|Oakville]], Ontario, opened for play in 1976.&lt;ref&gt;{{cite web |url=http://en.clublink.ca/golf/glenabbey/?SECT=GLENABBEY&amp;GOLF_COURSE_ID=0220 |title=Glen Abbey: Overview |accessdate=December 21, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090918193959/http://en.clublink.ca/golf/glenabbey/?SECT=GLENABBEY&amp;GOLF_COURSE_ID=0220 |archivedate=September 18, 2009 |df=mdy-all }}&lt;/ref&gt; This course served as the host site for the [[Canadian Open (golf)|Canadian Open]] for many years, the first being in 1977.&lt;ref&gt;{{cite web |url=http://en.clublink.ca/golf/glenabbey/?section_id=89&amp;SECT=GLENABBEY&amp;GOLF_COURSE_ID=0220 |title=RBC Canadian Open |accessdate=December 21, 2008 |deadurl=yes |archiveurl=https://web.archive.org/web/20090928045516/http://en.clublink.ca/golf/glenabbey/?section_id=89&amp;SECT=GLENABBEY&amp;GOLF_COURSE_ID=0220 |archivedate=September 28, 2009 |df=mdy-all }}&lt;/ref&gt; The oldest golf club in the U.S, [[Saint Andrew's Golf Club]] in New York, was redesigned by Nicklaus in 1983.&lt;ref&gt;{{cite web|url=http://www.saintandrewsgolfclub.com/Golf.aspx |title=Golf |publisher=Saint Andrews Golf Club |date= |accessdate=2017-12-09}}&lt;/ref&gt; In 2000, the King &amp; Bear opened in [[St. Augustine, Florida]], as a joint collaboration between Nicklaus and [[Arnold Palmer]]. In 2006, the Concession Golf Club opened in [[Sarasota]], Florida, as a joint collaboration between Nicklaus and [[Tony Jacklin]], to commemorate their historic Ryder Cup singles match in 1969.
+
+Nicklaus is in partnership with his four sons and his son-in-law through their company, ''[[Nicklaus Design]]''. The company had 299 courses open for play at the end of 2005, which was nearly 1% of all the courses in the world (In 2005 ''Golf Digest'' calculated that there were nearly 32,000 golf courses in the world, approximately half of them in the United States.&lt;ref name="Design"/&gt;&lt;ref&gt;{{cite web |url=http://www.visiteurope.com/ccm/experience/detail/?nav_cat=134&amp;lang=en_US&amp;item_url=/ETC/pan-european/golf-in-europe.ja |archive-url=https://web.archive.org/web/20071219050156/http://www.visiteurope.com/ccm/experience/detail/?nav_cat=134&amp;lang=en_US&amp;item_url=%2FETC%2Fpan-european%2Fgolf-in-europe.ja |dead-url=yes |archive-date=December 19, 2007 |title=Golf in Europe |publisher=VisitEurope.com |accessdate=November 8, 2007 |df=mdy-all }}&lt;/ref&gt;). While the majority of Nicklaus-designed courses are located in the United States, the company has designed golf courses in Asia, Australia, Canada, Europe, and Mexico. For 2009, Nicklaus Design had 12 courses in ''Golf Digest'''s "75 Best Golf Resorts in North America". Past and present Senior Design Associates with Nicklaus Design include Chris Cochran,&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/design/lionsgate/ |title=Lionsgate |accessdate=April 9, 2012}}&lt;/ref&gt; Chet Williams&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/design/dovemountainII/news033109.php |title=Ritz Carlton |accessdate=April 9, 2012}}&lt;/ref&gt; and Dave Heatwole.&lt;ref&gt;{{cite web |url=http://www.nicklaus.com/design/thecliffs/ |title=The Cliffs |accessdate=April 9, 2012}}&lt;/ref&gt;
+
+===Writings and media===
+Nicklaus has written several golf instructional books, an autobiography (''My Story''), a book on his golf course design methods and philosophy, and has produced several golf videos. The writer Ken Bowden often assisted him with this work. His book ''Golf My Way'' is one of the all-time classics of golf instruction, and has been reissued several times since the initial printing in 1974. Nicklaus has also written golf instructional columns for ''[[Golf Magazine]]'' and for ''Golf Digest'' magazine, with which he is currently associated. He also appeared as a television analyst and commentator with [[ABC Sports]] on golf broadcasts.&lt;ref&gt;{{cite news |url=http://www.ew.com/ew/article/0,,317588,00.html |title=U.S. Open Preview |accessdate=December 21, 2008 |work=Entertainment Weekly }}&lt;/ref&gt; Several of the books have been reissued, sometimes under different titles, and ''My Story'' as a special high-quality limited edition for the 2000 [[Memorial Tournament]].
+
+===Golf computer games===
+Between 1988 and 1998, Nicklaus also gave his name to promote the successful ''Jack Nicklaus Golf'' computer game series developed by [[Accolade (company)|Accolade]]. Several of the golf courses he designed were incorporated into the fourth incarnation of the game ''[[Jack Nicklaus 4]]'' published in 1997. In addition, ''Jack Nicklaus 6: Golden Bear Challenge'' by Activision was published in 1999.
+
+===Other interests===
+Nicklaus continues to manage the [[Memorial Tournament]], which he founded in his home state of Ohio. The event is played at [[Muirfield Village]], a course that he co-designed with [[Desmond Muirhead]] and opened in 1974. The course was officially dedicated on Memorial Day, May 27, 1974, with an exhibition match between Nicklaus and [[Tom Weiskopf]]. Nicklaus scored a six-under-par 66, which stood as the course record until 1979. The forerunner to this tournament, the Columbus Pro-Am, had its final year in 1975, and the inaugural Memorial Tournament was held the following year. The tournament is one of the more prestigious events on the PGA Tour.&lt;ref name="story"/&gt;
+
+Each year, the tournament selects one or more individuals as honorees who have made a significant impact to the game. The inaugural tournament in 1976 paid tribute to the late Bobby Jones, while the 25th edition in 2000 honored Nicklaus, himself. This concept was Nicklaus' idea as a contribution to perpetuating achievements of the game's greatest individuals. The honoree is selected by the Captain's Club, a group that acts independently of the tournament organization, but also advises on player invitations and the general conduct of the event. Members of the Captain's Club include [[Peter Alliss]], [[Peggy Kirk Bell]], [[George H.W. Bush]], [[Sean Connery]], [[Arnold Palmer]], and [[Gary Player]] among others.
+
+The Memorial Tournament continues the [[PGA Tour]]'s philanthropic focus through its relationships with Central Ohio charities. The most significant of which is its relationship with [[Nationwide Children's Hospital]] since 1976. Contributions generated through the support of over 2,600 volunteers are distributed each year to the Hospital's unrestricted giving fund. This fund assists in ensuring Central Ohio continues to have one of the best children's hospitals in the United States. The Memorial Tournament has raised more than $5.7&amp;nbsp;million to support the programs and services at Nationwide Children's Hospital in those 30-plus years. In 2005 the Memorial made a pledge that will elevate its level of giving to more than $11&amp;nbsp;million in the coming years. Unique and successful relationships also exist with Fore Hope, James Cancer Hospital, Wolfe Associates, The First Tee, Central Ohio Junior Golf Association, Shriners, Lions Club and many more.
+
+Nicklaus and wife Barbara serve as honorary chairman and active chairwoman of the Nicklaus Children's Health Care Foundation in North Palm Beach, Florida which provides valuable programs and services to more than 4,000 hospitalized children and their families, free of charge, through Child Life programs, the Pediatric Oncology Support Team, and the Safe Kids program. The Nicklauses established "The Jake", a pro-am golf tournament played annually at The Bear's Club in Jupiter, Florida in honor of their 17-month-old grandson who drowned in a hot tub in 2005. It has become the foundation's chief fundraiser. Players like [[Robert Allenby]], [[Raymond Floyd]], [[Tom Watson (golfer)|Tom Watson]], [[Ian Baker-Finch]], [[Ernie Els]], [[Jay Haas]], [[Johnny Miller]], and [[Gary Player]] have participated. No one accepts a fee. Everything goes to the foundation, more than $3&amp;nbsp;million over the past three years.
+
+Nicklaus and retired General [[John Shalikashvili]], who served as [[Chairman of the Joint Chiefs of Staff]] from 1993 to 1997, are serving as honorary chairs for the [[American Lake Veterans Golf Course]] capital campaign in Tacoma, WA. The $4.5&amp;nbsp;million campaign in 2009 was established to complete the nation's only golf course designed for the rehabilitation of wounded and disabled veterans. The existing nine-hole course is operated, maintained, and managed by 160 volunteers. Funds are needed to add nine new holes and make other improvements to better accommodate demand from the growing influx of wounded veterans. A two-day event was held at [[Bighorn Golf Club]] at Palm Desert, CA featuring Nicklaus, who is donating his design services for the "Nicklaus Nine". In announcing his donation of services (valued at $500,000), Nicklaus said, "I was moved to see the amazing efforts at American Lake Veterans Golf Course where our wounded warriors learn to play golf with the help of an incredible army of volunteers." Monies raised during the campaign will be used to construct the new holes, complete the construction of the Rehabilitation and Learning Center, make improvements to the original holes to enhance accessibility, upgrade the maintenance facilities and restrooms, and help underwrite operational costs.
+
+Nicklaus owns [[Nicklaus Golf Equipment]], which he founded in 1992.&lt;ref&gt;{{cite web |url=http://www.manta.com/coms2/dnbcompany_649gsp |accessdate=December 22, 2008 |title=Nicklaus Golf Equipment Company Profile}}&lt;/ref&gt; Nicklaus Golf Equipment manufactures equipment in three brands: Golden Bear, Jack Nicklaus Signature, and Nicklaus Premium. These brands are designed to target golfers at different stages of golfing ability.&lt;ref&gt;{{cite web |url=http://www.nicklaus-golf.com/index.html |title=Nicklaus Golf Equipment |accessdate=December 22, 2008}}&lt;/ref&gt;
+
+He has also been known to reach out to younger golfers. One notable example came in 1984, when a teenage Canadian golfer who had previously met Nicklaus at an exhibition wrote him for career advice. The young golfer was right-handed but played left-handed; although he was showing considerable promise as a left-hander, he had been told that he might be an even better player if he switched to right-handed play. He wrote Nicklaus asking for advice; Nicklaus immediately wrote back telling him not to change if he was comfortable playing left-handed. The young Canadian, [[Mike Weir]], decided to stay with left-handed play, and eventually became a Masters champion. He still keeps Nicklaus' letter framed in his home.&lt;ref&gt;{{cite book |title=Moment of Glory: The Year Underdogs Ruled Golf |last=Feinstein |first=John |authorlink=John Feinstein |year=2010 |publisher=[[Little, Brown and Company]] |location=New York |isbn=0-316-02531-3 |pages=3637}}&lt;/ref&gt;
+
+Nicklaus lends his name and likeness to a line of flavored [[lemonade]]s from [[Arizona Beverage Company]], the same company that sells the [[Arnold Palmer (drink)|Arnold Palmer]] line of lemonade/iced tea blends.
+
+In 2010, Nicklaus partnered with Terlato Wines to produce a collection of three [[Napa Valley AVA|Napa Valley]] wines: Jack Nicklaus Private Reserve (a red blend), Cabernet Sauvignon and Private Reserve White (a white blend).&lt;ref&gt;{{cite web |url=http://ww2.terlatowines.com/wines/california/nicklaus/ |archive-url=https://archive.is/20130216205656/http://ww2.terlatowines.com/wines/california/nicklaus/ |dead-url=yes |archive-date=February 16, 2013 |title=Jack Nicklaus Wines: Overview |accessdate=January 17, 2014 }}&lt;/ref&gt;  In 2012, Golden Bear Reserve, a Bordeaux-style red blend, was released to mark the 50th anniversary of Jack Nicklaus' first major championship victory, the 1962 U.S. Open.&lt;ref&gt;{{cite web |url=http://www.winespectator.com/webfeature/show/id/42822 |title=Golf Legend Jack Nicklaus Introduces a Napa Cabernet |date=May 27, 2010}}&lt;/ref&gt;
+
+==Playing style==
+During his prime, Nicklaus was consistently among the longest and straightest hitters on the [[PGA Tour]].&lt;ref&gt;{{cite news |url=http://nbcsports.msnbc.com/id/8534978/ |title=Ball-striking |accessdate=December 23, 2008 |work=NBC Sports}}&lt;/ref&gt; One early example was winning the official long drive contest at the [[1963 PGA Championship]] with a belt of 341 yards, 17&amp;nbsp;inches (312&amp;nbsp;meters). This record lasted more than 20 years. He preferred the fade (left-to-right shape) for his ball flight, since this allowed the ball to stop quickly on hard and fast greens. Another factor in this decision was his distance capabilities, which were developed enough to allow him to play a fade and still reach long par fours and par fives in two shots.&lt;ref name="Golf My Way"/&gt; Nicklaus considers his longest drive in competition to be during the final round of the [[1964 Masters Tournament|1964 Masters]] on the 15th hole, where he had less than 160 yards left to the 500 yard par five. He hit an eight-iron slightly over the green for his second shot.
+
+As his career matured, he also developed the ability to hit the right-to-left controlled draw when needed. Nicklaus debuted as a young pro who hit the ball very high, but he could also hit lower-trajectory shots when needed, after gaining pro experience.
+
+In 1968, [[IBM]] kept [[PGA Tour]] statistics for the first time, but did not continue this practice in the immediately subsequent years. Nicklaus led two categories for the 1968 season: he had an average driving distance of 275 yards, and hit 75 percent of greens in regulation; both marks were significantly ahead of rivals.&lt;ref&gt;''Golf Digest'' magazine, March 1969&lt;/ref&gt;
+
+Even though official [[PGA Tour]] statistics did not begin until 1980, Nicklaus was consistently the leader in greens hit in regulation through that year, displaying great command of the long and middle irons. Indeed, Nicklaus remained in the top six of this category through 1985  far past his best playing years. Nicklaus also finished 10th in driving distance and 13th in driving accuracy in 1980 at age 40, which equated to a "Total Driving" composite of 23  a statistical level not attained since, by a comfortable margin. Nicklaus led this category through 1982. One key to Nicklaus' ball-striking ability and overall power was his exceptional swing tempo. Of this [[Tom Watson (golfer)|Tom Watson]] referred to it as Nicklaus' greatest strength in its ability to remain smooth. This proved an asset, especially under pressure, which allowed him to obtain great distance control with his irons.
+
+Nicklaus was also known for his course management skills. He would plan to hit each full shot to the optimal position, to best set up his next shot, usually aiming for level lies and clear approach lines, while favoring his preferred shot shapes. He would often hold back on power to achieve this, but had a power advantage over most rivals through the set, so that he could hit a 3-wood or 1-iron from the tee with increased accuracy to avoid trouble, with sufficient length to keep up with the drivers hit by most rivals. An exceptional example of this came in the final round of the 1966 Open Championship at Muirfield, on the 17th hole, a 530-yard par 5 hole. Nicklaus needed a birdie, but the hole was framed by tall fescue rough, and was playing downwind with very firm turf conditions. He used a 3-iron from the tee and hit the shot 290 yards, then hit a 5-iron 240 yards onto the green, two-putted for birdie, and parred the final hole to win the title.&lt;ref name="story"/&gt;
+
+Nicklaus was the first player to chart and document yardages on the course on a consistent, planned basis. For most of his career, he was not known for his skill on touch shots with the wedges, so he would often play to avoid wedge shots that needed less-than-full swings. [[Gary Player]] stated that Nicklaus had "the greatest mind the game has ever known".&lt;ref&gt;{{cite news |url=http://nbcsports.msnbc.com/id/8534977/ |title=Course Management |accessdate=December 23, 2008 |work=NBC Sports}}&lt;/ref&gt;
+
+Nicklaus was not known for being an outstanding putter, but he was often able to make the important putts when they were needed.&lt;ref&gt;{{cite news |url=http://nbcsports.msnbc.com/id/8534970/ |title=Putting |accessdate=December 23, 2008 |work=NBC Sports}}&lt;/ref&gt; Nicklaus' putting was highly regarded by his rivals. He was also known as a conservative player at times; he went for broke only when it was necessary. This was especially apparent on the greens, where he would often choose to be less aggressive and make sure of an easy two-putt. Nicklaus spoke about this in his autobiography. "I was a fine two-putter, but sometimes too defensivetoo concerned about three-puttingto go for putts that I probably should have gone for."&lt;ref name="story"/&gt;
+
+==Awards and recognition==
+{{Main article|List of career achievements by Jack Nicklaus#Awards}}
+[[File:Script Ohio.jpg|thumb|250px|Nicklaus "dotting the i" at the [[Ohio State Buckeyes football]] game against [[Minnesota Golden Gophers football|Minnesota Golden Gophers]] at [[Ohio Stadium]] on 2006-10-28. Nicklaus can be seen in red in the middle of the field. ]]
+After his first year on the PGA Tour in 1962, Nicklaus received the [[PGA Tour Rookie of the Year|PGA Tour Rookie of the Year award]]. As well as receiving the [[PGA Tour Player of the Year]] five times and topping the PGA Tour money list eight times, he has also attained the [[Bob Jones Award]] and the [[Payne Stewart Award]], among others.
+
+Nicklaus was inducted into the [[World Golf Hall of Fame]] in the inaugural class of 1974 and the [[Canadian Golf Hall of Fame]] in 1995. His likeness was featured on a special commemorative issue [[Banknotes of the pound sterling|five-pound note]] issued by the [[Royal Bank of Scotland]], making him the first living person outside the [[Royal Family]] to appear on a British banknote.&lt;ref&gt;{{cite press release |url=http://www.rbs.com/media/news/press-releases/2005-press-releases/2005-07-12special-note.ashx |title=The Royal Bank of Scotland Group to Issue Special Commemorative 5 Note in Honour of Jack Nicklaus |date=July 12, 2006 |publisher=[[Royal Bank of Scotland Group]] |location=[[Edinburgh]] |accessdate=September 21, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20110928065417/http://www.rbs.com/media/news/press-releases/2005-press-releases/2005-07-12special-note.ashx |archivedate=September 28, 2011 |df=mdy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.rbs.com/about-rbs/g2/heritage/our-banknote/banknote-history/banknote-issues.ashx |title=Our Banknotes: Learn more here about the banknotes we've issued since 1987 |date=September 17, 2009 |publisher=[[Royal Bank of Scotland Group]] |location=[[Edinburgh]] |accessdate=September 21, 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20100127182225/http://www.rbs.com/about-rbs/g2/heritage/our-banknote/banknote-history/banknote-issues.ashx |archivedate=January 27, 2010 |df=mdy-all }}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.rampantscotland.com/letter2005b.htm |title=High Fives for Golden Bear |date=December 24, 2005 |publisher=Rampant Scotland |accessdate=October 20, 2008}}&lt;/ref&gt; In 1999 he was on the six man short list for the [[BBC]]'s [[BBC Sports Personality of the Century|Sports Personality of the Century]].&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/sport/561352.stm |title=Ali crowned Sportsman of Century |date=December 13, 1999 |work=[[BBC Sport]] |accessdate=March 30, 2017}}&lt;/ref&gt;
+
+In 2001, Nicklaus was honored with the "Lombardi Award of Excellence" from the Vince Lombardi Cancer Foundation. The award was created to honor Coach [[Vince Lombardi|Lombardi]]'s legacy, and is awarded annually to an individual who exemplifies the spirit of the Coach.
+
+There is a [[Jack Nicklaus Museum]] on the campus of [[Ohio State University|The Ohio State University]] in his home town of [[Columbus, Ohio]].&lt;ref&gt;{{cite web |url=http://www.nicklausmuseum.org/ |title=Nicklaus Museum |publisher=NicklausMuseum.com |accessdate=November 11, 2007}}&lt;/ref&gt; The museum was opened in 2002 and is a state-of-the-art, {{convert|24000|sqft|m2|adj=on}} facility offering a comprehensive view of Nicklaus' life and career in and out of golf as well as exhibits celebrating the history and legends of the game.
+
+Nicklaus had the rare privilege of "dotting the 'i'" of "[[Script Ohio]]", the signature formation of [[the Ohio State University Marching Band]], at the Ohio State homecoming game on October 28, 2006 when the Buckeyes played Minnesota; this is considered the greatest honor that can be bestowed on a non-band member.&lt;ref&gt;{{cite news |url=http://sports.espn.go.com/ncf/news/story?id=2641971 |title=Strike up the band: Nicklaus dots 'i' at Ohio State |date=October 28, 2006 |agency=Associated Press |work=ESPN}}&lt;/ref&gt; Nicklaus was the fifth non-band member to receive this award. Other recipients include [[Bob Hope]] and [[Woody Hayes]]. While at Ohio State University, Nicklaus became a member of the Fraternity of [[Phi Gamma Delta]].&lt;ref&gt;{{cite web |url=http://www.wmwoods.edu/Info.asp?3500 |title=Phi Gamma Delta |accessdate=November 11, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20070929133316/http://www.wmwoods.edu/Info.asp?3500 |archivedate=September 29, 2007 |df=mdy-all }}&lt;/ref&gt;
+
+Along with [[Annika Srenstam]], Nicklaus was named a Global Ambassador for the [[International Golf Federation]] in 2008 and was instrumental in bringing golf to the Olympics for the 2016 and 2020 games. Golf was last an Olympic sport at the 1904 Games in [[St. Louis]], Mo. when the United States and Canada were the only two competing countries. The [[International Olympic Committee]] approved the inclusion by a vote of 6327, with two abstentions.
+
+Nicklaus joined [[Arnold Palmer]] as an honorary starter for the 2010 Masters. Nicklaus became the eighth honorary starter since the tradition began in 1963 when Nicklaus won his first green jacket. The Big Three were once again reunited in Augusta for the 2012 Masters Tournament as [[Gary Player]] joined Palmer and Nicklaus to kickoff the 76th renewal of the major tournament.
+
+[[File:Jack Nicklaus Congressional Gold Medal (front).jpg|thumb|200px|Congressional Gold Medal]]
+Nicklaus, through his global reach in design and development, as well as the worldwide marketing and licensing of his golf and lifestyle brand, is atop ''Golf Inc.'' magazine's coveted list of the "Most Powerful People in Golf" for a record-extending sixth consecutive year. He is the only golf industry figure who has ever been named to the No. 1 spot for more than three years. Nicklaus topped the 2009 worldwide list of 35 individuals who were selected by a panel of editors for their ability to influence and impact the business of golf, be it the development of courses and communities, the operation of courses, the equipment used by golfers, or the rules and regulations of the game. ''Golf Inc.'' wrote that while the Golden Bear's reign at No. 1 is unprecedented, "the fact is that he keeps adding to his legend, at the design table and in the business world. Despite a worldwide course development slowdown, Nicklaus's design firm has over 40 courses in development around the globe...And he remains perhaps golf's most respected spokesperson on a wide range of issues."
+
+On May 19, 2014, the [[United States House of Representatives]] voted to pass {{USBill|113|HR|2203}}, a bill that would award Nicklaus the [[Congressional Gold Medal]] "in recognition of his service to the nation in promoting excellence and good sportsmanship."&lt;ref name=2203sum&gt;{{cite web |title=H.R. 2203 - Summary |url=http://beta.congress.gov/bill/113th-congress/house-bill/2203 |publisher=United States Congress |accessdate=May 20, 2014}}&lt;/ref&gt; The bill says that Nicklaus' "magnetic personality and unfailing sense of kindness and thoughtfulness have endeared him to millions throughout the world."&lt;ref name=MarcosAwardsCGM&gt;{{cite news |last=Marcos |first=Cristina |title=House votes to award medals to 'Monuments Men,' Jack Nicklaus |url=http://thehill.com/blogs/floor-action/house/206578-house-votes-to-award-medals-to-monuments-men-jack-nicklaus |accessdate=May 20, 2014 |newspaper=The Hill |date=May 19, 2014}}&lt;/ref&gt;  Congressman [[Thomas Massie]] objected to a [[voice vote]], and demanded a [[roll call vote]].&lt;ref name="shesgreen"&gt;{{cite web |url=http://www.cincinnati.com/story/news/politics/2014/06/15/congressman-thinks-answer/10565771/ |title=A congressman thinks 'no' is the answer |first=Deirdre |last=Shesgreen |date=June 15, 2014 |work=Cincinnati.com}}&lt;/ref&gt; He then tried to rally opposition to the measure, but the vote passed easily over Massie's objection: 37110.&lt;ref name="shesgreen"/&gt;
+
+==Career achievements==
+{{Main article|List of career achievements by Jack Nicklaus}}
+Nicklaus holds the record for [[PGA Tour|PGA]] major championships with a total 18; [[Tiger Woods]] is in second place with 14. Nicklaus has the third most PGA Tour victories with 73, behind [[Sam Snead]] (82) and Tiger Woods (79). Nicklaus also holds the record for the most wins at the [[Masters Tournament|Masters]] with six, and [[The Players Championship]] with three. He played on six [[Ryder Cup]] teams, captained the team twice and the [[Presidents Cup]] team four times, and topped the PGA Tour money list and scoring average eight times each. For 24 straight seasons, from 1960 to 1983 inclusive, he made at least one top ten finish in a major championship, and this is a record.
+*'''[[List of career achievements by Jack Nicklaus#PGA Tour wins (73)|PGA Tour wins (73)]]'''
+*'''[[List of career achievements by Jack Nicklaus#PGA Tour of Australasia wins  (7)|PGA Tour of Australasia wins (7)]]'''
+*'''[[List of career achievements by Jack Nicklaus#Other wins (19)|Other wins (19)]]'''
+*'''[[List of career achievements by Jack Nicklaus#Senior PGA Tour wins (10)|Senior Tour wins (10)]]'''
+*'''[[List of career achievements by Jack Nicklaus#Other senior wins (8)|Other senior wins (8)]]'''
+
+===Major championships===
+====Wins (18)====
+{|class="sortable wikitable"
+!Year!!Championship!!54 holes!!Winning score!!Margin!!Runner(s)-up
+|- style="background:#fbceb1;"
+| [[1962 U.S. Open (golf)|1962]] ||[[U.S. Open (golf)|U.S. Open]] ||2 shot deficit ||1 (72-70-72-69=283) ||Playoff &lt;sup&gt;1&lt;/sup&gt; ||{{Flagicon|USA}} [[Arnold Palmer]]
+|- style="background:#d0f0c0;"
+| [[1963 Masters Tournament|1963]] ||[[Masters Tournament]] ||1 shot lead ||2 (74-66-74-72=286) ||1 stroke ||{{Flagicon|USA}} [[Tony Lema]]
+|- style="background:thistle;"
+| [[1963 PGA Championship|1963]] ||[[PGA Championship]] ||3 shot deficit ||5 (69-73-69-68=279) ||2 strokes ||{{Flagicon|USA}} [[Dave Ragan]]
+|- style="background:#d0f0c0;"
+| [[1965 Masters Tournament|1965]] ||[[Masters Tournament]] &lt;small&gt; (2)&lt;/small&gt; ||5 shot lead ||17 (67-71-64-69=271) ||9 strokes ||{{Flagicon|USA}} Arnold Palmer, {{Flagicon|ZAF|1928}} [[Gary Player]]
+|- style="background:#d0f0c0;"
+| [[1966 Masters Tournament|1966]] ||[[Masters Tournament]] &lt;small&gt; (3)&lt;/small&gt; ||Tied for lead ||E (68-76-72-72=288) ||Playoff &lt;sup&gt;2&lt;/sup&gt;||{{Flagicon|USA}} [[Tommy Jacobs]] (2nd)&lt;br /&gt;{{Flagicon|USA}} [[Gay Brewer]] (3rd)
+|- style="background:#abcdef;"
+| [[1966 Open Championship|1966]] ||[[The Open Championship]] ||2 shot deficit ||2 (70-67-75-70=282) ||1 stroke ||{{nowrap|{{Flagicon|USA}} [[Doug Sanders]],      {{Flagicon|WAL}} [[Dave Thomas (golfer)|Dave Thomas]]}}
+|- style="background:#fbceb1;"
+| [[1967 U.S. Open (golf)|1967]] ||[[U.S. Open (golf)|U.S. Open]] &lt;small&gt; (2)&lt;/small&gt;||1 shot deficit ||5 (71-67-72-65=275) ||4 strokes ||{{Flagicon|USA}} Arnold Palmer
+|- style="background:#abcdef;"
+| [[1970 Open Championship|1970]] ||[[The Open Championship]] &lt;small&gt; (2)&lt;/small&gt;||2 shot deficit ||5 (68-69-73-73=283) ||Playoff &lt;sup&gt;3&lt;/sup&gt;||{{Flagicon|USA}} Doug Sanders
+|- style="background:thistle;"
+| [[1971 PGA Championship|1971]] ||[[PGA Championship]] &lt;small&gt; (2)&lt;/small&gt;||4 shot lead ||7 (69-69-70-73=281) ||2 strokes ||{{Flagicon|USA}} [[Billy Casper]]
+|- style="background:#d0f0c0;"
+| [[1972 Masters Tournament|1972]] ||[[Masters Tournament]] &lt;small&gt; (4)&lt;/small&gt;||1 shot lead ||2 (68-71-73-74=286) ||3 strokes ||{{Flagicon|AUS}} [[Bruce Crampton]],&lt;br /&gt;{{Flagicon|USA}} [[Bobby Mitchell (golfer)|Bobby Mitchell]],&lt;br /&gt;{{Flagicon|USA}} [[Tom Weiskopf]]
+|- style="background:#fbceb1;"
+| [[1972 U.S. Open (golf)|1972]] ||[[U.S. Open (golf)|U.S. Open]] &lt;small&gt; (3)&lt;/small&gt;||1 shot lead ||+2 (71-73-72-74=290) ||3 strokes ||{{Flagicon|AUS}} Bruce Crampton
+|- style="background:thistle;"
+| [[1973 PGA Championship|1973]] ||[[PGA Championship]] &lt;small&gt; (3)&lt;/small&gt;||1 shot lead ||7 (72-68-68-69=277) ||4 strokes ||{{Flagicon|AUS}} Bruce Crampton
+|- style="background:#d0f0c0;"
+| [[1975 Masters Tournament|1975]] ||[[Masters Tournament]] &lt;small&gt; (5)&lt;/small&gt;||1 shot deficit ||12 (68-67-73-68=276) ||1 stroke ||{{Flagicon|USA}} Tom Weiskopf, {{Flagicon|USA}} [[Johnny Miller]]
+|- style="background:thistle;"
+| [[1975 PGA Championship|1975]] ||[[PGA Championship]] &lt;small&gt; (4)&lt;/small&gt;||4 shot lead ||4 (70-68-67-71=276) ||2 strokes ||{{Flagicon|AUS}} Bruce Crampton
+|- style="background:#abcdef;"
+| [[1978 Open Championship|1978]] ||[[The Open Championship]] &lt;small&gt; (3)&lt;/small&gt;||1 shot deficit ||7 (71-72-69-69=281) ||2 strokes ||{{Flagicon|USA}} [[Ben Crenshaw]],&lt;br /&gt;{{Flagicon|USA}} [[Raymond Floyd]],&lt;br /&gt;{{Flagicon|USA}} [[Tom Kite]],&lt;br /&gt;{{Flagicon|NZL}} [[Simon Owen]]
+|- style="background:#fbceb1;"
+| [[1980 U.S. Open (golf)|1980]] ||[[U.S. Open (golf)|U.S. Open]] &lt;small&gt; (4)&lt;/small&gt;||Tied for lead ||8 (63-71-70-68=272) ||2 strokes ||{{Flagicon|JPN}} [[Isao Aoki]]
+|- style="background:thistle;"
+| [[1980 PGA Championship|1980]] ||[[PGA Championship]] &lt;small&gt; (5)&lt;/small&gt;||3 shot lead ||6 (70-69-66-69=274) ||7 strokes ||{{Flagicon|USA}} [[Andy Bean]]
+|- style="background:#d0f0c0;"
+| [[1986 Masters Tournament|1986]] ||[[Masters Tournament]] &lt;small&gt; (6)&lt;/small&gt;||4 shot deficit ||9 (74-71-69-65=279) ||1 stroke ||{{Flagicon|USA}} Tom Kite, {{Flagicon|AUS}} [[Greg Norman]]
+|}
+
+&lt;sup&gt;1&lt;/sup&gt; Defeated Arnold Palmer in 18-hole playoff  Nicklaus (71), Palmer (74).&lt;br /&gt;
+&lt;sup&gt;2&lt;/sup&gt; Defeated Tommy Jacobs (2nd) &amp; Gay Brewer (3rd) in 18-hole playoff  Nicklaus (70), Jacobs (72), Brewer (78). 1st, 2nd and 3rd prizes awarded in this playoff.&lt;br /&gt;
+&lt;sup&gt;3&lt;/sup&gt; Defeated Doug Sanders in 18-hole playoff  Nicklaus (72), Sanders (73).
+
+====Results timeline====
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !! 1957 !! 1958 !! 1959
+|-
+|align=left|[[Masters Tournament]]
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|CUT
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|CUT
+|T41
+|CUT
+|-
+|align=left|[[The Open Championship]]
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|-
+|align=left|[[PGA Championship]]
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !!1960 !! 1961 !! 1962 !! 1963 !! 1964 !! 1965 !! 1966 !! 1967 !! 1968 !! 1969
+|-
+|align=left|[[Masters Tournament]]
+|T13 &lt;span style="font-size:87%;"&gt;LA&lt;/span&gt;
+|style="background:yellow;"|T7
+|T15
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T2
+|style="background:lime;"|'''1'''
+|style="background:lime;"|'''1'''
+|CUT
+|style="background:yellow;"|T5
+|T24
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|style="background:yellow;"|2 &lt;span style="font-size:87%;"&gt;LA&lt;/span&gt;
+|style="background:yellow;"|T4 &lt;span style="font-size:87%;"&gt;LA&lt;/span&gt;
+|style="background:lime;"|'''1'''
+|CUT
+|T23
+|T32
+|style="background:yellow;"|3
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|2
+|T25
+|-
+|align=left|[[The Open Championship]]
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|T34
+|style="background:yellow;"|3
+|style="background:yellow;"|2
+|T12
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|2
+|style="background:yellow;"|T2
+|style="background:yellow;"|T6
+|-
+|align=left|[[PGA Championship]]
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:yellow;"|T3
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T2
+|style="background:yellow;"|T2
+|T22
+|style="background:yellow;"|T3
+|CUT
+|T11
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !!1970 !! 1971 !! 1972 !! 1973 !! 1974 !! 1975 !! 1976 !! 1977 !! 1978 !! 1979
+|-
+|align=left|[[Masters Tournament]]
+|style="background:yellow;"|8
+|style="background:yellow;"|T2
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T3
+|style="background:yellow;"|T4
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T3
+|style="background:yellow;"|2
+|style="background:yellow;"|7
+|style="background:yellow;"|4
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|T49
+|style="background:yellow;"|2
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T4
+|style="background:yellow;"|T10
+|style="background:yellow;"|T7
+|T11
+|style="background:yellow;"|T10
+|style="background:yellow;"|T6
+|style="background:yellow;"|T9
+|-
+|align=left|[[The Open Championship]]
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T5
+|style="background:yellow;"|2
+|style="background:yellow;"|4
+|style="background:yellow;"|3
+|style="background:yellow;"|T3
+|style="background:yellow;"|T2
+|style="background:yellow;"|2
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T2
+|-
+|align=left|[[PGA Championship]]
+|style="background:yellow;"|T6
+|style="background:lime;"|'''1'''
+|T13
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|2
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T4
+|style="background:yellow;"|3
+|CUT
+|T65
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !!1980 !! 1981 !! 1982 !! 1983 !! 1984 !! 1985 !! 1986 !! 1987 !! 1988 !! 1989
+|-
+|align=left|[[Masters Tournament]]
+|T33
+|style="background:yellow;"|T2
+|T15
+|WD
+|T18
+|style="background:yellow;"|T6
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T7
+|T21
+|T18
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T6
+|style="background:yellow;"|2
+|T43
+|T21
+|CUT
+|style="background:yellow;"|T8
+|T46
+|CUT
+|T43
+|-
+|align=left|[[The Open Championship]]
+|style="background:yellow;"|T4
+|T23
+|style="background:yellow;"|T10
+|T29
+|T31
+|CUT
+|T46
+|T72
+|T25
+|T30
+|-
+|align=left|[[PGA Championship]]
+|style="background:lime;"|'''1'''
+|style="background:yellow;"|T4
+|T16
+|style="background:yellow;"|2
+|T25
+|T32
+|T16
+|T24
+|CUT
+|T27
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !!1990 !! 1991 !! 1992 !! 1993 !! 1994 !! 1995 !! 1996 !! 1997 !! 1998 !! 1999
+|-
+|align=left|[[Masters Tournament]]
+|style="background:yellow;"|6
+|T35
+|T42
+|T27
+|CUT
+|T35
+|T41
+|T39
+|style="background:yellow;"|T6
+|style="background:#eeeeee;"|
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|T33
+|T46
+|CUT
+|T72
+|T28
+|CUT
+|T27
+|T52
+|T43
+|CUT
+|-
+|align=left|[[The Open Championship]]
+|T63
+|T44
+|CUT
+|CUT
+|CUT
+|T79
+|T45
+|T60
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|-
+|align=left|[[PGA Championship]]
+|CUT
+|T23
+|CUT
+|CUT
+|CUT
+|T67
+|CUT
+|CUT
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;text-align:center;"
+|- style="background:#eee;"
+!align="left"|Tournament !! 2000 !! 2001 !! 2002 !! 2003 !! 2004 !! 2005
+|-
+|align=left|[[Masters Tournament]]
+|T54
+|CUT
+|style="background:#eeeeee;"|
+|CUT
+|CUT
+|CUT
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]]
+|CUT
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|-
+|align=left|[[The Open Championship]]
+|CUT
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|CUT
+|-
+|align=left|[[PGA Championship]]
+|CUT
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|style="background:#eeeeee;"|
+|}
+{{legend|lime|Win}}
+{{legend|yellow|Top 10}}
+{{legend|#eeeeee|Did not play}}
+&lt;span style="font-size:87%;"&gt;LA&lt;/span&gt; = Low amateur&lt;br /&gt;
+CUT = missed the halfway cut&lt;br/&gt;
+WD = withdrew&lt;br/&gt;
+"T" indicates a tie for a place.
+
+====Summary====
+{| class=wikitable style=text-align:center
+!Tournament !! Wins !! 2nd !! 3rd !! Top-5 !! Top-10 !! Top-25 !! Events !! Cuts made
+|-
+|align=left|[[Masters Tournament]]         ||  6 ||  4 || 2 || 15 || 22 || 29 ||  45 ||  37
+|-
+|align=left|[[U.S. Open (golf)|U.S. Open]] ||  4 ||  4 || 1 || 11 || 18 || 22 ||  44 ||  35
+|-
+|align=left|[[The Open Championship]]      ||  3 ||  7 || 3 || 16 || 18 || 21 ||  38 ||  32
+|-
+|align=left|[[PGA Championship]]           ||  5 ||  4 || 3 || 14 || 15 || 23 ||  37 ||  27
+|-
+!Totals                                    !! 18 !! 19 !! 9 !! 56 !! 73 !! 95 !! 164 !! 131
+|}
+*Most consecutive cuts made  39
+*Longest streak of top-10s  13
+*At the Open Championship,196680, Nicklaus finished 15 consecutive years in the top-6. Specifically 1st (3), 2nd (6), 3rd (2), 4th (2), 5th (1), 6th (1).
+*At the Masters, 197079, Nicklaus finished 10 consecutive years in the top-8. Specifically 1st (2), 2nd (2), 3rd (2), 4th (2), 7th (1), 8th (1).
+
+All of the totals above are stand-alone records with the exception of the longest streak of consecutive cuts made in majors at 39 which was equaled by [[Tiger Woods]] (19962006) and the longest streak of top-10s in majors which is held by [[Ben Hogan]] with 18 between 1948 and 1956.
+
+===Senior major championships===
+
+====Wins (8)====
+{|class="sortable wikitable"
+!Year!!Championship!!Winning score!!Margin!!Runner(s)-up
+|- style="background:#d0f0c0;"
+| 1990 ||[[The Tradition at Desert Mountain]] ||10 (71-67-68=206) ||4 strokes ||{{Flagicon|South Africa|1928}} [[Gary Player]]
+|- style="background:#ff9;"
+| 1990 ||[[Mazda Senior Tournament Players Championship]] ||27 (65-68-64-64=261) ||6 strokes ||{{Flagicon|USA}} [[Lee Trevino]]
+|- style="background:#d0f0c0;"
+| 1991 ||[[The Tradition at Desert Mountain]] &lt;small&gt; (2)&lt;/small&gt; ||11 (71-73-66-67=277) ||1 stroke ||{{Flagicon|USA}} [[Jim Colbert]], {{Flagicon|USA}} [[Jim Dent]], {{Flagicon|USA}} [[Phil Rodgers]]
+|- style="background:thistle;"
+| 1991 ||[[PGA Seniors' Championship]] ||17 (66-66-69-70=271) ||6 strokes ||{{Flagicon|AUS}} [[Bruce Crampton]]
+|- style="background:#fbceb1;"
+| 1991 ||[[U.S. Senior Open]] ||+2 (72-69-70-71=282) ||Playoff&lt;sup&gt;1&lt;/sup&gt;||{{Flagicon|USA}} [[Juan "Chi-Chi" Rodrguez|Chi-Chi Rodrguez]]
+|- style="background:#fbceb1;"
+| 1993 ||[[U.S. Senior Open]] &lt;small&gt; (2)&lt;/small&gt; ||6 (68-73-67-70=278) ||1 stroke ||{{Flagicon|USA}} [[Tom Weiskopf]]
+|- style="background:#d0f0c0;"
+| 1995 ||[[The Tradition]] &lt;small&gt; (3)&lt;/small&gt; ||12 (69-71-69-67=276) ||Playoff&lt;sup&gt;2&lt;/sup&gt;||{{Flagicon|JPN}} [[Isao Aoki]]
+|- style="background:#d0f0c0;"
+| 1996 ||[[The Tradition]] &lt;small&gt; (4)&lt;/small&gt; ||16 (68-74-65-65=272) ||3 strokes ||{{Flagicon|USA}} [[Hale Irwin]]
+|}
+&lt;sup&gt;1&lt;/sup&gt; In an 18-hole playoff, Nicklaus shot a (65) to Rodrguez's (69).
+
+====Results timeline====
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;"
+|- style="background:#eee;"
+!align="left"|Tournament
+!1990
+!1991
+!1992
+!1993
+!1994
+!1995
+!1996
+!1997
+!1998
+!1999
+|-
+|[[The Tradition]]
+|  style="text-align:center; background:#0f0;"|'''1'''
+|  style="text-align:center; background:#0f0;"|'''1'''
+|  style="text-align:center; background:yellow;"|2
+|  style="text-align:center; background:yellow;"|T9
+|  style="text-align:center; background:yellow;"|T4
+|  style="text-align:center; background:#0f0;"|'''1'''
+|  style="text-align:center; background:#0f0;"|'''1'''
+| style="text-align:center;"|T25
+| style="text-align:center;"|T25
+| style="text-align:center;"|DNP
+|-
+|[[Senior PGA Championship]]
+|  style="text-align:center; background:yellow;"|T3
+|  style="text-align:center; background:#0f0;"|'''1'''
+|  style="text-align:center; background:yellow;"|T10
+|  style="text-align:center; background:yellow;"|T9
+|  style="text-align:center; background:yellow;"|9
+|  style="text-align:center; background:yellow;"|8
+| style="text-align:center;"|T22
+|  style="text-align:center; background:yellow;"|T2
+|  style="text-align:center; background:yellow;"|T6
+| style="text-align:center;"|DNP
+|-
+|[[Senior Players Championship]]
+|  style="text-align:center; background:#0f0;"|'''1'''
+| style="text-align:center;"|T22
+| style="text-align:center;"|DNP
+| style="text-align:center;"|T22
+|  style="text-align:center; background:yellow;"|T6
+|  style="text-align:center; background:yellow;"|2
+| style="text-align:center;"|T24
+|  style="text-align:center; background:yellow;"|T8
+|  style="text-align:center; background:yellow;"|6
+| style="text-align:center;"|DNP
+|-
+|[[U.S. Senior Open]]
+|  style="text-align:center; background:yellow;"|T2
+|  style="text-align:center; background:#0f0;"|'''1'''
+|  style="text-align:center; background:yellow;"|T3
+|  style="text-align:center; background:#0f0;"|'''1'''
+|  style="text-align:center; background:yellow;"|T7
+|  style="text-align:center; background:yellow;"|2
+| style="text-align:center;"|16
+|  style="text-align:center; background:yellow;"|T5
+| style="text-align:center;"|T13
+| style="text-align:center;"|DNP
+|}
+
+{| cellpadding="3" cellspacing="0" border="1" style="font-size: 95%; border: #aaa solid 1px; border-collapse: collapse;"
+|- style="background:#eee;"
+!align="left"|Tournament
+!2000
+!2001
+!2002
+!2003
+!2004
+|-
+|[[The Tradition]]
+|  style="text-align:center; background:yellow;"|T9
+| style="text-align:center;"|T29
+| style="text-align:center;"|69
+|  style="text-align:center; background:yellow;"|T10
+| style="text-align:center;"|DNP
+|-
+|[[Senior PGA Championship]]
+| style="text-align:center;"|T12
+| style="text-align:center;"|12
+| style="text-align:center;"|WD
+| style="text-align:center;"|CUT
+| style="text-align:center;"|WD
+|-
+|[[Senior Players Championship]]
+| style="text-align:center;"|T34
+| style="text-align:center;"|WD
+| style="text-align:center;"|DNP
+| style="text-align:center;"|T40
+| style="text-align:center;"|DNP
+|-
+|[[U.S. Senior Open]]
+| style="text-align:center;"|T21
+|  style="text-align:center; background:yellow;"|4
+| style="text-align:center;"|DNP
+| style="text-align:center;"|T25
+| style="text-align:center;"|DNP
+|-
+|[[Senior British Open Championship|Senior British Open]]
+| style="text-align:center;"|-&lt;sup&gt;1&lt;/sup&gt;
+| style="text-align:center;"|-&lt;sup&gt;1&lt;/sup&gt;
+| style="text-align:center;"|-&lt;sup&gt;1&lt;/sup&gt;
+| style="text-align:center;"|T14
+| style="text-align:center;"|DNP
+|}
+
+&lt;sup&gt;1&lt;/sup&gt;The Senior British Open was not sanctioned by the circuit then known as the Champions Tour until 2003.
+
+DNP = Did not play&lt;br /&gt;
+CUT = Missed the half-way cut&lt;br /&gt;
+WD = Withdrew&lt;br /&gt;
+"T" = tied&lt;br /&gt;
+Green background for wins. Yellow background for top-10.
+
+====Summary of performances====
+*Starts  50
+*Cuts made  46 (cut once, withdrew 3 times)
+*Wins  8
+*Second place finishes  5
+*Top-three finishes  15
+*Top-five finishes  18
+*Top-10 finishes  30
+*Longest streak of top-10s  10
+
+==See also==
+{{Portal|Golf}}
+*[[Grand Slam (golf)#Career Grand Slam|Career Grand Slam Champions]]
+*[[List of golfers with most PGA Tour wins]]
+*[[List of men's major championships winning golfers]]
+*[[List of golfers with most PGA Tour Champions wins]]
+*[[List of golfers with most Champions Tour major championship wins]]
+*[[List of golfers with most wins in one PGA Tour event]]
+*[[List of golf courses designed by Jack Nicklaus]]
+
+==Notes and references==
+{{Reflist|colwidth=30em}}
+
+==External links==
+{{Commons category|Jack Nicklaus}}
+{{Wikiquote}}
+* [http://www.nicklaus.com/ Nicklaus.com Official site]
+* {{PGATour player|01869}}
+
+{{navboxes|title=Jack Nicklaus in the [[Men's major golf championships|major championships]]
+|list1={{The Masters champions}}
+{{U.S. Open champions}}
+{{The Open champions}}
+{{PGA Champions}}
+
+{{Men's Career Grand Slam Champion Golfers}}
+}}
+{{navboxes|title=Jack Nicklaus in the [[Senior major golf championships|senior major championships]]
+|list1={{Senior PGA Championship champions}}
+{{U.S. Senior Open champions}}
+{{The Tradition champions}}
+{{Senior Players Championship champions}}
+}}
+{{navboxes|title=Jack Nicklaus awards and achievements
+|list1={{PGA Players of the Year}}
+{{SI Sportsman of the Year}}
+
+}}
+
+{{navboxes|title=Jack Nicklaus in the [[Ryder Cup]]
+|list1={{American Ryder Cup Captains}}
+{{1969 United States Ryder Cup team}}
+{{1971 United States Ryder Cup team}}
+{{1973 United States Ryder Cup team}}
+{{1975 United States Ryder Cup team}}
+{{1977 United States Ryder Cup team}}
+{{1981 United States Ryder Cup team}}
+{{1983 United States Ryder Cup team}}
+{{1987 United States Ryder Cup team}}
+}}
+{{navboxes|title=Jack Nicklaus in the [[Presidents Cup]]
+|list1=
+{{1998 United States Presidents Cup team}}
+{{2003 United States Presidents Cup team}}
+{{2005 United States Presidents Cup team}}
+{{2007 United States Presidents Cup team}}
+}}
+{{Players Championship champions}}
+{{U.S. Amateur champions}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Nicklaus, Jack}}
+[[Category:Jack Nicklaus]]
+[[Category:American male golfers]]
+[[Category:Ohio State Buckeyes men's golfers]]
+[[Category:PGA Tour golfers]]
+[[Category:PGA Tour Champions golfers]]
+[[Category:Ryder Cup competitors for the United States]]
+[[Category:Winners of men's major golf championships]]
+[[Category:Men's Career Grand Slam champion golfers]]
+[[Category:Winners of senior major golf championships]]
+[[Category:World Golf Hall of Fame inductees]]
+[[Category:Golf course architects]]
+[[Category:Golf writers and broadcasters]]
+[[Category:Golfers from Ohio]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:American philanthropists]]
+[[Category:People with poliomyelitis]]
+[[Category:American people of German descent]]
+[[Category:Sportspeople from Columbus, Ohio]]
+[[Category:People from Upper Arlington, Ohio]]
+[[Category:People from North Palm Beach, Florida]]
+[[Category:1940 births]]
+[[Category:Living people]]</text>
+      <sha1>99eegh9v26w6ko9ks7rc77kr61xb9je</sha1>
+    </revision>
+  </page>
+</mediawiki>

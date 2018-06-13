@@ -1,0 +1,680 @@
+
+______RELATIVES______
+' brother' ' sister' ' youngest' ' oldest' ' child' ' sibling' 
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Madonna</title>
+    <ns>0</ns>
+    <id>38297</id>
+    <revision>
+      <id>842587158</id>
+      <parentid>842584337</parentid>
+      <timestamp>2018-05-23T11:54:22Z</timestamp>
+      <contributor>
+        <username>Bennv3771</username>
+        <id>30268075</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by 62.190.148.115 (talk) to last version by JHunterJ</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3321">{{wiktionary|Madonna|madonna}}
+'''Madonna''' (from medieval Italian {{lang|it|ma donna}}, meaning "my lady") most commonly refers to:
+* Mary, mother of Jesus, a religious figure in Christianity and Islam
+* Madonna (entertainer) (born 1958), American singer-songwriter and producer
+
+'''Madonna''' may also refer to:
+{{TOC right}}
+==Places==
+* Madonna di Campiglio, a village and ski resort in Trento, Italy
+* Madonna di Campagna, a quarter and subway station in Turin, Italy
+* Madonna, Maryland, an unincorporated community in the United States
+
+==Art==
+* Madonna (art), pictorial or sculptured representations of Mary, mother of Jesus
+* ''Madonna'' (Munch painting), a 1895 painting by Edvard Munch
+
+==Film==
+* ''Madonna'' (1999 film), a Croatian film
+* ''Madonna'' (2015 film), a South Korean film
+
+==Music==
+===Albums===
+{{redirect|Madonna (album)|albums by the entertainer Madonna|Madonna albums discography}}
+* ''Madonna'' (Alisha Chinai album) (1989)
+* ''Madonna'' (...And You Will Know Us by the Trail of Dead album) (1999)
+* ''Madonna'' (Madonna album) (1983)
+* ''Madonna'' (EP), a 2010 EP by Secret
+
+===Songs===
+* "Madonna", a 2015 song by Drake from ''If You're Reading This It's Too Late''
+* "Madonna", a 2010 song by Secret from ''Madonna''
+* "Madonna", a 1988 song by Sparks from ''Interior Design''
+
+==Other uses==
+* ''Madonna'' (book), a 2001 biography of the singer by Andrew Morton
+* Madonna (studio), a Japanese adult video company
+* Berkeley Madonna, mathematical modelling software
+* Joan Baez or Madonna, American singer
+* Madonna, leader of 1990s gang 5T
+
+==People with the name==
+* Armando Madonna (born 1963), Italian football manager and former player
+* Jon C. Madonna, retired, business executive
+* G. Terry Madonna, professor
+* Madonna Blyth (born 1985), Australian field hockey player
+* Madonna Buder (born 1930), Roman Catholic religious sister and Senior Olympian triathlete
+* Madonna Constantine, American psychology and education professor
+* Madonna Decena, Filipino performer and club singer
+* Madonna Wayne Gacy (born 1964), former keyboard player for Marilyn Manson
+* Madonna Gimotea (born 1974), retired female gymnast from Canada
+* Madonna Harris (born 1956), New Zealand multi-sportswoman
+* Madonna King, Australian journalist, author, and media commentator
+* Madonna Oriente (died 1390), name of an alleged religious figure
+* Madonna Sebastian (born 1992), Indian actress and singer who appears mainly in Malayalam and Tamil films
+* Madonna Soctomah, Passamaquoddy politician from Maine
+* Madonna Swan (19281993), American Indian woman Lakota
+* Madonna Tassi, Canadian vocalist
+* Madonna Thunder Hawk (born 1940), Native American civil rights activist
+
+==See also==
+* ''Blue Madonna'', a 2018 album by Brns
+* "Lady Madonna", a 1968 song by The Beatles
+*Madona, a city in Latvia
+* {{in title|Madonna}}
+* {{look from}}
+
+{{disambiguation|geo|given name|surname}}</text>
+      <sha1>lbqxlaq9342mabygh1juheto7iwza9y</sha1>
+    </revision>
+  </page>
+</mediawiki>
+______________________________
+
+______SCHOOLING______
+' school' ' education' ' home' ' self' ' self taught' 
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Madonna</title>
+    <ns>0</ns>
+    <id>38297</id>
+    <revision>
+      <id>842587158</id>
+      <parentid>842584337</parentid>
+      <timestamp>2018-05-23T11:54:22Z</timestamp>
+      <contributor>
+        <username>Bennv3771</username>
+        <id>30268075</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by 62.190.148.115 (talk) to last version by JHunterJ</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3321">{{wiktionary|Madonna|madonna}}
+'''Madonna''' (from medieval Italian {{lang|it|ma donna}}, meaning "my lady") most commonly refers to:
+* Mary, mother of Jesus, a religious figure in Christianity and Islam
+* Madonna (entertainer) (born 1958), American singer-songwriter and producer
+
+'''Madonna''' may also refer to:
+{{TOC right}}
+==Places==
+* Madonna di Campiglio, a village and ski resort in Trento, Italy
+* Madonna di Campagna, a quarter and subway station in Turin, Italy
+* Madonna, Maryland, an unincorporated community in the United States
+
+==Art==
+* Madonna (art), pictorial or sculptured representations of Mary, mother of Jesus
+* ''Madonna'' (Munch painting), a 1895 painting by Edvard Munch
+
+==Film==
+* ''Madonna'' (1999 film), a Croatian film
+* ''Madonna'' (2015 film), a South Korean film
+
+==Music==
+===Albums===
+{{redirect|Madonna (album)|albums by the entertainer Madonna|Madonna albums discography}}
+* ''Madonna'' (Alisha Chinai album) (1989)
+* ''Madonna'' (...And You Will Know Us by the Trail of Dead album) (1999)
+* ''Madonna'' (Madonna album) (1983)
+* ''Madonna'' (EP), a 2010 EP by Secret
+
+===Songs===
+* "Madonna", a 2015 song by Drake from ''If You're Reading This It's Too Late''
+* "Madonna", a 2010 song by Secret from ''Madonna''
+* "Madonna", a 1988 song by Sparks from ''Interior Design''
+
+==Other uses==
+* ''Madonna'' (book), a 2001 biography of the singer by Andrew Morton
+* Madonna (studio), a Japanese adult video company
+* Berkeley Madonna, mathematical modelling software
+* Joan Baez or Madonna, American singer
+* Madonna, leader of 1990s gang 5T
+
+==People with the name==
+* Armando Madonna (born 1963), Italian football manager and former player
+* Jon C. Madonna, retired, business executive
+* G. Terry Madonna, professor
+* Madonna Blyth (born 1985), Australian field hockey player
+* Madonna Buder (born 1930), Roman Catholic religious sister and Senior Olympian triathlete
+* Madonna Constantine, American psychology and education professor
+* Madonna Decena, Filipino performer and club singer
+* Madonna Wayne Gacy (born 1964), former keyboard player for Marilyn Manson
+* Madonna Gimotea (born 1974), retired female gymnast from Canada
+* Madonna Harris (born 1956), New Zealand multi-sportswoman
+* Madonna King, Australian journalist, author, and media commentator
+* Madonna Oriente (died 1390), name of an alleged religious figure
+* Madonna Sebastian (born 1992), Indian actress and singer who appears mainly in Malayalam and Tamil films
+* Madonna Soctomah, Passamaquoddy politician from Maine
+* Madonna Swan (19281993), American Indian woman Lakota
+* Madonna Tassi, Canadian vocalist
+* Madonna Thunder Hawk (born 1940), Native American civil rights activist
+
+==See also==
+* ''Blue Madonna'', a 2018 album by Brns
+* "Lady Madonna", a 1968 song by The Beatles
+*Madona, a city in Latvia
+* {{in title|Madonna}}
+* {{look from}}
+
+{{disambiguation|geo|given name|surname}}</text>
+      <sha1>lbqxlaq9342mabygh1juheto7iwza9y</sha1>
+    </revision>
+  </page>
+</mediawiki>
+______________________________
+
+______PARENTS______
+' parents' ' father' ' mother' ' family' ' adopt' ' died' ' profession' ' occupation' 
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Madonna</title>
+    <ns>0</ns>
+    <id>38297</id>
+    <revision>
+      <id>842587158</id>
+      <parentid>842584337</parentid>
+      <timestamp>2018-05-23T11:54:22Z</timestamp>
+      <contributor>
+        <username>Bennv3771</username>
+        <id>30268075</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by 62.190.148.115 (talk) to last version by JHunterJ</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3321">{{wiktionary|Madonna|madonna}}
+'''Madonna''' (from medieval Italian {{lang|it|ma donna}}, meaning "my lady") most commonly refers to:
+* Mary, mother of Jesus, a religious figure in Christianity and Islam
+* Madonna (entertainer) (born 1958), American singer-songwriter and producer
+
+'''Madonna''' may also refer to:
+{{TOC right}}
+==Places==
+* Madonna di Campiglio, a village and ski resort in Trento, Italy
+* Madonna di Campagna, a quarter and subway station in Turin, Italy
+* Madonna, Maryland, an unincorporated community in the United States
+
+==Art==
+* Madonna (art), pictorial or sculptured representations of Mary, mother of Jesus
+* ''Madonna'' (Munch painting), a 1895 painting by Edvard Munch
+
+==Film==
+* ''Madonna'' (1999 film), a Croatian film
+* ''Madonna'' (2015 film), a South Korean film
+
+==Music==
+===Albums===
+{{redirect|Madonna (album)|albums by the entertainer Madonna|Madonna albums discography}}
+* ''Madonna'' (Alisha Chinai album) (1989)
+* ''Madonna'' (...And You Will Know Us by the Trail of Dead album) (1999)
+* ''Madonna'' (Madonna album) (1983)
+* ''Madonna'' (EP), a 2010 EP by Secret
+
+===Songs===
+* "Madonna", a 2015 song by Drake from ''If You're Reading This It's Too Late''
+* "Madonna", a 2010 song by Secret from ''Madonna''
+* "Madonna", a 1988 song by Sparks from ''Interior Design''
+
+==Other uses==
+* ''Madonna'' (book), a 2001 biography of the singer by Andrew Morton
+* Madonna (studio), a Japanese adult video company
+* Berkeley Madonna, mathematical modelling software
+* Joan Baez or Madonna, American singer
+* Madonna, leader of 1990s gang 5T
+
+==People with the name==
+* Armando Madonna (born 1963), Italian football manager and former player
+* Jon C. Madonna, retired, business executive
+* G. Terry Madonna, professor
+* Madonna Blyth (born 1985), Australian field hockey player
+* Madonna Buder (born 1930), Roman Catholic religious sister and Senior Olympian triathlete
+* Madonna Constantine, American psychology and education professor
+* Madonna Decena, Filipino performer and club singer
+* Madonna Wayne Gacy (born 1964), former keyboard player for Marilyn Manson
+* Madonna Gimotea (born 1974), retired female gymnast from Canada
+* Madonna Harris (born 1956), New Zealand multi-sportswoman
+* Madonna King, Australian journalist, author, and media commentator
+* Madonna Oriente (died 1390), name of an alleged religious figure
+* Madonna Sebastian (born 1992), Indian actress and singer who appears mainly in Malayalam and Tamil films
+* Madonna Soctomah, Passamaquoddy politician from Maine
+* Madonna Swan (19281993), American Indian woman Lakota
+* Madonna Tassi, Canadian vocalist
+* Madonna Thunder Hawk (born 1940), Native American civil rights activist
+
+==See also==
+* ''Blue Madonna'', a 2018 album by Brns
+* "Lady Madonna", a 1968 song by The Beatles
+*Madona, a city in Latvia
+* {{in title|Madonna}}
+* {{look from}}
+
+{{disambiguation|geo|given name|surname}}</text>
+      <sha1>lbqxlaq9342mabygh1juheto7iwza9y</sha1>
+    </revision>
+  </page>
+</mediawiki>
+______________________________
+
+______MUSIC______
+' music' ' play' ' listen' ' piano' ' violin' ' flute' ' guitar' 
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Madonna</title>
+    <ns>0</ns>
+    <id>38297</id>
+    <revision>
+      <id>842587158</id>
+      <parentid>842584337</parentid>
+      <timestamp>2018-05-23T11:54:22Z</timestamp>
+      <contributor>
+        <username>Bennv3771</username>
+        <id>30268075</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by 62.190.148.115 (talk) to last version by JHunterJ</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3321">{{wiktionary|Madonna|madonna}}
+'''Madonna''' (from medieval Italian {{lang|it|ma donna}}, meaning "my lady") most commonly refers to:
+* Mary, mother of Jesus, a religious figure in Christianity and Islam
+* Madonna (entertainer) (born 1958), American singer-songwriter and producer
+
+'''Madonna''' may also refer to:
+{{TOC right}}
+==Places==
+* Madonna di Campiglio, a village and ski resort in Trento, Italy
+* Madonna di Campagna, a quarter and subway station in Turin, Italy
+* Madonna, Maryland, an unincorporated community in the United States
+
+==Art==
+* Madonna (art), pictorial or sculptured representations of Mary, mother of Jesus
+* ''Madonna'' (Munch painting), a 1895 painting by Edvard Munch
+
+==Film==
+* ''Madonna'' (1999 film), a Croatian film
+* ''Madonna'' (2015 film), a South Korean film
+
+==Music==
+===Albums===
+{{redirect|Madonna (album)|albums by the entertainer Madonna|Madonna albums discography}}
+* ''Madonna'' (Alisha Chinai album) (1989)
+* ''Madonna'' (...And You Will Know Us by the Trail of Dead album) (1999)
+* ''Madonna'' (Madonna album) (1983)
+* ''Madonna'' (EP), a 2010 EP by Secret
+
+===Songs===
+* "Madonna", a 2015 song by Drake from ''If You're Reading This It's Too Late''
+* "Madonna", a 2010 song by Secret from ''Madonna''
+* "Madonna", a 1988 song by Sparks from ''Interior Design''
+
+==Other uses==
+* ''Madonna'' (book), a 2001 biography of the singer by Andrew Morton
+* Madonna (studio), a Japanese adult video company
+* Berkeley Madonna, mathematical modelling software
+* Joan Baez or Madonna, American singer
+* Madonna, leader of 1990s gang 5T
+
+==People with the name==
+* Armando Madonna (born 1963), Italian football manager and former player
+* Jon C. Madonna, retired, business executive
+* G. Terry Madonna, professor
+* Madonna Blyth (born 1985), Australian field hockey player
+* Madonna Buder (born 1930), Roman Catholic religious sister and Senior Olympian triathlete
+* Madonna Constantine, American psychology and education professor
+* Madonna Decena, Filipino performer and club singer
+* Madonna Wayne Gacy (born 1964), former keyboard player for Marilyn Manson
+* Madonna Gimotea (born 1974), retired female gymnast from Canada
+* Madonna Harris (born 1956), New Zealand multi-sportswoman
+* Madonna King, Australian journalist, author, and media commentator
+* Madonna Oriente (died 1390), name of an alleged religious figure
+* Madonna Sebastian (born 1992), Indian actress and singer who appears mainly in Malayalam and Tamil films
+* Madonna Soctomah, Passamaquoddy politician from Maine
+* Madonna Swan (19281993), American Indian woman Lakota
+* Madonna Tassi, Canadian vocalist
+* Madonna Thunder Hawk (born 1940), Native American civil rights activist
+
+==See also==
+* ''Blue Madonna'', a 2018 album by Brns
+* "Lady Madonna", a 1968 song by The Beatles
+*Madona, a city in Latvia
+* {{in title|Madonna}}
+* {{look from}}
+
+{{disambiguation|geo|given name|surname}}</text>
+      <sha1>lbqxlaq9342mabygh1juheto7iwza9y</sha1>
+    </revision>
+  </page>
+</mediawiki>
+______________________________
+
+______SPORTS______
+' play' ' sport' 
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Madonna</title>
+    <ns>0</ns>
+    <id>38297</id>
+    <revision>
+      <id>842587158</id>
+      <parentid>842584337</parentid>
+      <timestamp>2018-05-23T11:54:22Z</timestamp>
+      <contributor>
+        <username>Bennv3771</username>
+        <id>30268075</id>
+      </contributor>
+      <minor/>
+      <comment>Reverted edits by 62.190.148.115 (talk) to last version by JHunterJ</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="3321">{{wiktionary|Madonna|madonna}}
+'''Madonna''' (from medieval Italian {{lang|it|ma donna}}, meaning "my lady") most commonly refers to:
+* Mary, mother of Jesus, a religious figure in Christianity and Islam
+* Madonna (entertainer) (born 1958), American singer-songwriter and producer
+
+'''Madonna''' may also refer to:
+{{TOC right}}
+==Places==
+* Madonna di Campiglio, a village and ski resort in Trento, Italy
+* Madonna di Campagna, a quarter and subway station in Turin, Italy
+* Madonna, Maryland, an unincorporated community in the United States
+
+==Art==
+* Madonna (art), pictorial or sculptured representations of Mary, mother of Jesus
+* ''Madonna'' (Munch painting), a 1895 painting by Edvard Munch
+
+==Film==
+* ''Madonna'' (1999 film), a Croatian film
+* ''Madonna'' (2015 film), a South Korean film
+
+==Music==
+===Albums===
+{{redirect|Madonna (album)|albums by the entertainer Madonna|Madonna albums discography}}
+* ''Madonna'' (Alisha Chinai album) (1989)
+* ''Madonna'' (...And You Will Know Us by the Trail of Dead album) (1999)
+* ''Madonna'' (Madonna album) (1983)
+* ''Madonna'' (EP), a 2010 EP by Secret
+
+===Songs===
+* "Madonna", a 2015 song by Drake from ''If You're Reading This It's Too Late''
+* "Madonna", a 2010 song by Secret from ''Madonna''
+* "Madonna", a 1988 song by Sparks from ''Interior Design''
+
+==Other uses==
+* ''Madonna'' (book), a 2001 biography of the singer by Andrew Morton
+* Madonna (studio), a Japanese adult video company
+* Berkeley Madonna, mathematical modelling software
+* Joan Baez or Madonna, American singer
+* Madonna, leader of 1990s gang 5T
+
+==People with the name==
+* Armando Madonna (born 1963), Italian football manager and former player
+* Jon C. Madonna, retired, business executive
+* G. Terry Madonna, professor
+* Madonna Blyth (born 1985), Australian field hockey player
+* Madonna Buder (born 1930), Roman Catholic religious sister and Senior Olympian triathlete
+* Madonna Constantine, American psychology and education professor
+* Madonna Decena, Filipino performer and club singer
+* Madonna Wayne Gacy (born 1964), former keyboard player for Marilyn Manson
+* Madonna Gimotea (born 1974), retired female gymnast from Canada
+* Madonna Harris (born 1956), New Zealand multi-sportswoman
+* Madonna King, Australian journalist, author, and media commentator
+* Madonna Oriente (died 1390), name of an alleged religious figure
+* Madonna Sebastian (born 1992), Indian actress and singer who appears mainly in Malayalam and Tamil films
+* Madonna Soctomah, Passamaquoddy politician from Maine
+* Madonna Swan (19281993), American Indian woman Lakota
+* Madonna Tassi, Canadian vocalist
+* Madonna Thunder Hawk (born 1940), Native American civil rights activist
+
+==See also==
+* ''Blue Madonna'', a 2018 album by Brns
+* "Lady Madonna", a 1968 song by The Beatles
+*Madona, a city in Latvia
+* {{in title|Madonna}}
+* {{look from}}
+
+{{disambiguation|geo|given name|surname}}</text>
+      <sha1>lbqxlaq9342mabygh1juheto7iwza9y</sha1>
+    </revision>
+  </page>
+</mediawiki>
+______________________________

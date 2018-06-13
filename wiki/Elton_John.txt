@@ -1,0 +1,941 @@
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Elton John</title>
+    <ns>0</ns>
+    <id>5052197</id>
+    <revision>
+      <id>843389828</id>
+      <parentid>842766417</parentid>
+      <timestamp>2018-05-28T20:54:07Z</timestamp>
+      <contributor>
+        <username>TrottieTrue</username>
+        <id>139093</id>
+      </contributor>
+      <comment>Fixed grammar</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="141593">{{about||the footballer|Elton John (footballer)|the album|Elton John (album)}}
+{{about||the 18th-century explorer|John Elton}}
+{{pp-move-indef}}
+{{EngvarB|date=February 2016}}
+{{Use dmy dates|date=March 2018}}
+{{pp-semi-blp|small=yes}}
+{{Infobox person
+| honorific-prefix   = [[Sir]]
+| name               = Elton John
+| honorific_suffix   = {{postnominals|country=GBR|size=100|CBE}}
+| image              = Elton John 2011 Shankbone 2.JPG
+| caption            = John at the 2011 [[Tribeca Film Festival]]
+| birth_name         = Reginald Kenneth Dwight
+| birth_date         = {{Birth date and age|df=yes|1947|3|25}}
+| birth_place        = [[Pinner]], [[Middlesex]], England
+| occupation         = {{flatlist|
+* Musician
+* singer-songwriter
+* composer
+}}&lt;!-- Please see Talk page before editing occupation. --&gt;
+| years_active       = 1963present
+| spouse             = {{marriage|Renate Blauel&lt;br&gt;|1984|1988|end=divorced}}&lt;br /&gt;{{marriage|[[David Furnish]]&lt;br&gt;|2014}}
+| children           = 2
+| module             = {{Infobox musical artist|embed=yes
+| background          = solo_singer
+| genre               = {{flatlist|
+* [[Rock music|Rock]]
+* [[pop rock]]
+* [[glam rock]]
+* [[soft rock]]
+* [[rhythm and blues]]
+}}
+| instrument         = {{flatlist|
+* Vocals
+* piano
+}}
+| label              = {{flatlist|
+* [[Philips Records|Philips]]
+* [[Congress Records|Congress]]
+* [[DJM Records|DJM]]
+* [[Uni Records|Uni]]
+* [[Paramount Records (1969)|Paramount]]
+* [[MCA Records|MCA]]
+* [[Geffen Records|Geffen]]
+* [[The Rocket Record Company|Rocket]]
+* [[Island Records|Island]]
+* [[Mercury Records|Mercury]]
+* [[Island Def Jam]]
+}}
+| associated_acts     = {{flatlist|
+* [[Bernie Taupin]]
+* [[Eric Clapton]]
+* [[Tim Rice]]
+* [[John Lennon]]
+* [[Kiki Dee]]
+* [[Billy Joel]]
+* [[George Michael]]
+* [[Stevie Wonder]]
+}}
+| website             = {{URL|eltonjohn.com}}
+}}
+}}
+
+'''Sir Elton Hercules John''' {{postnominals|country=GBR|CBE}} (born '''Reginald Kenneth Dwight'''; 25 March 1947)&lt;ref name=whoswho&gt;{{Who's Who | surname = JOHN | othernames =  Sir Elton | id =  U22070 | volume = 2015 | edition = online [[Oxford University Press]]|subscription=y}}&lt;/ref&gt;&lt;ref name=BiographyBio&gt;{{cite web |url=http://www.biography.com/people/elton-john-9355335 |title=Elton John  Songwriter, Singer |publisher=Biography.com |accessdate=15 November 2015}}&lt;/ref&gt;&lt;ref name=AllmusicBio&gt;{{cite web |url=http://www.allmusic.com/artist/elton-john-mn0000796734/biography |title=Artist Biography [Elton John] |first=Stephen Thomas |last=Erlewine |publisher=[[AllMusic]] |accessdate=31 March 2014}}&lt;/ref&gt; is an English singer, pianist, and composer. He has worked with lyricist [[Bernie Taupin]] as his songwriting partner since 1967; they have collaborated on more than 30 albums to date. In his five-decade career Elton John has sold more than 300{{nbsp}}million records, making him one of the [[list of best-selling music artists|best-selling music artists in the world]].&lt;ref&gt;{{cite news |url=https://www.usatoday.com/story/life/music/2013/09/23/elton-john-still-standing-for-gay-rights-family-tammy-faye-bakker/2852913/ |title=Elton still standing for gay rights, home, Tammy Faye |last=Gundersen |first=Edna |work=[[USA Today]] |date=23 September 2013 |accessdate=1 October 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.hollywoodreporter.com/news/imam-calls-elton-john-devils-642452 |title=Russian Imam against Elton John Concert |last=Gundersen |first=Edna |work=[[The Hollywood Reporter]] |date=3 October 2013 |accessdate=4 October 2013}}&lt;/ref&gt; He has more than fifty [[Top 40]] hits, including seven consecutive No. 1 US albums, [[List of Billboard Hot 100 chart achievements and milestones|58 ''Billboard'' Top 40 singles, 27 Top 10]], four No. 2 and nine No. 1. For 31 consecutive years (19702000) he had at least one song in the [[Billboard Hot 100|''Billboard'' Hot 100]]. His tribute single "[[Candle in the Wind 1997]]", rewritten in dedication to [[Diana, Princess of Wales|Princess Diana]], sold over 33{{nbsp}}million copies worldwide and is the best-selling single in the history of the UK and US singles charts.&lt;ref name="AFP"&gt;{{cite web |url=https://www.riaa.com/newsitem.php?resultpage=2&amp;id=3abf3ec8-ef5b-58f9-e949-3b57f5e313df |title=RIAA News Room  The American Recording Industry Announces its Artists of the Century |date=10 November 1999 |work=Recording Industry Association of America website |publisher=[[RIAA]] |accessdate=8 February 2010 |quote='Candle in the Wind 1997' soon surpassed Bing Crosby's 'White Christmas' to become the best-selling single of all time. |deadurl=yes |archiveurl=https://web.archive.org/web/20141006091726/http://www.riaa.com/newsitem.php?resultpage=2&amp;id=3abf3ec8-ef5b-58f9-e949-3b57f5e313df |archivedate=6 October 2014}}&lt;/ref&gt;&lt;ref name=RSTO&gt;{{cite web |url=https://www.rollingstone.com/music/artists/elton-john/biography |title=Elton John: Biography  Rolling Stone Music |work=[[Rolling Stone]] |accessdate=27 September 2014}}&lt;/ref&gt;&lt;ref name=Guinness&gt;{{cite book |title=''[[Guinness World Records]]'' 2009 states that "Candle in the Wind 1997" is the "best-selling single since charts began". John's 1997 song has sold the most copies when looking at copies sold since charts began, as verified in ''Guinness World Records'' |isbn=1-904994-37-7}} See also: Guinness World Records, 2009 Edition, pages 14, 15 &amp; 169 [http://img827.imageshack.us/img827/4387/guinness2009.pdf] {{webarchive |url=https://web.archive.org/web/20130226005314/http://img827.imageshack.us/img827/4387/guinness2009.pdf |date=26 February 2013 }}&lt;/ref&gt; He has also composed music, produced records, and has occasionally acted in films. John owned [[Watford Football Club]] from 1976 to 1987, and 1997 to 2002. He is an honorary Life President of the club, and in 2014 had a stand named after him at the club's [[Vicarage Road|home stadium]].
+
+Raised in the [[Pinner]] area of London, John learned to play piano at an early age, and by 1962 had formed [[Bluesology]]. John met his songwriting partner, Bernie Taupin, in 1967, after they had both answered an advert for songwriters. For two years they wrote songs for other artists, including [[Lulu (singer)|Lulu]], and John also worked as a session musician for artists such as [[the Hollies]] and [[the Scaffold]]. In 1969 his debut album, ''[[Empty Sky]]'', was released. In 1970 a single, "[[Your Song]]", from his second album, ''[[Elton John (album)|Elton John]]'', reached the top ten in the UK and the US, his first hit single. After decades of commercial chart success, John has also achieved success in musical theatre, both in the [[West End theatre|West End]] and on [[Broadway theatre|Broadway]], composing the music for ''[[The Lion King (franchise)|The Lion King]]'' ([[The Lion King|film]] and [[The Lion King (musical)|musical]]), ''[[Aida (musical)|Aida]]'' and ''[[Billy Elliot the Musical]]''.
+
+He has received five [[Grammy Award]]s, five [[Brit Awards]]&amp;nbsp; winning two awards for Outstanding Contribution to Music and the first Brits Icon in 2013 for his "lasting impact on [[Culture of the United Kingdom|British culture]]", an [[Academy Award]], a [[Golden Globe Award]], a [[Tony Award]], a [[Disney Legends]] award, and the [[Kennedy Center Honors]] in 2004. In 2004, ''[[Rolling Stone]]'' ranked him Number 49 on its list of 100 influential musicians of the rock and roll era.&lt;ref&gt;{{cite web |title=The Immortals: The First Fifty |work=Rolling Stone |issue=946 |url=https://www.rollingstone.com/news/story/5939214/the_immortals_the_first_fifty |date=2 December 2010}}&lt;/ref&gt; In 2013, ''[[Billboard (magazine)|Billboard]]'' ranked him the most successful male solo artist on the [[List of Billboard Hot 100 chart achievements and milestones#Top 10 artists of All-Time (19582013)|''Billboard'' Hot 100 Top All-Time Artists]] (third overall behind [[the Beatles]] and [[Madonna (entertainer)|Madonna]]).&lt;ref&gt;{{cite news |url=http://www.billboard.com/articles/columns/chart-beat/5557800/hot-100-55th-anniversary-by-the-numbers-top-100-artists-most-no |title=Hot 100 55th Anniversary by the Numbers: Top 100 Artists, Most No. 1s, Biggest No. 2s &amp; More |work=Billboard |accessdate=26 March 2015 |date=2 August 2013}}&lt;/ref&gt; He was inducted into the [[Rock and Roll Hall of Fame]] in 1994, is an inductee into the [[Songwriters Hall of Fame]], and is a fellow of the [[British Academy of Songwriters, Composers and Authors]]. Having been named a [[Order of the British Empire|Commander of the British Empire]] in 1996, John was made a [[Knight Bachelor]] by [[Elizabeth II]] for "services to music and charitable services" in 1998.&lt;ref&gt;{{cite web |url=http://www.eltonjohn.com/about/bio.jsp |title=About: All About Elton: Bio |publisher=Elton John |accessdate=6 August 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100715143032/http://www.eltonjohn.com/about/bio.jsp |archivedate=15 July 2010}}&lt;/ref&gt; John has performed at a number of royal events, such as the [[funeral of Diana, Princess of Wales|funeral of Princess Diana]] at [[Westminster Abbey]] in 1997, the [[Party at the Palace]] in 2002 and the Queen's [[Diamond Jubilee Concert]] outside [[Buckingham Palace]] in 2012.
+
+He has been heavily involved in the fight against [[HIV/AIDS|AIDS]] since the late 1980s.&lt;ref&gt;{{cite web |url=http://www.ejaf.org/ |title=Elton John AIDS Foundation |publisher=Ejaf.org |accessdate=6 August 2010}}&lt;/ref&gt; In 1992, he established the [[Elton John AIDS Foundation]] and a year later began hosting the annual [[Elton John AIDS Foundation Academy Award Party|Academy Award Party]], which has since become one of the highest-profile Oscar parties in the Hollywood film industry. Since its inception, the foundation has raised over {{US$|200&amp;nbsp;million|link=yes}}.&lt;ref name="Foundation"&gt;{{cite news |url=https://www.reuters.com/article/video/idUSTRE69I01I20101019?videoId=163898263 |title=Elton John on his idol, Leon Russell |agency=[[Reuters]] |accessdate=27 September 2014}}&lt;/ref&gt; John, who announced he was [[bisexuality|bisexual]] in 1976 and has been [[openly gay]] since 1988, entered into a [[Civil partnership in the United Kingdom|civil partnership]] with [[David Furnish]] on 21 December 2005, and after [[Same-sex marriage in the United Kingdom|same-sex marriage became legal]] in England and Wales in 2014, wed Furnish on 21 December 2014. On 24 January 2018, it was announced that John would be retiring from touring and would soon embark on a three-year [[Farewell Yellow Brick Road (tour)|farewell tour]], which is set to begin in September 2018.
+
+== Life and career ==
+
+=== Early life ===
+Elton John was born Reginald Kenneth Dwight on 25 March 1947, in [[Pinner]], [[Middlesex]], the eldest child of Stanley Dwight (19251991) and only child of Sheila Eileen ([[ne]] Harris; 19252017),&lt;ref name="Hayward2013"&gt;{{cite book |first=Keith |last=Hayward |title=Tin Pan Alley: The Rise of Elton John |url=https://books.google.com/books?id=PEgPhgVOPpUC&amp;pg=PT2 |date=January 2013 |publisher=Soundcheck Books |isbn=978-0-9571442-0-0 |pages=2}}&lt;/ref&gt;&lt;ref name=Telegraph&gt;{{cite news |url=https://www.telegraph.co.uk/news/1435132/Family-detective-Elton-John.html |title=Family Detective: Elton John |work=[[The Daily Telegraph]] |date=22 November 2006 |accessdate=26 March 2015 |last=Barratt |first=Nick |location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,913239,00.html |title=Elton John Rock's Captain Fantastic |date=7 July 1975 |work=[[Time (magazine)|Time]] |accessdate=27 September 2014}}&lt;/ref&gt; and was raised in a [[council house]] by his maternal grandparents, in Pinner. His parents married in 1945,&lt;ref&gt;GRO Register of Marriages: MAR 1945 3a 1257 Dwight Stanley = Harris Sheila E&lt;/ref&gt; when the family moved to a nearby semi-detached house.&lt;ref&gt;{{cite web |url=http://www.onthisveryspot.com/spot/Elton_John_Birthplace |title=55 Pinner Hill Road |publisher=On This Very Spot |date=25 March 1947 |accessdate=25 February 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Barratt |first=Nick |url=https://www.telegraph.co.uk/news/main.jhtml?xml=/news/exclusions/familyhistory/fheltonjohn.xml |title=Family detective: Elton John |work=The Daily Telegraph |date=24 November 2006 |accessdate=25 February 2009 |location=London}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.onthisveryspot.com/spot/111_Potter_Street |title=111 Potter Street |publisher=On This Very Spot |date=15 July 2007 |accessdate=25 February 2009}}&lt;/ref&gt; He was educated at Pinner Wood Junior School, Reddiford School and [[Pinner County Grammar School]], until the age of 17, when he left just prior to his [[GCE Advanced Level|A-Level]] examinations to pursue a career in the music industry.&lt;ref name="Norman"&gt;{{cite book |last=Norman |first=Philip |authorlink=Philip Norman (author) |date=1991 |title=Elton John |publisher=Fireside |isbn=0671797298}}&lt;/ref&gt;&lt;ref name="Rosenthal"&gt;Elizabeth Rosenthal, ''His Song: The Musical Journey of Elton John'', Billboard Books, 2001.&lt;/ref&gt;&lt;ref name="VisualDoc"&gt;{{cite book |title=Elton John: The Visual Documentary |first=Nigel |last=Goodall |year=1993 |publisher=[[Omnibus Press]] |isbn=0-7119-3078-3}}&lt;/ref&gt;
+
+When he began to seriously consider a career in music, Elton John's father, who served as a [[flight lieutenant]] in the [[Royal Air Force]], tried to steer him toward a more conventional career, such as banking.&lt;ref name="Norman"/&gt; John has stated that his wild stage costumes and performances were his way of letting go after such a restrictive childhood.&lt;ref name="VisualDoc" /&gt; Both of John's parents were musically inclined, his father having been a trumpet player with the Bob Millar Band, a semi-professional big band that played at military dances.&lt;ref name="VisualDoc"/&gt; The Dwights were keen record buyers, exposing John to the popular singers and musicians of the day, and John remembers being immediately hooked on rock and roll when his mother brought home records by [[Elvis Presley]] and [[Bill Haley &amp; His Comets]] in 1956.&lt;ref name="Norman"/&gt;&lt;ref name="Rosenthal"/&gt;
+
+Elton John started playing the piano at the age of three, and within a year, his mother heard him picking out [[Winifred Atwell]]'s "The Skater's Waltz" by ear.&lt;ref name="Norman"/&gt;&lt;ref name="Rosenthal"/&gt; After performing at parties and family gatherings, at the age of 7 he took up formal piano lessons. He showed musical aptitude at school, including the ability to compose melodies, and gained some notoriety by playing like [[Jerry Lee Lewis]] at school functions.  At the age of 11, he won a junior scholarship to the [[Royal Academy of Music]]. According to one of his instructors, John promptly played back, like a "gramophone record", a four-page piece by [[Handel]] that he heard for the first time.&lt;ref name="Rosenthal"/&gt;
+[[File:Royal Academy of Music.jpg|thumb|right|Elton studied at the [[Royal Academy of Music]] in London for five years.]]
+For the next five years, he attended Saturday classes at the Academy in central London, and has stated that he enjoyed playing [[Frdric Chopin|Chopin]] and [[Johann Sebastian Bach|Bach]] and singing in the choir during Saturday classes, but that he was not otherwise a diligent classical student.&lt;ref name="Rosenthal"/&gt;  "I kind of resented going to the Academy", he says.  "I was one of those children who could just about get away without practising and still pass, scrape through the grades."&lt;ref name="Rosenthal"/&gt; He has claimed that he would sometimes skip classes and ride around on [[London Underground|the Tube]].&lt;ref name="Rosenthal"/&gt; Several instructors have testified that he was a "model student", and during the last few years, he was taking lessons from a private tutor in addition to his classes at the Academy.&lt;ref name="Rosenthal"/&gt;
+
+Elton John's mother, though also strict with her son, was more vivacious than her husband, and something of a free spirit.  With Stanley Dwight uninterested in his son and often physically absent, John was raised primarily by his mother and maternal grandmother.  When his father was home, the Dwights would have terrible arguments that greatly distressed their son.&lt;ref name="Rosenthal"/&gt; When John was 14, they divorced. His mother then married a local painter, Fred Farebrother, a caring and supportive stepfather whom John affectionately referred to as "Derf", his first name in reverse.&lt;ref name="Rosenthal"/&gt; They moved into flat No.&amp;nbsp;1A in an eight-unit apartment building called Frome Court, not far from both previous homes.  It was there that John wrote the songs that launched his career as a rock star; he lived there until he had four albums simultaneously in the American Top 40.&lt;ref&gt;{{cite web |url=http://www.onthisveryspot.com/spot/EJ_Frome_Court |title=Frome Court |publisher=On This Very Spot |date=3 April 2007 |accessdate=25 February 2009}}&lt;/ref&gt;
+
+=== Pub pianist to staff songwriter (19621969) ===
+{{See also|Bluesology}}
+At the age of 15, with the help of his mother and stepfather, Reginald Dwight became a weekend pianist at a nearby pub, the Northwood Hills Hotel, playing Thursday to Sunday nights.&lt;ref&gt;{{cite book |url=https://books.google.com/?id=qOECAAAAMBAJ&amp;pg=PA76 |title=Music |work=Atlanta Magazine |page=76 |accessdate=15 January 2016 |date=June 2003}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.onthisveryspot.com/find/spot.php?spot_web_name=Northwood_Hills_Pub |title=Northwood Hills Pub  On This Very Spot |publisher=onthisveryspot.com |accessdate=3 February 2010}}&lt;/ref&gt; Known simply as "Reggie", he played a range of popular standards, including songs by [[Jim Reeves]] and [[Ray Charles]], as well as songs he had written himself.&lt;ref name="Costello interview"&gt;{{cite episode |title=Elton John |url=http://www.sundancechannel.com/films/500328605 |series=Spectacle |serieslink=Spectacle: Elvis Costello with... |airdate=2008 |season=1 |number=1 |deadurl=yes |archiveurl=https://web.archive.org/web/20090428144534/http://www.sundancechannel.com/films/500328605 |archivedate=28 April 2009 |df=dmy-all }}&lt;/ref&gt;{{sfn|Bernadin|Stanton|1996|p=70}} A stint with a short-lived group called the Corvettes rounded out his time.&lt;ref name="Rosenthal" /&gt;
+
+In 1962, Dwight and his friends formed a band called [[Bluesology]]. By day, he ran errands for a music publishing company; he divided his nights between solo gigs at a London hotel bar and working with Bluesology. By the mid-1960s, Bluesology was backing touring American [[soul music|soul]] and [[R&amp;B]] musicians like [[the Isley Brothers]], [[Major Lance]] and [[Labelle|Patti LaBelle and the Bluebelles]]. In 1966, the band became musician [[Long John Baldry]]'s supporting band, and played 16 times at the [[Marquee Club]].&lt;ref&gt;{{cite web |url=http://www.themarqueeclub.net/long-john-baldry |title=The Marquee Club: Long John Baldry  Biography |publisher=themarqueeclub.net |accessdate=25 May 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20100704172041/http://www.themarqueeclub.net/long-john-baldry |archivedate=4 July 2010 |df=dmy}}&lt;/ref&gt;
+
+[[File:EltonJohnPiano.jpg|thumb|right|The 1910 piano on which Elton John composed his first five albums, including his first hit single, "[[Your Song]]"]]
+In 1967, Dwight answered an advertisement in the British magazine ''[[NME|New Musical Express]]'', placed by [[Ray Williams (producer)|Ray Williams]], then the [[A&amp;R]] manager for [[Liberty Records]].&lt;ref name="bilb"&gt;{{cite book |url=https://books.google.com/books?id=1wkEAAAAMBAJ&amp;pg=PA56 |work=Billboard |date=4 October 1997 |title=30 Years of Music: Elton John with Bernie Taupin |last=Bessman |first=Jim |accessdate=27 September 2014}}&lt;/ref&gt; At their first meeting, Williams gave Dwight an unopened envelope of lyrics written by [[Bernie Taupin]], who had answered the same ad.&lt;ref&gt;{{cite AV media |title=Elton John Takes Stephen Through His Entire Catalogue |date= |people=Elton John |trans-title= |medium= |language= |url=https://www.youtube.com/watch?v=nblf7Yw4jys |time=3:00 |publisher=[[The Late Show with Stephen Colbert]]}}&lt;/ref&gt; Dwight wrote music for the lyrics, and then posted it to Taupin, beginning a partnership that {{as of |2012 |alt=still continues}}. When the two first met in 1967, they recorded what would become the first Elton John/Bernie Taupin song: "Scarecrow". Six months later Dwight was going by the name "Elton John" in homage to two members of Bluesology: saxophonist [[Elton Dean]] and vocalist [[Long John Baldry]].&lt;ref name="Costello interview"/&gt; His name was legally changed to Elton Hercules John on 7 January 1972.&lt;ref&gt;https://www.thegazette.co.uk/London/issue/45571/page/403/data.pdf&lt;/ref&gt;
+
+The team of Elton John and Bernie Taupin joined [[Dick James]]'s [[DJM Records]] as staff songwriters in 1968, and over the next two years wrote material for various artists, among them [[Roger Cook (songwriter)|Roger Cook]] and [[Lulu (singer)|Lulu]].&lt;ref name="Vinita"&gt;{{Cite book |title=Profiles in Popular Music |last=Vinita |publisher=Sura Books |year=2005 |page=79 |isbn=978-81-7478-638-8}}&lt;/ref&gt; Taupin would write a batch of lyrics in under an hour and give it to John, who would write music for them in half an hour, disposing of the lyrics if he couldn't come up with anything quickly.&lt;ref name="Vinita"/&gt; For two years, they wrote [[easy listening|easy-listening]] tunes for James to peddle to singers. Their early output included a contender for the UK entry for the [[Eurovision Song Contest]] in 1969, for Lulu, called "I Can't Go On (Living Without You)". It came [[United Kingdom in the Eurovision Song Contest 1969|sixth]] of six songs. In 1969, John provided piano for [[Roger Hodgson]] on his first released single, "Mr. Boyd" by Argosy, a quartet that was completed by [[Caleb Quaye]] and [[Nigel Olsson]].&lt;ref&gt;Joynson, Vernon (1995). [http://alextsu.narod.ru/borderlinebooks/uk6070s/index.html ''The Tapestry of Delights''] {{webarchive |url=https://web.archive.org/web/20111130151831/http://alextsu.narod.ru/borderlinebooks/uk6070s/index.html |date=30 November 2011 }} . London: Borderline Books. See entry on "Argosy".&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.ctv.ca/CTVNews/SpecialEvent2/20070608/DianaConcert_Hodgson_070608/ |title=Roger Hodgson of Supertramp |publisher=Ctv.ca |accessdate=27 September 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20120120020509/http://www.ctv.ca/CTVNews/SpecialEvent2/20070608/DianaConcert_Hodgson_070608/ |archivedate=20 January 2012}}&lt;/ref&gt; Elton John was also a session musician for other artists including playing piano on [[the Hollies]]' "[[He Ain't Heavy, He's My Brother]]" and singing backing vocals for [[the Scaffold]].&lt;ref&gt;In his 1981 book "Thank U Very Much  Mike McCartney's Family Album" Scaffold singer Mike McGear (McCartney) describes a meeting with John during which John advises him he used to sing background vocals for the group.&lt;/ref&gt;
+
+=== Debut album to ''Goodbye Yellow Brick Road'' (19691973) ===
+[[File:Elton John on stage.jpg|thumb|left|Elton John on stage in 1971]]
+On the advice of music publisher Steve Brown, John and Taupin started writing more complex songs for John to record for DJM. The first was the single "I've Been Loving You" (1968), produced by [[Caleb Quaye]], former Bluesology guitarist. In 1969, with Quaye, drummer Roger Pope, and bassist Tony Murray, John recorded another single, "[[Lady Samantha]]", and an album, ''[[Empty Sky]]''. For their follow-up album, ''[[Elton John (album)|Elton John]]'', Elton John and Bernie Taupin enlisted [[Gus Dudgeon]] as producer and [[Paul Buckmaster]] as musical arranger. ''Elton John'' was released in April 1970 on DJM Records/[[Pye Records]] in the UK and [[Uni Records]] in the US, and established the formula for subsequent albums  gospel-chorded rockers and poignant ballads. The first single from the album, "[[Border Song]]", made into the [[Billboard Hot 100|US Top 100]], peaking at Number 92. The second single, "[[Your Song]]", reached number seven in the [[UK Singles Chart]] and number eight in the US, becoming John's first hit single as a singer.&lt;ref name="Charts"&gt;[http://www.officialcharts.com/artist/_/Elton%20John "Elton John: UK Chart History"] {{webarchive |url=https://web.archive.org/web/20150214060116/http://www.officialcharts.com/artist/_/Elton%20John |date=14 February 2015 }}. Official Charts Company. Retrieved 3 December 2014&lt;/ref&gt; The album soon became his first hit album, reaching number four on the US [[Billboard 200|''Billboard'' 200]] and number five on the [[UK Albums Chart]].&lt;ref name="Charts"/&gt;{{sfn|Bernadin|Stanton|1996|p=116}}
+
+Backed by former [[Spencer Davis Group]] drummer [[Nigel Olsson]] and bassist [[Dee Murray]], Elton John's first American concert took place at [[The Troubadour (Los Angeles)|the Troubadour]] in Los Angeles in August 1970, and was a success.{{sfn|Bernadin|Stanton|1996|p=152}} The concept album ''[[Tumbleweed Connection]]'' was released in October 1970, and reached number two in the UK and number five in the US.&lt;ref name="Charts"/&gt; The live album ''[[17-11-70]]'' (''111770'' in the US) was recorded at a live show aired from A&amp;R Studios on [[WABC-FM]] in New York City. Sales of the live album were heavily hit in the US when an east-coast [[bootleg recording|bootlegger]] released the performance several weeks before the official album, including all 60 minutes of the aircast, not just the 40 minutes selected by Dick James Music.&lt;ref&gt;{{cite book |last=Heylin |first=Clinton |title=Bootleg: The Secret History of the Other Recording Industry |publisher=St. Martin's Griffin |year=1996 |location=New York |isbn=0-312-14289-7 |page=66}}&lt;/ref&gt;
+
+[[File:Elton John Hamburg 1972 1603720004.jpg|thumb|Elton John at the [[Musikhalle Hamburg]], in March 1972]]
+John and Taupin then wrote the soundtrack to the obscure film ''[[Friends (1971 film)|Friends]]'' and then the album ''[[Madman Across the Water]]'', the latter reaching number eight in the US and producing the hit songs, "[[Levon (song)|Levon]]", and the album's opening track "[[Tiny Dancer]]". In 1972, [[Davey Johnstone]] joined the Elton John Band on guitar and backing vocals. Released in 1972, ''[[Honky Chteau]]'' became John's first US number one album, spending five weeks at the top of the [[Billboard 200|''Billboard'' 200]], and began a streak of seven consecutive US number one albums.&lt;ref&gt;[https://rockhall.com/inductees/elton-john/bio/ "Elton John Biography: Rock and Roll Hall of Fame"] {{webarchive |url=https://web.archive.org/web/20161219054137/https://rockhall.com/inductees/elton-john/bio/ |date=19 December 2016 }}. Rock Hall. Retrieved 3 December 2014&lt;/ref&gt; The album reached number two in the UK, and spawned the hit singles "[[Rocket Man (song)|Rocket Man]]" and "[[Honky Cat]]".&lt;ref&gt;Stephen Thomas Erlewine [{{Allmusic|class=album|id=r1040357|pure_url=yes}} Honky Chateau (Bonus Track)  Elton John] [[AllMusic]]&lt;/ref&gt; both of which were recorded at [[Trident Studios]] in London.
+
+The pop album ''[[Don't Shoot Me I'm Only the Piano Player]]'' came out at the start of 1973 and reached number one in the UK, the US, Australia among others.&lt;ref name="Charts"/&gt; The album produced the hits "[[Crocodile Rock]]", his first US [[Billboard Hot 100|''Billboard'' Hot 100]] number&amp;nbsp;one, and "[[Daniel (Elton John song)|Daniel]]"; number two US, number four UK.&lt;ref name="Charts"/&gt;&lt;ref&gt;{{cite book |title=Rock N' Roll Gold Rush |last=Dean |first=Maury |authorlink=Maury Dean |year=2003 |publisher=Algora |isbn=0-87586-207-1 |page=46}}&lt;/ref&gt; Both the album and "Crocodile Rock" were the first album and single, respectively on the consolidated [[MCA Records]] label in the US, replacing MCA's other labels including Uni.&lt;ref&gt;{{cite web |title=Don't Shoot Me I'm Only The Piano Player |url=https://www.rollingstone.com/music/albumreviews/dont-shoot-me-im-only-the-piano-player-19730315 |author=Holden, S. |work=Rolling Stone |date=15 March 1973 |accessdate=12 December 2014}}&lt;/ref&gt;
+
+''[[Goodbye Yellow Brick Road]]'', released in October 1973, gained instant critical acclaim and topped the chart on both sides of the Atlantic, remaining at number one for two months.&lt;ref name="Redbeard GYBR interview"&gt;{{cite web |url=http://www.inthestudio.net/ |title=Elton John Goodbye Yellow Brick Road |last=Redbeard |year=2009 |work=In the Studio With Redbeard, Interviews With Famous Musicians |publisher=Barbarosa Ltd. Production |pages=Studio Interview with Elton John |accessdate=13 September 2009}}&lt;/ref&gt; It also temporarily established John as a [[glam rock]] star. It contained the US number&amp;nbsp;1 "[[Bennie and the Jets]]", along with other hits, "[[Goodbye Yellow Brick Road (song)|Goodbye Yellow Brick Road]]", "[[Candle in the Wind]]", "[[Saturday Night's Alright for Fighting]]" and "[[Funeral for a Friend/Love Lies Bleeding]]". ''Goodbye Yellow Brick Road'' is included in the [[VH1]] [[Classic Albums]] series, discussing the making, recording, and popularity of the album through concert and home video footage including interviews.&lt;ref&gt;Billboard Magazine. 7 October 2006. p. 9&lt;/ref&gt;
+
+=== The Rocket Record Company to ''21 at 33'' (19741979) ===
+[[File:Elton John.jpg|thumb|left|Elton on the piano during a live performance in 1975]]
+John formed his own label named [[The Rocket Record Company]] (distributed in the US by MCA and initially by Island in the UK) and signed acts to it  notably [[Neil Sedaka]] ("Bad Blood", on which he sang background vocals) and [[Kiki Dee]]  with whom he took a personal interest. Instead of releasing his own records on Rocket, he opted for a {{US$|8 million}} dollar contract offered by [[MCA Records|MCA]]. When the contract was signed in 1974, MCA reportedly took out a {{US$|25 million}} insurance policy on John's life.&lt;ref&gt;[https://www.rollingstone.com/music/artists/elton-john/news/artists/8828/56076/56108 Elton John | Rolling Stone Music] {{dead link|date=March 2017|bot=medic}}{{cbignore|bot=medic}} 2001 encyclopedia. ''[[Rolling Stone]]''&lt;/ref&gt; In 1974, MCA released his ''[[Elton John's Greatest Hits|Greatest Hits]]'' album, a UK and US number one which is [[RIAA certification#RIAA Diamond certifications as of October 5, 2012|certified Diamond]] by the [[Recording Industry Association of America|RIAA]] for sales of 16{{nbsp}}million copies in the US.&lt;ref name="Charts"/&gt;&lt;ref&gt;{{cite web |url=http://riaa.com/goldandplatinum.php?content_selector=top-diamond-awards |title=RIAA  Diamond Awards |publisher=riaa.com |format=PHP |accessdate=5 January 2015}}&lt;/ref&gt;
+
+In 1974, a collaboration with [[John Lennon]] took place, resulting in Lennon's appearance on Elton John's single cover of the Beatles' "[[Lucy in the Sky with Diamonds]]", the B-side of which was Lennon's "One Day at a Time." In return, John was featured on "[[Whatever Gets You thru the Night]]" on Lennon's ''[[Walls and Bridges]]'' album. Later that year in what would be Lennon's last major live performance, the pair performed these two number&amp;nbsp;1 hits along with the Beatles classic "[[I Saw Her Standing There]]" at [[Madison Square Garden]] in New York. Lennon made the rare stage appearance with John and his band to keep the promise he made that he would appear on stage with him if "Whatever Gets You Thru The Night" became a US number one single.&lt;ref&gt;Jeff Woolf, Scott Jennings and James L. Halperin (Editor) [https://books.google.com/books?id=l-o1rcQ9Cc0C&amp;pg=PA90 Icons of 20th Century Music: Heritage-Odyssey Auction] {{webarchive |url=https://web.archive.org/web/20161226022135/https://books.google.com/books?id=l-o1rcQ9Cc0C&amp;pg=PA90 |date=26 December 2016 }} ''Heritage Capital Corporation''&lt;/ref&gt;
+
+''[[Caribou (album)|Caribou]]'' was released in 1974, becoming John's third number one in the UK, and topping the charts in the US, Canada and Australia.&lt;ref name="Charts"/&gt;&lt;ref name="artists.letssingit.com"&gt;{{cite web |url=http://artists.letssingit.com/elton-john-album-caribou-18ftw4 |title=Elton John  Caribou Album |publisher=Artists.letssingit.com |date=17 July 2008 |accessdate=6 August 2010}}&lt;/ref&gt; Reportedly recorded in two weeks between live appearances, it featured "[[The Bitch Is Back]]" and the orchestrated "[[Don't Let the Sun Go Down on Me]]".&lt;ref name="artists.letssingit.com"/&gt; "[[Step into Christmas]]" was released as a stand-alone single in November 1973, and appears in the album's 1995 remastered re-issue.&lt;ref&gt;Stephen Thomas Erlewine [http://www.allmusic.com/album/release/caribou-bonus-tracks-mr0000283518 "Caribou"] {{webarchive |url=https://web.archive.org/web/20160115210716/http://www.allmusic.com/album/release/caribou-bonus-tracks-mr0000283518 |date=15 January 2016 }}. AllMusic. Retrieved 10 December 2014&lt;/ref&gt;
+[[File:Elton john cher show 1975.JPG|thumb|right|upright|Performing in 1975, Elton often wore elaborate stage costumes]]
+[[Pete Townshend]] of [[the Who]] asked John to play a character called the "Local Lad" in the film of the rock opera ''[[Tommy (rock opera)|Tommy]]'', and to perform the song "[[Pinball Wizard]]". Drawing on [[power chord]]s, John's version was recorded and used for the movie release in 1975 and the single came out in 1976 (1975 in the US). The song charted at number&amp;nbsp;7 in the UK.&lt;ref name="Charts"/&gt; [[Bally Technologies|Bally]] subsequently released a "Captain Fantastic" pinball machine featuring an illustration of John in his movie guise.&lt;ref name="Hombach"&gt;Jean-Pierre Hombach. "Elton John". p. 431-439. Lulu.&lt;/ref&gt;
+
+The 1975 autobiographical album ''[[Captain Fantastic and the Brown Dirt Cowboy]]'' debuted at number one in the US, the [[Billboard 200#Additional milestones|first album ever]] to do so, and stayed at the top for seven weeks.&lt;ref name="record"&gt;[http://www.billboard.com/articles/news/61880/elton-expands-captain-fantastic-with-live-tracks "Elton Expands 'Captain Fantastic' With Live Tracks"] {{webarchive |url=https://web.archive.org/web/20161215233658/http://www.billboard.com/articles/news/61880/elton-expands-captain-fantastic-with-live-tracks |date=15 December 2016 }}. ''Billboard''. Retrieved 3 December 2014&lt;/ref&gt; Elton John revealed his previously ambiguous personality on the album, with Taupin's lyrics describing their early days as struggling songwriters and musicians in London. The lyrics and accompanying photo booklet are infused with a specific sense of place and time that is otherwise rare in his music. "[[Someone Saved My Life Tonight]]" was the hit single from this album and captured an early turning point in Elton John's life. The album's release signalled the end of the Elton John Band, as an unhappy and overworked John dismissed Olsson and Murray, two people who had contributed much of the band's signature sound and who had helped build his live following since the beginning.&lt;ref name="Hombach"/&gt;
+
+According to ''[[Circus Magazine]]'', a spokesman for [[John Reid (music manager)|John Reid]] said the decision was reached mutually via phone while John was in Australia promoting ''Tommy''.&lt;ref name=raves&gt;[[Circus Magazine]], No 115, August 1975. Vol 2, No 8. K48002 pp1415&lt;/ref&gt; She said there was no way Reid could have fired them "because the band are not employed by [[John Reid (music manager)|John Reid]] , they're employed by Elton John."&lt;ref name=raves /&gt; She went on to say Nigel would be going back to his solo work and Dee would do session work "and possibly cut a solo album".&lt;ref name=raves /&gt;
+
+Davey Johnstone and Ray Cooper were retained, Quaye and Roger Pope returned, and the new bassist was Kenny Passarelli; this rhythm section provided a heavier-sounding backbeat. [[James Newton Howard]] joined to arrange in the studio and to play keyboards.&lt;ref name="Elton Band"/&gt; In June 1975, John introduced the line-up before a crowd of 75,000 in London's [[Wembley Stadium (1923)|Wembley Stadium]].&lt;ref name="Elton Band"&gt;[http://www.eltonjohn.com/band/james-newton-howard/ "Elton John Band Archives"] {{webarchive |url=https://web.archive.org/web/20160306045742/http://www.eltonjohn.com/band/james-newton-howard/ |date=6 March 2016 }}. EltonJohn.com. Retrieved 14 December 2014&lt;/ref&gt;
+
+[[File:Elton John nel 1975.jpg|thumb|left|Elton John during a ''Captain Fantastic'' concert in 1975]]
+The rock-oriented ''[[Rock of the Westies]]'' entered the US albums chart at number&amp;nbsp;1 like ''Captain Fantastic'', a previously unattained feat.&lt;ref name="record"/&gt; Elton John's stage wardrobe now included [[ostrich]] feathers, $5,000 spectacles that spelled his name in lights, and dressing up like the [[Statue of Liberty]], [[Donald Duck]], or [[Mozart]], among others, at his concerts.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=5K61qKj1Oj0C&amp;pg=PA192 |title=100 years 100 songs |publisher= |accessdate=27 September 2014}}&lt;/ref&gt;&lt;ref&gt;Nigel Goodall (1993) ''Elton John: a visual documentary'' Omnibus Press, 1993&lt;/ref&gt; In 1975, Elton received a star on the [[Hollywood Walk of Fame]].&lt;ref name="HWOF"&gt;Jeff Woolf, Scott Jennings and James L. Halperin (2004). "605 Icons of 20th Century Music Autograph Auction Catalog". p. 89.Heritage Capital Corporation&lt;/ref&gt;
+
+To celebrate five years since he had first appeared at the venue, in 1975 Elton John played a two-night, four-show stand at [[The Troubadour (Los Angeles)|the Troubadour]]. With seating limited to under 500 per show, the chance to purchase tickets was determined by a postcard lottery, with each winner allowed two tickets. Everyone who attended the performances received a hardbound "yearbook" of the band's history. That year he also played piano on [[Kevin Ayers]]' ''[[Sweet Deceiver]]'', and was among the first and few white artists to appear on the black music series ''[[Soul Train]]'' on American television.&lt;ref name="Redbeard GYBR interview"/&gt; On 9 August 1975, John was named the outstanding rock personality of the year at the first annual Rock Music Awards at ceremonies held in Santa Monica, California.&lt;ref&gt;United Press International, "Elton John Named Rock Personality", ''Playground Daily News'', Fort Walton Beach, Florida, Monday 11 August 1975, Volume 30, Number 159, page 14.&lt;/ref&gt;
+
+In 1976, the live album ''[[Here and There (Elton John album)|Here and There]]'' was released in May, followed by the ''[[Blue Moves]]'' album in October, which contained the single "[[Sorry Seems to Be the Hardest Word]]". His biggest success in 1976 was "[[Don't Go Breaking My Heart]]", a duet with Kiki Dee that topped both the UK and US charts.&lt;ref name="Charts"/&gt;&lt;ref name="Billboard Charts"/&gt; Finally, in an interview with ''Rolling Stone'' that year, one entitled "Elton's Frank Talk", John stated that he was [[bisexual]].&lt;ref&gt;{{cite book |url=https://books.google.com/?id=dDrVKxE08CUC |title=Elton John |publisher= |accessdate=25 May 2010 |isbn=978-1-56711-972-5 |date=1 December 2003}}&lt;/ref&gt;
+
+[[File:Elton John 1.jpg|thumb|right|Elton performing live with [[Ray Cooper]] in Dublin in 1979]]
+Besides being the most commercially successful period, 19701976 is also held in the most regard critically. Within only a three-year span, between 1972 and 1975 John saw seven consecutive albums reach number one in the US, something which had not been accomplished before.&lt;ref name="Redbeard GYBR interview"/&gt; Of the six Elton John albums to make ''Rolling Stone''{{'}}s list of "[[The 500 Greatest Albums of All Time]]" in 2003, all are from this period, with ''Goodbye Yellow Brick Road'' ranked highest at number&amp;nbsp;91; similarly, the three Elton John albums given five stars by Allmusic (''Tumbleweed Connection'', ''Honky Chteau'', and ''Captain Fantastic'') are all from this period.&lt;ref&gt;{{cite book| editor-last=Levy| editor-first=Joe| editor2-last=Van Zandt| editor2-first=Steven| editor2-link=Steven Van Zandt |title=Rolling Stone 500 Greatest Albums of All Time |origyear=2005 |edition=3rd |year=2006 |publisher=Turnaround |location=London |isbn=1-932958-61-4 |oclc=70672814 |ref=RS500}}&lt;/ref&gt;
+
+During the same period, he made a guest appearance on the popular ''[[The Morecambe &amp; Wise Show (19681977)|Morecambe and Wise Show]]'' on the BBC. The two comics spent the episode pointing him in the direction of everywhere except the stage to prevent him singing.&lt;ref&gt;{{cite web |url=http://www.imdb.com/title/tt0894463/ |title="The Morecambe &amp; Wise Show" 1977 Christmas Show (1977) |publisher=Internet Movie Database |accessdate=25 May 2010}}&lt;/ref&gt;
+
+In November 1977, Elton John announced he was retiring from performing; Taupin began collaborating with others. Now producing only one album a year, John issued ''[[A Single Man (album)|A Single Man]]'' in 1978, employing a new lyricist, [[Gary Osborne]]; the album produced no singles that made the top 20 in the US but the two singles from the album released in the UK, "[[Part-Time Love]]" and "[[Song for Guy]]", both made the top 20 in the UK with the latter reaching the top 5.&lt;ref name="Charts"/&gt; In 1979, accompanied by [[Ray Cooper]], Elton John became one of the first Western artists to tour the Soviet Union, as well as one of the first in Israel.&lt;ref&gt;"The International Who's Who in Popular Music 2002". p. 260. Psychology Press,&lt;/ref&gt; John returned to the US top ten with "[[Mama Can't Buy You Love]]" (number&amp;nbsp;9), a song originally rejected in 1977 by MCA before being released, recorded in 1977 with Philadelphia soul producer [[Thom Bell]].&lt;ref&gt;{{cite web |url=http://www.souljonespresents.com/heroes_thom.html |title=Heroes &amp; Villains  Exclusive Interview with Thom Bell on Soul Jones Presents |publisher=Souljonespresents.com |accessdate=25 February 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090211182351/http://www.souljonespresents.com/heroes_thom.html |archivedate=11 February 2009}}&lt;/ref&gt; John reported that Thom Bell was the first person to give him voice lessons; Bell encouraged John to sing in a lower register. A [[disco music|disco]]-influenced album, ''[[Victim of Love (album)|Victim of Love]]'', was poorly received. In 1979, John and [[Bernie Taupin|Taupin]] reunited, though they did not collaborate on a full album until 1983's ''[[Too Low For Zero]]''. ''[[21 at 33]]'', released the following year, was a significant career boost, aided by his biggest hit in four years, "[[Little Jeannie]]" (number&amp;nbsp;3 US), with the lyrics written by [[Gary Osborne]].&lt;ref&gt;Ed Hogan [http://www.allmusic.com/song/little-jeannie-mt0033431178 "Little Jeannie"] {{webarchive |url=https://web.archive.org/web/20160115210716/http://www.allmusic.com/song/little-jeannie-mt0033431178 |date=15 January 2016 }}. AllMusic. Retrieved 10 December 2014&lt;/ref&gt;
+
+=== ''The Fox'' to ''Sleeping with the Past'' (19801989) ===
+[[File:Elton John in 1980s.jpg|thumb|left|Elton John performing in the 1980s]]
+His 1981 album, ''[[The Fox (Elton John album)|The Fox]]'', was recorded during the same sessions as ''[[21 at 33]]'', and also included collaborations with [[Tom Robinson]] and [[Judie Tzuke]]. On 13 September 1980, Elton John, with Olsson and Murray back in the Elton John Band, performed a free concert to an estimated 400,000 fans on The Great Lawn in [[Central Park]] in New York.&lt;ref&gt;Billboard Magazine. 27 September 1980. p. 36.&lt;/ref&gt; His 1982 hit "[[Empty Garden (Hey Hey Johnny)]]", came from his ''[[Jump Up! (Elton John album)|Jump Up!]]'' album, his second under a new US recording contract with [[Geffen Records]].
+
+With original band members Johnstone, Murray and Olsson together again, he was able to return to the charts with the 1983 hit album ''[[Too Low for Zero]]'', which included "[[I'm Still Standing]]" (No. 4 UK) and "[[I Guess That's Why They Call It the Blues]]", the latter of which featured [[Stevie Wonder]] on harmonica and reached No. 4 in the US and No. 5 in the UK.&lt;ref name="Charts"/&gt;&lt;ref name="Billboard Charts"/&gt; In October 1983, Elton John caused controversy when he broke the United Nations' cultural boycott on [[apartheid]]-era South Africa by performing at the [[Sun City, North West|Sun City]] venue.&lt;ref&gt;{{cite news |url=http://www.nationmultimedia.com/home/Elton-John-South-Africa-tour-jogs-memories-of-Sun--30061905.html |title=Elton John South Africa tour jogs memories of Sun City gigs |work=The Nation |date=11 January 2008 |accessdate=20 December 2013 |deadurl=yes |archiveurl=https://web.archive.org/web/20131219073038/http://www.nationmultimedia.com/home/Elton-John-South-Africa-tour-jogs-memories-of-Sun--30061905.html |archivedate=19 December 2013}}&lt;/ref&gt; He married his close friend and sound engineer, Renate Blauel, on Valentine's Day 1984  the marriage lasted three years.&lt;ref&gt;{{cite book |url=https://books.google.com/?id=xLk2xXC6J18C&amp;pg=PA23 |page=23 |title=The Seductions of Biography |isbn=978-0-415-91089-7 |author1=Rhiel |first1=Mary |last2=Suchoff |first2=David Bruce |year=1996}}&lt;/ref&gt;
+
+[[File:Elton John costume.jpg|thumb|right|upright|Elton John costume from the 1986 [[Tour De Force (tour)|Tour de Force]] Australian concerts, on display in the [[Hard Rock Cafe]], London]]
+
+In 1985, he was one of the many performers at [[Live Aid]] held at [[Wembley Stadium (1923)|Wembley Stadium]].{{sfn|Bernadin|Stanton|1996|p=57}} John played "Bennie and the Jets" and "Rocket Man"; then "Don't Go Breaking My Heart" with Kiki Dee for the first time since the [[Hammersmith Odeon]] on 24 December 1982; and introduced [[George Michael]], still then of [[Wham!]], to sing "Don't Let the Sun Go Down on Me".{{sfn|Bernadin|Stanton|1996|p=57}} In 1984, he released ''[[Breaking Hearts]]'' which featured the song "[[Sad Songs (Say So Much)]]", No. 5 in the US and No. 7 in the UK.&lt;ref name="Charts"/&gt; Elton John also recorded material with [[Millie Jackson]] in 1985. In 1986, he played the piano on two tracks on the [[heavy metal music|heavy metal]] band [[Saxon (band)|Saxon's]] album ''[[Rock the Nations]]''.&lt;ref&gt;{{cite web |url=http://www.allmusic.com/album/rock-the-nations-r17448/review |title=Saxon Rock the Nations |accessdate=20 June 2011 |last=Rivadavia |first=Eduardo |publisher=[[AllMusic]]}}&lt;/ref&gt;
+
+A ''[[Biography (TV series)|Biography]]'' channel special detailed the loss of John's voice in 1986 while on tour in Australia. Shortly thereafter he underwent throat surgery; several non-cancerous polyps were removed from his vocal cords, resulting in a change in his singing voice.&lt;ref&gt;{{cite web |url=http://strictlyrock.com/index.php/band/17 |title=StrictlyRock.com Elton John |publisher=strictlyrock.com |accessdate=26 May 2010}}&lt;/ref&gt; In 1987, he won a libel case against ''[[The Sun (United Kingdom)|The Sun]]'' which published false allegations of sex with [[rent boys]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/media/2006/feb/16/sundaytimes.pressandpublishing |title=Elton settles Times libel case |work=The Guardian |location=London |accessdate=26 May 2010 |date=16 February 2006 |first=Claire |last=Cozens}}&lt;/ref&gt; In 1988, he performed five sold-out shows at [[Madison Square Garden]] in New York, giving him 26 for his career.&lt;ref&gt;Luca Prono [https://books.google.com/books?id=Y3FYzMPH2OwC&amp;pg=PA150 Encyclopedia of gay and lesbian popular culture] {{webarchive |url=https://web.archive.org/web/20161226045905/https://books.google.com/books?id=Y3FYzMPH2OwC&amp;pg=PA150 |date=26 December 2016 }} Greenwood Publishing Group, 2008&lt;/ref&gt; Netting over {{US$|20 million}}, 2,000 items of Elton John's memorabilia were auctioned off at Sotheby's in London.&lt;ref&gt;''The Rolling stone encyclopedia of rock &amp; roll'' p.502. Fireside, 2001&lt;/ref&gt;
+
+He placed other hits throughout the 1980s, including "[[Nikita (song)|Nikita]]" which featured in a music video directed by [[Ken Russell]], No. 3 in the UK and No. 7 in the US in 1986, a live orchestral version of "Candle in the Wind", No. 6 in the US, and "[[I Don't Wanna Go on with You Like That]]", No. 2 in the US in 1988.&lt;ref name="Charts"/&gt;&lt;ref name="Billboard Charts"&gt;[http://www.billboard.com/artist/301679/elton-john/chart "Elton John Billboard Chart History"] {{webarchive |url=https://web.archive.org/web/20161130152100/http://www.billboard.com/artist/301679/elton-john/chart |date=30 November 2016 }}. ''Billboard''. Retrieved 10 December 2014&lt;/ref&gt; His highest-charting single was a collaboration with [[Dionne Warwick]], [[Gladys Knight]], and Stevie Wonder on "[[That's What Friends Are For]]" which reached No. 1 in the US in 1985; credited as Dionne and Friends, the song raised funds for AIDS research.&lt;ref name="Billboard Charts"/&gt; His albums continued to sell, but of those released in the latter half of the 1980s, only ''[[Reg Strikes Back]]'' (number&amp;nbsp;16, 1988) placed in the top 20 in the US.&lt;ref name="Billboard Charts"/&gt;
+
+=== "Sacrifice" to ''Aida'' (19901999) ===
+In 1990, he achieved his first solo UK number&amp;nbsp;one hit single, with "[[Sacrifice (Elton John song)|Sacrifice]]" (coupled with "[[Healing Hands (song)|Healing Hands]]") from the previous year's album ''[[Sleeping with the Past]]''; it stayed at the top spot for six weeks.&lt;ref&gt;{{cite web |title="Sacrifice" (1990 release), UK Singles Chart |url=http://www.chartstats.com/songinfo.php?id=17695 |publisher=chartstats |accessdate=28 December 2010}}&lt;/ref&gt; The following year, John's "Basque" won the [[Grammy Award for Best Instrumental Composition|Grammy for Best Instrumental]], and a guest concert appearance at [[Wembley Arena]] he had made on [[George Michael]]'s cover of "[[Don't Let the Sun Go Down on Me]]" was released as a single and topped the charts in both the UK and the US.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=1wkEAAAAMBAJ&amp;pg=RA1-PA5 |title=Elton John  30 Years of Music |publisher= |accessdate=27 September 2014}}&lt;/ref&gt; At the [[List of BRIT Awards ceremonies#1991|1991]] [[Brit Awards]] in London, Elton John won the award for Best British Male.&lt;ref&gt;{{cite web |url=http://www.brits.co.uk/britstv/1991-best-british-male-elton-john |title=1991 Brit Awards: Best British Male  Elton John |publisher=Brit Awards |accessdate=27 September 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140421051407/http://www.brits.co.uk/britstv/1991-best-british-male-elton-john |archivedate=21 April 2014}}&lt;/ref&gt;
+
+In 1992, he released the US number&amp;nbsp;8 album ''[[The One (Elton John album)|The One]]'', featuring the hit song "[[The One (Elton John song)|The One]]".&lt;ref&gt;Billboard [{{Allmusic|class=artist|id=p4617/charts-awards/billboard-singles|pure_url=yes}} AllMusic]. Retrieved 28 December 2010&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.chartstats.com/songinfo.php?id=19866 |title=UK Chartstats.com |publisher=Chartstats.com |accessdate=27 September 2014}}&lt;/ref&gt; He also released "[[Runaway Train (Elton John and Eric Clapton song)|Runaway Train]]", a duet he recorded with his long-time friend [[Eric Clapton]], and with whom he played on [[Clapton's World Tour]].&lt;ref&gt;{{cite web |url=http://www.whereseric.com/eric-clapton-tour/archive/1992 |title=Eric Clapton Tour Archive 1992 |publisher=Where's Eric! |accessdate=3 August 2015}}&lt;/ref&gt; John and Taupin then signed a music publishing deal with [[Warner/Chappell Music]] for an estimated {{US$|39 million}} over 12 years, giving them the largest cash advance in music publishing history.&lt;ref&gt;{{cite news |url=http://articles.latimes.com/1992-11-04/entertainment/ca-1205_1_music-publishing |work=Los Angeles Times |title=John, Taupin to Ink $39-Million Publishing Pact |first=Chuck |last=Philips |date=4 November 1992}}&lt;/ref&gt; In April 1992, John appeared at the [[Freddie Mercury Tribute Concert]] at [[Wembley Stadium]], performing "[[The Show Must Go On (Queen song)|The Show Must Go On]]" with the remaining members of [[Queen (band)|Queen]], and "[[Bohemian Rhapsody]]" with [[Axl Rose]] of [[Guns N' Roses]] and Queen.&lt;ref&gt;Goodall, Nigel (1993) Elton John: a visual documentary'' p.103. Omnibus Press, 1993&lt;/ref&gt; In September, John performed "The One" at the [[1992 MTV Video Music Awards]], and closed the ceremony performing "[[November Rain]]" with Guns N' Roses.&lt;ref&gt;{{cite web |url=http://www.mtv.com/ontv/vma/1992/ |title=1992 MTV Video Music Awards |publisher=MTV |accessdate=27 September 2014}}&lt;/ref&gt; The following year, he released ''[[Duets (Elton John album)|Duets]]'', a collaboration with 15 artists including [[Tammy Wynette]] and [[RuPaul]]. This included a new collaboration with Kiki Dee, entitled "[[True Love (Cole Porter song)|True Love]]", which reached the Top 10 of the UK charts.&lt;ref&gt;Goodall, Nigel (1993) ''Elton John: a visual documentary'' p.109. Omnibus Press, 1993.&lt;/ref&gt;
+In the same year, ''The Bunbury Tails'' (multi-artist charity album) was released, which was the soundtrack to the British [[Animated series|animated television series]] of the same name. ''Up The Revolution'' was Elton's track; alongside contributions from [[George Harrison]], [[the Bee Gees]] and [[Eric Clapton]]. Issued briefly in only the UK.&lt;ref&gt;{{cite web |url=http://www.columbia.edu/~brennan/beegees/92.html |title=The Bunbury Tales |publisher=Polydor |accessdate=7 November 2017}}&lt;/ref&gt;
+
+{{Quote box|width=28%|align=left|quote="For myself as well as for many others no-one has been there more for inspiration than Elton John. When we talk of great rock duos like [[Jimmy Page]] and [[Robert Plant]], [[John Lennon|John (Lennon)]] and [[Paul McCartney|Paul (McCartney)]], [[Mick Jagger|Mick (Jagger)]] and [[Keith Richards|Keith (Richards)]], I like to think of Elton John and Bernie Taupin. Also tonight I think that Elton should be honoured for his great work and contribution in the fight against AIDS. And also his bravery in exposing all the triumphs and tragedies of his personal life. "|source=[[Axl Rose]] speech inducting Elton John into the Rock and Roll Hall of Fame.&lt;ref&gt;[http://rockhall.com/video/7035/ "Axl Roae inducts Elton John in 1994"] {{webarchive|url=https://web.archive.org/web/20141213011259/http://rockhall.com/video/7035/ |date=13 December 2014 }}. Rock Hall. Retrieved 12 December 2014&lt;/ref&gt;}}
+Along with [[Tim Rice]], Elton John wrote the songs for the 1994 [[The Walt Disney Company|Disney]] animated film ''[[The Lion King]]''. At the [[67th Academy Awards]] ceremony, [[The Lion King (soundtrack)|''The Lion King'' soundtrack]] provided three of the five nominees for the [[Academy Award for Best Song]], which he won with "[[Can You Feel the Love Tonight]]".&lt;ref name=BILL&gt;{{cite book |url=https://books.google.com/books?id=5AsEAAAAMBAJ&amp;pg=PA49 |title=Billboard 29 Apr 1995 |publisher= |page=49 |accessdate=27 September 2014}}&lt;/ref&gt; Both that and "[[Circle of Life]]" became hit songs for John.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=aQgEAAAAMBAJ&amp;pg=PA136 |title=Billboard 30 Jul 1994 |publisher= |page=136 |accessdate=27 September 2014}}&lt;/ref&gt;&lt;ref&gt;Rosen, Craig (1996) ''The Billboard book of number one albums: the inside story behind pop music's blockbuster records'' ''[[Billboard Books]]'', 1996&lt;/ref&gt; "Can You Feel the Love Tonight" also won Elton John the [[Grammy Award for Best Male Pop Vocal Performance]] at the [[37th Annual Grammy Awards]].&lt;ref name=BILL/&gt; After the release of ''The Lion King'' soundtrack, the album remained at the top of [[Billboard 200|''Billboard'' 200]] for nine weeks. On 10 November 1999, the [[RIAA]] certified ''The Lion King'' "[[diamond record|Diamond]]" for selling 15{{nbsp}}million copies.&lt;ref name=ELT/&gt;
+
+In 1994, Elton John was inducted into the [[Rock and Roll Hall of Fame]] by Guns N' Roses frontman [[Axl Rose]].&lt;ref name="Rock Hall"&gt;{{cite web |url=http://rockhall.com/inductees/elton-john |title=Elton John: inducted in 1994 &amp;#124; The Rock and Roll Hall of Fame and Museum |publisher=Rockhall.com |date=25 March 1947 |accessdate=6 August 2010}}&lt;/ref&gt; In 1995, he released ''[[Made in England (Elton John album)|Made in England]]'' (number&amp;nbsp;3).
+The title track, "[[Made in England (song)|Made in England]]", is an autobiographical telling of his growing up, parts of his life and what it is like in England. The album also featured the single "[[Believe (Elton John song)|Believe]]".{{sfn|Bernadin|Stanton|1996|p=169}} John performed "Believe" at the [[List of BRIT Awards ceremonies#1995|1995]] [[Brit Awards]], and picked up the prize for Outstanding Contribution to Music.&lt;ref&gt;{{cite web |url=http://www.brits.co.uk/history/shows/1995 |title=Brit Awards 1995 |publisher=Brit Awards |accessdate=27 September 2014}}&lt;/ref&gt;
+[[File:Elton John with Luciano Pavarotti in Modena 1996.jpg|thumb|right|Elton John with [[Luciano Pavarotti]] in Modena, 1996]]
+A duet with [[Luciano Pavarotti]], "Live Like Horses", reached number nine in the UK in December 1996.&lt;ref name="Charts"/&gt; A compilation album called ''[[Love Songs (Elton John album)|Love Songs]]'' was released in 1996.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=9A8qho3x28oC |title=People in the News 1997 |publisher= |accessdate=27 September 2014}}&lt;/ref&gt; Early in 1997, he held a 50th birthday party, costumed as [[Louis XIV]], for 500 friends. He performed with the surviving members of [[Queen (band)|Queen]] in Paris at the opening night (17 January 1997) of ''Le Presbytre N'a Rien Perdu De Son Charme Ni Le Jardin De Son clat'', a work by French ballet legend [[Maurice Bjart]] which draws upon AIDS and the deaths of [[Freddie Mercury]] and the company's principal dancer [[Jorge Donn]]. Later in 1997, two close friends died: designer [[Gianni Versace]] was murdered; [[Diana, Princess of Wales]] died in a Paris car crash on 31 August.&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=w2MEAAAAMBAJ&amp;pg=PT25 |title=The Advocate 14 Oct 1997 |publisher= |accessdate=27 September 2014}}&lt;/ref&gt;
+
+In early September, he contacted his writing partner [[Bernie Taupin]], asking him to revise the lyrics of his 1973 song "Candle in the Wind" to honour Diana, and Taupin rewrote the song accordingly.&lt;ref&gt;{{cite book |title=The songwriters idea book |url=https://books.google.com/?id=aWm2iDGGsAIC&amp;pg=PA103 |work=Writer's Digest Books p.103 |date=15 October 1992 |isbn=978-0-89879-519-6 |author1=Davis |first1=Sheila |page=103}}&lt;/ref&gt; On 6 September 1997, John performed "[[Candle in the Wind 1997]]" at the [[funeral of Princess Diana]] in [[Westminster Abbey]].&lt;ref&gt;{{cite news |url=https://www.theguardian.com/music/2011/jun/11/elton-john-princess-dianas-funeral |title=Elton John performs Candle in the Wind at Princess Diana's funeral |first=Gareth |last=Grundy |work=The Guardian |location=London |accessdate=27 September 2014 |date=10 June 2011}}&lt;/ref&gt; The song became the fastest and biggest-selling single of all time, eventually selling over 33{{nbsp}}million copies worldwide,&lt;ref name=ELT/&gt;&lt;ref name=GRAM/&gt; the best-selling single in UK Chart history,&lt;ref&gt;{{cite web |url=http://www.bbc.co.uk/pressoffice/pressreleases/stories/2010/08_august/31/radio2.shtml |title=BBC  Press Office: Elton John tops million sellers chart |publisher=BBC |accessdate=27 September 2014}}&lt;/ref&gt; the best-selling single in ''Billboard'' history and the only single ever [[RIAA certification|certified Diamond]] in the United States  the single sold over 11{{nbsp}}million copies in the US&lt;ref name=RSTO/&gt;&lt;ref name=ELT&gt;{{cite web |title=The American Recording Industry Announces its Artists of the Century |url=https://www.riaa.com/newsitem.php?news_year_filter=1999&amp;resultpage=2&amp;id=3abf3ec8-ef5b-58f9-e949-3b57f5e313df |publisher=[[Recording Industry Association of America|RIAA]] |accessdate=2 February 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20070930200852/http://www.riaa.com/newsitem.php?news_year_filter=1999&amp;resultpage=2&amp;id=3ABF3EC8-EF5B-58F9-E949-3B57F5E313DF |archivedate=30 September 2007 |df=}}&lt;/ref&gt;&lt;ref&gt;{{cite book |url=https://books.google.com/books?id=SQ0EAAAAMBAJ&amp;pg=PA93 |title=Billboard 3 Apr 1999 |publisher= |accessdate=27 September 2014}}&lt;/ref&gt; The ''[[Guinness World Records]]'' 2009 states that the song is "the biggest-selling single since UK and US singles charts began in the 1950s, having accumulated worldwide sales of 33{{nbsp}}million copies".&lt;ref name=Guinness/&gt; The song proceeds of approximately 55{{nbsp}}million were donated to Diana's charities via the [[Diana, Princess of Wales Memorial Fund]].&lt;ref&gt;{{cite book |author1=Jean-Pierre Hombach |title=Elton John |date=&lt;!-- none specified --&gt; |publisher=Lulu.com |isbn=9781471611865 |page=12 |url=https://books.google.com/books?id=A1ScAwAAQBAJ&amp;pg=PA12 |accessdate=23 July 2015}}&lt;/ref&gt; It won Elton John the [[Grammy Award for Best Male Pop Vocal Performance]] at the [[40th Annual Grammy Awards]] in 1998.&lt;ref name=GRAM&gt;Miles, Barry [https://books.google.com/books?id=-oBzTaoZciEC&amp;pg=PA207 Massive Music Moments] {{webarchive |url=https://web.archive.org/web/20161226053538/https://books.google.com/books?id=-oBzTaoZciEC&amp;pg=PA207 |date=26 December 2016 }} p.207. Anova Books, 2008&lt;/ref&gt; "[[Something About the Way You Look Tonight]]" was released as a [[double A-side]]. Elton John has publicly performed "Candle in the Wind 1997" only once, at Diana's funeral, vowing never to perform it again unless asked by Diana's sons.&lt;ref name="pophistorydig.com"&gt;{{cite web |url=http://www.pophistorydig.com/?tag=candle-in-the-wind |title=Candle in the Wind, 1973 &amp; 1997 |last=Doyle |first=Jack |date=26 April 2008 |publisher=PopHistoryDig.com |accessdate=8 February 2010}}&lt;/ref&gt;
+
+On 15 September 1997, John appeared at the ''[[Music for Montserrat]]'' charity concert at the [[Royal Albert Hall]], London, performing "Your Song", "Don't Let the Sun Go Down on Me" and "Live Like Horses" solo before finishing with "[[Hey Jude]]" alongside fellow English artists [[Paul McCartney]], [[Eric Clapton]], [[Phil Collins]], [[Mark Knopfler]] and [[Sting (musician)|Sting]].&lt;ref&gt;[https://books.google.com/books?id=BwoEAAAAMBAJ&amp;pg=PA59 "Billboard 6 September 1997"] {{webarchive |url=https://web.archive.org/web/20161226040012/https://books.google.com/books?id=BwoEAAAAMBAJ&amp;pg=PA59 |date=26 December 2016 }}. p.59. ''Billboard''. Retrieved 12 December 2014&lt;/ref&gt; In November 1997, John performed in the BBC's [[Children in Need]] charity single  "[[Perfect Day 97|Perfect Day]]", which reached number one in the UK.&lt;ref&gt;[http://www.officialcharts.com/chart-news/one-direction-pharrell-kylie-for-2014-children-in-need-single-3187/ "Sir Elton John, One Direction, Kylie for 2014 Children In Need single"] {{webarchive |url=https://web.archive.org/web/20141012164129/http://www.officialcharts.com/chart-news/one-direction-pharrell-kylie-for-2014-children-in-need-single-3187/ |date=12 October 2014 }}. Official Charts Company. Retrieved 12 December 2014&lt;/ref&gt;
+
+In the musical theatre world, [[The Lion King (musical)|''The Lion King'' musical]] debuted on Broadway in 1997 and the [[West End theatre|West End]] in 1999. In 2014, it had grossed over $6&amp;nbsp;billion and became the top-earning title in box-office history for both stage productions and films, surpassing the record previously held by [[Andrew Lloyd Webber]]'s 1986 musical ''[[The Phantom of the Opera (1986 musical)|The Phantom of the Opera]]''.&lt;ref&gt;{{cite news |author1=David Gritten |title=How The Lion King became the most successful stage show of all time |url=https://www.telegraph.co.uk/culture/theatre/11161597/How-the-Lion-King-came-to-reign.html |accessdate=23 July 2015 |work=The Telegraph |date=17 October 2014 |location=London}}&lt;/ref&gt; In addition to ''The Lion King'', John also composed music for a [[Disney]] musical production of ''[[Aida (musical)|Aida]]'' in 1999 with lyricist [[Tim Rice]], for which they received the [[Tony Award for Best Original Score]] at the [[54th Tony Awards]],&lt;ref&gt;{{cite web |url=http://www.bmi.com/news/entry/232801 |title=Elton John's 'Aida' Big Winner at Tony Awards |publisher=BMI.com |accessdate=27 September 2014}}&lt;/ref&gt; and the [[Grammy Award for Best Musical Show Album]] at the [[43rd Annual Grammy Awards]].&lt;ref&gt;{{cite web |url=http://www.disney.co.uk/musicaltheatre/TheLionKing/abouttheshow/disneytheatrical.html |title=Disney Theatrical Theatre |work=The Lion King |accessdate=27 September 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20120314022136/http://www.disney.co.uk/musicaltheatre/TheLionKing/abouttheshow/disneytheatrical.html |archivedate=14 March 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/6455921.stm |title=Sixty things for Sir Elton's 60th |publisher=BBC News |date=23 March 2007 |accessdate=27 September 2014}}&lt;/ref&gt; The musical was given its world premiere in the Alliance Theatre in Atlanta and went on to Chicago and eventually Broadway. John released a live compilation album called ''[[Elton John One Night Only  The Greatest Hits]]'' from the show he did at [[Madison Square Garden]] in New York City that same year. A concept album from the musical titled ''[[Elton John and Tim Rice's Aida]]'' was also released and featured the duets, "[[Written in the Stars (Elton John and LeAnn Rimes song)|Written in the Stars]]" with [[LeAnn Rimes]], and "I Know the Truth" with [[Janet Jackson]].&lt;ref&gt;{{cite web |author=[[Stephen Thomas Erlewine]] |url=http://www.allmusic.com/album/elton-john-and-tim-rices-aida-mw0000049946 |title=Elton John and Tim Rice's "Aida" |publisher=AllMusic |date=23 March 1999 |accessdate=6 June 2014}}&lt;/ref&gt;
+
+===''Billy Elliot the Musical'' and 60th birthday (20002009)===
+[[File:Elton John in Norway 4.jpg|thumb|right|Elton John performs at the [[Skagerak Arena]] in [[Skien]], June 2009]]
+In 2000, he and [[Tim Rice]] teamed again to create songs for [[DreamWorks]]' animated film ''[[The Road to El Dorado]]''. he released his 27th album, ''[[Songs from the West Coast]]'', in October 2001. At this point, John disliked appearing in his own music videos; "[[This Train Don't Stop There Anymore]]" featured [[Justin Timberlake]] portraying a young Elton John, and "[[I Want Love]]" featured [[Robert Downey, Jr.]] lip-syncing the song.&lt;ref&gt;{{cite web |url=http://www.mtv.com/news/articles/1445963/20010803/john_elton.jhtml |title=Elton John Casts Robert Downey, Jr. In His New Video |accessdate=12 December 2014 |author=Schumacher-Rasmussen, Eric |date=3 August 2001 |publisher=MTV News}}&lt;/ref&gt; At the [[43rd Annual Grammy Awards|2001 Grammy Awards]], Elton performed "[[Stan (song)|Stan]]" with [[Eminem]].&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=w4dZ2pcLMCs |title=Eminem feat Elton John  Stan (Live) |publisher=YouTube |date=18 September 2009 |accessdate=19 June 2014}}&lt;/ref&gt; One month after the [[11 September attacks]], Elton John appeared at [[the Concert for New York City]], performing "I Want Love" as well as "Your Song" in a duet with [[Billy Joel]].&lt;ref&gt;[http://www.allmusic.com/album/the-concert-for-new-york-city-mw0000213296 "Concert for New York City  Various Artists"] {{webarchive |url=https://web.archive.org/web/20160820211416/http://www.allmusic.com/album/the-concert-for-new-york-city-mw0000213296 |date=20 August 2016 }}. AllMusic. Retrieved 11 December 2014&lt;/ref&gt;
+
+In August 2003, he scored his fifth UK number one single when "[[Are You Ready for Love]]" topped the charts.&lt;ref&gt;{{cite book |first=David |last=Roberts |year=2006 |title=[[British Hit Singles &amp; Albums]] |edition=19th |publisher=Guinness World Records Limited |location=London |isbn=1-904994-10-5 |page=689}}&lt;/ref&gt; Returning to musical theatre, John composed music for a [[West End theatre|West End]] production of ''[[Billy Elliot the Musical]]'' in 2005 with playwright [[Lee Hall (playwright)|Lee Hall]]. Opening to strong reviews, the show won four [[Laurence Olivier Awards]], including Best New Musical. The [[List of the longest-running West End shows|eleventh longest-running musical in West End history]], the London production ran through April 2016, after 4,566 performances.&lt;ref name="auto"&gt;[https://www.bestoftheatre.co.uk/blog/post/billy-elliot-ends "Billy Elliot pirouettes out of the West End"] {{webarchive |url=https://web.archive.org/web/20160113070112/https://www.bestoftheatre.co.uk/blog/post/billy-elliot-ends |date=13 January 2016 }} ''Best of Theatre'' 10 December 2015&lt;/ref&gt; ''Billy Elliot'' has been seen {{as of|December 2015|lc=y}} by over 5.25 million people in London and nearly 11 million people worldwide (on [[Broadway theatre|Broadway]], in Sydney, Melbourne, Chicago, Toronto, Seoul, the Netherlands and So Paulo, Brazil etc.), has grossed over $800 million worldwide and is the winner of over 80 theatre awards internationally.&lt;ref&gt;{{cite web |url=http://london.billyelliotthemusical.com/news/billy-elliot-the-musical-final-performance-announced/ |title=Billy Elliot the Musical Final Performance Announced |work=Billy Elliot The Musical (Official London Site) |date=10 December 2015 |accessdate=26 February 2016 |deadurl=yes |archiveurl=https://web.archive.org/web/20160304123513/http://london.billyelliotthemusical.com/news/billy-elliot-the-musical-final-performance-announced/ |archivedate=4 March 2016 |df=dmy-all}}&lt;/ref&gt; His only theatrical project with Bernie Taupin is ''[[Lestat (musical)|Lestat: The Musical]]'', based on the [[Anne Rice]] vampire novels. It received harsh reviews from critics and closed in May 2006 after 39 performances.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/5013218.stm |title=Sir Elton vampire musical closes |work=BBC News |date=24 May 2006 |accessdate=25 February 2009}}&lt;/ref&gt; Elton featured on rapper [[Tupac Shakur]]'s posthumous single "[[Ghetto Gospel]]", which topped the UK charts in July 2005.&lt;ref name="Charts"/&gt;
+
+In October 2003, he announced that he had signed an exclusive agreement to perform 75 shows over three years at [[Caesars Palace]] on the [[Las Vegas Strip]]. The show, entitled ''[[The Red Piano]]'', was a multimedia concert featuring massive props and video montages created by [[David LaChapelle]]. Effectively, he and [[Celine Dion]] shared performances at Caesars Palace throughout the year  while one performs, one rests. The first of these shows took place on 13 February 2004.&lt;ref&gt;{{cite web |url=http://www.lasvegasmercury.com/2004/MERC-Feb-19-Thu-2004/23234895.html |title=Stage: Rock it, man |author=Scherzer, Barbara |date=19 February 2004 |work=[[Las Vegas Mercury]] |accessdate=10 December 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141210182503/http://www.lasvegasmercury.com/2004/MERC-Feb-19-Thu-2004/23234895.html |archivedate=10 December 2014 |df=dmy-all}}&lt;/ref&gt; In February 2006, Elton and Dion sang together at the venue to raise money for [[Harrah's Entertainment Inc.]] workers affected by the 2005 hurricanes, performing "Sorry Seems to Be the Hardest Word" and "Saturday Night's Alright (for Fighting)."&lt;ref&gt;[http://articles.latimes.com/2006/feb/22/entertainment/et-quick22.3 "Celine Dion, Elton John duet"] {{webarchive |url=https://web.archive.org/web/20160305101900/http://articles.latimes.com/2006/feb/22/entertainment/et-quick22.3 |date=5 March 2016 }}. ''[[Los Angeles Times]]''. Retrieved 10 December 2014&lt;/ref&gt;
+
+Elton John was named a [[Disney Legend]] for his contributions to Disney's films and theatrical works on 9 October 2006, by [[the Walt Disney Company]].&lt;ref&gt;{{cite web |author=Disney.com Network |url=http://legends.disney.go.com/legends/detail?key=Elton+John |title=Disney Legends  Elton John |publisher=[[Disney]] |date=25 April 2006 |accessdate=25 February 2009}}&lt;/ref&gt; In 2006, he told ''Rolling Stone'' that he plans for his next record to be in the [[Contemporary R&amp;B|R&amp;B]] and [[Hip hop music|hip hop]] genre. "I want to work with [[Pharrell Williams]], [[Timbaland]], [[Snoop Dogg|Snoop [Lion]]], [[Kanye West|Kanye [West]]], Eminem and just see what happens."&lt;ref name=6abc&gt;{{cite web |author=&amp;nbsp;&amp;nbsp; |url=http://abclocal.go.com/wpvi/story?section=entertainment&amp;id=4498224 |title=6ABC.com article: "Elton John Wants to Make Hip-hop Album" |publisher=Abclocal.go.com |date=26 August 2006 |accessdate=25 February 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20080209035244/http://abclocal.go.com/wpvi/story?section=entertainment&amp;id=4498224 |archivedate=9 February 2008}}&lt;/ref&gt;
+[[File:EltonJohnDianaConcert.JPG|thumb|left|Elton on piano at the [[Concert for Diana]], commemorating [[Diana, Princess of Wales|Princess Diana]], at [[Wembley Stadium]] on 1 July 2007]]
+In March 2007, he performed at Madison Square Garden for a record-breaking 60th time for his 60th birthday; the concert was broadcast live and a DVD recording was released as ''[[Elton 60  Live at Madison Square Garden]]'';&lt;ref&gt;{{cite web |url=http://www.nme.com/news/elton-john/27292 |title=NME article on 60th birthday concert at Madison Square Gardens |work=NME |location=UK |date=25 March 2007 |accessdate=25 February 2009}}&lt;/ref&gt; a greatest-hits compilation CD, ''Rocket Man  Number&amp;nbsp;Ones'', was released in 17 different versions worldwide, including a CD/DVD combo; and his back catalogue  almost 500 songs from 32 albums  became available for legal paid download.&lt;ref&gt;{{cite news |title=Elton John to put entire music catalog online |url=https://www.reuters.com/article/2007/03/23/music-digital-eltonjohn-dc-idUSL2153214120070323 |accessdate=4 March 2015 |agency=[[Reuters]] |date=21 March 2007}}&lt;/ref&gt;
+
+On 1 July 2007, John appeared at the [[Concert for Diana]] held at [[Wembley Stadium]], London in honour of [[Diana, Princess of Wales]] on what would have been her 46th birthday, with the proceeds from the concert going to Diana's charities as well as to charities of which her sons Princes William and Harry are patrons.&lt;ref name="Diana Concert"/&gt;&lt;ref&gt;{{cite news |title=What is the Concert for Diana? |url=http://www.bbc.co.uk/concertfordiana/features/about.shtml |publisher=BBC |date=13 August 2015}}&lt;/ref&gt; John opened the concert with "Your Song", and then later closed it with "Saturday Night's Alright For Fighting", "Tiny Dancer", and "Are You Ready For Love".&lt;ref name="Diana Concert"&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/6257986.stm |title=Diana concert a 'perfect tribute' |publisher=[[BBC News]] |date=2 July 2007 |accessdate=27 September 2014}}&lt;/ref&gt;
+
+On 21 June 2008, he performed his 200th show in Caesars Palace. A DVD/CD package of ''The Red Piano'' was released through [[Best Buy]] in November 2008. A two-year global tour was sandwiched between commitments in [[Las Vegas, Nevada|Las Vegas]], Nevada, some of the venues of which were new to John. [[The Red Piano Tour]] closed in Las Vegas in April 2009.&lt;ref&gt;Jean-Pierre Hombach. "Elton John". p. 14. Lulu.&lt;/ref&gt; In a September 2008 interview with ''[[GQ]]'' magazine, John said: "I'm going on the road again with [[Billy Joel]] again next year", referring to "Face to Face", a series of concerts featuring both musicians. The tour began in March and will continue for at least two more years.&lt;ref&gt;{{cite web |url=https://www.gq.com/blogs/the-q/2008/10/sir-elton-johns-weird-third-act.html |title=Sir Elton John's Weird Third Act |work=GQ |accessdate=27 September 2014}}&lt;/ref&gt;
+
+In 2009, John accepted [[Jerry Cantrell]]'s invitation to collaborate with his band [[Alice in Chains]].&lt;ref&gt;{{cite web |url=https://www.theguardian.com/music/2009/aug/12/elton-john-alice-in-chains |title=Elton John joins Alice in Chains on new album |date=12 August 2009 |work=The Guardian |accessdate=24 June 2017}}&lt;/ref&gt; John played the piano in the song "[[Black Gives Way to Blue (song)|Black Gives Way to Blue]]", a tribute to the band's late lead singer, [[Layne Staley]], which was the title track and closing song in the album ''[[Black Gives Way to Blue]]'', released in September 2009.&lt;ref name=EltonJohn&gt;{{cite web |url=http://www.spin.com/2009/08/qa-jerry-cantrell-alice-chains/ |title=Q&amp;A: Jerry Cantrell of Alice in Chains |date=21 August 2009 |work=Spin |accessdate=23 June 2017}}&lt;/ref&gt; The first concert that Staley attended was Elton John's, and his mother revealed that he was blown away by it,&lt;ref name=EltonJohn/&gt; with Cantrell adding: "Elton is a very important musical influence to all of us in varying degrees, and especially to me. My first album was ''Elton Johns Greatest Hits''. And actually, we were reminded by Laynes stepfather that Elton was his first concert, so it was all really appropriate. So I wrote [Elton] an e-mail and explained what his music meant to us, and that this song was for Layne. We sent him a demo, and he said it was beautiful and hed love to play on it. In the studio he was really relaxed and gracious, and hes got a great sense of humor. We were just trying to be cool: Oh, yeah, no big deal. But we were excited. [Drummer [[Sean Kinney]]] and I had to walk out a couple of times to smoke cigarettes, like, Holy s, this is killer. Its one of those highlights you cant expect in life, and youre lucky to get them once in a while. And that is one."&lt;ref name=AIC&gt;{{cite web |url=http://ew.com/article/2009/10/01/alice-in-chains-elton-john-jerry-cantrell/ |title=Alice in Chains' Jerry Cantrell and Elton John on their 'Black Gives Way to Blue' collaboration |date=1 October 2009 |work=Entertainment Weekly |accessdate=24 June 2017}}&lt;/ref&gt; Elton revealed that he's been a big admirer of Cantrell for quite some time and couldn't resist the offer.&lt;ref&gt;{{cite web |url=https://www.rollingstone.com/music/news/elton-john-joins-alice-in-chains-new-album-to-honor-layne-staley-20090811 |title=Elton John Joins Alice in Chains' New Album to Honor Layne Staley |date=11 August 2009 |work=Rolling Stone |accessdate=24 June 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.musicradar.com/news/guitars/alice-in-chains-jerry-cantrell-on-layne-staley-elton-john-and-new-cd-237195 |title=Alice In Chains' Jerry Cantrell on Layne Staley, Elton John and new CD |date=10 February 2010 |work=Music Radar |accessdate=24 June 2017}}&lt;/ref&gt; He said, "I was kind of surprised that Alice in Chains would ask me to do anything. I never thought Id play on an Alice in Chains record. When I heard the song I really wanted to do it. I liked the fact that it was so beautiful and very simple. They had a great idea of what they wanted me to do on it and it turned out great."&lt;ref name=AIC/&gt;
+
+===2010present===
+[[File:Elton John (8183493581).jpg|thumb|right|upright|Elton on [[World AIDS Day]] in Sydney on 1 December 2011]]
+Elton John performed a piano duet with [[Lady Gaga]] at the [[52nd Annual Grammy Awards]].&lt;ref&gt;Singh, Anita (1 February 2010) [https://www.telegraph.co.uk/culture/music/music-news/7127726/Grammy-Awards-2010-Lady-Gaga-and-Sir-Elton-John-video.html Grammy Awards 2010: Lady Gaga and Sir Elton John video] {{webarchive |url=https://web.archive.org/web/20160322133904/http://www.telegraph.co.uk/culture/music/music-news/7127726/Grammy-Awards-2010-Lady-Gaga-and-Sir-Elton-John-video.html |date=22 March 2016 }}  ''[[The Daily Telegraph]]'' (London). Retrieved 28 December 2010&lt;/ref&gt; On 6 June 2010, John performed at the fourth wedding of conservative commentator [[Rush Limbaugh]] for a reported {{US$|1 million}} fee.&lt;ref&gt;{{cite news |url=http://voices.washingtonpost.com/reliable-source/2010/06/love_etc_rush_limbaugh_marries.html?hpid=artslot |title=Love, etc: Rush Limbaugh marries for the fourth time |work=The Washington Post |accessdate=27 September 2014}}&lt;/ref&gt; Eleven days later, and 17 years to the day after his last previous performance in Israel, he performed at the [[Ramat Gan Stadium]]; this was significant because of other then-recent cancellations by other performers in the fallout surrounding an [[Gaza flotilla raid|Israeli raid]] on [[Ships of the Gaza flotilla raid|Gaza Flotilla]] the month before. In his introduction to that concert, Elton John noted he and other musicians should not "cherry-pick our conscience", in reference to [[Elvis Costello]], who was to have performed in Israel two weeks after John did, but cancelled in the wake of the aforementioned raid, citing his [Costello's] conscience.&lt;ref&gt;{{cite web |url=http://www.ynetnews.com/articles/0,7340,L-3906946,00.html |title=Elton John concert in Ramat Gan stadium begins  17&amp;nbsp;June 2010 |publisher=Ynetnews |date=20 June 1995 |accessdate=11 November 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://filmifi.com/gossip/Elton-John-Slams-Boycotting-Artists-at-Israel-Concert-2747904.html |title=Elton John Slams Boycotting Artists at Israel Concert |publisher=Filmifi.com |date=18 June 2010 |accessdate=30 May 2011}}&lt;/ref&gt;
+
+He released ''[[The Union (Elton John and Leon Russell album)|The Union]]'' on 19 October 2010. John says his collaboration with American singer, songwriter and sideman [[Leon Russell]] marks a new chapter in his recording career, saying: "I don't have to make pop records any more."&lt;ref&gt;{{cite web |url=http://www.billboard.com/articles/news/957511/elton-john-teams-with-leon-russell-for-mature-new-album |title=Elton John Teams With Leon Russell For 'Mature' New Album |work=Billboard |date=14 September 2009 |accessdate=6 August 2010}}&lt;/ref&gt; He began his new show [[The Million Dollar Piano]] at [[The Colosseum at Caesars Palace|the Colosseum]] at [[Caesars Palace]], Las Vegas on 28 September 2011.&lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/news/entertainment-arts-13126795 |title=Sir Elton John returning to Las Vegas |work=BBC News |accessdate=27 September 2014 |date=19 April 2011}}&lt;/ref&gt; John performed the show at Caesars for the next three years. He performed his 3000th concert on Saturday 8 October 2011 at Caesars.&lt;ref&gt;{{cite news |url=https://www.reuters.com/article/2011/10/09/idUS55941+09-Oct-2011+PRN20111009 |title=Elton John Celebrates 3,000th Live Public Performance |agency=Reuters |accessdate=27 September 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20131215205903/https://www.reuters.com/article/2011/10/09/idUS55941%2B09-Oct-2011%2BPRN20111009 |archivedate=15 December 2013 |df=}}&lt;/ref&gt; In 2011, John performed vocals on ''Snowed in at Wheeler Street'' with [[Kate Bush]] for her ''[[50 Words for Snow]]'' album.&lt;ref&gt;{{cite news |url=http://latimesblogs.latimes.com/music_blog/2011/11/album-review-kate-bushs-50-words-for-snow.html |title=Kate Bush's "50 Words for Snow" |work=Los Angeles Times |accessdate=27 September 2014 |date=21 November 2011}}&lt;/ref&gt; On 3 February 2012, Elton John visited Costa Rica for the first time when he performed at the recently built [[Estadio Nacional de Costa Rica (2011)|National Stadium]].&lt;ref&gt;{{cite web |url=http://adondeirhoy.com/fotos/concierto-elton-john-en-costa-rica/ |title=Concierto Elton en Costa Rica |publisher=Adondeirhoy.com |accessdate=27 September 2014}}&lt;/ref&gt;
+
+[[File:Rlton John Band 2012.jpg|thumb|left|The Elton John Band 15 March 2012. Left to right: John, Johnstone, Birch, and (not pictured, right), Olsson and Cooper]]
+
+On 4 June 2012, he performed at the Queen's [[Diamond Jubilee Concert]] at [[Buckingham Palace]], performing a repertoire including "Your Song", "Crocodile Rock" and "I'm Still Standing".&lt;ref&gt;[http://www.bbc.co.uk/news/entertainment-arts-18326093 "Stars perform at Diamond Jubilee concert"] {{webarchive |url=https://web.archive.org/web/20160115210716/http://www.bbc.co.uk/news/entertainment-arts-18326093 |date=15 January 2016 }}. BBC. Retrieved 12 December 2014&lt;/ref&gt; On 30 June, John performed in [[Kiev]], Ukraine at a joint concert with [[Queen (band)|Queen]] + [[Adam Lambert]] for the Elena Pinchuk ANTIAIDS Foundation.&lt;ref&gt;{{cite web |url=http://www.skynews.com.au/showbiz/article.aspx?id=767092&amp;vId= |title=Elton John and Queen perform in Kiev |publisher=Sky News |accessdate=27 September 2014}}&lt;/ref&gt; An album containing remixes of songs that he recorded in the 1970s called ''[[Good Morning to the Night]]'' was released in July 2012. The remixes were conducted by Australian group [[Pnau]] and the album reached No. 1 in the UK.&lt;ref&gt;{{cite news |url=http://www.bbc.co.uk/news/entertainment-arts-18945167 |title=Sir Elton John and Pnau top album chart |work=BBC News |date=23 July 2012 |accessdate=16 September 2012}}&lt;/ref&gt; At the 2012 [[Pride of Britain Awards]] on 30 October, Elton John, along with [[Michael Caine]], [[Richard Branson]], [[Simon Cowell]] and [[Stephen Fry]], recited [[Rudyard Kipling]]'s poem "[[If]]" in tribute to the 2012 British [[Great Britain at the 2012 Summer Olympics|Olympic]] and [[Great Britain at the 2012 Summer Paralympics|Paralympics]] athletes.&lt;ref&gt;{{cite news |title=Britain's biggest stars record iconic poem 'If' as tribute to Olympic heroes |url=https://www.yahoo.com/news/britains-biggest-stars-record-iconic-poem-tribute-olympic-111750818.html |agency=Yahoo.com. |date=10 November 2014}}&lt;/ref&gt;
+
+In February 2013, John performed a duet with singer-songwriter [[Ed Sheeran]] at the [[55th Annual Grammy Awards]].&lt;ref&gt;{{cite web |url=https://www.youtube.com/watch?v=cMM5zMsq2a8 |title=Ed Sheeran on the Grammys |publisher=YouTube |date=7 February 2013 |accessdate=8 June 2013}}&lt;/ref&gt; Later in 2013 he collaborated with rock band [[Queens of the Stone Age]] on their sixth studio album ''[[...Like Clockwork]]'', contributing piano and vocals on the song "Fairweather Friends". He stated that he was a fan of frontman [[Josh Homme]]'s side project, [[Them Crooked Vultures]], and had contacted Homme via phone call, asking if he could perform on the album.&lt;ref&gt;{{cite web |url=http://www.nme.com/news/queens-of-the-stone-age/69826 |title=Elton John 'called Josh Homme and said 'the only thing missing from your band is an actual queen' |work=NME |date=19 April 2013 |accessdate=27 June 2013}}&lt;/ref&gt;
+
+In September 2013, John received the first [[Brit Awards|Brits Icon Award]] for his "lasting impact" on [[Culture of the United Kingdom|UK Culture]].&lt;ref name="Icon"/&gt; [[Rod Stewart]] presented him the award on stage at the [[London Palladium]] before the two performed a duet of "Sad Songs (Say So Much)".&lt;ref&gt;[http://www.brits.co.uk/news/elton-john-honoured-with-brits-icon-award "Elton John Honoured With BRITs Icon Award"] {{webarchive |url=https://web.archive.org/web/20160330004748/http://www.brits.co.uk/news/elton-john-honoured-with-brits-icon-award |date=30 March 2016 }}. Brit Awards. Retrieved 9 December 2014&lt;/ref&gt; John's thirty-first album, ''[[The Diving Board]]'', produced by [[T-Bone Burnett]] was released in September 2013 and reached No. 3 in the UK and No. 4 in the US.&lt;ref name="Charts"/&gt;&lt;ref&gt;{{cite web |url=http://www.billboard.com/articles/news/1549826/elton-john-finishes-new-album-eyes-september-release-date |title=Elton John Finishes New Album, Eyes September Release Date |work=Billboard |date=23 February 2013 |accessdate=21 May 2013 |author=Gallo, Phil}}&lt;/ref&gt; In October 2015, it was announced Elton John would release his 32nd studio album, ''[[Wonderful Crazy Night]]'', on 5 February 2016. As with his last album, it was produced by T-Bone Burnett.&lt;ref&gt;{{cite web |url=http://www.eltonjohn.com/eltons-new-album-wonderful-crazy-night-now-available-for-pre-order/ |title=Elton's New Album "Wonderful Crazy Night" Now Available for Pre-Order! |date=22 October 2015 |accessdate=25 October 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20151120173154/http://www.eltonjohn.com/eltons-new-album-wonderful-crazy-night-now-available-for-pre-order/ |archivedate=20 November 2015 |df=dmy-all }}&lt;/ref&gt; The album's first single, "Looking Up", was released in the same month. This album marked John's first full album recorded with his touring band since 2006's ''[[The Captain &amp; the Kid]]''.&lt;ref&gt;{{cite web |url=https://www.rollingstone.com/music/news/elton-john-preps-new-album-wonderful-crazy-night-20151022 |title=Elton John Preps New Album 'Wonderful Crazy Night' |work=Rolling Stone |date=22 October 2015 |accessdate=25 October 2015 |author=Daniel Kreps}}&lt;/ref&gt; He also had a major role, playing himself, in the action sequel ''[[Kingsman: The Golden Circle]]'', which was released in September 2017.&lt;ref&gt;{{cite web |url=http://www.digitalspy.com/movies/news/a794497/elton-john-confirms-hes-doing-the-kingsman-sequel-in-a-really-cool-way/ |title=Elton John confirms he's doing the Kingsman sequel in a really cool way |date=18 May 2016 |work=Digital Spy |accessdate=26 May 2016}}&lt;/ref&gt;
+
+[[File:Elton John - Twickenham Stoop - Saturday 3rd June 2017 EltonTwicStoop030617-14 (34287287133).jpg|thumb|right|Elton performing a tribute to the late [[George Michael]] at Twickenham, London in June 2017]]
+On 26 January 2017, it was announced that John would be composing the score for a Broadway musical adaptation of the novel and film ''[[The Devil Wears Prada (novel)#Musical|The Devil Wears Prada]]'' along with [[Kevin McCollum]] as the [[Theatrical producer|producer]] and [[Paul Rudnick]] writing the lyrics and story. The timeline for the musical will be announced later.&lt;ref&gt;Blisten, Jon. [https://www.rollingstone.com/music/news/elton-john-writing-devil-wears-prada-musical-for-broadway-w463193  "Elton John Writing 'Devil Wears Prada' Musical for Broadway"] ''Rolling Stone'', January 2017&lt;/ref&gt; In June 2017, John appeared in the award-wining documentary ''[[The American Epic Sessions]]'', directed by [[Bernard MacMahon (filmmaker)|Bernard MacMahon]]. In the film, John recorded live on the restored first [[Sound recording and reproduction#Electrical recording|electrical sound recording]] system from the 1920s.&lt;ref&gt;{{Cite news |url=https://www.rollingstone.com/music/features/american-epic-inside-jack-whites-new-roots-music-doc-w482170 |title='American Epic': Inside Jack White and Friends' New Roots-Music Doc |work=Rolling Stone |accessdate=27 February 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=https://www.wired.com/2017/05/american-epic-return-of-the-lathe/ |title=The Long-Lost, Rebuilt Recording Equipment That First Captured the Sound of America |work=WIRED |accessdate=27 February 2018 |language=en-US}}&lt;/ref&gt; John composed and arranged a lyric, Two Fingers of Whiskey, written by Bernie Taupin, specifically for the film, live on camera with the help of [[Jack White]] and [[T Bone Burnett]].&lt;ref&gt;{{Cite web |url=http://www.bbc.co.uk/programmes/p0556pkr |title=Elton John - Two Fingers of Whiskey, The Sessions, American Epic, Arena - BBC Four |website=BBC |language=en-GB |accessdate=27 February 2018}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |url=http://interactive.wttw.com/playlist/2017/06/05/performers-american-epic-sessions |title=The Performers in 'The American Epic Sessions' |date=6 June 2017 |work=WTTW Chicago Public Media - Television and Interactive |accessdate=27 February 2018 |language=en-US}}&lt;/ref&gt; Danny Eccleston in [[Mojo (magazine)|''Mojo'']] pointed out that in one of the series most extraordinary moments, Elton John arrives toting a box-fresh lyric by Bernie Taupin and works it up in an instant, the song materializing in front of the viewers eyes before John and Jack White go for the take. Theres the magic right there.&lt;ref&gt;{{Cite web |url=https://www.pressreader.com/uk/mojo-uk/20170425/283012579613468 |title=American Epic |last=Eccleston |first=Danny |date=June 2017 |website=mojo4music.com |accessdate=27 February 2018}}&lt;/ref&gt; Two Fingers of Whiskey was released on 9 June 2017 on ''[[Music from The American Epic Sessions: Original Motion Picture Soundtrack]]''.&lt;ref&gt;{{Cite news |url=https://www.legacyrecordings.com/2017/04/28/american-epic-collection-american-epic-soundtrack-may-12th/ |title=American Epic: The Collection &amp; The Soundtrack Out May 12th {{!}} Legacy Recordings|date=28 April 2017|work=Legacy Recordings|accessdate=27 February 2018|language=en-US}}&lt;/ref&gt;
+
+On 24 January 2018, it was announced that John would be retiring from touring and would soon embark on a three-year [[Farewell Yellow Brick Road (tour)|farewell tour]]. The first concert is set to take place in [[Allentown, Pennsylvania]] on 8 September 2018. John cited spending time with his children as the reason for his retirement saying, "Ten years ago if you asked me if I would stop touring I would have said no. But we had children and that changed our lives. I have had an amazing life and career but my life has changed. My priorities are now my children and my husband and my family."&lt;ref&gt;{{cite web |last1=Tartaglione |first1=Nancy |title=Elton John Retiring From The Road With Three-Year Farewell Tour |url=http://deadline.com/2018/01/elton-john-retiring-farewell-yellow-brick-road-tour-1202268115/ |website=Deadline |accessdate=24 January 2018 |date=24 January 2018}}&lt;/ref&gt;
+
+==Musicianship==
+[[File:Elton John Bernie Taupin 1971.JPG|thumb|right|Elton John with [[Bernie Taupin]] (left) in 1971. They have collaborated on more than 30 albums to date]]
+
+Elton John has written with his songwriting partner [[Bernie Taupin]] since 1967 when he answered an advertisement for talent placed in the popular UK music publication, ''[[New Musical Express]]'', by [[Liberty records]] [[A&amp;R]] man [[Ray Williams (producer)|Ray Williams]].&lt;ref name="bilb"/&gt; The pair have collaborated on more than 30 albums to date.&lt;ref&gt;{{cite web |url=http://www.songwritershalloffame.org/index.php/exhibits/bio/C181 |title=Songwriters Hall of Fame  Bernie Taupin Biography |publisher=songwritershalloffame.org |accessdate=26 May 2010}}&lt;/ref&gt; The writing style that Elton John and Bernie Taupin use involves Taupin writing the lyrics on his own, and John then putting them to music, with the two never in the same room during the process. Taupin would write a set of lyrics, then post them to John, wherever he was in the world, who would then lay down the music, arrange it, and record.&lt;ref&gt;Syd Field
+ (2008). [https://books.google.com/books?id=PlQxwXiBniYC&amp;pg=PA351 "The Definitive Guide To Screenwriting"] {{webarchive |url=https://web.archive.org/web/20161226045809/https://books.google.com/books?id=PlQxwXiBniYC&amp;pg=PA351 |date=26 December 2016 }}. p.351. Random House, 2008&lt;/ref&gt;
+
+In 1992, John was inducted into the [[Songwriter's Hall of Fame]]. He is a fellow of the [[British Academy of Songwriters, Composers and Authors]] (BASCA).&lt;ref name="Basca.org.uk"&gt;{{cite web |url=http://www.basca.org.uk/about-us/people/fellows/ |title=Fellows  The British Academy of Songwriters, Composers and Authors |publisher=Basca.org.uk |accessdate=27 September 2014}}&lt;/ref&gt; His voice was once classed as [[tenor]]; it is now [[baritone]].&lt;ref name="Rosenthal"/&gt; His piano playing is influenced by classical and [[gospel music]].{{sfn|Bernadin|Stanton|1996}} He used [[Paul Buckmaster]] to arrange the music on his studio albums during the 1970s.&lt;ref&gt;{{cite web |url={{Allmusic |class=artist |id=p60589|pure_url=yes}} |title=allmusic (((Paul Buckmaster, Biography))) |publisher=AllMusic |accessdate=26 May 2010 }}&lt;/ref&gt;
+
+==Personal life==
+
+===Sexuality and family===
+
+In the late 1960s, Elton John was engaged to be married to his first lover, secretary Linda Woodrow, who is mentioned in the song "[[Someone Saved My Life Tonight]]".&lt;ref name=RS76&gt;{{cite web |first=Cliff |last=Jahr |url=https://www.rollingstone.com/artists/davidbowie/articles/story/8718858/elton_john_its_lonely_at_the_top |archiveurl=https://www.webcitation.org/5QZv8N38L?url=http://www.rollingstone.com/artists/davidbowie/articles/story/8718858/elton_john_its_lonely_at_the_top |archivedate=24 July 2007 |title=Elton John: It's Lonely at the Top |work=Rolling Stone |date=7 October 1976 |accessdate=25 February 2009 |deadurl=yes |df=dmy}}&lt;/ref&gt;&lt;ref name=Myers&gt;{{cite book |author=Paul Myers |url=https://books.google.com/?id=l118517OoewC&amp;pg=PA133 |title=''It Ain't Easy: Long John Baldry and the Birth of the British Blues'', page 133 |publisher=Greystone Books, 2007, {{ISBN|1-55365-200-2}} |accessdate=2 February 2010 |isbn=978-1-55365-200-7 |date=6 September 2007 }}&lt;/ref&gt; He married German recording engineer Renate Blauel on 14 February 1984, in [[Darling Point, New South Wales|Darling Point]], Sydney, with speculation that the marriage was a [[beard (companion)|cover]] for his homosexuality. John came out as [[bisexual]] in a 1976 interview with ''[[Rolling Stone]]'',&lt;ref name=RS76/&gt;&lt;ref name=Myers/&gt; but after his divorce from Blauel in 1988, he told the magazine he was "comfortable" being gay.&lt;ref&gt;Mary Rhiel, David Bruce Suchoff, {{cite book |url=https://books.google.com/?id=1o8YQZQhqGoC&amp;pg=PA23 |title=''The seductions of biography'' |page=23 |publisher=Routledge |year=1996 |accessdate=2 February 2010 |isbn=978-0-415-91090-3}}&lt;/ref&gt;
+
+In 1993, he began a relationship with [[David Furnish]], a former advertising executive and now filmmaker originally from [[Toronto]], Ontario, Canada. On 21 December 2005 (the day the [[Civil Partnership Act 2004|Civil Partnership Act]] came into force), John and Furnish were amongst the first couples in the UK to form a [[civil partnership in the United Kingdom|civil partnership]], which was held at the [[Windsor Guildhall]].&lt;ref&gt;{{cite news |work=The Independent |date=8 October 2012 |first=Elton |last=John |title=The historic fight for equality must go on. Let's get on and legalise same-sex marriage |url=https://www.independent.co.uk/voices/comment/elton-john-the-historic-fight-for-equality-must-go-on-lets-get-on-and-legalise-samesex-marriage-8202686.html |location=London}}&lt;/ref&gt; After [[gay marriage]] became legal in England in March 2014, John and Furnish married in [[Windsor, Berkshire]], on 21 December 2014, the ninth anniversary of their civil partnership.&lt;ref&gt;{{cite news |url=http://www.bbc.com/news/entertainment-arts-30568634 |title=Sir Elton John and David Furnish marry |publisher=BBC News |date=21 December 2014 |accessdate=21 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Sir Elton John's wedding: 11 things you might have missed |url=https://www.telegraph.co.uk/news/celebritynews/11309195/Sir-Elton-Johns-wedding-11-things-you-might-have-missed.html |work=The Daily Telegraph |location=London |first=Helena |last=Kealey |date=22 December 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news |title=Elton John, David Furnish get married |url=http://edition.cnn.com/2014/12/21/showbiz/elton-john-wedding/ |work=CNN |date=21 December 2014}}&lt;/ref&gt; They have two sons.&lt;ref&gt;{{cite news |title=There are no words to describe how much we love these boys': Elton John on his adorable sons |url=https://www.hellomagazine.com/celebrities/2016011829310/elton-john-amazing-beautiful-sons/ |agency=Hello magazine |date=17 December 2017}}&lt;/ref&gt; Their oldest, Zachary Jackson Levon Furnish-John, was born to a surrogate mother on 25 December 2010 in California.&lt;ref&gt;{{cite news |url=http://www.usmagazine.com/momsbabies/news/sir-elton-john-and-david-furnish-welcome-a-new-baby20102712 |title=Sir Elton John and David Furnish Welcome a New Baby! |work=Us Weekly |date=27 December 2010 |accessdate=27 December 2010}}&lt;/ref&gt;&lt;ref&gt;Levy, Glen [http://newsfeed.time.com/2010/12/28/welcome-tiny-dancer-elton-john-becomes-a-dad/ Welcome, Tiny Dancer: Elton John Becomes a Dad] {{webarchive |url=https://web.archive.org/web/20160304073304/http://newsfeed.time.com/2010/12/28/welcome-tiny-dancer-elton-john-becomes-a-dad/ |date=4 March 2016 }} ''[[Time (magazine)|Time]]''. Retrieved 28 December 2010&lt;/ref&gt; He also has ten godchildren, including [[Sean Lennon]], [[David Beckham|David]] and [[Victoria Beckham]]'s sons Brooklyn and Romeo, [[Elizabeth Hurley]]'s son Damian, and the daughter of [[Seymour Stein]].&lt;ref name="Warren"&gt;Holly George-Warren ''The Rolling stone encyclopedia of rock &amp; roll'' p.501. Fireside, 2001&lt;/ref&gt;
+
+In 2010, John was criticised by some Christian groups in the US after describing Jesus as a "compassionate, super-intelligent gay man who understood human problems". [[William Anthony Donohue]], president of the [[Catholic League (U.S.)|Catholic League for Religious and Civil Rights]] and opponent of gay marriage, responded: "To call Jesus a homosexual is to label him a sexual deviant. But what else would we expect from a man who previously said, 'From my point of view, I would ban religion completely.'"&lt;ref&gt;{{cite news |url=https://www.theguardian.com/music/2010/feb/19/elton-john-jesus-gay |title=Sir Elton John claims Jesus was gay |work=The Guardian |location=London |date=19 February 2010 |accessdate=8 March 2015 |first=Adam |last=Gabbatt}}&lt;/ref&gt;
+
+In 2008, John stated he preferred civil partnerships over marriage for gay people.&lt;ref&gt;{{cite news |url=http://www.frontiersmedia.com/frontiers-blog/2014/12/22/sir-elton-john-david-furnish-get-married-sharethelove/ |title=Sir Elton John and David Furnish Get Married, #ShareTheLove |date=22 December 2014 |accessdate=8 March 2015 |first=Karen |last=Ocamb |work=Frontiers Media}}&lt;/ref&gt; However, by 2012, John had changed his position and become a staunch supporter of [[same-sex marriage in the United Kingdom]]. He was quoted as saying: "There is a world of difference between calling someone your 'partner' and calling them your 'husband'. 'Partner' is a word that should be preserved for people you play tennis with, or work alongside in business. It doesn't come close to describing the love that I have for David, and he for me. In contrast, 'husband' does."&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/voices/comment/elton-john-the-historic-fight-for-equality-must-go-on-lets-get-on-and-legalise-samesex-marriage-8202686.html |title=Elton John: The historic fight for equality must go on. Let's get on and legalise same-sex marriage |date=8 October 2012 |accessdate=29 August 2013 |location=London |first=Elton |last=John |work=The Independent}}&lt;/ref&gt; In 2014, he claimed Jesus would have been in favour of same-sex marriage.&lt;ref&gt;{{cite news |url=http://blogs.telegraph.co.uk/news/timstanley/100278074/elton-john-says-jesus-wouldve-backed-gay-marriage-millions-will-presume-hes-right/ |title=Elton John says Jesus would've backed gay marriage. Millions will presume he's right |date=30 June 2014 |accessdate=4 July 2014 |location=London |first=Tim |last=Stanley |work=The Telegraph}}&lt;/ref&gt;
+
+In 2013, Elton John resisted calls to boycott Russia in protest at the [[Russian LGBT propaganda law]], but told fans at a Moscow concert that the Russian laws were "inhumane and isolating" and he was "deeply saddened and shocked over the current legislation".&lt;ref&gt;{{cite news |url=https://www.theguardian.com/music/2013/dec/09/elton-john-moscow-russia-gay-rights?INTCMP=ILCNETTXT3487 |title=Elton John voices gay rights concerns at Moscow concert |work=The Guardian |location=London |first=Sean |last=Michaels |date=9 December 2013 |accessdate=12 January 2014}}&lt;/ref&gt; In a January 2014 interview, Russian President [[Vladimir Putin]] spoke of John in an attempt to show that there was no gay discrimination in Russia, stating; "Elton John  he's an extraordinary person, a distinguished musician, and millions of our people sincerely love him, regardless of his sexual orientation."&lt;ref name="Russia"/&gt; John responded by offering to introduce the President to Russians abused under Russian legislation banning "homosexual propaganda".&lt;ref name="Russia"&gt;[https://www.theguardian.com/world/2014/jan/23/elton-john-vladimir-putin-russian-gay-legislation "Elton John to Putin: I will show you gay people victimised under Russian law"] {{webarchive |url=https://web.archive.org/web/20160807045908/https://www.theguardian.com/world/2014/jan/23/elton-john-vladimir-putin-russian-gay-legislation |date=7 August 2016 }}. ''The Guardian'' (London). Retrieved 13 December 2014&lt;/ref&gt; On 24 September 2015, the Associated Press reported that President Putin called John and invited him to meet in the future about LGBT issues in Russia.&lt;ref&gt;{{cite web |last1=Puente |first1=Maria |title=Vladimir Putin calls Elton John, this time for real |url=https://www.usatoday.com/story/life/music/2015/09/24/vladimir-putin-called-elton-john-no-really-russians-said-so/72735738/ |work=USA Today |accessdate=24 September 2015}}&lt;/ref&gt; Putin's call came just a few days after two phone pranksters called Elton John, pretending to be Putin and his spokesman, and causing John to erroneously thank Putin for the call on the singer's Instagram account.&lt;ref&gt;{{cite web |title=Russia's president calls Elton John, promises to meet him after prank call |url=https://www.google.com/webhp?sourceid=chrome-instant&amp;ion=1&amp;espv=2&amp;ie=UTF-8#q=fake%20call%20to%20elton%20john |work=U.S. News &amp; World Report |publisher=usnews.com |accessdate=24 September 2015}}&lt;/ref&gt;
+
+===Wealth===
+[[File:Elton John on stage, 2008.jpg|thumb|upright|John on stage in July 2008]]
+
+In April 2009, the ''[[Sunday Times Rich List]]'' estimated John's wealth to be 175{{nbsp}}million ({{US$|265 million}}), and ranked him as the 322nd wealthiest person in Britain.&lt;ref&gt;{{cite news |url=http://business.timesonline.co.uk/tol/business/specials/rich_list/rich_list_2009/article6023877.ece |title=Search the Sunday Times Rich List 2009 |work=The Times |location=London |date=26 April 2009 |accessdate=29 April 2009}}&lt;/ref&gt; John was estimated to have a fortune of 195{{nbsp}}million in the ''[[Sunday Times Rich List]]'' of 2011, making him one of the 10 wealthiest people in the British music industry.&lt;ref&gt;{{cite web |last=Evans |first=Tara |url=http://www.thisismoney.co.uk/celebrity/article.html?in_article_id=532417&amp;in_page_id=181 |title=The top 50 richest people in music: Sunday Times Rich List |work=This Is Money |date=4 May 2011 |accessdate=12 January 2014}}&lt;/ref&gt; Aside from his main home [[Woodside, Old Windsor|Woodside]] in [[Old Windsor]], [[Berkshire]], John owns residences in [[Atlanta]], [[Los Angeles]], [[Nice]], [[Holland Park]] in [[London]], and [[Venice]]. John's property in Nice is based on Mon Boron mountain.&lt;ref&gt;{{cite web |url=http://cote-dazur.in/starsonthecote.htm |title=Real Estate |publisher=Cote-dazur.in |accessdate=18 April 2014}}&lt;/ref&gt; Elton John is an art collector, and is believed to have one of the largest private photography collections in the world.&lt;ref&gt;{{cite web |accessdate=3 March 2008 |url=http://www.abcnews.go.com/US/story?id=3658634&amp;page=1 |title=Art or Porn? Elton John's Photos Seized |work=ABC News}}&lt;/ref&gt;
+
+In 2000, he admitted to spending 30{{nbsp}}million in just under two yearsan average of 1.5{{nbsp}}million a month. Between January 1996 and September 1997, he spent more than 9.6m on property and 293,000 on flowers.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/uk/1024745.stm |title=Sir Elton's 30m spending spree |work=BBC News |date=15 November 2000 |accessdate=25 February 2009}}&lt;/ref&gt; In June 2001 John sold 20 of his cars at [[Christie's]], saying he didn't get the chance to drive them because he was out of the country so often.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/showbiz/1283409.stm |title=Sir Elton to sell classic cars |accessdate=3 February 2010 |date=18 April 2001 |publisher=BBC News}}&lt;/ref&gt; The sale, which included a 1993 [[Jaguar XJ220]], the most expensive at 234,750, and several [[Ferrari]]s, [[Rolls-Royce Limited|Rolls-Royces]], and [[Bentley]]s, raised nearly 2{{nbsp}}million.&lt;ref&gt;{{cite web |url=http://www.classics.com/eltjohn.html |title=Classics.com Elton John's Cars to be auctioned at Christie's |publisher=classics.com |accessdate=3 February 2010}}&lt;/ref&gt; In 2003, John sold the contents of his Holland Park homeexpected to fetch 800,000 at [[Sotheby's]]to modernise the decoration and to display some of his contemporary art collection.&lt;ref&gt;{{cite news |url=http://news.bbc.co.uk/1/hi/entertainment/3104246.stm |title=Sir Elton to sell home's contents |publisher=BBC News |accessdate=27 September 2014 |date=13 September 2003}}&lt;/ref&gt; Every year since 2004, John has opened a shop called "Elton's Closet" in which he sells his second-hand clothes.&lt;ref&gt;{{cite news |url=http://www.theage.com.au/news/people/elton-john-turns-rags-to-riches-for-charity/2006/04/11/1144521337887.html |title=Elton John turns rags to riches for charity |work=The Age |location=Melbourne |date=12 April 2006 |accessdate=25 February 2009 |first=New |last=York}}&lt;/ref&gt;
+
+===Other===
+By 1975, the pressures of stardom had begun to take a serious toll on him. During "Elton Week" in Los Angeles that year, he had a [[cocaine overdose]].&lt;ref&gt;"Elton John", Biography Channel, 2005&lt;/ref&gt; He also developed the eating disorder [[bulimia]]. In a CNN interview with [[Larry King]] in 2002, King asked if John knew of [[Diana, Princess of Wales]]' eating disorder. John replied, "Yes, I did. We were both bulimic."&lt;ref&gt;{{cite news |url=http://transcripts.cnn.com/TRANSCRIPTS/0201/25/lkl.00.html |title=Larry King Live: Interview With Elton John Aired 25&amp;nbsp;January 2002 |publisher=CNN |date=25 January 2002 |accessdate=25 February 2009}}&lt;/ref&gt;
+
+A longtime tennis enthusiast, he wrote the song "Philadelphia Freedom" in tribute to long-time friend [[Billie Jean King]] and her [[World Team Tennis]] franchise of the same name. John and King also co-host an annual pro-am event to benefit AIDS charities, most notably Elton John's own [[Elton John AIDS Foundation]], for which King is a chairwoman. John, who maintains a part-time residence in Atlanta, Georgia, became a fan of the [[Atlanta Braves]] baseball team when he moved there in 1991.&lt;ref&gt;{{cite news |url=http://mlb.mlb.com/content/printer_friendly/mlb/y2007/m09/d05/c2191343.jsp |title=Elton John goes to bat with Braves |publisher=Major League Baseball |accessdate=31 January 2010}}&lt;/ref&gt; In 2015, he was named one of ''[[GQ]]'''s 50 best dressed British men.&lt;ref&gt;{{cite news |title=50 Best Dressed Men in Britain 2015 |url=http://www.gq-magazine.co.uk/style/articles/2015-01/05/best-dressed-men-2015/ |work=GQ |date=5 January 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150107145128/http://www.gq-magazine.co.uk/style/articles/2015-01/05/best-dressed-men-2015 |archivedate=7 January 2015 |df=dmy}}&lt;/ref&gt;
+
+On 22 April 2017, he was discharged from hospital after two nights of intensive care for contracting "a harmful and unusual" bacterial infection during his return flight home from a South American tour in Santiago, Chile and was forced to cancel all of his shows scheduled for April and May 2017.&lt;ref&gt;{{cite web |url=http://www.latimes.com/entertainment/la-et-entertainment-news-updates-april-elton-john-cancels-vegas-shows-to-1493074904-htmlstory.html |title=Elton John recovering from 'rare and potentially deadly' infection contracted in South America |date=24 April 2017 |publisher=Los Angeles Times}}&lt;/ref&gt;
+
+===Football===
+{{Quote box|width=26%|align=right|quote="At the 1984 Cup Final, the song "[[Abide with Me]]" was played and that's why I cried. The song evokes my memory of childhood."|source=Elton John on his emotions during the [[FA Cup Final]]'s traditional pre-match hymn.&lt;ref&gt;''An Audience with Elton John''. Sunday 28 September 1997. [[ITV (TV network)|ITV]].&lt;/ref&gt;}}
+Having supported [[Watford F.C.|Watford]] since growing up locally, Elton John became the club's chairman and director in 1976, appointing [[Graham Taylor (footballer)|Graham Taylor]] as manager and investing large sums of money as the club rose three divisions into the [[Football in England|English]] [[Football League First Division|First Division]].&lt;ref&gt;{{cite web |url=http://www.watfordfc.com/page/History/0,,10400~65917,00.html |title=They shaped the club |publisher=Watford F.C. |accessdate=10 March 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20081203170637/http://www.watfordfc.com/page/History/0%2C%2C10400~65917%2C00.html |archivedate=3 December 2008 |df=}}&lt;/ref&gt; The pinnacle of the club's success was finishing runners up in the First Division to [[Liverpool F.C.|Liverpool]] in 1983 and reaching the [[FA Cup Final]] at [[Wembley Stadium (1923)|Wembley Stadium]] in 1984. He sold the club to [[Jack Petchey]] in 1987, but remained president.&lt;ref name=WAT/&gt;
+
+In 1997, he re-purchased the club from Petchey and once again became chairman. He stepped down in 2002 when the club needed a full-time chairman although he continued as president of the club.&lt;ref name=WAT/&gt; Although no longer the majority shareholder, he still holds a significant financial interest. In June 2005 he held a concert at Watford's home stadium, [[Vicarage Road]], donating the funds to the club, and another concert in May 2010.&lt;ref name=WAT&gt;{{cite news |url=http://news.bbc.co.uk/sport1/hi/football/teams/w/watford/8710452.stm |title=Elton John gig boost for Watford |publisher=BBC |accessdate=27 September 2014 |date=28 May 2010}}&lt;/ref&gt; He has remained friends with a number of high-profile players in football, including [[Pel]] and [[David Beckham]].&lt;ref name="Warren"/&gt;&lt;ref&gt;[http://ego.globo.com/famosos/noticia/2012/09/pele-posta-foto-antiga-com-elton-john.html "Pel posta foto antiga com Elton John" ] {{webarchive |url=https://web.archive.org/web/20150826172442/http://ego.globo.com/famosos/noticia/2012/09/pele-posta-foto-antiga-com-elton-john.html |date=26 August 2015 }}. Globo. Retrieved 8 December 2013&lt;/ref&gt; For a time, from late 1975 until 1976, he was a part-owner of the [[Los Angeles Aztecs]] of the [[North American Soccer League]]. On 13 December 2014, he appeared at Watford's Vicarage Road with David Furnish, and his sons Zachary and Elijah for the opening of the "Sir Elton John stand".&lt;ref name="Vicarage"/&gt; He described the occasion as "one of the greatest days of my life".&lt;ref name="Vicarage"&gt;{{cite news |url=http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-30457777 |title=Sir Elton John has stand named after him at Watford football club |work=BBC News |date=13 December 2014 |accessdate=14 December 2014}}&lt;/ref&gt;
+
+==AIDS Foundation==
+{{Main article|Elton John AIDS Foundation}}
+
+John has said that he took risks with unprotected sex during the 1980s and considers himself lucky to have avoided the AIDS epidemic.&lt;ref&gt;{{cite news |url=https://www.independent.co.uk/voices/commentators/elton-john-science-can-stop-aids-but-to-end-the-plague-we-need-love-7966167.html |title=Elton John: Science can stop Aids but to end the plague we need love |work=The Independent |first=Elton |last=John |date=24 July 2012 |accessdate=8 March 2015 |location=London}}&lt;/ref&gt; In 1986, he joined with [[Dionne Warwick]], [[Gladys Knight]] and [[Stevie Wonder]] to record the single "[[That's What Friends Are For]]", with all profits being donated to the [[American Foundation for AIDS Research]]. The song won John and the others the [[Grammy Award for Best Pop Performance by a Duo or Group with Vocals]]. In April 1990, John performed his 1968 ballad "[[Skyline Pigeon]]" at the funeral of [[Ryan White]], a teenage [[haemophiliac]] he had befriended.&lt;ref&gt;Claude Bernardin (1995). "Rocket Man: The Encyclopedia of Elton John". p. 191. Greenwood Press,&lt;/ref&gt;
+[[File:Secretary Kerry and Sir Elton John (1).jpg|thumb|right|John and US Secretary of State [[John Kerry]] discuss AIDS Relief and the work of the Elton John AIDS Foundation at the US Department of State in Washington, D.C., 24 October 2014]]
+Elton John became more closely associated with AIDS charities following the deaths of his friends Ryan White in 1990 and [[Freddie Mercury]] in 1991, raising large amounts of money and using his public profile to raise awareness of the disease. He founded the [[Elton John AIDS Foundation]] in 1992 as a charity to fund programmes for HIV/AIDS prevention, for the elimination of prejudice and discrimination against HIV/AIDS-affected individuals, and for providing services to people living with or at risk of contracting HIV/AIDS. This cause continues to be one of his personal passions. In 1993, he began hosting his annual [[Elton John AIDS Foundation Academy Award Party|Academy Award Party]], which has become one of the highest-profile Oscar parties in the Hollywood film industry, and has raised over {{US$|200&amp;nbsp;million|link=yes}}.&lt;ref name="Foundation"/&gt; In early 2006, John donated the smaller of two bright-red [[Yamaha (manufacturer)|Yamaha]] pianos from his [[Las Vegas, Nevada|Las Vegas]], Nevada show to auction on eBay to raise public awareness and funds for the foundation.
+
+To raise money for his AIDS charity, he annually hosts a White Tie &amp; Tiara Ball in the grounds of his home in [[Old Windsor]] in Berkshire to which many famous celebrities are invited.&lt;ref name="Ball"&gt;[http://fashion.telegraph.co.uk/article/TMG8596113/Fashion-royalty-at-Elton-Johns-White-Tie-and-Tiara-Ball-2011.html "Fashion royalty at Elton John's White Tie and Tiara Ball 2011"] {{webarchive |url=https://web.archive.org/web/20160115210716/http://fashion.telegraph.co.uk/article/TMG8596113/Fashion-royalty-at-Elton-Johns-White-Tie-and-Tiara-Ball-2011.html |date=15 January 2016 }}. ''The Daily Telegraph'' (London). Retrieved 15 December 2014&lt;/ref&gt; On 28 June 2007, the 9th annual White Tie &amp; Tiara Ball took place. The menu consisted of a [[tuber (genus)|truffle]] [[souffl]] followed by Surf and Turf ([[filet mignon]] with [[Maine]] [[lobster]] tail) and a giant [[Knickerbocker glory]] ice cream. An auction followed the dinner held by [[Stephen Fry]]. A Rolls Royce 'Phantom' [[drophead]] coupe and a piece of [[Tracey Emin]]'s artwork both raised 800,000 for the charity fund, with the total amount raised reaching 3.5{{nbsp}}million.&lt;ref&gt;{{cite news |last=Alexander |first=Hilary |url=https://www.telegraph.co.uk/fashion/main.jhtml?xml=/fashion/2007/06/29/efwhite129.xml |title=White tie and tiara ball |work=The Daily Telegraph |date=1 July 2007 |accessdate=25 February 2009 |location=London |archiveurl=https://web.archive.org/web/20070818210638/http://www.telegraph.co.uk/fashion/main.jhtml?xml=%2Ffashion%2F2007%2F06%2F29%2Fefwhite129.xml |archivedate=18 August 2007 |deadurl=yes |df=dmy}}&lt;/ref&gt; Later, John sang "[[Delilah (1968 song)|Delilah]]" with [[Tom Jones (singer)|Tom Jones]] and "[[Big Spender]]" with [[Shirley Bassey]].&lt;ref&gt;{{cite web |url=http://www.chopard.com/worldwide/fl/eltonjohn07/eltonjohn2007.htm |archiveurl=https://web.archive.org/web/20070703052410/http://www.chopard.com/worldwide/fl/eltonjohn07/eltonjohn2007.htm |title=Chopard and Elton John  The White Tie and Tiara Ball 2007 |archivedate=3 July 2007 |publisher= |accessdate=26 May 2016}}&lt;/ref&gt; The 2011 guests included [[Sarah, Duchess of York]], [[Elizabeth Hurley]] and [[George Michael]] (who performed "Don't Let the Sun Go Down on Me" in a duet with John), and the auction raised 5{{nbsp}}million, adding to the 45{{nbsp}}million the Balls have raised for the Elton John Aids Foundation.&lt;ref name="Ball"/&gt;
+
+==Honours and awards==
+
+[[File:Coat of Arms of Sir Elton John, CBE.png|thumb|Sir Elton John's coat of arms. Granted to him in 1987, the crest includes piano keys and records. The Spanish motto, "el tono es bueno", combines a pun on the singer's name with the translation "the tone is good".&lt;ref&gt;{{cite news |title=Married gay couples can have coats of arms for first time in history |url=https://www.independent.co.uk/news/weird-news/married-gay-couples-can-have-coats-of-arms-for-first-time-in-history-9340142.html |work=The Independent |date=8 October 2015}}&lt;/ref&gt; The black, red and gold colours are also those of Watford FC. The steel helmet above the shield faced forwards and with its visor open indicates that John is a knight.]]
+
+He was inducted into the [[Rock and Roll Hall of Fame]] in his first year of eligibility in 1994. He and Bernie Taupin had previously been inducted into the [[Songwriters Hall of Fame]] in 1992. John was appointed a [[Commander of the Order of the British Empire]] (CBE) in 1995.&lt;ref&gt;{{London Gazette|issue=54255|date=29 December 1995|page=9|supp=y}}&lt;/ref&gt; For his charitable work, John was [[Knight Bachelor|knighted]] by [[Elizabeth II of the United Kingdom|Queen Elizabeth II]] on 24 February 1998. In October 1975, John became the 1,662nd person to receive a star on the [[Hollywood Walk of Fame]].&lt;ref name="HWOF"/&gt;
+
+He was awarded [[Society of Singers|Society of Singers Lifetime Achievement Award]] in 2005.&lt;ref&gt;{{cite web |url=http://www.singers.org/special-events/ |title=Ella Award Special Events |date=12 February 2011 |accessdate=10 May 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150514064028/http://www.singers.org/special-events/ |archivedate=14 May 2015 |df=}}&lt;/ref&gt; He became a recipient of a [[Kennedy Center Honors|Kennedy Center Honor]] in 2004, and a [[Disney Legends]] Award in 2006. In 2000, he was named the [[MusiCares Person of the Year]] for his artistic achievement in the music industry and dedication to philanthropy.&lt;ref&gt;{{cite web |url=http://www.nydailynews.com/archives/entertainment/1999/10/06/1999-10-06_news_beat.html |title=News Beat |first=Patricia |last=O'Haire |date=6 October 1999 |work=[[New York Daily News]] |accessdate=24 April 2016}}&lt;/ref&gt; In 2010, he was awarded with the [[PRS for Music]] [[Heritage Award]], which was erected on The Namaste Lounge Pub in [[Northwood, London]], where John performed his first ever gig.&lt;ref&gt;{{cite web |last=Ashton |first=Robert |url=http://www.musicweek.com/story.asp?sectioncode=1&amp;storycode=1041250&amp;c=1 |title=Heritage Award for Elton John venue |work=Music Week |date=24 May 2010 |accessdate=6 August 2010}}&lt;/ref&gt;
+
+Music awards include the [[Academy Award for Best Original Song]] for "[[Can You Feel The Love Tonight]]" from ''[[The Lion King]]'' (award shared with Tim Rice); the [[Golden Globe Award for Best Original Song]] in 1994 for "Can You Feel The Love Tonight" from ''The Lion King'' (award shared with Tim Rice); and the [[Tony Award for Best Original Score]] in 2000 for [[Aida (musical)|''Elton John and Tim Rice's Aida'']] (award shared with Tim Rice). He has also received five [[Brit Awards]], including the award for Best British Male in 1991, and awards for Outstanding Contribution to Music in 1986 and 1995. In 2013, John received the first Brits Icon award in recognition of his "lasting impact" on UK culture, which was presented to him by his close friend [[Rod Stewart]].&lt;ref name="Icon"&gt;{{cite news |url=http://www.bbc.co.uk/news/entertainment-arts-23935217 |title=Sir Elton John wins first Brits Icon award |work=BBC News |date=2 September 2013 |accessdate=18 September 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.brits.co.uk/artist/elton-john |title=Brit Awards: Elton John |publisher=Brit Awards |accessdate=27 September 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20140527073334/http://www.brits.co.uk/artist/elton-john |archivedate=27 May 2014}}&lt;/ref&gt;
+
+'''Academy Awards'''
+
+{{Award table}}
+|-
+| rowspan="3" | [[67th Academy Awards|1995]]
+| "[[Can You Feel the Love Tonight]]"
+| rowspan="3" | [[Academy Award for Best Original Song|Best Original Song]]
+| {{won}}
+|-
+| "[[Circle of Life]]"
+| rowspan="2" {{nom}}
+|-
+| "[[Hakuna Matata (song)|Hakuna Matata]]"
+{{end}}
+
+'''Brit Awards'''
+
+{{award table}}
+|-
+| rowspan="2" | 1977
+| Himself
+| [[Brit Award for British Male Solo Artist|Best British Male]]
+| rowspan="4" {{nom}}
+|-
+| ''[[Goodbye Yellow Brick Road]]''
+| [[Brit Award for British Album of the Year|Best British Album]]
+|-
+| 1984
+| rowspan="4" | Himself
+| rowspan="2" | [[Brit Award for British Male Solo Artist|Best British Male]]
+|-
+| rowspan="2" | 1986
+|-
+| Outstanding Contribution to Music 
+| rowspan="2" {{won}}
+|-
+| rowspan="2" | [[1991 Brit Awards|1991]]
+| [[Brit Award for British Male Solo Artist|Best British Male]]
+|-
+| ''[[Sleeping with the Past]]''
+| rowspan="2" | [[Brit Award for British Album of the Year|Best British Album]]
+| rowspan="3" {{nom}}
+|-
+| rowspan="2" | [[1993 Brit Awards|1993]]
+| ''[[The One (Elton John album)|The One]]''
+|-
+| rowspan="4" | Himself
+| [[Brit Award for British Male Solo Artist|Best British Male]]
+|-
+| [[1995 Brit Awards|1995]]
+| Outstanding Contribution to Music
+| rowspan="2" {{won}}
+|-
+| rowspan="3" | [[1998 Brit Awards|1998]]
+| Freddie Mercury Award
+|-
+| [[Brit Award for British Male Solo Artist|Best British Male]]
+| rowspan="4" {{nom}}
+|-
+| "[[Candle in the Wind 1997]]"
+| [[Brit Award for British Single of the Year|Best British Single]]
+|-
+| rowspan="2" | [[2002 Brit Awards|2002]]
+| "[[I Want Love]]"
+| [[Brit Award for British Video of the Year|Best British Video]]
+|-
+| rowspan="2" | Himself
+| [[Brit Award for British Male Solo Artist|Best British Male]]
+|-
+| [[2013 Brit Awards|2013]]
+| Brits Icon
+| {{won}}
+{{end}}
+ 
+'''Grammy Awards'''
+
+{{award table}}
+|-
+| rowspan="3" | [[1971 Grammy Awards|1971]]
+| Himself
+| [[Grammy Award for Best New Artist|Best New Artist]]
+| rowspan="15" {{nom}}
+|-
+| rowspan="2" | ''[[Elton John (album)|Elton John]]''
+| [[Grammy Award for Album of the Year|Album of the Year]]
+|-
+| Best Contemporary Male Vocalist
+|-
+| [[1972 Grammy Awards|1972]]
+| ''[[Friends (1971 film)|Friends]]''
+| [[Grammy Award for Best Score Soundtrack for Visual Media|Best Original Score Written for a Motion Picture]] 
+|-
+| [[1974 Grammy Awards|1974]]
+| "[[Daniel (Elton John song)|Daniel]]"
+| rowspan="2" | [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|-
+| rowspan="3" | [[1975 Grammy Awards|1975]]
+| rowspan="2" | "[[Don't Let the Sun Go Down on Me]]"
+|-
+| [[Grammy Award for Record of the Year|Record of the Year]]
+|-
+| ''[[Caribou (album)|Caribou]]''
+| rowspan="2" | [[Grammy Award for Album of the Year|Album of the Year]]
+|-
+| rowspan="2" | [[1976 Grammy Awards|1976]]
+| rowspan="2" | ''[[Captain Fantastic and the Brown Dirt Cowboy]]''
+|-
+| [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|-
+| [[1977 Grammy Awards|1977]]
+| "[[Don't Go Breaking My Heart]]" with [[Kiki Dee]]
+| [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|-
+| [[1980 Grammy Awards|1980]]
+| "[[Mama Can't Buy You Love]]"
+| Best R&amp;B Vocal Performance - Male
+|-
+| [[1983 Grammy Awards|1983]]
+| "[[Blue Eyes (Elton John song)|Blue Eyes]]"
+| rowspan="2" | [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|-
+| [[1985 Grammy Awards|1985]]
+| "[[Restless (Elton John song)|Restless]]"
+|-
+| rowspan="2" | [[1987 Grammy Awards|1987]]
+| rowspan="2" | "[[That's What Friends Are For]]"
+| [[Grammy Award for Record of the Year|Record of the Year]]
+|-
+| [[Best Pop Performance by a Duo or Group with Vocal]]
+| {{won}}
+|-
+| [[1988 Grammy Awards|1988]]
+| "[[Candle in the Wind]]" (live)
+| [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+| {{nom}}
+|-
+| [[1992 Grammy Awards|1992]]
+| "Basque"
+| [[Best Instrumental Composition]]
+| {{won}}
+|-
+| rowspan="2" | [[1993 Grammy Awards|1993]]
+| "[[Don't Let the Sun Go Down on Me]]" with [[George Michael]]
+| [[Best Pop Performance by a Duo or Group with Vocal]]
+| rowspan="3" {{nom}}
+|-
+| "[[The One (Elton John song)|The One]]"
+| [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|-
+| rowspan="5" | [[1995 Grammy Awards|1995]]
+| rowspan="3" | "[[Can You Feel the Love Tonight]]"
+| [[Grammy Award for Song of the Year|Song of the Year]]
+|-
+| [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+| {{won}}
+|-
+| rowspan="2" | [[Grammy Award for Best Song Written for Visual Media|Best Song Written Specifically for a Motion Picture or for Television]]
+| rowspan="4" {{nom}}
+|-
+| rowspan=2" | "[[Circle of Life]]"
+|-
+| [[Grammy Award for Song of the Year|Song of the Year]]
+|-
+| [[1996 Grammy Awards|1996]]
+| "[[Believe (Elton John song)|Believe]]"
+| rowspan="2" | [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|-
+| [[1998 Grammy Awards|1998]]
+| "[[Candle in the Wind 1997]]"
+| rowspan="3" {{won}}
+|-
+| [[1999 Grammy Awards|1999]]
+| Himself
+| [[Grammy Legend Award]]
+|-
+| [[2001 Grammy Awards|2001]]
+| ''Elton John &amp; Tim Rice's Aida''
+| [[Best Musical Show Album]]
+|-
+| rowspan="2" | [[2002 Grammy Awards|2002]]
+| ''[[Songs from the West Coast]]''
+| Best Pop Vocal Album
+| rowspan="5" {{nom}}
+|-
+| "[[I Want Love]]"
+| rowspan="2" | [[Grammy Award for Best Male Pop Vocal Performance|Best Male Pop Vocal Performance]]
+|-
+| [[2003 Grammy Awards|2003]]
+| "[[Original Sin (Elton John song)|Original Sin]]"
+|-
+| [[2005 Grammy Awards|2005]]
+| "[[Sorry Seems to Be the Hardest Word]]" with [[Ray Charles]]
+| rowspan="2" | [[Best Pop Collaboration with Vocals]]
+|-
+| [[2011 Grammy Awards|2011]]
+| "If It Wasn't for Bad" with [[Leon Russell]]
+{{end}}
+
+'''Ivor Novello Awards'''
+
+{{Award table}}
+|-
+| 1974
+| "[[Daniel (Elton John song)|Daniel]]"
+| Best Song Musically and Lyrically 
+| rowspan="2" {{won}}
+|-
+| rowspan="3" | 1977
+| rowspan="3" | "[[Don't Go Breaking My Heart]]"
+| The Best Pop Song
+|-
+| International Hit of the Year
+| rowspan="2" {{nom}}
+|-
+| Most Performed Work
+|-
+| 1979
+| "[[Song for Guy]]"
+| Best Instrumental or Popular Orchestral Work
+| rowspan="2" {{won}}
+|-
+| rowspan="3" | 1986
+| Himself
+| Outstanding Contribution to British Music
+|-
+| rowspan="2" | "[[Nikita (song)|Nikita]]"
+| International Hit of the Year
+| {{nom}}
+|-
+| rowspan="2" | Best Song Musically and Lyrically 
+| rowspan="7" {{won}}
+|-
+| rowspan="2" | 1991
+| rowspan="2" | "[[Sacrifice (song)|Sacrifice]]"
+|-
+| Best Selling A-Side
+|-
+| 1995
+| "[[Circle of Life]]"
+| Best Song Included in Film
+|-
+| 1998
+| "[[Candle in the Wind 1997]]"
+| Best Selling UK Single
+|-
+| 2000
+| Himself
+| International Achievement in Musical Theater
+|-
+| rowspan="2" | 2007
+| rowspan="2" | "[[I Don't Feel Like Dancin']]"
+| Most Performed Work
+|-
+| International Hit of the Year
+| {{nom}}
+{{end}}
+
+'''Juno Awards'''
+
+{{Award table}}
+|-
+| [[Juno Awards of 1986|1986]]
+| "[[Nikita (song)|Nikita]]"
+| International Single of the Year
+| {{nom}}
+{{end}}
+
+'''MTV Video Music Awards'''
+
+{{Award table}}
+|-
+| rowspan="2" | [[1984 MTV Video Music Awards|1984]]
+| rowspan="2" | "[[I'm Still Standing]]"
+| [[Best Choreography]]
+| rowspan="3" {{nom}}
+|-
+| [[Best Editing]]
+|-
+| [[1985 MTV Video Music Awards|1985]]
+| "[[Sad Songs (Say So Much)]]"
+| [[Best Choreography]]
+|-
+| [[1987 MTV Video Music Awards|1987]]
+| Himself
+| Special Recognition Award
+| {{won}}
+|-
+| [[1995 MTV Video Music Awards|1995]]
+| "[[Believe (Elton John song)|Believe]]"
+| [[Best Male Video]]
+| rowspan="3" {{nom}}
+|-
+| rowspan="2" | [[2002 MTV Video Music Awards|2002]]
+| rowspan="2" | "[[This Train Don't Stop There Anymore]]"
+| [[Best Direction]]
+|-
+| [[Best Male Video]]
+{{end}}
+
+'''MVPA Awards'''
+
+{{Award table}}
+|-
+| 2002
+| "[[This Train Don't Stop There Anymore]]"
+| Best Hair
+| rowspan="2" {{won}}
+|-
+| 2003
+| "[[Original Sin (Elton John song)|Original Sin]]"
+| Best Adult Contemporary Video
+{{end}}
+
+'''NRJ Music Awards'''
+
+{{award table}}
+|-
+| 2003
+| "[[Sorry Seems to Be the Hardest Word]]" with [[Blue (English band)|Blue]]
+| International Song of the Year
+| {{won}}
+{{end}} 
+
+'''Tony Awards'''
+{{award table}}
+|-
+| [[1998 Tony Awards|1998]]
+| ''[[The Lion King (musical)|The Lion King]]''
+| rowspan="3" | Best Original Musical Score
+| {{nom}}
+|-
+| [[2000 Tony Awards|2000]]
+| ''[[Aida (musical)|Aida]]''
+| {{won}}
+|-
+| [[2009 Tony Awards|2009]]
+| ''[[Billy Elliot the Musical]]''
+| rowspan="2" {{nom}}
+|-
+| [[2010 Tony Awards|2010]]
+| ''[[Next Fall]]''
+| Best Play (as producer)
+{{end}}
+
+== Elton John Band ==
+Since 1970, John's band, of which he is the pianist and lead singer, has been known as the Elton John Band.&lt;ref&gt;The Rolling Stone Encyclopedia of Rock &amp; Roll. p.501. Fireside, 2001&lt;/ref&gt;&lt;ref&gt;Mike Clifford, Pete Frame (1992). The Harmony Illustrated Encyclopedia of Rock. p. 88. Harmony Books, 1992&lt;/ref&gt; The band has had multiple line-up changes, but [[Nigel Olsson]], [[Davey Johnstone]], and [[Ray Cooper]] have been members (albeit non-consecutively) since 1970 (Olsson), 1972 (Johnstone) and 1974 (Cooper). Olsson left the band in 1984 but rejoined in 2000.&lt;ref&gt;{{cite web |url=http://www.angelfire.com/ca/nigelfanclub/nigelbio.html |title=Nigel Olsson Bio |publisher=strictlyrock.com |accessdate=27 August 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.allmusic.com/artist/nigel-olsson-mn0000344278/biography |title=Nigel Olsson Biography |publisher=AllMusic |accessdate=16 September 2013}}&lt;/ref&gt;
+Ray Cooper has worked on and off with the Elton John Band because he maintains obligations to other musicians as a [[session musician|session player]] and [[sideman]] as a road-tour percussionist.
+
+{{div col|colwidth=20em}}
+'''Current members'''
+* Elton John  lead vocals, piano
+* [[Nigel Olsson]]  drums, vocals
+* [[Davey Johnstone]]  guitar, musical director, vocals
+* [[John Mahon (percussionist)|John Mahon]]  percussion, vocals
+* Kim Bullard  keyboards
+* [[Matt Bissonette]]  bass
+* [[Ray Cooper]]  percussion
+
+'''Previous band members'''
+* [[Guy Babylon]]  keyboards
+* [[Bob Birch]]  bass guitar, vocals
+* Tom Costello  drums
+* [[David Hentschel]]  synthesiser
+* Tony Murray  bass
+* Roger Pope  drums, percussion
+* [[Fred Mandel]]  keyboards, guitars
+* [[Dee Murray]]  bass guitar, vocals
+* [[James Newton Howard]]  conductor, keyboards, orchestrations
+* [[Caleb Quaye]]  guitar, drums, percussion
+* [[Kenny Passarelli]]  bass, background vocals
+* [[Charlie Morgan]]  drums
+* [[John Jorgenson]]  guitars, saxophone, pedal steel, mandolin, vocals
+* [[David Paton]]  bass guitar, vocals
+* [[Tta Vega]]  lead backing vocals
+* [[Rose Stone]]  backing vocals
+* Lisa Stone  backing vocals
+* Jean Witherspoon  backing vocals
+
+'''Other notable contributors and guests'''
+* [[Leon Russell]]  piano, vocals
+* [[Gus Dudgeon]]  production
+* [[Paul Buckmaster]]  orchestrations
+* [[Lesley Duncan]]  acoustic guitar, vocals, background vocals
+* [[Dusty Springfield]]  background vocals
+* [[Rick Wakeman]]  organ
+* [[Jean-Luc Ponty]]  electric violin
+* [[Luther Vandross]]  vocals
+* [[Kiki Dee]]  background vocals
+* [[Bruce Johnston]]  vocals, background vocals
+* [[Carl Wilson]]  vocals, background vocals
+* [[Toni Tennille]]  vocals, background vocals
+* [[Tower of Power]]  horns
+* [[John Lennon]] (credited as Dr. Winston O' Boogie)  guitar
+* [[Labelle]]  vocals, background vocals
+* [[David Crosby]]  vocals, background vocals
+* [[Graham Nash]]  vocals, background vocals
+* [[London Symphony Orchestra]]
+* [[London Philharmonic Orchestra]]
+* [[Melbourne Symphony Orchestra]]
+* [[Royal Philharmonic Orchestra]]
+* [[David Sanborn]]  saxophone
+* [[David Paich]]  organ
+* [[Jeff Porcaro]]  drums
+* [[Pete Townshend]]  guitar
+* [[Stevie Wonder]]  harmonica
+* [[John Deacon]]  bass
+* [[Nik Kershaw]]  electric guitar
+* [[Freddie Hubbard]]  trumpet, flugelhorn
+* [[Eric Clapton]]  vocals
+* [[David Gilmour]]  guitar
+* [[k.d. lang]]  vocals
+* [[P.M. Dawn]]  vocals
+* [[Little Richard]]  vocals
+* [[Don Henley]]  vocals
+* [[Chris Rea]]  vocals
+* [[Tammy Wynette]]  vocals
+* [[Gladys Knight]]  vocals
+* [[Paul Young (singer and guitarist)|Paul Young]]  vocals
+* [[Bonnie Raitt]]  vocals
+* [[Leonard Cohen]]  vocals
+* [[George Michael]]  vocals
+* [[Deon Estus]]  bass
+* [[Paul Carrack]]  organ
+*  Ricky Molina  drums, percussion
+{{div col end}}
+
+==Discography==
+{{Main article|Elton John albums discography|Elton John singles discography}}
+
+'''Solo studio albums'''
+{{col-begin}}
+{{col-break|width=33%}}
+* ''[[Empty Sky]]'' (1969)
+* ''[[Elton John (album)|Elton John]]'' (1970)
+* ''[[Tumbleweed Connection]]'' (1970)
+* ''[[Madman Across the Water]]'' (1971)
+* ''[[Honky Chteau]]'' (1972)
+* ''[[Don't Shoot Me I'm Only the Piano Player]]'' (1973)
+* ''[[Goodbye Yellow Brick Road]]'' (1973)
+* ''[[Caribou (album)|Caribou]]'' (1974)
+* ''[[Captain Fantastic and the Brown Dirt Cowboy]]'' (1975)
+* ''[[Rock of the Westies]]'' (1975)
+{{col-break|width=33%}}
+* ''[[Blue Moves]]'' (1976)
+* ''[[A Single Man (album)|A Single Man]]'' (1978)
+* ''[[Victim of Love (album)|Victim of Love]]'' (1979)
+* ''[[21 at 33]]'' (1980)
+* ''[[The Fox (Elton John album)|The Fox]]'' (1981)
+* ''[[Jump Up! (Elton John album)|Jump Up!]]'' (1982)
+* ''[[Too Low for Zero]]'' (1983)
+* ''[[Breaking Hearts]]'' (1984)
+* ''[[Ice on Fire]]'' (1985)
+* ''[[Leather Jackets (album)|Leather Jackets]]'' (1986)
+{{col-break|width=33%}}
+* ''[[Reg Strikes Back]]'' (1988)
+* ''[[Sleeping with the Past]]'' (1989)
+* ''[[The One (Elton John album)|The One]]'' (1992)
+* ''[[Made in England (Elton John album)|Made in England]]'' (1995)
+* ''[[The Big Picture (Elton John album)|The Big Picture]]'' (1997)
+* ''[[Songs from the West Coast]]'' (2001)
+* ''[[Peachtree Road (album)|Peachtree Road]]'' (2004)
+* ''[[The Captain &amp; the Kid]]'' (2006)
+* ''[[The Diving Board]]'' (2013)
+* ''[[Wonderful Crazy Night]]'' (2016)
+{{col-end}}
+
+'''Collaborative albums'''
+* ''[[Live in Australia with the Melbourne Symphony Orchestra]]'' (1986)
+* ''[[Duets (Elton John album)|Duets]]'' (1993)
+* ''[[The Union (Elton John and Leon Russell album)|The Union]]'' with [[Leon Russell]] (2010)
+* ''[[Good Morning to the Night]]'' with [[Pnau]] (2012)
+
+'''Soundtracks, scores, and theatre albums'''
+* ''[[Friends (film soundtrack)|Friends]]'' (1971)
+* ''[[The Lion King (soundtrack)|The Lion King]]'' (1994)
+* ''[[Aida (musical)|Aida]]'' (1998)
+* ''[[Elton John and Tim Rice's Aida]]'' (1999)
+* ''[[The Muse (1999 film)|The Muse]]'' (1999)
+* ''[[The Road to El Dorado (soundtrack)|The Road to El Dorado]]'' (2000)
+* ''[[Billy Elliot the Musical|Billy Elliot]]'' (2005)
+* ''[[Lestat (musical)|Lestat]]'' (2005)
+* ''[[Gnomeo &amp; Juliet (soundtrack)|Gnomeo &amp; Juliet]]'' (2011)
+
+==Filmography==
+* ''[[Born to Boogie]]'', US (1972) as himself with Marc Bolan and Ringo Starr
+* ''[[Tommy (1975 film)|Tommy]]'', UK (1975) as Pinball Wizard
+* ''[[The Muppet Show]]'' (1978) (season 2) guest appearance as himself
+* ''[[Spice World (film)|Spice World]]'', UK (1997) as himself
+* ''[[Elton John: Tantrums &amp; Tiaras]]'' (1997) autobiography as himself
+* ''[[South Park]]'' (1998) (season 2) guest appearance as himself
+* ''[[The Simpsons]]'' (1998) (season 10) guest appearance as himself
+* ''[[The Country Bears]]'', US (2002) as himself
+* ''[[Elton John: Me, Myself &amp; I]]'' (2007) autobiography as himself
+* ''[[Nashville (2012 TV series)|Nashville]]'' (2016) (season 4) guest appearance as himself
+* ''[[The American Epic Sessions]]'' (2017) as himself
+* ''[[Kingsman: The Golden Circle]]'' (2017) as himself
+
+==References==
+
+{{Reflist|30em}}
+
+'''Bibliography'''
+* Goodall, Nigel. ''Elton John: A Visual Documentary'', [[Omnibus Press]], 1993. {{ISBN|0-7119-3078-3}}/
+* Rosenthal, Elizabeth. ''His Song: The Musical Journey of Elton John'', [[Billboard Books]], 2001. {{ISBN|0-8230-8892-8}}/
+* {{cite book |first1=Claude |last1=Bernardin |first2=Tom |last2=Stanton |url=https://books.google.com/books?id=udJV_IQ86GgC |title=Rocket man: Elton John from A-Z |publisher=Greenwood Publishing Group |isbn=978-0-275-95698-1 |date=1 January 1996 |edition=illustrated, revised |ref=harv}}
+
+==External links==
+
+{{wikimedia|collapsible=true}}
+* {{official website}}
+* {{Britannica|304604|Sir Elton John}}
+* {{Twitter}}
+* {{Facebook}}
+* {{IMDb name}}
+* {{IBDB name|11938}}
+* [https://www.theguardian.com/profile/eltonjohn Commentary by Elton John (''The Guardian'')]
+
+{{Elton John}}
+{{Elton John songs}}
+{{Navboxes|
+|title= Awards for Elton John
+|list1=
+{{AcademyAwardBestOriginalSong 19912000}}
+{{DramaDesk Music 20012025}}
+{{Golden Globe Award for Best Original Song 1990s}}
+{{Kennedy Center Honorees 2000s}}
+{{MusiCares Person of the Year}}
+{{Polar Music Prize}}
+{{1994 Rock and Roll Hall of Fame}}
+{{TonyAward MusicalScore 19762000}}
+{{Billboard Year-End number one singles 19801999}}
+{{Billboard Year-End number one albums 19701989}}
+{{UK best-selling singles (by year) 19902009}}
+{{UK best-selling albums (by year) 19701989}}
+{{UK best-selling singles (by decade)}}
+}}
+{{Brit Awards}}
+
+{{Portal bar|Biography|Film|Music|Pop music|Rock and Roll|Theatre|United Kingdom}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:John, Elton}}
+[[Category:Elton John| ]]
+[[Category:1947 births]]
+[[Category:20th-century composers]]
+[[Category:20th-century English male actors]]
+[[Category:20th-century English singers]]
+[[Category:20th-century pianists]]
+[[Category:21st-century composers]]
+[[Category:21st-century English male actors]]
+[[Category:21st-century English singers]]
+[[Category:21st-century pianists]]
+[[Category:Male actors from London]]
+[[Category:Alumni of the Royal Academy of Music]]
+[[Category:Best Original Song Academy Award-winning songwriters]]
+[[Category:Brit Award winners]]
+[[Category:British rhythm and blues boom musicians]]
+[[Category:British soft rock musicians]]
+[[Category:Critics of religions]]
+[[Category:Commanders of the Order of the British Empire]]
+[[Category:English activists]]
+[[Category:English operatic baritones]]
+[[Category:English composers]]
+[[Category:English football chairmen and investors]]
+[[Category:English male film actors]]
+[[Category:English musical theatre composers]]
+[[Category:English male composers]]
+[[Category:English pop pianists]]
+[[Category:English pop singers]]
+[[Category:English rock pianists]]
+[[Category:English rock singers]]
+[[Category:English songwriters]]
+[[Category:English tenors]]
+[[Category:Gay actors]]
+[[Category:Gay musicians]]
+[[Category:Geffen Records artists]]
+[[Category:Glam rock musicians]]
+[[Category:Grammy Award winners]]
+[[Category:Grammy Legend Award]]
+[[Category:HIV/AIDS activists]]
+[[Category:Island Records artists]]
+[[Category:Ivor Novello Award winners]]
+[[Category:Kennedy Center honorees]]
+[[Category:Knights Bachelor]]
+[[Category:LGBT composers]]
+[[Category:LGBT musicians from England]]
+[[Category:LGBT singers]]
+[[Category:LGBT songwriters]]
+[[Category:Living people]]
+[[Category:MCA Records artists]]
+[[Category:Mercury Records artists]]
+[[Category:Musicians awarded knighthoods]]
+[[Category:North American Soccer League (196884) executives]]
+[[Category:People from Old Windsor]]
+[[Category:People from Pinner]]
+[[Category:British religious sceptics]]
+[[Category:Rock and Roll Hall of Fame inductees]]
+[[Category:Rock songwriters]]
+[[Category:Rocket Records artists]]
+[[Category:Silver Clef Awards winners]]
+[[Category:Singers awarded knighthoods]]
+[[Category:Singers from London]]
+[[Category:Songwriters Hall of Fame inductees]]
+[[Category:Uni Records artists]]
+[[Category:Watford F.C. directors]]
+[[Category:LGBT rights activists from England]]</text>
+      <sha1>451dks4e9ejsp5d3xjx3xb4offx36zs</sha1>
+    </revision>
+  </page>
+</mediawiki>

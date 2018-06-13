@@ -1,0 +1,97 @@
+--scientific
+ scientist. 
+name         = Gordon Moore. 
+image        = Gordon Moore.jpg. 
+caption      = Moore in 2004. 
+birth_name   = Gordon Earle Moore. 
+birth_date   = {{birth date and age|1929|1|3}}. 
+birth_place  = San Francisco, California, U.S.. 
+death_date   = . 
+death_place  = . 
+education    = San Jose State UniversityUniversity of California, Berkeley {{small|(BS)}}California Institute of Technology {{small|(MS, PhD)}}. 
+known_for    = IntelMoore's lawGordon and Betty Moore Foundation. 
+awards       = National Medal of Technology {{small|(1990)}}John Fritz Medal {{small|(1993)}}IEEE Founders Medal {{small|(1997)}}Computer History Museum Fellow {{small|(1998)}}Othmer Gold Medal {{small|(2001)}}Perkin Medal {{small|(2004)}}Nierenberg Prize {{small|(2006)}}IEEE Medal of Honor {{small|(2008)}}Presidential Medal of Freedom. 
+website      = {{url|intel.com/technology/mooreslaw|Official website}}. 
+fields       = EntrepreneurElectrical engineering. 
+workplaces   = IntelGordon and Betty Moore FoundationSan Jose State UniversityUniversity of California, BerkeleyCalifornia Institute of TechnologyJohns Hopkins University Applied Physics Laboratory. 
+thesis_title = I. Infrared Studies of Nitrous Acid, The Chloramines and Nitrogen DioxideII. Observations Concerning the Photochemical Decomposition of Nitric Oxide. 
+thesis_url   = http://search.proquest.com/docview/302028299. 
+thesis_year  = 1954
+}}
+{{external media | width = 240px | align = right | headerimage= 240px | video1 = [https://www.youtube.com/watch?v=EzyJxAP6AQo Rather than becoming something that chronicled the progress of the industry, it became something that drove it.], ASML's 'Our Stories', Gordon Moore about Moore's Law, ASML Holding}}
+
+{{external media | width = 240px | align = right | headerimage= 210px | video1 = [https://vimeo.com/70293585 This powerful technology has allowed us to make more and more complex and high-performing circuits... They're the basis of everything electronic we have, unprecedented in human history.], Scientists You Must Know: Intel founder Gordon Moore, Science History Institute}}
+
+'''Gordon Earle Moore''' (born January 3, 1929) is an American businessman, engineer, co-founder and chairman emeritus of Intel Corporation, and the author of Moore's law.{{DBLP|name=Gordon E. Moore}}{{ACMPortal|id=81542806056}} As of 2017, his net worth is $8.4billion.
+
+==Education==
+Moore was born in San Francisco, California, and grew up in nearby Pescadero; his father was the county sheriff. He attended Sequoia High School in Redwood City.
+Initially he went to San Jose State University.
+After two years he transferred to the University of California, Berkeley, from which he received a B.S. degree in chemistry in 1950.
+
+In September 1950, Moore matriculated at the California Institute of Technology. Moore received a Ph.D. degree in chemistry and minor in physics from Caltech in 1954. Moore conducted postdoctoral research at the Applied Physics Laboratory at Johns Hopkins University from 1953 to 1956.
+
+==Family==
+Moore met his wife, Betty Irene Whitaker, while attending San Jose State University. Gordon and Betty were married September 9, 1950, and left the next day to move to the California Institute of Technology. The couple has two sons, Kenneth and Steven.{{IMDb name|id=0601253|section=bio}}
+
+==Scientific career==
+
+===Fairchild Semiconductor Laboratory===
+{{main|Traitorous eight}}
+Moore joined MIT and Caltech alumnus William Shockley at the Shockley Semiconductor Laboratory division of Beckman Instruments, but left with the "traitorous eight", when Sherman Fairchild agreed to back them and created the influential Fairchild Semiconductor corporation.
+
+===Moore's law===
+{{main|Moore's law}}
+In 1965, Moore was working as the director of research and development (R&D) at Fairchild Semiconductor. He was asked by Electronics Magazine to predict what was going to happen in the semiconductor components industry over the next ten years. In an article published on April 19, 1965, Moore observed that the number of components (transistors, resistors, diodes or capacitors) in a dense integrated circuit had doubled approximately every year, and speculated that it would continue to do so for at least the next ten years. In 1975, he revised the forecast rate to approximately every two years. Carver Mead popularized the phrase "Moore's law." The prediction has become a target for miniaturization in the semiconductor industry, and has had widespread impact in many areas of technological change.{{cite book
+ |editor-last1=Brock
+ |editor-first1=David C.
+ |title=Understanding Moore's law : four decades of innovation
+ |date=2006|publisher=Chemical Heritage Press
+ |location=Philadelphia, Pa
+ |isbn=0941901416}}
+
+===Intel Corporation===
+{{main|Intel}}
+In July 1968, Robert Noyce and Moore founded NM Electronics which later became Intel Corporation. Moore served as executive vice president until 1975 when he became president. In April 1979, Moore became chairman and chief executive officer, holding that position until April 1987, when he became chairman. He was named chairman emeritus in 1997. Under Noyce, Moore, and later Andrew Grove, Intel has pioneered new technologies in the areas of computer memory, integrated circuits and microprocessor design.
+
+==Philanthropy==
+In 2000 Betty and Gordon Moore established the Gordon and Betty Moore Foundation, with a gift worth about $5billion. Through the Foundation, they initially targeted environmental conservation, science, and the San Francisco Bay Area.
+
+The foundation gives extensively in the area of environmental conservation, supporting major projects in the Andes-Amazon Basin and the San Francisco Bay area, among others. Moore was a director of Conservation International for some years. In 2002 he and Conservation International senior vice president Claude Gascon received the Order of the Golden Ark from Prince Bernhard of Lippe-Biesterfeld for their outstanding contributions to nature conservation.
+
+Moore has been a member of Caltech's board of trustees since 1983, chairing it from 1993 to 2000, and is now a life trustee. In 2001, Moore and his wife donated $600million to Caltech, at the time the largest gift ever to an institution of higher education. He said that he wants the gift to be used to keep Caltech at the forefront of research and technology.
+
+In December 2007, Moore and his wife donated $200million to Caltech and the University of California for the construction of the Thirty Meter Telescope (TMT), expected to become the world's second largest optical telescope once it and the European Extremely Large Telescope are completed in the mid-2020s. The TMT will have a segmented mirror 30 meters across and be built on Mauna Kea in Hawaii. This mirror will be nearly three times the size of the current record holder, the Large Binocular Telescope.  The Moores, as individuals and through their foundation, have also, through a series of gifts and grants, given over $110 million to the University of California, Berkeley. 
+
+In addition, through the Foundation, Betty Moore has created the Betty Irene Moore Nursing Initiative, targeting nursing care in the San Francisco Bay Area and Greater Sacramento.  In 2007, the foundation pledged $100 million over 11 years to establish a nursing school at the University of California, Davis.
+
+In 2009, the Moores received the Andrew Carnegie Medal of Philanthropy.
+
+==Scientific awards and honors==
+Moore has received many honors. He became a member of the National Academy of Engineering in 1976.
+
+In 1990, Moore was presented with the National Medal of Technology and Innovation by President George H.W. Bush, "for his seminal leadership in bringing American industry the two major postwar innovations in microelectronics - large-scale integrated memory and the microprocessor - that have fueled the information revolution."
+
+In 1998 he was inducted as a Fellow of the Computer History Museum "for his fundamental early work in the design and production of semiconductor devices as co-founder of Fairchild and Intel."
+
+In 2001, Moore received the Othmer Gold Medal for outstanding contributions to progress in chemistry and science.
+
+Moore is also the recipient of the Presidential Medal of Freedom, the United States' highest civilian honor, as of 2002. He received the award from President George W. Bush. In 2002, Moore also received the Bower Award for Business Leadership.
+
+In 2003, he was elected a Fellow of the American Association for the Advancement of Science.
+
+Moore was awarded the 2008 IEEE Medal of Honor for "pioneering technical roles in integrated-circuit processing, and leadership in the development of MOS memory, the microprocessor computer and the semiconductor industry." Moore was featured in the documentary film ''Something Ventured'' which premiered in 2011.
+
+In 2009, Moore was inducted into the National Inventors Hall of Fame.
+
+He was awarded the 2010 Future Dan David Prize for his work in the areas of Computers and Telecommunications.
+
+The library at the Centre for Mathematical Sciences at the University of Cambridge is named after him and his wife Betty, as are the Moore Laboratories building (dedicated 1996) at Caltech and the Gordon and Betty Moore Materials Research Building at Stanford.
+
+The Electrochemical Society presents an award in Moore's name, the Gordon E. Moore Medal for Outstanding Achievement in Solid State Science and Technology, every two years to celebrate scientists' contributions to the field of solid state science.  The Society of Chemical Industry (American Section) annually presents the Gordon E. Moore Medal in his honor to recognize early career success in innovation in the chemical industries.
+
+==Personal life==
+Moore actively pursues and enjoys any type of fishing and has extensively traveled the world catching species from black marlin to rainbow trout. He has said his conservation efforts are partly inspired by his interest in fishing.
+
+In 2011, Moore's genome was the first human genome sequenced on Ion Torrent's Personal Genome Machine platform, a massively parallel sequencing device, which uses field effect transistor sensors.
+

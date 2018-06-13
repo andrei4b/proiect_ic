@@ -1,0 +1,375 @@
+--film
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>George Lucas</title>
+    <ns>0</ns>
+    <id>11857</id>
+    <revision>
+      <id>844660895</id>
+      <parentid>844330873</parentid>
+      <timestamp>2018-06-06T08:41:03Z</timestamp>
+      <contributor>
+        <username>Adavidb</username>
+        <id>2413055</id>
+      </contributor>
+      <minor/>
+      <comment>clean up, [[MOS:JUNIOR]] check, replaced: , Sr   Sr using [[Project:AWB|AWB]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="68030">{{Other people}}
+{{pp-semi-blp|small=yes}}
+{{Use mdy dates|date=January 2016}}
+{{Infobox person
+| name               = George Lucas
+| birth_name         = George Walton Lucas Jr.
+| image              = George Lucas cropped 2009.jpg
+| caption            = Lucas in November 2009
+| birth_date         = {{Birth date and age|mf=yes|1944|5|14}}
+| birth_place        = [[Modesto, California]], U.S.
+| residence          = [[Marin County, California]], U.S.
+| occupation         = Filmmaker, entrepreneur
+| years_active       = 1965present
+| alma_mater         = [[University of Southern California]]
+| networth           = [[US$]]5.1&amp;nbsp;billion (December 2016)&lt;ref&gt;{{cite news|url=https://www.forbes.com/profile/george-lucas/?list=forbes-400|title=George Lucas|work=[[Forbes]]|accessdate=December 9, 2016}}&lt;/ref&gt;
+| spouse             = {{marriage|[[Marcia Lucas|Marcia Griffin]]&lt;br&gt;|1969|1983|end=divorced}}&lt;br&gt;{{marriage|[[Mellody Hobson]]&lt;br&gt;|June 22, 2013}}
+| children           = 4, including [[Amanda Lucas (fighter)|Amanda Lucas]], [[Katie Lucas]]
+}}
+
+'''George Walton Lucas Jr.'''&lt;ref&gt;{{cite book|last=White|first=Dana|title=George Lucas|publisher=[[Twenty-First Century Books]]|date=2000|page=12|isbn=0822549751}}&lt;/ref&gt; (born May 14, 1944) is an American [[filmmaker]] and [[entrepreneur]]. Lucas is best known as the creator of the ''[[Star Wars]]'' and ''[[Indiana Jones (franchise)|Indiana Jones]]'' franchises, as well as the founder of [[Lucasfilm]] and [[Industrial Light &amp; Magic]]. He was the chairman and [[Chief Executive Officer|CEO]] of [[Lucasfilm]], before selling it to [[The Walt Disney Company]] in 2012.&lt;ref&gt;{{cite web|url=http://movies.broadwayworld.com/article/Breaking-News-Disney-Acquires-Lucasfilm-for-405-Billion-STAR-WARS-Episode-7-in-2015-20121030|title=Disney Acquires Lucasfilm for $4.05 Billion - STAR WARS: Episode 7 in 2015!|work=broadwayworld.com}}&lt;/ref&gt;
+
+Upon graduating from the [[University of Southern California]] in 1967, Lucas co-founded [[American Zoetrope]] with fellow filmmaker [[Francis Ford Coppola]]. Lucas wrote and directed ''[[THX 1138]]'' (1971), based on his earlier student short ''[[Electronic Labyrinth: THX 1138 4EB]]'', which was a critical success but a financial failure. His next work as a writer-director was the film ''[[American Graffiti]]'' (1973), inspired by his teen years in early 1960s [[Modesto, California]], and produced through the newly founded Lucasfilm. The film was critically and commercially successful, and received five [[Academy Award]] nominations including [[Academy Award for Best Picture|Best Picture]].
+
+Lucas' next film, an [[Epic film|epic]] [[space opera]] titled ''[[Star Wars (film)|Star Wars]]'' (1977), went through a troubled production process; however, it was a surprise hit, becoming the [[List of highest-grossing films|highest-grossing film at the time]], as well as a winner of six Academy Awards and a [[Cultural impact of Star Wars|cultural phenomenon]]. Following the first ''Star Wars'' film, Lucas produced and co-wrote the following installments in the trilogy, ''[[The Empire Strikes Back]]'' (1980) and ''[[Return of the Jedi]]'' (1983). Along with [[Steven Spielberg]], Lucas co-created and helped collaborate with the stories for the ''Indiana Jones'' films ''[[Raiders of the Lost Ark]]'' (1981), ''[[Indiana Jones and the Temple of Doom|Temple of Doom]]'' (1984), and ''[[Indiana Jones and the Last Crusade|The Last Crusade]]'' (1989). Lucas also produced and wrote a variety of films through Lucasfilm in the 1980s and 1990s.
+
+In 1997, Lucas re-released the [[Star Wars#Original trilogy|original ''Star Wars'' trilogy]] as part of a [[List of changes in Star Wars re-releases#1997 Star Wars Trilogy Special Edition|Special Edition]], where he made several [[List of changes in Star Wars re-releases|alterations]] to the films; home media releases with further changes were released in 2004 and 2011. He also returned to directing with the [[Star Wars|''Star Wars'' prequel trilogy]], consisting of ''[[Star Wars: Episode I  The Phantom Menace|The Phantom Menace]]'' (1999), ''[[Star Wars: Episode II  Attack of the Clones|Attack of the Clones]]'' (2002), and ''[[Star Wars: Episode III  Revenge of the Sith|Revenge of the Sith]]'' (2005). He later collaborated on the story for the ''Indiana Jones'' sequel ''[[Indiana Jones and the Kingdom of the Crystal Skull|Kingdom of the Crystal Skull]]'' (2008), and served as executive producer for the war film ''[[Red Tails]]'' (2012).
+
+Lucas is one of the American film industry's most financially successful filmmakers and has been personally nominated for four [[Academy Awards]]. Some of his movies are among the 100 highest-grossing movies at the North American [[box office]], adjusted for ticket-price inflation.&lt;ref&gt;{{cite web|url=http://www.boxofficemojo.com/alltime/adjusted.htm|title=Domestic Grosses Adjusted for Ticket Price Inflation|publisher=BoxOfficeMojo.com|accessdate=January 15, 2016}}&lt;/ref&gt; Lucas is considered a significant figure in the [[New Hollywood]] era.
+
+==Early life==
+Lucas was born and raised in [[Modesto, California]], the son of Dorothy Ellinore Lucas (ne Bomberger) and George Walton Lucas Sr., who owned a stationery store.&lt;ref&gt;{{cite web|url=http://www.filmreference.com/film/89/George-Lucas.html|title=George Lucas Biography (1944-)|publisher=FilmReference.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web| url=http://www.americanancestors.org/third-set-of-ten-hollywood/ |title=No. 83 Royal Descents, Notable Kin, and Printed Sources: A Third Set of Ten Hollywood Figures (or Groups Thereof), with a Coda on Two Directors| publisher= [[New England Historic Genealogical Society]]| archiveurl= https://web.archive.org/web/20141018155421/http://www.americanancestors.org/third-set-of-ten-hollywood/| first=Gary Boyd |last=Roberts| date= April 18, 2008 | archivedate= October 18, 2014}}&lt;/ref&gt; He is of German, [[Switzerland|Swiss]]-German, English, Scottish, and distant Dutch and French descent. Growing up, Lucas had a passion for cars and motor racing, which later inspired his films ''[[1:42.08]]'' and ''[[American Graffiti]]''. Long before Lucas became obsessed with filmmaking, he yearned to be a race-car driver, and he spent most of his high school years racing on the underground circuit at fairgrounds and hanging out at garages.  On June 12, 1962, at age eighteen, while driving his souped-up [[Autobianchi Bianchina]], another driver broadsided him, flipping over his car, nearly killing him, causing him to lose interest in racing as a career.&lt;ref name=pollockskywalking&gt;Pollock, Dale, ''Skywalking: The Life and Films of George Lucas'',  Harmony Books, New York, 1983, {{ISBN|0-517-54677-9}}.&lt;/ref&gt;&lt;ref&gt;[http://www.oprah.com/own-oprahs-next-chapter/Filmmaker-George-Lucas-Near-Death-Experience-Video "Filmmaker George Lucas' Near-Death Experience"], ''oprah.com'', January 22, 2012. Retrieved October 13, 2012.&lt;/ref&gt; He attended [[Modesto Junior College]], where he studied [[anthropology]], sociology, and literature, amongst other subjects.&lt;ref name=pollockskywalking /&gt; He also began shooting with an 8&amp;nbsp;mm camera, including filming car races.&lt;ref name=pollockskywalking /&gt;
+
+At this time, Lucas and his friend John Plummer became interested in [[Canyon Cinema]]: screenings of [[Underground film|underground]], [[avant-garde]] 16&amp;nbsp;mm filmmakers like [[Jordan Belson]], [[Stan Brakhage]], and [[Bruce Conner]].&lt;ref name=WiredMay2005&gt;{{cite news| first=Steve|last= Silberman| url = https://www.wired.com/wired/archive/13.05/lucas.html |title=Life After Darth| work=''[[Wired (magazine)|Wired]]|date= May 2005|accessdate= October 11, 2012}}&lt;/ref&gt; Lucas and Plummer also saw classic European films of the time, including [[Jean-Luc Godard]]'s ''[[Breathless (1960 film)|Breathless]]'', [[Franois Truffaut]]'s ''[[Jules and Jim|Jules et Jim]]'', and [[Federico Fellini]]'s ''[[8]]''.&lt;ref name=WiredMay2005 /&gt; "That's when George really started exploring," Plummer said.&lt;ref name=WiredMay2005 /&gt; Through his interest in [[autocross]] racing, Lucas met renowned [[cinematographer]] [[Haskell Wexler]], another race enthusiast.&lt;ref name=pollockskywalking /&gt;&lt;ref name=WiredMay2005 /&gt; Wexler, later to work with Lucas on several occasions, was impressed by Lucas' talent.&lt;ref name=pollockskywalking /&gt; "George had a very good eye, and he thought visually," he recalled.&lt;ref name=WiredMay2005 /&gt;
+
+Lucas then transferred to the [[University of Southern California]] (USC) [[USC School of Cinematic Arts|School of Cinematic Arts]]. USC was one of the earliest universities to have a school devoted to [[motion picture film]]. During the years at USC, Lucas shared a dorm room with [[Randal Kleiser]]. Along with classmates such as [[Walter Murch]], [[Hal Barwood]], and [[John Milius]], they became a clique of film students known as [[The Dirty Dozen (filmmaking)|The Dirty Dozen]]. He also became good friends with fellow acclaimed student filmmaker and future ''[[Indiana Jones (franchise)|Indiana Jones]]'' collaborator, [[Steven Spielberg]]. Lucas was deeply influenced by the Filmic Expression course taught at the school by filmmaker [[Lester Novros]] which concentrated on the non-narrative elements of Film Form like color, light, movement, space, and time. Another inspiration was the Serbian montagist (and dean of the USC Film Department) [[Slavko Vorkapi]], a film theoretician who made stunning [[Montage (filmmaking)|montage]] sequences for Hollywood studio features at [[Metro-Goldwyn-Mayer|MGM]], [[RKO Pictures|RKO]], and [[Paramount Pictures|Paramount]]. Vorkapich taught the autonomous nature of the cinematic art form, emphasizing the unique dynamic quality of movement and kinetic energy inherent in motion pictures.
+
+==Film career==
+
+===196569: Early career===
+Lucas saw many inspiring films in class, particularly the visual films coming out of the [[National Film Board of Canada]] like [[Arthur Lipsett]]'s ''[[21-87]]'', the French-Canadian [[cameraman]] [[Jean-Claude Labrecque]]'s [[cinma vrit]] ''[[60 Cycles]]'', the work of [[Norman McLaren]], and the documentaries of [[Claude Jutra]]. Lucas fell madly in love with [[pure cinema]] and quickly became prolific at making 16&amp;nbsp;mm nonstory noncharacter visual tone poems and cinma vrit with such titles as ''[[Look at Life (film)|Look at Life]]'', ''[[Herbie (film)|Herbie]]'', ''[[1:42.08]]'', ''[[The Emperor (film)|The Emperor]]'', ''[[Anyone Lived in a Pretty How Town (film)|Anyone Lived in a Pretty (how) Town]]'', ''[[Filmmaker (film)|Filmmaker]]'', and ''[[6-18-67]]''. He was passionate and interested in camerawork and editing, defining himself as a filmmaker as opposed to being a director, and he loved making abstract visual films that created emotions purely through cinema.&lt;ref name=WiredMay2005 /&gt;
+
+After graduating with a bachelor of [[fine arts]] in film in 1967, he tried joining the [[United States Air Force]] as an officer, but he was immediately turned down because of his numerous speeding tickets. He was later [[Conscription|drafted]] by the Army for military service in [[Vietnam War|Vietnam]], but he was exempted from service after medical tests showed he had [[diabetes]], the disease that killed his paternal grandfather.
+
+In 1967, Lucas re-enrolled as a USC graduate student in film production.&lt;ref name=FGL&gt;{{cite news |url=https://www.forbes.com/profile/george-lucas |title=George Lucas |date=September 2012 |work=Forbes |accessdate=September 28, 2012}}&lt;/ref&gt; Working as a teaching instructor for a class of [[U.S. Navy]] students who were being taught documentary cinematography, Lucas directed the short film ''[[Electronic Labyrinth: THX 1138 4EB]]'', which won first prize at the 196768 National Student [[film festival]], and was later adapted into his first full-length feature film, ''[[THX 1138]]''. Lucas was awarded a student scholarship by [[Warner Bros.]] to observe and work on the making of a film of his choosing. The film he chose was ''[[Finian's Rainbow (film)|Finian's Rainbow]]'' (1968) which was being directed by [[Francis Ford Coppola]], who was revered among film school students of the time as a cinema graduate who had "made it" in Hollywood. In 1969, Lucas was one of the camera operators on the classic [[The Rolling Stones|Rolling Stones]] concert film ''[[Gimme Shelter (1970 film)|Gimme Shelter]]''.
+
+===196977: ''THX 1138'', ''American Graffiti'', and ''Star Wars''===
+In 1969, Lucas co-founded the studio [[American Zoetrope]] with Coppolawhom he met during his internship at Warner Bros.hoping to create a liberating environment for filmmakers to direct outside the perceived oppressive control of the Hollywood [[studio system]].&lt;ref&gt;{{cite news|title=American Zoetrope: In a galaxy not from Hollywood ...|url=https://www.theguardian.com/film/2011/nov/17/zoetrope-coppola-lucas-star-wars|accessdate=September 25, 2013|newspaper=The Guardian|date=November 17, 2011}}&lt;/ref&gt; His first full-length feature film produced by the studio, ''[[THX 1138]]'', was not a success. Lucas then created his own company, [[Lucasfilm, Ltd.]], and directed the successful ''[[American Graffiti]]'' (1973).
+
+Lucas then set his sights on adapting [[Flash Gordon]], an adventure serial from his childhood that he fondly remembered. When he was unable to obtain the rights, he set out to write an original space adventure that would eventually become ''[[Star Wars (film)|Star Wars]]''. Despite his success with his previous film, all but one studio turned ''Star Wars'' down. It was only because [[Alan Ladd, Jr.]], at [[20th Century Fox]] liked ''American Graffiti'' that he forced through a production and distribution deal for the film, which ended up restoring Fox to financial stability after a number of flops.&lt;ref&gt;[[Tom Shone]]: ''[[Blockbuster (2004 book)|Blockbuster]]: How Hollywood Learned to Stop Worrying and Love the Summer'' (2004). London, Simon &amp; Schuster UK. {{ISBN|0-7432-6838-5}}. Chapter 2.&lt;/ref&gt; ''Star Wars'' was significantly influenced by samurai films of [[Akira Kurosawa]], spaghetti westerns, as well as classic swords &amp; sorcery fantasy stories.
+
+''Star Wars'' quickly became the [[list of highest-grossing films|highest-grossing film of all-time]], displaced five years later by Spielberg's ''[[E.T. the Extra-Terrestrial]]''. After the success of ''American Graffiti'' and prior to the beginning of filming on ''Star Wars'', Lucas was encouraged to renegotiate for a higher fee for writing and directing ''Star Wars'' than the $150,000 agreed.&lt;ref name=pollockskywalking /&gt; He declined to do so, instead negotiating for advantage in some of the as-yet-unspecified parts of his contract with Fox, in particular ownership of licensing and merchandising rights (for [[novelization]]s, T-shirts, toys, etc.) and contractual arrangements for sequels.&lt;ref name=pollockskywalking /&gt; The studio was unconcerned to relinquish these rights, as its last major attempt in the field, with the film ''[[Doctor Dolittle (film)|Doctor Dolittle]]'' (1967), had proved a discouraging failure.&lt;ref&gt;{{cite book|last=Harris|first=Mark|title=Pictures at a Revolution: Five Films and the Birth of the New Hollywood|year=2008|publisher=Penguin Press|pages=3789}}&lt;/ref&gt; Lucas exploited merchandising rights wisely, and Lucasfilm has earned hundreds of millions of dollars from licensed games, toys, and collectibles created for the franchise.&lt;ref name=pollockskywalking /&gt;
+
+===197793: Hiatus from directing, ''Indiana Jones''===
+[[File:Lucas - Henson - 1986.jpg|thumb|right|upright=1.15|Director [[Jim Henson]] (left) and Lucas working on ''[[Labyrinth (film)|Labyrinth]]'' in 1986.]]
+Following the release of the first ''Star Wars'' film, Lucas worked extensively as a writer and producer, including on the many ''Star Wars'' spinoffs made for film, television, and other media. Lucas acted as executive producer for the next two ''[[Star Wars]]'' films, commissioning [[Irvin Kershner]] to direct ''[[The Empire Strikes Back]]'', and [[Richard Marquand]] to direct ''[[Return of the Jedi]]'', while receiving a story credit on the former and sharing a screenwriting credit with [[Lawrence Kasdan]] on the latter.&lt;ref&gt;{{cite web|url =http://www.empireonline.com/features/star-wars-making-of-empire-strikes-back|title= The Making of Empire Strikes Back|date=June 2002|work=Empire Magazine|accessdate=May 8, 2014}}&lt;/ref&gt; He also acted as executive producer and story writer on all four of the ''[[Indiana Jones (franchise)|Indiana Jones]]'' films, which his colleague and good friend [[Steven Spielberg]] directed.
+
+Other successful projects where Lucas acted as a producer or writer in this period include [[Akira Kurosawa|Kurosawa]]'s ''[[Kagemusha]]'' (1980), Lawrence Kasdan's ''[[Body Heat]]'' (1981), ''[[Ewoks: Caravan of Courage]]'' (1984), ''[[Ewoks: Battle for Endor]]'' (1985), [[Jim Henson]]'s ''[[Labyrinth (film)|Labyrinth]]'' (1986), [[Godfrey Reggio]]'s ''[[Powaqqatsi]]'' (1986), [[Don Bluth]]'s ''[[The Land Before Time]]'' (1988), and the ''Indiana Jones'' television spinoff ''[[The Young Indiana Jones Chronicles]]'' (199296). There were unsuccessful projects, however, including ''[[More American Graffiti]]'' (1979), [[Willard Huyck]]'s ''[[Howard the Duck (film)|Howard the Duck]]'' (1986), which was the biggest flop of Lucas's career, [[Ron Howard]]'s ''[[Willow (film)|Willow]]'' (1988), Coppola's ''[[Tucker: The Man and His Dream]]'' (1988), and [[Mel Smith]]'s ''[[Radioland Murders]]'' (1994).
+
+The animation studio [[Pixar]] was founded in 1979 as the Graphics Group, one third of the Computer Division of [[Lucasfilm]].&lt;ref&gt;{{cite web|title=Pixar Story|url=http://rfostermsm.edublogs.org/2011/04/20/pixar-story/|date=April 20, 2011|accessdate=September 25, 2013}}&lt;/ref&gt; Pixar's early computer graphics research resulted in groundbreaking effects in films such as ''[[Star Trek II: The Wrath of Khan]]''&lt;ref name="PixarStory"&gt;{{Cite journal| last =Hormby | first =Thomas | author-link = | last2 = | publisher =Low End Mac| first2 = | author2-link = | title =The Pixar Story: Dick Shoup, Alex Schure, George Lucas, Steve Jobs, and Disney | date =January 22, 2007 | url =http://lowendmac.com/2013/pixar-story-steve-jobs-disney-toy-story/ | accessdate =March 1, 2007 | postscript =&lt;!--None--&gt; }}&lt;/ref&gt; and ''[[Young Sherlock Holmes]]'',&lt;ref name="PixarStory"/&gt; and the group was purchased in 1986 by [[Steve Jobs]] shortly after he left [[Apple Inc.|Apple Computer]]. Jobs paid Lucas US$5 million and put US$5 million as capital into the company. The sale reflected Lucas' desire to stop the cash flow losses from his 7-year research projects associated with new entertainment technology tools, as well as his company's new focus on creating entertainment products rather than tools. A contributing factor was cash-flow difficulties following Lucas' 1983 divorce concurrent with the sudden dropoff in revenues from ''[[Star Wars]]'' licenses following the release of ''[[Return of the Jedi]]''.
+
+The sound-equipped system [[THX]] Ltd. was founded by Lucas and [[Tomlinson Holman]].&lt;ref name=Softpedia&gt;Truta, Filip Truta (May 5, 2011). [http://news.softpedia.com/news/Apple-Hires-Sound-Systems-Inventor-Tomlinson-Holman-198553.shtml "Apple Hires Sound Systems Inventor Tomlinson Holman"]. [[Softpedia]].&lt;/ref&gt; The company was formerly owned by Lucasfilm, and contains equipment for stereo, digital, and theatrical sound for films, and music. [[Skywalker Sound]] and [[Industrial Light &amp; Magic]], are the sound and visual effects subdivisions of Lucasfilm, while Lucasfilm Games, later renamed [[LucasArts]], produces products for the gaming industry.
+
+===19932012: Return to directing, return to ''Star Wars'' and ''Indiana Jones''===
+[[File:George Lucas Medal of Technology.jpg|thumb|left|Lucas receiving the [[National Medal of Technology and Innovation]] from President [[George W. Bush]], 2006]]
+
+After losing much of his fortune in a divorce settlement in 1987, Lucas had no desire to return to ''Star Wars'', and had unofficially canceled his [[Star Wars sequel trilogy|sequel trilogy]] by the time of ''Return of the Jedi''.{{Sfn |Kaminski|2007|p=227|ref=kaminski}} Nevertheless, the prequels, which were still only a series of basic ideas partially pulled from his original drafts of "The Star Wars", continued to tantalize him with technical possibilities that would make it worthwhile to revisit his older material. When ''Star Wars'' became popular once again, in the wake of [[Dark Horse Comics|Dark Horse]]'s comic book line and [[Timothy Zahn]]'s [[Thrawn trilogy|trilogy of novels]], Lucas realized that there was still a large audience. His children were older, and with the explosion of [[Computer-generated imagery|CGI]] technology he was now considering returning to directing.{{Sfn |Kaminski|2007|pp=29495|ref=kaminski}}
+
+By 1993, it was announced, in ''[[Variety (magazine)|Variety]]'' among other sources, that Lucas would be making the prequels. He began penning more to the story, indicating that the series would be a tragic one, examining Anakin Skywalker's fall to the dark side. Lucas also began to change the prequels status relative to the originals; at first they were supposed to be a "filling-in" of history tangential to the originals, but now he saw that they could form the beginning of one long story that started with Anakin's childhood and ended with his death. This was the final step towards turning the film series into a "Saga".{{Sfn |Kaminski|2007|pp= 299300|ref=kaminski}} In 1994, Lucas began work on the screenplay of the first prequel, tentatively titled ''Episode I: The Beginning''.
+
+In 1997, to celebrate the 20th anniversary of ''Star Wars,'' Lucas returned to the original trilogy and made numerous modifications using newly available digital technology, releasing them in theaters as the ''Star Wars Special Edition''. For DVD releases in 2004 and Blu-ray releases in 2011, the trilogy received further revisions to make them congruent with the prequel trilogy. Besides the additions to the ''Star Wars'' franchise, Lucas released a ''Director's Cut'' of ''THX 1138'' in 2004, with the film re-cut and containing a number of [[Computer-generated imagery|CGI]] revisions.
+
+The first ''Star Wars'' prequel was finished and released in 1999 as ''[[Star Wars: Episode I  The Phantom Menace|Episode I  The Phantom Menace]]'', which would be the first film Lucas had directed in over two decades. Following the release of the first prequel, Lucas announced that he would also be directing the next two, and began working on ''Episode II''.&lt;ref&gt;{{Cite journal|journal=Star Wars Insider|title= Star Wars Insider|issue= 45|page= 19 | ref = harv}}&lt;/ref&gt; The first draft of ''Episode II'' was completed just weeks before principal photography, and Lucas hired [[Jonathan Hales]], a writer from ''[[The Young Indiana Jones Chronicles]]'', to polish it.{{Sfn |Kaminski|2007| p= 371|ref=kaminski}} It was completed and released in 2002 as ''[[Star Wars: Episode II  Attack of the Clones]]''. The final prequel, ''[[Star Wars: Episode III  Revenge of the Sith]]'', began production in 2002{{Sfn |Rinzler|2007|p = 36| ref=rinzler}} and was released in 2005. Numerous fans and critics considered the prequels inferior to the original trilogy,&lt;ref&gt;{{cite news| url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20020510/REVIEWS/205100305/1023 | work=Chicago Sun-Times | title=Star Wars  Episode II: Attack Of The Clones | date=May 10, 2002}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rottentomatoes.com/m/star_wars_episode_i_the_phantom_menace/|title=Star Wars: Episode I - The Phantom Menace|date=May 9, 1999|publisher=[[Rotten Tomatoes]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.rottentomatoes.com/m/star_wars_episode_ii_attack_of_the_clones/|title=Star Wars: Episode II - Attack of the Clones 3D|date=May 16, 2002|publisher=Rotten Tomatoes}}&lt;/ref&gt; though they were box office successes nonetheless.&lt;ref&gt;{{cite web | url=http://boxofficemojo.com/movies/?id=starwars.htm | title= Star Wars Episode I: The Phantom Menace  (1999) | publisher=[[Box Office Mojo]] | accessdate=June 21, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://boxofficemojo.com/movies/?id=starwars2.htm | title = Star Wars Episode II: Attack of the Clones  (2002) | publisher=[[Box Office Mojo]] | accessdate=June 21, 2012 }}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://boxofficemojo.com/movies/?id=starwars3.htm | title = Star Wars: Episode III: Revenge of the Sith  (2005) | publisher=[[Box Office Mojo]] | accessdate=June 21, 2012}}&lt;/ref&gt; From 2003 to 2005, Lucas also served as an executive producer on ''[[Star Wars: Clone Wars (2003 TV series)|Star Wars: Clone Wars]]'',  an animated [[microseries]] on [[Cartoon Network]] created by [[Genndy Tartakovsky]], that bridged the events between ''Attack of the Clones'' and ''Revenge of the Sith''.
+
+[[File:George Lucas.jpg|thumb|George Lucas in 2007]]
+Lucas collaborated with [[Jeff Nathanson]] as a writer of the 2008 film ''[[Indiana Jones and the Kingdom of the Crystal Skull]]'', directed by Steven Spielberg. Like the ''Star Wars'' prequels, reception was mixed, with numerous fans and critics once again considering it inferior to its predecessors. From 2008 to 2014, Lucas also served as the executive producer for a second ''Star Wars'' animated series on Cartoon Network, ''[[Star Wars: The Clone Wars (2008 TV series)|Star Wars: The Clone Wars]]'' which premiered with a [[Star Wars: The Clone Wars (film)|feature film of the same name]] before airing its first episode. The supervising director for this series was [[Dave Filoni]], who was chosen by Lucas and closely collaborated with him on its development.&lt;ref&gt;{{cite web|url=http://www.denofgeek.com/tv/star-wars/20967/dave-filoni-interview-star-wars-the-clone-wars|title=Dave Filoni interview: Star Wars: The Clone Wars|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://sknr.net/2008/08/14/george-lucas-and-dave-filoni-talk-star-warsthe-clone-wars/|title=George Lucas and Dave Filoni talk Star Wars:The Clone Wars|first=|last=minshewnetworks|date=August 14, 2008|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=hcNXPNXOv2A|title=Dave Filoni Extended Interview - The Star Wars Show|first=|last=Star Wars|date=August 12, 2016|publisher=|via=YouTube}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.slashfilm.com/new-lucasfilm-animation-projects/|title=Dave Filoni Now Overseeing Creative Development of New Lucasfilm Animation Projects|date=September 26, 2016|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.monkeysfightingrobots.com/how-dave-filoni-redefined-star-wars/|title=How Dave Filoni Redefined 'Star Wars'|date=December 11, 2015|publisher=}}&lt;/ref&gt; Like the previous series it bridged the events between ''Attack of the Clones'' and ''Revenge of the Sith''. The animated series also featured the last ''Star Wars'' stories on which Lucas was majorly involved.
+
+In 2012, Lucas served as executive producer for ''[[Red Tails]]'', a war film based on the exploits of the [[Tuskegee Airmen]] during [[World War II]]. He also took over direction of reshoots while director [[Anthony Hemingway]] worked on other projects.
+
+===2012present: Semi-retirement===
+{{quote box|width=30%|align=right|quote="I'm moving away from the business... From the company, from all this kind of stuff."|source=George Lucas on his future career plans.&lt;ref name="NYT Lucas"&gt;{{cite news |first=Bryan|last=Curtis |title=George Lucas Is Ready to Roll the Credits |work=[[The New York Times]] |date=January 17, 2012 |accessdate=January 17, 2012 |url=https://www.nytimes.com/2012/01/22/magazine/george-lucas-red-tails.html?_r=2 }}&lt;/ref&gt;}}
+In January 2012, Lucas announced his retirement from producing large [[Blockbuster (entertainment)|blockbuster]] films and instead re-focusing his career on smaller, independently budgeted features.&lt;ref name="NYT Lucas" /&gt;&lt;ref&gt;{{cite web |url=http://www.slashfilm.com/george-lucas-ready-focus-personal-movies/ |title=George Lucas Ready to Retire From Blockbuster Filmmaking |last1=Fischer |first1=Russ |publisher=[[/Film]] |date=January 17, 2012 |accessdate=January 17, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.movieline.com/2012/01/17/george-lucas-promises-retirement-from-blockbusters-not-counting-indiana-jones-5/ |title=George Lucas Promises Retirement (From Blockbusters... Not Counting Indiana Jones 5) |last1=Yamato |first1=Jen |work=Movie Line |date=January 17, 2012 |accessdate=January 17, 2012}}&lt;/ref&gt;
+
+In June 2012, it was announced that producer [[Kathleen Kennedy (film producer)|Kathleen Kennedy]], a long-term collaborator with Steven Spielberg and a producer of the ''Indiana Jones'' films, had been appointed as co-chair of Lucasfilm Ltd.&lt;ref name=SWcom1Jun2012&gt;[http://www.starwars.com/news/kathleen_kennedy_to_become_co-chair_of_lucasfilm-ltd.html "Kathleen Kennedy to become Co-Chair of Lucasfilm Ltd."] {{webarchive|url=https://web.archive.org/web/20121029134458/http://starwars.com/news/kathleen_kennedy_to_become_co-chair_of_lucasfilm-ltd.html |date=October 29, 2012 }}, ''StarWars.com'', June 1, 2012. Retrieved September 27, 2012.&lt;/ref&gt;&lt;ref name=LATimes2Jun2012&gt;Richard Verrier and Ben Fritz, [http://articles.latimes.com/2012/jun/02/business/la-fi-ct-lucas-kennedy-20120602 "Kathleen Kennedy to helm Lucasfilm as George Lucas phases out"], ''Los Angeles Times'', June 2, 2012. Retrieved September 27, 2012.&lt;/ref&gt; It was reported that Kennedy would work alongside Lucas, who would remain chief executive and serve as co-chairman for at least one year, after which she would succeed him as the company's sole leader.&lt;ref name=SWcom1Jun2012 /&gt;&lt;ref name=LATimes2Jun2012 /&gt; With the sale of Lucasfilm to Disney, Lucas is currently Disney's second largest single shareholder after the estate of [[Steve Jobs]].&lt;ref name="WSJ Lucas"&gt;{{cite news |first=Joseph B.|last=White|title=The Mouse and the Wookie: Lucas Becomes a Big Disney Shareholder |work=The Wall Street Journal |date=October 30, 2012 |accessdate=October 31, 2012 |url=https://blogs.wsj.com/corporate-intelligence/2012/10/30/the-mouse-and-the-wookie-lucas-becomes-a-big-disney-shareholder/ }}&lt;/ref&gt;
+
+Since 2014, Lucas is working as a creative consultant on the [[Star Wars sequel trilogy]], including work in the first movie, ''[[Star Wars: The Force Awakens|Star Wars VII: The Force Awakens]]''. As creative consultant on the film, Lucas' involvement included attending early story meetings; according to Lucas, "I mostly say, 'You can't do this. You can do that.' You know, 'The cars don't have wheels. They fly with antigravity.' There's a million little pieces... I know all that stuff."&lt;ref name=BloombergMar2013&gt;{{cite web|url=http://www.businessweek.com/articles/2013-03-07/how-disney-bought-lucasfilm-and-its-plans-for-star-wars |title=How Disney Bought Lucasfilmand Its Plans for 'Star Wars' |last=Leonard |first=Devin |work=Bloomberg Businessweek |date=March 7, 2013 |accessdate=May 26, 2013}}&lt;/ref&gt; Lucas' son Jett told ''The Guardian ''that his father was "very torn" about having sold the rights to the franchise, despite having hand-picked Abrams to direct, and that his father was "there to guide" but that "he wants to let it go and become its new generation."&lt;ref&gt;{{cite web|url=https://www.theguardian.com/film/2013/oct/09/star-wars-george-lucas-jj-abrams|title=Star Wars sequels: George Lucas 'constantly talking' to JJ Abrams|author=Child, Ben|date=October 9, 2013|accessdate=January 23, 2015|work=[[The Guardian]]}}&lt;/ref&gt; Among the materials turned over to the production team were rough story treatments Lucas developed when he considered creating episodes ''VII''''IX'' himself years earlier; in January 2015, Lucas stated that Disney had discarded his story ideas.&lt;ref name="Collider"&gt;{{cite news |last = Chitwood|first = Adam|title = George Lucas Says His Treatments for the New STAR WARS Films Were Discarded|date = January 21, 2015|url = http://collider.com/george-lucas-new-star-wars-movies-treatments/|work = Collider|accessdate = January 23, 2015|archiveurl = https://web.archive.org/web/20150127051200/http://collider.com/george-lucas-new-star-wars-movies-treatments/|archivedate = January 27, 2015|deadurl = no}}&lt;/ref&gt;&lt;ref name="Lucas_treatment_unused"&gt;{{Cite web|url= http://www.cinemablend.com/new/How-George-Lucas-Star-Wars-7-Ideas-Were-Used-By-Disney-69271.html|title=How George Lucas' Star Wars 7 Ideas Were Used By Disney|accessdate=January 20, 2015|publisher=Cinema Blend|year=2015|author=Nick Romano|format=Written coverage /Video interview}}&lt;/ref&gt;
+
+''The Force Awakens'' directed by [[J. J. Abrams]], was released on December 18, 2015. Kathleen Kennedy executive produced, and will do so for all future ''Star Wars'' films.&lt;ref&gt;{{cite news| url=http://www.businessinsider.com.au/george-lucas-creative-consultant-role-in-star-wars-2012-11| work=Business Insider Australia | title=Here's What George Lucas' Role As Creative Consultant in the New Star Wars Films Mean}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=http://www.businessinsider.com.au/a-new-star-wars-is-coming-in-2015-2012-10| work=Business Insider Australia | title=A New Star Wars Is Coming}}&lt;/ref&gt; The new sequel trilogy is being jointly produced by Lucasfilm and [[The Walt Disney Company]], which had acquired Lucasfilm in 2012.&lt;ref name="British Broadcasting Corporation"&gt;{{cite news|title=Disney buys Star Wars maker Lucasfilm from George Lucas|url=http://www.bbc.co.uk/news/business-20146942|work=BBC News Website|publisher=British Broadcasting Corporation|date=October 31, 2012}}&lt;/ref&gt; During an interview with talk show host and journalist [[Charlie Rose]] that aired on December 24, 2015, Lucas likened his decision to sell Lucasfilm to Disney to a "divorce" and outlined the creative differences between him and the producers of ''The Force Awakens''. Lucas described the previous six ''Star Wars'' films as his "children" and defended his vision for them, while criticizing ''The Force Awakens'' for having a "retro feel", saying: I worked very hard to make them completely different, with different planets, with different spaceships  you know, to make it new. Lucas also drew some criticism and subsequently apologized for his remark likening Disney to "white slavers".&lt;ref&gt;{{cite news|last1=Child|first1=Ben|title=Attack of the moans: George Lucas hits out at 'retro' Star Wars: The Force Awakens|url=https://www.theguardian.com/film/2015/dec/31/george-lucas-attacks-retro-star-wars-the-force-awakens|accessdate=18 April 2016|publisher=''[[The Guardian]]''|date=31 December 2015}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Peterson|first1=Jeff|title=George Lucas elaborates on his reaction to 'The Force Awakens'|url=http://www.deseretnews.com/article/865645039/George-Lucas-elaborates-on-his-reaction-to-The-Force-Awakens.html?pg=all|accessdate=18 April 2016|publisher=[[Deseret News]]|date=7 January 2016}}&lt;/ref&gt; It has been reported Lucas liked ''[[Rogue One|Rogue One: a Star Wars Story]]'' more than ''The Force Awakens''.&lt;ref&gt;{{cite web|url=http://io9.gizmodo.com/george-lucas-likes-rogue-one-more-than-force-awakens-a-1789694908|title=George Lucas Likes Rogue One More Than Force Awakens, and Other Fun Facts We Learned This Weekend|first=Cheryl|last=Eddy|publisher=}}&lt;/ref&gt; ''Rogue One'' was directed by [[Gareth Edwards (director)|Gareth Edwards]] and told the story of the rebels who stole the plans for the original [[Death Star]].
+
+In 2015, Lucas wrote the CGI film ''[[Strange Magic (film)|Strange Magic]]'', his first musical. The film was produced at [[Skywalker Ranch]]. [[Gary Rydstrom]] directed the movie.&lt;ref name="Heat Vision"&gt;{{cite web |url=http://www.heatvisionblog.com/2010/01/george-lucas-cgi-musical-kevin-munroe.html|title=George Lucas producing a CGI musical! Featuring ... fairies?|work = [[The Hollywood Reporter]]|date=January 27, 2010| archiveurl = https://web.archive.org/web/20100130213432/http://www.heatvisionblog.com/2010/01/george-lucas-cgi-musical-kevin-munroe.html | archivedate= January 30, 2010}}&lt;/ref&gt; At the same time the sequel trilogy was announced a [[Indiana Jones 5|fifth installment]] of the ''[[Indiana Jones (franchise)|Indiana Jones]]'' series also entered pre-development phase with [[Harrison Ford]] and [[Steven Spielberg]] set to return, for a release in 2019 while originally Lucas did not specify whether the selling of Lucasfilm would affect his involvement with such film. In October 2016, Lucas announced his decision to not be involved in the story of the film, but would remain an executive producer.&lt;ref&gt;{{cite web|url=https://www.forbes.com/sites/danidiplacido/2016/10/24/george-lucas-is-no-longer-involved-in-indiana-jones-5/#376332b37cbc|title=George Lucas Is No Longer Involved In 'Indiana Jones 5'|first=Dani Di|last=Placido|publisher=}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://collider.com/indiana-jones-5-george-lucas-david-koepp/|title=Exclusive: George Lucas Not Involved in Indiana Jones 5 Story; Writer David Koepp Talks 'Crystal Skull'|date=October 24, 2016|publisher=}}&lt;/ref&gt;
+
+==Philanthropy==
+Lucas has pledged to give half of his fortune to charity as part of an effort called [[The Giving Pledge]] led by [[Bill Gates]] and [[Warren Buffett]] to persuade America's richest individuals to donate their financial wealth to charities.&lt;ref&gt;{{cite news |url=http://www.boston.com/news/nation/articles/2010/08/05/gates_buffett_get_40_pledges/ |title=Gates, Buffett get 40 pledges |work=Boston Globe |agency=AP |date=August 5, 2010}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last1=Lucas|first1=George|title=George Lucas &amp; Mellody Hobson|url=http://cms.givingpledge.org/pdf/letters/Lucas_Letter.pdf|website=The Giving Pledge|accessdate=January 31, 2015|archiveurl=https://web.archive.org/web/20150131161307/http://cms.givingpledge.org/pdf/letters/Lucas_Letter.pdf|archivedate=January 31, 2015|format=PDF|date=August 11, 2014|quote=My pledge is to the process; as long as I have the resources at my disposal, I will seek to raise the bar for future generations of students of all ages. I am dedicating the majority of my wealth to improving education.|deadurl=yes|df=mdy-all}}&lt;/ref&gt;
+
+===George Lucas Educational Foundation===
+In 1991, The George Lucas Educational Foundation was founded as a nonprofit operating foundation to celebrate and encourage innovation in schools. The Foundation's content is available under the brand [[Edutopia]], in an award-winning web site, social media and via documentary films. Lucas, through his foundation, was one of the leading proponents of the [[E-rate]] program in the [[universal service fund]],&lt;ref&gt;{{cite web|url=http://markey.house.gov/index.php?option=content&amp;task=view&amp;id=3399&amp;Itemid=125 |title=2008 Rep. Ed Markey's opening statement on universal service |publisher= |deadurl=yes |archiveurl=https://web.archive.org/web/20080625213543/http://markey.house.gov/index.php?option=content&amp;task=view&amp;id=3399&amp;Itemid=125 |archivedate=June 25, 2008 |df= }}&lt;/ref&gt; which was enacted as part of the [[Telecommunications Act of 1996]]. On June 24, 2008, Lucas testified before the [[United States House of Representatives]] subcommittee on [[United States House Energy Subcommittee on Telecommunications and the Internet|Telecommunications and the Internet]] as the head of his Foundation to advocate for a free wireless broadband educational network.&lt;ref&gt;{{cite web|url=https://arstechnica.com/news.ars/post/20080624-universal-service-fund-should-be-blown-up-like-death-star.html|title=Universal Service Fund should be "blown up" like Death Star|author=Nate Anderson|publisher=Ars Technica}}&lt;/ref&gt;
+
+===Proceeds from the sale of Lucasfilm to Disney===
+In 2012, Lucas sold [[Lucasfilm]] to [[The Walt Disney Company]] for a reported sum of $4.05 billion.&lt;ref name="British Broadcasting Corporation"/&gt; It was widely reported at the time that Lucas intends to give the majority of the proceeds from the sale to charity.&lt;ref&gt;{{cite news|last=Solomon|first=Brian|title=Donating Star Wars Billions Will Make George Lucas One Of The Biggest Givers Ever|url=https://www.forbes.com/sites/briansolomon/2012/11/04/donating-star-wars-billions-will-make-george-lucas-one-of-the-biggest-givers-ever/|work=Forbes|accessdate=May 25, 2014}}&lt;/ref&gt;&lt;ref name="hollywood-reporter-disney-proceeds-to-charity"&gt;{{cite news|last=Ben Block|first=Alex|title=George Lucas Will Use Disney $4 Billion to Fund Education|url=http://www.hollywoodreporter.com/news/disney-deal-george-lucas-will-384947|work=The Hollywood Reporter|accessdate=May 25, 2014}}&lt;/ref&gt; A spokesperson for [[Lucasfilm]] said, "George Lucas has expressed his intention, in the event the deal closes, to donate the majority of the proceeds to his philanthropic endeavors."&lt;ref name="hollywood-reporter-disney-proceeds-to-charity" /&gt; Lucas also spoke on the matter: "For 41 years, the majority of my time and money has been put into the company. As I start a new chapter in my life, it is gratifying that I have the opportunity to devote more time and resources to philanthropy."&lt;ref name="hollywood-reporter-disney-proceeds-to-charity" /&gt;
+
+===Lucas Museum of Narrative Art===
+{{main|Lucas Museum of Narrative Art}}
+By June 2013, Lucas was considering establishing a museum, the Lucas Cultural Arts Museum, to be built on [[Crissy Field]] near the [[Golden Gate Bridge]] in [[San Francisco]], which would display his collection of illustrations and pop art, with an estimated value of more than $1 billion. Lucas offered to pay the estimated $300 million cost of constructing the museum, and would endow it with $400 million when it opened, eventually adding an additional $400 million to its endowment.&lt;ref&gt;{{cite news |url=https://news.yahoo.com/blogs/lookout/filmmaker-curator-george-lucas-pitches-san-francisco-art-145650551.html/ |title=George Lucas pitches a San Francisco art museum |first=Holly|last= Bailey |publisher=Yahoo! News |date=June 14, 2013}}&lt;/ref&gt; After being unable to reach an agreement with [[The Presidio Trust]], Lucas turned to [[Chicago]].&lt;ref name="chicagotribune.com"&gt;{{cite news|url=http://www.chicagotribune.com/business/ct-george-lucas-museum-confidential-harris-0410-bi-20140410,0,4366334.column |title=Chicago to vie for George Lucas' museum |work=[[Chicago Tribune]] |date=April 10, 2014 |accessdate=May 20, 2014}}&lt;/ref&gt; A potential lakefront site on [[Museum Campus]] in Chicago was proposed in May 2014.&lt;ref&gt;{{cite news |first=Fran |last=Spielman |url=http://chicago.suntimes.com/?p=165808&amp;r=2994A0367478F0L |title=Lakefront campus recommended for George Lucas interactive museum |work=[[Chicago Sun-Times]] |date=May 20, 2014 |accessdate=May 20, 2014 |archiveurl=https://web.archive.org/web/20151123135600/http://chicago.suntimes.com/?p=165808&amp;r=2994A0367478F0L |archivedate=November 23, 2015 |deadurl=yes |df=mdy-all }}&lt;/ref&gt; By June 2014, Chicago had been selected, pending approval of the [[Chicago Plan Commission]],&lt;ref&gt;{{cite news|last=Sneed |first=Michael |title=Sneed Exclusive: Chicago to Get George Lucas Museum |url=http://politics.suntimes.com/article/chicago/sneed-exclusive-chicago-get-george-lucas-museum/tue-06242014-346pm-1 |date=June 24, 2014 |work=Chicago Sun-Times |accessdate=June 24, 2014 |deadurl=yes |archiveurl=https://web.archive.org/web/20141107035736/http://politics.suntimes.com/article/chicago/sneed-exclusive-chicago-get-george-lucas-museum/tue-06242014-346pm-1 |archivedate=November 7, 2014 |df=mdy }}&lt;/ref&gt; which was granted.&lt;ref&gt;{{cite web|url=http://www.lucasmuseum.org/museum.html|title=A New Museum for Chicago|publisher=Lucas Museum.org|accessdate=November 6, 2014}}&lt;/ref&gt; The museum project was renamed the [[Lucas Museum of Narrative Art]].&lt;ref&gt;{{cite web|url=http://www.lucasmuseum.org/|title=Lucas Museum of Narrative Art|last=Lucas Museum of Narrative Art|year=2015|publisher=Lucas Museum of Narrative Art|accessdate=March 11, 2015}}&lt;/ref&gt;  On June 24, 2016, Lucas announced that he was abandoning his plans to locate the museum in Chicago, due to a lawsuit by a local preservation group, Friends of the Parks, and would instead build the museum in California.&lt;ref&gt;{{cite web|url=https://www.nytimes.com/2016/06/25/us/george-lucas-abandons-plan-to-build-art-museum-in-chicago.html|title=George Lucas Abandons Plan to Build Art Museum in Chicago|date=June 24, 2016|work=New York Times|accessdate=June 26, 2016}}&lt;/ref&gt; On January 17, 2017, Lucas announced that the museum will be constructed in [[Exposition Park (Los Angeles)|Exposition Park]], [[Los Angeles]] [[California]].&lt;ref&gt;{{cite web|url=http://www.latimes.com/entertainment/arts/la-et-cm-la-wins-lucas-museum-20170110-htmlstory.html|title=Los Angeles will be home to George Lucas' $1-billion museum|date=January 10, 2017|work=Los Angeles Times|accessdate=January 18, 2017}}&lt;/ref&gt;
+
+===Other initiatives===
+In 2005, Lucas gave US$1 million to help build the [[Martin Luther King Jr. Memorial]] on the [[National Mall]] in Washington D.C. to commemorate American civil rights leader [[Martin Luther King, Jr.]]&lt;ref&gt;[http://www.mlkmemorial.org/site/apps/nlnet/content2.aspx?c=hkIUL9MVJxE&amp;b=1601407&amp;ct=2331431 "Star Wars creator George Lucas donates $1 Million for Martin Luther King, Jr. Memorial Project"], ''Washington, DC Martin Luther King, Jr. National Memorial'', October 20, 2005. Retrieved September 27, 2012.&lt;/ref&gt;
+
+On September 19, 2006, [[University of Southern California|USC]] announced that Lucas had donated $175180 million to his alma mater to expand the film school. It is the largest single donation to USC and the largest gift to a film school anywhere.&lt;ref&gt;Stuart Silverstein, [http://www.latimes.com/news/local/la-091906usc-lucas,0,5365847.story?coll=la-home-headlines George Lucas Donates USC's Largest Single Gift], ''The Los Angeles Times'', September 19, 2006.&lt;/ref&gt; Previous donations led to the already existing George Lucas Instructional Building and Marcia Lucas Post-Production building.&lt;ref name=USCLUC&gt;[http://cinema.usc.edu/about/facilities/george-lucas-instructional-building.htm George Lucas Instructional Building] {{webarchive|url=https://web.archive.org/web/20091130183844/http://cinema.usc.edu/about/facilities/george-lucas-instructional-building.htm |date=November 30, 2009 }}, USC School of Cinematic Arts.&lt;/ref&gt;&lt;ref name=USCLPB&gt;[http://cinema.usc.edu/about/facilities/post-production.htm Marcia Lucas Post-Production] {{webarchive|url=https://web.archive.org/web/20100711233127/https://cinema.usc.edu/about/facilities/post-production.htm |date=July 11, 2010 }}, USC School of Cinematic Arts.&lt;/ref&gt;
+
+In 2013, Lucas and his wife Mellody Hobson donated $25 million to the Chicago-based [[not-for-profit]] After School Matters, of which Hobson is the chair.&lt;ref name="chicagotribune.com"/&gt;
+
+On April 15, 2016, it was reported that Lucas had donated between $501,000 and $1 million through the Lucas Family Foundation to the [[Obama Foundation]], which is charged with overseeing the construction of the [[Barack Obama Presidential Center]] on [[Chicago]]'s [[South Side, Chicago|South Side]].&lt;ref&gt;{{cite news|last1=Sweet|first1=Lynn|title=George Lucas new major donor to Obama presidential library|url=http://chicago.suntimes.com/politics/george-lucas-foundation-donates-to-obama-foundation/|accessdate=18 April 2016|publisher=[[Chicago Sun Times]]|date=15 April 2016}}&lt;/ref&gt;
+
+==Personal life==
+[[File:Time 100 George Lucas.jpg|thumb|right|upright=1.15|Lucas at the ''Time'' 100 2006 gala]]
+In 1969, Lucas married film editor [[Marcia Lucas|Marcia Lou Griffin]],&lt;ref name="marriage1"&gt;{{cite web|url=http://www.people.com/people/article/0,,20711631,00.html |title=George Lucas Marries Mellody Hobson |accessdate=December 31, 2015 |date=June 24, 2013 |first=Andrea |last=Billups |work=[[People (magazine)|People]] |archiveurl=https://web.archive.org/web/20131216031540/http://www.people.com/people/article/0%2C%2C20711631%2C00.html |archivedate=December 16, 2013 |deadurl=no |df= }}&lt;/ref&gt; who went on to win an [[Academy Award]] for her editing work on the original ''[[Star Wars (film)|Star Wars]]'' film. They adopted a daughter, [[Amanda Lucas (fighter)|Amanda Lucas]], in 1981,&lt;ref name="children1"&gt;{{cite news|url=http://www.latimes.com/entertainment/gossip/la-et-mg-george-lucas-baby-girl-mellody-hobson-20130812,0,807729.story|title=Newlyweds George Lucas and Mellody Hobson welcome a baby girl|accessdate=August 15, 2013 |date=August 12, 2013 |first=Christie|last=D'Zurilla|work=Los Angeles Times}}&lt;/ref&gt; and divorced in 1983.&lt;ref name="marriage1"/&gt; Lucas subsequently adopted two more children as a single parent: daughter [[Katie Lucas]], born in 1988, and son Jett Lucas, born in 1993.&lt;ref name="children1"/&gt; His three eldest children all appeared in the three ''[[Star Wars]]'' prequels, as did Lucas himself. Following his divorce, Lucas was in a relationship with singer [[Linda Ronstadt]] in the 1980s.&lt;ref&gt;{{cite web|url=http://www.people.com/people/archive/article/0,,20087434,00.html|title=What's New with Linda Ronstadt? She's Singing Her Love Songs to Star Wars Czar George Lucas|accessdate=August 15, 2013 |date=March 26, 1984|work=People}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://www.nytimes.com/1995/04/19/garden/at-lunch-with-linda-ronstadt-and-this-is-what-48-looks-like.html?pagewanted=all&amp;src=pm|title=AT LUNCH WITH: Linda Ronstadt; And This Is What 48 Looks Like|accessdate=August 15, 2013 |date=April 19, 1995|first=Stephen|last=Holden|work=The New York Times}}&lt;/ref&gt;
+
+Lucas began dating [[Mellody Hobson]], president of [[Ariel Investments]] and chair of [[DreamWorks Animation]], in 2006.&lt;ref&gt;{{cite web
+|url=http://www.chicagobusiness.com/cgi-bin/mag/article.pl?article_id=28942 |title=Taking Names: Stars in Chicago, but finding love elsewhere |accessdate=May 19, 2008 |date=December 3, 2007 |author=Kapos, Shia|work=Chicago Business}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=http://www.denverpost.com/breakingnews/ci_9303267|title="Indy" survives Cannes critics |accessdate=September 26, 2010 |date=May 18, 2008 |author=Germain, David| work=The Denver Post via AP}}&lt;/ref&gt;&lt;ref&gt;{{cite news| url=https://www.nytimes.com/slideshow/2010/01/18/movies/awardsseason/0118-REDCARPET_14.html | work=The New York Times | title=Red Carpet at the Golden Globes | date=January 18, 2010 | accessdate=May 3, 2010}}&lt;/ref&gt; Lucas and Hobson announced their engagement in January 2013,&lt;ref&gt;{{cite news| url=http://www.hollywoodreporter.com/news/george-lucas-mellody-hobson-engaged-408012 | work=The Hollywood Reporter | title=George Lucas Engaged to DreamWorks Animation Chairman Mellody Hobson| date=January 3, 2013 | accessdate=January 3, 2013}}&lt;/ref&gt; and married on June 22, 2013, at Lucas's [[Skywalker Ranch]] in [[Marin County, California]].&lt;ref&gt;{{cite news| url=http://www.people.com/people/article/0,,20711631,00.html| work=People | title=George Lucas Marries Mellody Hobson|first=Andrea|last=Billups| date=June 24, 2013 | accessdate=June 24, 2013}}&lt;/ref&gt; They have one daughter together, Everest Hobson Lucas, who was born via [[gestational carrier]] on August 12, 2013.&lt;ref&gt;{{cite news| url=http://www.huffingtonpost.com/2013/08/12/everest-hobson-lucas_n_3742950.html| work=Huffington Post| title=Everest Hobson Lucas Born To George Lucas And Mellody Hobson| date=August 12, 2013| accessdate=August 12, 2013}}&lt;/ref&gt;
+
+Lucas was born and raised in a [[Methodism|Methodist]] family.&lt;ref name=pollockskywalking /&gt; The religious and mythical themes in ''[[Star Wars]]'' were inspired by Lucas's interest in the writings of mythologist [[Joseph Campbell]],&lt;ref&gt;{{cite web|url=https://www.pbs.org/wnet/americanmasters/episodes/george-lucas/about-george-lucas/649/|title=George Lucas - About George Lucas - American Masters - PBS|work=pbs.org}}&lt;/ref&gt; and he would eventually come to identify strongly with the Eastern religious philosophies he studied and incorporated into his films, which were a major inspiration for "[[Force (Star Wars)|the Force]]". Lucas has come to state that his religion is "[[Buddhism|Buddhist]] Methodist". He resides in [[Marin County]].&lt;ref&gt;{{cite news |url=http://www.time.com/time/magazine/article/0,9171,1002327,00.html | work=Time | title=Director: So, What's the Deal with Leia's Hair? | date=April 29, 2002 | accessdate=September 2, 2011 | first=Jess | last=Cagle}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://www.adherents.com/people/pl/George_Lucas.html |title=The Religious Affiliation of Director George Lucas| publisher=Adherents.com| date= n.d.}}&lt;/ref&gt;
+
+Lucas is a major collector of the American illustrator and painter [[Norman Rockwell]]. A collection of 57 Rockwell paintings and drawings owned by Lucas and fellow Rockwell collector and film director [[Steven Spielberg]] were displayed at the [[Smithsonian American Art Museum]] from July 2, 2010 to January 2, 2011 in an exhibition titled ''Telling Stories''.&lt;ref name=Rockwell&gt;{{cite news|url=http://americanart.si.edu/exhibitions/archive/2010/rockwell/|title=Exhibitions: Telling Stories|publisher=Smithsonian American Art Museum|location=Washington, D.C.|deadurl=yes|archiveurl=http://archive.wikiwix.com/cache/20130411052418/http://americanart.si.edu/exhibitions/archive/2010/rockwell/|archivedate=April 11, 2013|df=mdy-all}}&lt;/ref&gt;
+
+Lucas has said that he is a fan of [[Seth MacFarlane]]'s hit TV show ''[[Family Guy]]''. MacFarlane has said that Lucasfilm was extremely helpful when the ''Family Guy'' crew wanted to [[Laugh It Up, Fuzzball: The Family Guy Trilogy|parody their works]].&lt;ref&gt;{{cite news|first=Bonnie |last=Burton |title="Family Guy" Creator Reveals Star Wars Cred |url=http://www.starwars.com/community/news/rocks/f20070921/index.html |publisher=Starwars.com |date=September 21, 2007 |accessdate=September 21, 2007 |deadurl=yes |archiveurl=https://web.archive.org/web/20110905151825/http://www.starwars.com/community/news/rocks/f20070921/index.html |archivedate=September 5, 2011 |df=mdy }}&lt;/ref&gt;
+
+==Awards and honors==
+The [[American Film Institute]] awarded Lucas its [[AFI Life Achievement Award|Life Achievement Award]] on June 9, 2005.&lt;ref&gt;{{cite web|url=http://www.afi.com/tvevents/laa/laa05.aspx|title=AFI.com Error|work=afi.com}}&lt;/ref&gt; This was shortly after the release of ''[[Star Wars: Episode III  Revenge of the Sith]]'', about which he joked stating that, since he views the entire ''[[Star Wars]]'' series as one film, he could actually receive the award now that he had finally "gone back and finished the movie."
+
+Lucas was nominated for four Academy Awards: [[Academy Award for Directing|Best Directing]] and [[Academy Award for Writing Original Screenplay|Writing]] for ''American Graffiti'' and ''Star Wars''. He received the Academy's [[Irving G. Thalberg Memorial Award|Irving G. Thalberg Award]] in 1991. He appeared at the 79th Academy Awards ceremony in 2007 with Steven Spielberg and Francis Ford Coppola to present the [[Oscar for Best Director|Best Director award]] to their friend [[Martin Scorsese]]. During the speech, Spielberg and Coppola talked about the joy of winning an Oscar, making fun of Lucas, who has not won a competitive Oscar.
+
+The [[EMP Museum#Science Fiction and Fantasy Hall of Fame|Science Fiction Hall of Fame]] inducted Lucas in 2006, its second "Film, Television, and Media" contributor, after Spielberg.&lt;ref name=sfhof2006/&gt;&lt;ref name="sfhof2006-b"/&gt;{{efn|name=sfhof}} The [[Discovery Channel]] named him one of the 100 "[[The Greatest American|Greatest Americans]]" in September 2008.&lt;ref&gt;{{cite web |url=http://dsc.discovery.com/convergence/greatestamerican/top100/top100.html |title=Discovery Channel :: Greatest American: Top 100 |publisher=Dsc.discovery.com |date=September 10, 2008 |accessdate=December 31, 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20101218191443/http://dsc.discovery.com/convergence/greatestamerican/top100/top100.html |archivedate=December 18, 2010 |df=mdy-all }}&lt;/ref&gt; Lucas served as [[Grand Marshal]] for the [[Tournament of Roses Parade]] and made the ceremonial coin toss at the [[2007 Rose Bowl|Rose Bowl, New Year's Day 2007]]. In 2009, he was one of 13 [[California Hall of Fame]] inductees in [[The California Museum]]'s yearlong exhibit.
+
+In July 2013, Lucas was awarded the [[National Medal of Arts]] by President [[Barack Obama]] for his contributions to American cinema.&lt;ref&gt;{{cite news|url=http://www.bbc.co.uk/news/entertainment-arts-23269169|title=George Lucas receives National Medal of Arts|date=July 11, 2013|work=[[BBC News]]|publisher=BBC|accessdate=July 13, 2013}}&lt;/ref&gt;
+
+In October 2014, Lucas received Honorary Membership of the [[Society of Motion Picture and Television Engineers]].&lt;ref&gt;{{cite web|url=https://www.smpte.org/news-events/news-releases/2014honorsandawards|title=SMPTE Announces 2014 Honorees and Award Winners|publisher=[[Society of Motion Picture and Television Engineers]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.smpte.org/news-events/news-releases/motion-imaging-industry-luminaries-recognized-smpte%C2%AE-honors-awards|title=Motion-Imaging Industry Luminaries Recognized at SMPTE Honors &amp; Awards Ceremony|publisher=Society of Motion Picture &amp; Television Engineers|date=November 10, 2014|accessdate=February 1, 2015}}&lt;/ref&gt;
+
+In August 2015, Lucas was inducted as a [[Disney Legends|Disney Legend]],&lt;ref&gt;{{cite web|last=Lincoln|first=Ross|title=George Lucas, Danny Elfman, Others To Be Honored At D23 2015|url=http://deadline.com/2015/07/george-lucas-others-to-be-named-disney-legend-at-d23-2015-1201475685/|publisher=Deadline|date=July 14, 2015|accessdate=August 4, 2015}}&lt;/ref&gt; and on 6 December 2015, he was an honoree at the [[Kennedy Center Honors]].&lt;ref&gt;{{cite news| last=Viagas|first=Robert| url = http://www.playbill.com/news/article/carole-king-cicely-tyson-rita-moreno-and-more-named-2015-kennedy-center-honorees-353316 |title=Carole King, Cicely Tyson, Rita Moreno and More Named 2015 Kennedy Center Honorees| work=[[Playbill (magazine)|Playbill]] | date= July 15, 2015}}&lt;/ref&gt;
+
+{| class="wikitable"
+|-
+! scope="col" style="width:30px;"| Year
+! scope="col" style="width:160PX;"| Award
+! scope="col" style="width:160PX;"| Category
+! scope="col" style="width:175px;"| Film
+! scope="col" style="width:20px;"| Result&lt;ref&gt;{{IMDb name|id=0000184|section=awards |name= George Lucas |accessdate=January 20, 2013}}&lt;/ref&gt;
+|-
+| rowspan="3"|1973 || rowspan="2"|[[Academy Award]] || [[Academy Award for Best Director|Best Director]] || ''[[American Graffiti]]'' || {{nom}}
+|-
+| [[Academy Award for Best Writing (Original Screenplay)|Best Writing]] || ''American Graffiti'' || {{nom}}
+|-
+| [[Golden Globe Award]] || [[Golden Globe Award for Best Director|Best Director]] || ''American Graffiti'' || {{nom}}
+|-
+| rowspan="6"|1978 || rowspan="2"|[[Academy Award]] || [[Academy Award for Best Director|Best Director]] || ''[[Star Wars (film)|Star Wars]]'' || {{nom}}
+|-
+| [[Academy Award for Best Writing (Original Screenplay)|Best Writing]] || ''Star Wars'' || {{nom}}
+|-
+| [[Evening Standard British Film Award]] || Best Film || ''Star Wars''|| {{won}}
+|-
+| [[Golden Globe Award]] || [[Golden Globe Award for Best Director|Best Director]] || ''Star Wars'' || {{nom}}
+|-
+| rowspan="2"|[[Saturn Award]] || [[Saturn Award for Best Director|Best Director]] || ''Star Wars'' || {{won}}
+|-
+| [[Saturn Award for Best Writing|Best Writing]] || ''Star Wars'' || {{won}}
+|-
+| 1980 || [[Hugo Award]] || Best Dramatic Presentation &lt;small&gt;Shared with [[Philip Kaufman]], [[Lawrence Kasdan]], [[Steven Spielberg]]&lt;/small&gt; || ''[[Raiders of the Lost Ark]]'' || {{won}}
+|-
+| rowspan="2"|1983 || [[Hugo Award]] || Best Dramatic Presentation &lt;small&gt;Shared with [[Lawrence Kasdan]] and [[Richard Marquand]]&lt;/small&gt; || ''[[Return of the Jedi]]'' || {{won}}
+|-
+| [[Saturn Award]] || [[Saturn Award for Best Writing|Best Writing]] || ''Return of the Jedi'' || {{nom}}
+|-
+| 1988 || [[Golden Raspberry Award]] || [[Golden Raspberry Award for Worst Screenplay|Worst Screenplay]] || ''[[Willow (film)|Willow]]'' || {{nom}}
+|-
+| 1990 || [[Hugo Award]] || Best Dramatic Presentation &lt;small&gt;Shared with [[Jeffrey Boam]], [[Menno Meyjes]], [[Philip Kaufman]] and [[Steven Spielberg]]&lt;/small&gt; || ''[[Indiana Jones and the Last Crusade]]'' || {{won}}
+|-
+| rowspan="4"|1999 || rowspan="3"|[[Golden Raspberry Award]] || [[Golden Raspberry Award for Worst Director|Worst Director]] || ''[[Star Wars: Episode I  The Phantom Menace]]'' || {{nom}}
+|-
+| [[Golden Raspberry Award for Worst Picture|Worst Picture]] || ''Star Wars Episode I: The Phantom Menace'' || {{nom}}
+|-
+| [[Golden Raspberry Award for Worst Screenplay|Worst Screenplay]] || ''Star Wars Episode I: The Phantom Menace'' || {{nom}}
+|-
+| [[Saturn Award]] || [[Saturn Award for Best Director|Best Director]] || ''Star Wars Episode I: The Phantom Menace'' || {{nom}}
+|-
+| rowspan="4"|2002 || rowspan="3"|[[Golden Raspberry Award]] || [[Golden Raspberry Award for Worst Director|Worst Director]] || ''[[Star Wars: Episode II  Attack of the Clones]]'' || {{nom}}
+|-
+| [[Golden Raspberry Award for Worst Picture|Worst Picture]] &lt;small&gt;Shared with [[Rick McCallum]]&lt;/small&gt; || ''Star Wars Episode II: Attack of the Clones'' || {{nom}}
+|-
+| [[Golden Raspberry Award for Worst Screenplay|Worst Screenplay]] || ''Star Wars Episode II: Attack of the Clones'' || {{won}}
+|-
+| [[Saturn Award]] || [[Saturn Award for Best Director|Best Director]] || ''Star Wars Episode II: Attack of the Clones'' || {{nom}}
+|-
+| rowspan="5"|2005 || rowspan="2"|[[Empire Award]] || [[Empire Award for Best Film|Best Film]] || ''[[Star Wars: Episode III  Revenge of the Sith]]'' || {{nom}}
+|-
+| [[Empire Award for Best Sci-Fi/Fantasy|Best Sci-Fi/Fantasy]] || ''Star Wars Episode III: Revenge of the Sith'' || {{won}}
+|-
+| [[MTV Movie Award]] || Best International Movie || ''Star Wars Episode III: Revenge of the Sith'' || {{nom}}
+|-
+| rowspan="2"|[[Saturn Award]] || [[Saturn Award for Best Director|Best Director]] || ''Star Wars Episode III: Revenge of the Sith'' || {{nom}}
+|-
+| [[Saturn Award for Best Writing|Best Writing]] || ''Star Wars Episode III: Revenge of the Sith'' || {{nom}}
+|}
+
+==Filmography==
+{{Main|George Lucas filmography}}
+
+==See also==
+{{Portal bar |Film in the United States|Biography|Star Wars|Speculative fiction }} &lt;!-- delete "bar" if/when there are enough ordinary See also --&gt;
+
+==References==
+'''Explanatory notes'''
+{{notelist |60em |notes=
+{{efn|name=sfhof|1=
+After inducting 36 fantasy and science fiction writers and editors from 1996 to 2004, the [[EMP Museum#Science Fiction and Fantasy Hall of Fame|Science Fiction and Fantasy Hall of Fame]] dropped "fantasy" and made non-literary contributors eligible.&lt;ref name="sfhof-old"/&gt; Film-maker Steven Spielberg was the [[List of awards and nominations received by Steven Spielberg#Other lifetime honors|inaugural "Film, Television and Media" inductee]] in 2005; Lucas the second in 2006.&lt;br&gt;
+Previously Lucas had received a special award at the 1977 World Science Fiction Convention (for ''Star Wars'') and annual professional achievement awards voted by fantasy fans in 1981 and 1982.&lt;ref name=SFAwards/&gt;&lt;!-- this general source does not credit Lucas with any of the 1980/83/90 shared Hugo Award for Best Dramatic Presentation --&gt;
+}}
+}}
+
+'''Citations'''
+{{Reflist|30em |refs=
+&lt;!-- SF awards refs --&gt;
+&lt;ref name=sfhof2006&gt;
+{{cite web |url=http://www.sfhomeworld.org/make_contact/article.asp?articleID=239 |archive-url=https://archive.is/20060426115756/http://www.sfhomeworld.org/make_contact/article.asp?articleID=239 |archive-date=April 26, 2006 |title="Presenting the 2006 Hall of Fame Inductees" |dead-url=yes |accessdate=August 19, 2016}}. Press release March 15, 2006. Science Fiction Museum (''sfhomeworld.org''). Archived April 26, 2006. Retrieved April 10, 2013.&lt;/ref&gt;
+&lt;ref name="sfhof2006-b"&gt;
+[http://cohenside.blogspot.com/2006/05/science-fiction-hall-of-fame.html Science Fiction Hall of Fame]. Monday, May 15, 2006. The Cohenside. Retrieved December 26, 2011.&lt;/ref&gt;
+&lt;ref name="sfhof-old"&gt;
+[http://www.midamericon.org/halloffame/ "Science Fiction and Fantasy Hall of Fame"] {{webarchive |url=https://web.archive.org/web/20130521070009/http://www.midamericon.org/halloffame/ |date=May 21, 2013 }}. Mid American Science Fiction and Fantasy Conventions, Inc. Retrieved April 10, 2013. This was the official website of the hall of fame to 2004.&lt;/ref&gt;
+&lt;ref name=SFAwards&gt;
+[http://www.locusmag.com/SFAwards/Db/NomDrama12.html#3229 "Lucas, George"] {{webarchive|url=https://web.archive.org/web/20021110051319/http://www.locusmag.com/SFAwards/Db/NomDrama12.html |date=November 10, 2002 }}. ''The Locus Index to SF Awards: Index of Dramatic Nominees''. [[Locus Publications]]. Retrieved April 10, 2013.&lt;/ref&gt;
+}}
+
+'''Sources'''
+* {{cite book|last=Kaminski|first=Michael |date=2008|title=The Secret History of Star Wars |publisher=Legacy Books Press; |isbn=978-0978465230|ref=kaminski}}
+* {{cite book|last=Rinzler | first=J.W.| title=The Making of Star Wars: The Definitive Story Behind the Original Film| publisher=LucasBooks |date= 2007|isbn=978-0345494764|ref=rinzler}}
+
+==Further reading==
+* {{cite book| title=George Lucas: Interviews| editor-first=Sally|editor-last=Kline| publisher=[[University Press of Mississippi]]| year= 1999| isbn= 978-1578061259}}
+* {{cite book|last=Hearn|first= Marcus| title=The Cinema of George Lucas| publisher=[[Harry N. Abrams]]| year= 2005|isbn = 978-0810949683}}
+* {{cite book|last=Rubin|first=Michael|title=Droidmaker: George Lucas and the Digital Revolution| publisher=Triad Publishing Company| year= 2005| isbn=978-0937404676}}
+
+==External links==
+{{Wikiquote}}
+{{Commons category}}
+{{wikisource|Author:George Lucas}}
+* {{Britannica|350486}}
+* {{sfhof|943|George Lucas}}
+* {{IMDb name|184}}
+* {{Allrovi/person|100308}}
+* {{isfdb name}}
+* [https://web.archive.org/web/20040405085412/http://www.lucasfilm.com/inside/bio/georgelucas.html George Lucas biography] at Lucasfilm.com
+* [https://web.archive.org/web/20151104183103/http://www.wobi.com/speakers/george-lucas-1 George Lucas] at World of Business Ideas
+
+{{George Lucas}}
+{{Lucasfilm}}
+{{Star Wars}}
+{{Navboxes
+| title = Awards for George Lucas| list =
+{{Thalberg Award}}
+{{AFI Life Achievement Award}}
+{{BAFTA Los Angeles Britannia Awards}}
+{{Kennedy Center Honorees 2010s}}
+{{MTV Movie Award for Best Action Sequence}}
+{{National Society of Film Critics Award for Best Screenplay}}
+{{Saturn Award for Best Director}}
+{{Saturn Award for Best Writing 19731990}}
+}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Lucas, George}}
+[[Category:George Lucas|*]]
+[[Category:1944 births]]
+[[Category:American art collectors]]
+[[Category:American billionaires]]
+[[Category:American Buddhists]]
+[[Category:American chief executives]]
+[[Category:American Cinema Editors]]
+[[Category:American cinematographers]]
+[[Category:American entertainment industry businesspeople]]
+[[Category:American film directors]]
+[[Category:American film editors]]
+[[Category:American film producers]]
+[[Category:American male film actors]]
+[[Category:American male novelists]]
+[[Category:American male screenwriters]]
+[[Category:American Methodists]]
+[[Category:American science fiction writers]]
+[[Category:American people of German descent]]
+[[Category:American people of Swiss-German descent]]
+[[Category:American people of English descent]]
+[[Category:American people of Scottish descent]]
+[[Category:American speculative fiction artists]]
+[[Category:Businesspeople from California]]
+[[Category:Cinema of the San Francisco Bay Area]]
+[[Category:English-language film directors]]
+[[Category:Fellows of the American Academy of Arts and Sciences]]
+[[Category:Film directors from California]]
+[[Category:Film producers from California]]
+[[Category:Giving Pledgers]]
+[[Category:Kennedy Center honorees]]
+[[Category:Lucasfilm people]]
+[[Category:Mythopoeic writers]]
+[[Category:People from Marin County, California]]
+[[Category:People from Modesto, California]]
+[[Category:Science fiction artists]]
+[[Category:Science fiction fans]]
+[[Category:Science fiction film directors]]
+[[Category:Science Fiction Hall of Fame inductees]]
+[[Category:Special effects people]]
+[[Category:USC School of Cinematic Arts alumni]]
+[[Category:United States National Medal of Arts recipients]]
+[[Category:Living people]]</text>
+      <sha1>q9ga6y960vtv55rqjnv5y6ndbrxnobw</sha1>
+    </revision>
+  </page>
+</mediawiki>

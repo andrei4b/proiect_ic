@@ -1,0 +1,178 @@
+--scientific
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Alan Guth</title>
+    <ns>0</ns>
+    <id>454498</id>
+    <revision>
+      <id>825718728</id>
+      <parentid>824539337</parentid>
+      <timestamp>2018-02-15T00:33:44Z</timestamp>
+      <contributor>
+        <username>Joefromrandb</username>
+        <id>13568690</id>
+      </contributor>
+      <comment>Clean up</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="19181">{{Infobox scientist
+| name = Alan Guth
+| image = AlanGuthCambridge.jpg
+| caption = Alan Guth at [[Trinity College, Cambridge]], 2007
+| birth_date = {{Birth date and age|1947|2|27|df=yes}}
+| birth_place = [[New Brunswick, New Jersey]]
+| death_date = 
+| death_place = 
+| residence = [[United States]]
+| nationality = American
+| field = [[Cosmology]], [[theoretical physics]], [[particle physics]]
+| work_institution =[[Princeton University|Princeton]]&lt;br&gt;[[Columbia University|Columbia]]&lt;br&gt;[[Cornell University|Cornell]]&lt;br&gt;[[Stanford Linear Accelerator]]&lt;br&gt;[[Massachusetts Institute of Technology|MIT]]
+| alma_mater = [[Massachusetts Institute of Technology]]
+| doctoral_advisor = [[Francis E. Low]]
+| doctoral_students =
+| influences = [[Robert H. Dicke]]
+| influenced =
+| known_for  = [[Cosmic inflation]]
+| societies = [[National Academy of Sciences]]
+[[American Academy of Arts and Sciences]] 
+| prizes = [[MIT School of Science Prize]] for Undergraduate Teaching&lt;br&gt;
+[[Oscar Klein Medal]] &lt;small&gt;(1991)&lt;/small&gt;&lt;br&gt;
+[[Benjamin Franklin Medal (Franklin Institute)|Benjamin Franklin Medal]] for Physics of the [[Franklin Institute]]&lt;br&gt;
+[[Isaac Newton Medal]] of [[Institute of Physics]] &lt;small&gt;(2009)&lt;/small&gt;&lt;br&gt;
+[[Dirac Prize]] of the International Center for Theoretical Physics in Trieste&lt;br&gt;
+[[Gruber Prize in Cosmology]] &lt;small&gt;(2004)&lt;/small&gt;&lt;br&gt;
+[[Fundamental Physics Prize]] &lt;small&gt;(2012)&lt;/small&gt;&lt;br&gt;
+[[Kavli Prize]] &lt;small&gt;(2014)&lt;/small&gt;
+| spouse = 
+| children = 
+| website =  
+| footnotes = 
+}}
+{{Cosmology|scientists}}
+'''Alan Harvey Guth''' ({{IPAc-en|g|u|}}; born February 27, 1947) is an American [[theoretical physicist]] and [[cosmologist]]. Guth has researched [[elementary particle]] theory (and how particle theory is applicable to the early [[universe]]). He is [[Victor Weisskopf]] Professor of Physics in the [[Massachusetts Institute of Technology]]. Along with [[Alexei Starobinsky]] and [[Andrei Linde]], he won the 2014 [[Kavli Prize]] for pioneering the theory of cosmic inflation.&lt;ref name=KavliPrize&gt;{{cite web|title=2014 Astrophysics Citation|url=http://www.kavlifoundation.org/2014-astrophysics-citation|website=The Kavli Foundation|publisher=The Kavli Foundation|accessdate=27 July 2014}}&lt;/ref&gt;
+&lt;!-- According to some sources, Guth is the originator of the [[cosmic inflation|inflationary universe theory]];&lt;ref&gt;[http://www.pbs.org/wnet/hawking/mysteries/html/guth_1.html PBS Unsolved Mysteries]&lt;/ref&gt;&lt;ref&gt;[https://www.nytimes.com/2006/03/16/science/16cnd-cosmic.html?pagewanted=1&amp;sq&amp;st=cse%22alan%20guth%22&amp;scp=3 ''New York Times'', 16 March 2006. "Scientists Get Glimpse of First Moments After Beginning of Time"]&lt;/ref&gt; however, according to other sources, the originator was [[Alexei Starobinsky]].&lt;ref name=LindeSciAm&gt;[http://www.mukto-mona.com/science/physics/Inflation_lself_prod_inde.pdf The Self-Reproducing Inflationary Universe] by Andrei Linde, Scientific American, Volume 9, Issue 1 (1998) 98-104.&lt;/ref&gt;&lt;ref name="JETP-19791205"&gt;{{cite journal |last=Starobinskii |first=A.A. |title=Spectrum of relict gravitational radiation and the early state of the universe  |url=http://www.jetpletters.ac.ru/ps/1370/article_20738.shtml |date=5 December 1979 |journal=[[Journal of Experimental and Theoretical Physics|JETP]] |volume=30 |issue=11 |page=682 |format=http://www.jetpletters.ac.ru/ps/1370/article_20738.pdf |accessdate=14 June 2014 }}&lt;/ref&gt; --&gt;
+
+He graduated from MIT in 1968 in physics and stayed to receive a master's and a doctorate, also in physics.
+
+As a junior particle physicist, Guth developed the idea of [[cosmic inflation]] in 1979 at [[Cornell University|Cornell]] and gave his first seminar on the subject in January 1980.&lt;ref&gt;{{citation|last1=Guth|first1=Alan H.|title=The Inflationary Universe|publisher=Perseus Books|location= Reading, Massachusetts|date=1997|isbn=0-201-14942-7}}&lt;/ref&gt;&lt;ref name="SLAC"&gt;[[Stanford Linear Accelerator Center|SLAC]] seminar, "10-35 seconds after the Big Bang", 23 January 1980. see Guth (1997), pg 186&lt;/ref&gt; Moving on to [[Stanford University]] Guth formally proposed the idea of cosmic inflation in 1981, the idea that the nascent universe passed through a phase of exponential expansion that was driven by a positive [[vacuum energy]] density (negative vacuum pressure). The results of the [[WMAP]] mission in 2006 made the case for cosmic inflation very compelling.
+
+==Early life==
+Guth was born in [[New Brunswick, New Jersey]] in 1947 and grew up across the [[Raritan River]] in [[Highland Park, New Jersey|Highland Park]], where he attended the local public schools.&lt;ref&gt;[https://www.aps.org/programs/honors/prizes/prizerecipient.cfm?last_nm=Guth&amp;first_nm=Alan&amp;year=1992 1992 Julius Edgar Lilienfeld Prize Recipient - Alan H. Guth], [[American Physical Society]]. Accessed January 23, 2018. "Professor Alan Guth was born in New Brunswick, New Jersey, in 1947. He grew up and attended the public schools in Highland Park, NJ, but skipped his senior year of high school to begin studies at the Massachusetts Institute of Technology."&lt;/ref&gt; After his junior year at [[Highland Park High School (New Jersey)|Highland Park High School]], he left school and enrolled in a five-year program at the [[Massachusetts Institute of Technology]] where he could get his [[bachelor's degree|bachelor's]] and [[master's degree|master's]] after two more years.&lt;ref&gt;[https://books.google.com/books?id=yooYAAAAIAAJ&amp;q=highland+park+high+school+Alan+Guth ''Current Biography Yearbook, Volume 48''], p. 219. [[H. W. Wilson Company]], 1988. Accessed January 23, 2018. "At the end of his junior year he left Highland Park (New Jersey) High School to enter the Massachusetts Institute of Technology, where his extracurricular activities included, as they had in high school, debating, track, and the mathematics club."&lt;/ref&gt; Guth obtained a bachelors and masters degree in 1969 and a doctorate in 1972. In 1971, he married Susan Tisch, his high school sweetheart. They have two children: [[Larry Guth|Lawrence]] (born 1977) and Jennifer (born 1983).
+
+Guth was at [[Princeton University|Princeton]] 1971 to 1974, [[Columbia University|Columbia]] 1974 to 1977, [[Cornell University|Cornell]] 1977 to 1979, and the [[Stanford Linear Accelerator Center]] (SLAC) 1979 to 1980. Like many other young physicists of the [[baby boom]] era, he had a hard time finding a permanent job, because there were far fewer assistant professorships than there were young scientists seeking such jobs, a phenomenon that has been referred to as the generation of lost scholars.&lt;ref&gt;(1978) Carnegie Council on Policy Studies in Higher Education, "Preserving a Lost Generation: Policies to Assure a Steady Flow of  Young Scholars Until the Year 2000";  http://pages.stern.nyu.edu/~rradner/publishedpapers/42PreservingLostGeneration.pdf  Downloaded 2011-07-09&lt;/ref&gt;
+
+At the start of his career, Guth studied [[particle physics]], not [[physical cosmology]]. Guth's earliest work at Princeton was in the study of [[quark]]s, the elementary particles that make up protons and neutrons. At Columbia, Guth studied [[grand unification]] (GUTs), focusing on the [[phase transition]]s generated by [[spontaneous symmetry breaking]].  Most GUTs predict the generation of [[magnetic monopoles]] during spontaneous symmetry breaking, but none had ever been detected - the [[monopole problem]].
+
+==Inflationary theory==
+{{BLP sources section|date=July 2014}}
+Guth's first step to developing his theory of inflation occurred at Cornell in 1978, when he attended a lecture by [[Robert Dicke]] about the [[flatness problem]] of the universe.&lt;ref&gt;[[Timothy Ferris]].  [https://books.google.com/books?id=k0vCHGD5Y00C&amp;pg=PA356 ''Coming of Age in the Milky Way'', p. 356]&lt;/ref&gt; Dicke explained how the flatness problem showed that something significant was missing from the [[Big Bang]] theory at the time. The fate of the universe depended on its density. If the density of the universe was large enough, it would collapse into a [[Gravitational singularity|singularity]], and if the actual density of the matter in the cosmos was lower than the critical density, the universe would increasingly get much bigger.
+
+The next part in Guth's path came when he heard a lecture by [[Steven Weinberg]] in early 1979.&lt;ref name="Swidey-2014"&gt;{{cite web|last1=Swidey|first1=Neil|title=Alan Guth: What made the Big Bang bang|url=https://www.bostonglobe.com/magazine/2014/05/02/alan-guth-what-made-big-bang-bang/RmI4s9yCI56jKF6ddMiF4L/story.html|publisher=The Boston Globe|accessdate=14 July 2015|date=2 May 2014}}&lt;/ref&gt; Weinberg talked in two lectures about the [[Grand Unified Theory]] (GUT) that had been developed since 1974, and how it could explain the huge amount of matter in the universe compared to the amount of antimatter. The GUT explained all the fundamental forces known in science except for gravity. It established that in very hot conditions, such as those after the Big Bang, electromagnetism, the strong nuclear force, and the weak nuclear force were united to form one force. Weinberg also was the one who emphasized the idea that the universe goes through phase transitions, similar to the phases of matter, when going from high energy to low energy. Weinbergs discussion of why matter is so dominant over anti-matter showed Guth how precise calculations about particles could be obtained by studying the first few seconds of the universe.
+
+Guth decided to solve this problem by suggesting a [[supercooling]] during a delayed phase transition. This seemed very promising for solving the [[magnetic monopole]] problem. By the time they came up with that, Guth had gone to the [[SLAC National Accelerator Laboratory|Stanford Linear Accelerator Center]] (SLAC) for a year, but Guth had been talking to [[Henry Tye]] back and forth. Tye suggested that they check that the expansion of the universe would not be affected by the supercooling. In the supercooled state, a [[false vacuum]] is produced. The false vacuum is a vacuum in the sense that it is the state of the lowest possible density of energy; it is false in the sense that it is not a permanent state of being. False vacuums decay, and Guth was to find that the decay of the false vacuum at the beginning of the universe would produce amazing results, namely the exponential expansion of space.  This solved the [[monopole problem]], since the expansion dilutes the monopole density.
+
+Guth realized from his theory that the reason the universe appears to be flat was that it was fantastically big, just the same way the spherical Earth appears flat to those on its surface. The observable universe was actually only a very small part of the actual universe. Traditional Big Bang theory found values of [[Density parameter#Density parameter|omega]] near one to be puzzling, because any deviations from one would quickly become much, much larger. In inflation theory, no matter where omega starts, it would be driven towards equal to one, because the universe becomes so huge. In fact, a major prediction of inflationary theory is that omega will be found to be one.
+
+Two weeks later, Guth heard colleagues discussing something called the [[horizon problem]]. The microwave background radiation discovered by [[Arno Penzias]] and [[Robert Woodrow Wilson]] appeared extremely uniform, with almost no variance. This seemed very paradoxical because, when the radiation was released about 300,000 years after the Big Bang, the observable universe had a diameter of 90 million [[light-year]]s. There was no time for one end of the cosmos to communicate with the other end, because energy can not move faster than the speed of light. The paradox was resolved, as Guth soon realized, by the inflation theory. Since inflation started with a far smaller amount of matter than the Big Bang had presupposed, an amount so small that all parts would have been in touch with each other. The universe then inflated at billion times the speed of light so the homogeneity remained unbroken. The universe after inflation would have been very uniform even though the parts were not still in touch with each other.
+
+Guth first made public his ideas on inflation in a seminar at SLAC in January 1980. He ignored magnetic monopoles because they were based on assumptions of GUT, which was outside the scope of the speech. In August, he submitted his paper, entitled "Inflationary universe: A possible solution to the horizon and flatness problems" to the journal ''[[Physical Review]]''.&lt;ref name="Inflationary Universe"&gt;{{cite journal|last1=Guth|first1=Alan H.|title=Inflationary universe: A possible solution to the horizon and flatness problems|journal=Physical Review D|volume=23|issue=2|pages=347356|doi=10.1103/PhysRevD.23.347|bibcode=1981PhRvD..23..347G}}&lt;/ref&gt;  In this paper Guth postulated that the inflation of the universe could be explained if the universe were supercooled 28 orders of magnitude below the critical temperatures required for a phase change.
+
+In December 1981, Guth read a paper from Moscow physicist [[Andrei Linde]] saying that the whole universe is within just one bubble, so nothing is destroyed by wall collisions. This conclusion was made using a [[Higgs field]] with an energy graph that was originally proposed by [[Sidney Coleman]] and [[Erick Weinberg]]. Guth discussed this with Linde, who had independently been working on bubble inflation, but without considering the flatness problem. Linde and Guth eventually exchanged papers on the subject.
+
+By 1983 Guth had published a paper describing how his supercooled-universe scenario was not ideal, as the "triggering mechanism" to exit such a state would require "extreme fine tuning of parameters" and felt a more natural solution was required.&lt;ref name=KavliPrize/&gt;&lt;ref name=LindeSciAm&gt;[http://www.mukto-mona.com/science/physics/Inflation_lself_prod_inde.pdf The Self-Reproducing Inflationary Universe] by Andrei Linde, Scientific American, Volume 9, Issue 1 (1998) 98-104.&lt;/ref&gt;&lt;ref&gt;{{cite journal|last1=Guth|first1=Alan H.|last2=Weinberg|first2=Erick J.|title=Could the universe have recovered from a slow first-order phase transition?|journal=Nuclear Physics B|volume=212|issue=2|pages=321364|doi=10.1016/0550-3213(83)90307-3|bibcode = 1983NuPhB.212..321G }}&lt;/ref&gt; However, this did not deter him from the belief that the universe expanded exponentially in a vacuum in its early lifetime.&lt;ref&gt;{{cite journal|last1=GUTH|first1=ALAN H.|title=The New Inflationary Universe|journal=Annals of the New York Academy of Sciences|volume=422|issue=1 Eleventh Texa|pages=114|doi=10.1111/j.1749-6632.1984.tb23336.x|bibcode = 1984NYASA.422....1G }}&lt;/ref&gt;
+
+==Current life==
+In the past Guth has studied lattice gauge theory, magnetic monopoles and instantons, [[J. Richard Gott#Exotic matter time travel theories|Gott time machines]], and a number of other topics in theoretical physics.  Much of Guth's current work includes extrapolating density fluctuations arising from various versions of inflation, to test against observations, and investigating inflation in "[[brane world]]" models.
+
+Guth is the [[Victor Frederick Weisskopf|Victor F. Weisskopf]] Professor of Physics at the Massachusetts Institute of Technology (MIT).  So far, he has written about 60 technical papers related to the effects of inflation and its interactions with particle physics.  He has won many awards and medals, including the  Medal of the International Center for Theoretical Physics, [[Trieste, Italy]], with [[Andrei Linde]] and [[Paul Steinhardt]] and the [[Eddington Medal]] in 1996, and the [[Isaac Newton Medal|2009 Isaac Newton Medal]], awarded by the British [[Institute of Physics]].
+
+In 2005 Guth won the award for the messiest office in Boston, organised by the [[Boston Globe]]. He was entered by colleagues who hoped it would shame him into tidying up,&lt;ref&gt;[https://web.archive.org/web/20160304062904/http://www.boston.com/realestate/galleries/springsweep/14.htm Boston Globe photos of winning entry]&lt;/ref&gt; but Guth is quite proud of the award.&lt;ref&gt;[[Alexander Vilenkin]], ''Many Worlds in One: The Search for Other Universes'', {{ISBN|978-0-8090-9523-0}}, page 51 for photo'.&lt;/ref&gt;
+
+==Honors and awards==
+In July 2012, he was an inaugural awardee of the [[Fundamental Physics Prize]], the creation of physicist and internet entrepreneur, [[Yuri Milner]].&lt;ref&gt;[http://fundamentalphysicsprize.org/news.html New annual US$3 million Fundamental Physics Prize recognizes transformative advances in the field] {{webarchive|url=https://web.archive.org/web/20120803211628/http://www.fundamentalphysicsprize.org/news.html |date=2012-08-03 }}, FPP, accessed 1 August 2012&lt;/ref&gt; In 2014, he was a co-recipient of the [[Kavli Prize]] awarded by the [[Norwegian Academy of Science and Letters]] with [[Andrei Linde]] of [[Stanford University]], and [[Alexei Starobinsky]] of the [[Landau Institute for Theoretical Physics]].&lt;ref name=KavliPrize /&gt;&lt;ref name=AAAS&gt;{{cite web|title=Nine Scientists Share Three Kavli Prizes|url=http://news.sciencemag.org/people-events/2014/05/nine-scientists-share-three-kavli-prizes}}&lt;/ref&gt;
+
+==Publications==
+* {{cite book|author1=Guth, Alan|authorlink1=Alan Guth|title=[[The Inflationary Universe|The Inflationary Universe: The Quest for a New Theory of Cosmic Origins]]|date=1997|publisher=Perseus Books|isbn=0201328402}}
+* {{cite web|author1=Guth, Alan|authorlink1=Alan Guth|title=Inflation and the New Era of High-Precision Cosmology|url=http://web.mit.edu/physics/news/physicsatmit/physicsatmit_02_cosmology.pdf|website=physics@mit|publisher=MIT Department of Physics|format=PDF|date=Fall 2002}}
+
+==See also==
+*[[MIT Center for Theoretical Physics]]
+*[[MIT Physics Department]]
+
+==References==
+{{Reflist|30em}}
+
+==External links==
+{{wikiquote}}
+*[http://web.mit.edu/physics/people/faculty/guth_alan.html Alan H. Guth's webpage at MIT]
+*[http://ctp.lns.mit.edu/ MIT Center for Theoretical Physics]
+*Alan Guth - "''[https://web.archive.org/web/20120414223036/http://pauli.physics.lsa.umich.edu/w/arch/som/sto2001/Guth/real/n001.htm Eternal inflation]: Successes and questions''"
+*[http://www.symmetrymag.org/cms/?pid=1000045 The Growth of Inflation], Symmetry magazine, December 2004/January 2005
+*[http://discovermagazine.com/2002/apr/cover/?searchterm=Guth%27s%20Grand%20Guess Guth's Grand Guess], [[Discover (magazine)|Discover]] magazine, April 2002
+*[https://web.archive.org/web/20081121174617/http://rowinphoto.com/people/guth.html  Additional photo]
+*[https://arxiv.org/abs/gr-qc/0110012 Inflationary spacetimes are not past-complete]
+
+{{Breakthrough Prize laureates}}
+{{Kavli Prize laureates}}
+{{Authority control}}
+
+{{DEFAULTSORT:Guth, Alan}}
+[[Category:1947 births]]
+[[Category:Living people]]
+[[Category:American astronomers]]
+[[Category:American physicists]]
+[[Category:Cosmologists]]
+[[Category:Massachusetts Institute of Technology faculty]]
+[[Category:Members of the United States National Academy of Sciences]]
+[[Category:Theoretical physicists]]
+[[Category:Jewish American scientists]]
+[[Category:People from Highland Park, New Jersey]]
+[[Category:People from New Brunswick, New Jersey]]
+[[Category:Members of the Norwegian Academy of Science and Letters]]</text>
+      <sha1>87vph0m20v72u6fdgqdaxhjyrvde2cv</sha1>
+    </revision>
+  </page>
+</mediawiki>

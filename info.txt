@@ -1,0 +1,13 @@
+relatives, brother, sister, youngest, oldest, child, sibling
+nationality, born, lived, left, moved, migrate, migration, citizen, travel, jew, ethnic, foreign
+multilingual, multilingual, language, speak, foreign
+schooling, school, education, home, self, self taught
+school, teach, authorit, class
+graduating, PhD, diploma, college, drop out, dropping out, left school
+reading, read, books
+parents, parents, father, mother, family, adopt, died, profession, occupation
+music, music, play, listen, piano, violin, flute, guitar
+personality, introvert, extrovert, lone, solitary, social, outsider
+health issues, health, depression, suffer, hospital, drug, medicine, ill, recover
+sports, play, sport
+abuse, abuse 

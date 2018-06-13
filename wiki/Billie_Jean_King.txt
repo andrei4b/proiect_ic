@@ -1,0 +1,713 @@
+--sport
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Billie Jean King</title>
+    <ns>0</ns>
+    <id>113080</id>
+    <revision>
+      <id>844375524</id>
+      <parentid>844375507</parentid>
+      <timestamp>2018-06-04T14:26:57Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/169.244.94.220|169.244.94.220]] to version by Wolbo. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3399913) (Bot)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="126672">{{about||the Michael Jackson song|Billie Jean|the 1985 film|The Legend of Billie Jean}}
+{{pp-move-indef}}
+{{Use mdy dates|date=May 2018}}
+{{Infobox person
+| name                  = Billie Jean King
+| image                 = Billie Jean King, 2016 (cropped).jpg
+| caption               = Billie Jean King in 2016
+|birth_name=Billie Jean Moffitt
+| birth_date            = {{Birth date and age|mf=yes|1943|11|22}}
+| birth_place           = [[Long Beach, California|Long Beach]], [[California]], US
+| height                = {{convert|1.64|m|ftin|abbr=on}}
+| module = 
+  {{Infobox tennis biography | embed=yes
+| country               = United States
+| college               = [[California State University, Los Angeles]]
+| turnedpro             = 1968
+| retired               = 1983
+| plays                 = Right-handed (one handed-backhand)
+| careerprizemoney      = [[United States Dollar|US$]]1,966,487&lt;ref name="sonyericssonwtatour"&gt;{{cite web |url=http://www.sonyericssonwtatour.com/page/Player/Stats/0,,12781~4011,00.html |title=Women's Tennis Association biography of Billie Jean King |publisher=Sonyericssonwtatour.com |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20090705094136/http://www.sonyericssonwtatour.com/page/Player/Stats/0%2C%2C12781~4011%2C00.html |archivedate=July 5, 2009 |df=mdy-all }}&lt;/ref&gt;
+| tennishofyear         = 1987
+| tennishofid           = billie-jean-king
+| singlesrecord         = 695155 (81.76%) 
+| singlestitles         = 129 &lt;small&gt;(67 during [[Tennis open era|open era]])&lt;/small&gt;
+| highestsinglesranking = No. '''1''' (1966)
+| AustralianOpenresult  = '''W''' ([[1968 Australian Championships  Women's Singles|1968]])
+| FrenchOpenresult      = '''W''' ([[1972 French Open  Women's Singles|1972]])
+| Wimbledonresult       = '''W''' ([[1966 Wimbledon Championships  Women's Singles|1966]], [[1967 Wimbledon Championships  Women's Singles|1967]], [[1968 Wimbledon Championships  Women's Singles|1968]], [[1972 Wimbledon Championships  Women's Singles|1972]], [[1973 Wimbledon Championships  Women's Singles|1973]], [[1975 Wimbledon Championships  Women's Singles|1975]])
+| USOpenresult          = '''W''' ([[1967 U.S. National Championships (tennis)|1967]], [[1971 US Open  Women's Singles|1971]], [[1972 US Open  Women's Singles|1972]], [[1974 US Open  Women's Singles|1974]])
+| doublesrecord         = 8737 &lt;small&gt;(as shown on WTA website)&lt;/small&gt;&lt;ref name = "sonyericssonwtatour" /&gt;
+| doublestitles         =
+| highestdoublesranking = No. '''1''' (1967)
+| AustralianOpenDoublesresult       = F ([[1965 Australian Championships (tennis)|1965]], [[1969 Australian Open|1969]])
+| FrenchOpenDoublesresult           = '''W''' ([[1972 French Open|1972]])
+| WimbledonDoublesresult            = '''W''' ([[1961 Wimbledon Championships|1961]], [[1962 Wimbledon Championships|1962]], [[1965 Wimbledon Championships|1965]], [[1967 Wimbledon Championships|1967]], [[1968 Wimbledon Championships|1968]], [[1970 Wimbledon Championships|1970]], [[1971 Wimbledon Championships|1971]], [[1972 Wimbledon Championships|1972]], [[1973 Wimbledon Championships|1973]], [[1979 Wimbledon Championships|1979]])
+| USOpenDoublesresult               = '''W''' ([[1964 U.S. National Championships (tennis)|1964]], [[1967 U.S. National Championships (tennis)|1967]], [[1974 US Open (tennis)|1974]], [[1978 US Open (tennis)|1978]], [[1980 US Open (tennis)|1980]])
+| Mixed                             = yes
+| mixedtitles                       = 11
+| mixedrecord                       = 
+| AustralianOpenMixedresult         = '''W''' ([[1968 Australian Championships (tennis)|1968]])
+| FrenchOpenMixedresult             = '''W''' ([[1967 French Championships (tennis)|1967]], [[1970 French Open|1970]])
+| WimbledonMixedresult              = '''W''' ([[1967 Wimbledon Championships|1967]], [[1971 Wimbledon Championships|1971]], [[1973 Wimbledon Championships|1973]], [[1974 Wimbledon Championships|1974]])
+| USOpenMixedresult                 = '''W''' ([[1967 U.S. National Championships (tennis)|1967]], [[1971 US Open (tennis)|1971]], [[1973 US Open (tennis)|1973]], [[1976 US Open (tennis)|1976]])
+| Team                              =yes
+| FedCupresult                      ='''W''' (1963, 1966, 1967, 1976)&lt;small&gt; (as player and captain)&lt;/small&gt;
+'''W''' (1977, 1978, 1979, 1996) &lt;small&gt;(as captain)&lt;/small&gt;
+}}
+|signature = File:Billie Jean King signature.png
+}}
+'''Billie Jean King''' (''ne'' '''Moffitt'''; born November 22, 1943) is an American former [[World number 1 women tennis players|World No. 1]] professional [[tennis player]]. King won 39 [[Grand Slam (tennis)|Grand Slam]] titles: 12 in singles, 16 in women's doubles, and 11 in mixed doubles. King won the singles title at the inaugural [[WTA Tour Championships]]. King often represented the United States in the [[Fed Cup|Federation Cup]] and the [[Wightman Cup]]. She was a member of the victorious United States team in seven Federation Cups and nine Wightman Cups. For three years, King was the United States' captain in the Federation Cup.
+
+King is an advocate for gender equality and has long been a pioneer for equality and social justice.&lt;ref&gt;{{cite web|url=https://www.ted.com/speakers/billie_jean_king|title=Billie Jean King  Speaker  TED|first=Billie Jean|last=King|publisher=}}&lt;/ref&gt; In 1973, at age 29, she won the "[[Battle of the Sexes (tennis)|Battle of the Sexes]]" tennis match against the 55-year-old [[Bobby Riggs]]. King was also the founder of the [[Women's Tennis Association]] and the [[Women's Sports Foundation]].
+
+Regarded by many in the sport as one of the greatest tennis players of all time,&lt;ref&gt;{{cite web|url=http://www.ibtimes.com/top-10-womens-tennis-players-all-time-where-does-serena-williams-rank-list-greatest-2073830|title=Top 10 Women's Tennis Players Of All-Time: Where Does Serena Williams Rank On List Of Greatest Ever?|publisher=International Business Times|author1=Jason Le Miere|date=August 28, 2015|accessdate=January 30, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.bbc.com/sport/tennis/38769292|title=Serena Williams: Is she your greatest female player of the Open era?|publisher=BBC Sport|date=January 28, 2017|accessdate=January 30, 2017}}&lt;/ref&gt;&lt;ref name="Who Is the Greatest Female Player Ever?"/&gt;&lt;ref name="ITHF biography"/&gt; King was inducted into the [[International Tennis Hall of Fame]] in 1987. The Fed Cup Award of Excellence was bestowed on King in 2010. In 1972, King was the joint winner, with [[John Wooden]], of the ''[[Sports Illustrated]]'' [[Sportsman of the Year]] award and was one of the ''[[Time (magazine)|Time]]'' Persons of the Year in 1975. King has also received the [[Presidential Medal of Freedom]] and the ''Sunday Times'' Sportswoman of the Year lifetime achievement award. King was inducted into the [[National Women's Hall of Fame]] in 1990, and in 2006, the [[USTA National Tennis Center]] in New York City was renamed the USTA Billie Jean King National Tennis Center.
+
+==Early life==
+King was born in [[Long Beach, California]], into a conservative [[Methodism|Methodist]] family, the daughter of Betty (ne Jerman), a housewife, and Bill Moffitt, a firefighter.&lt;ref name="Official Wimbledon profile of BJK"&gt;{{cite web | url=https://www.wimbledon.org/en_GB/about/history/billiejean_king.html | title=Official Wimbledon profile of Billie Jean King | accessdate=February 15, 2007 | deadurl=yes | archiveurl=https://web.archive.org/web/20070225034336/http://www.wimbledon.org/en_GB/about/history/billiejean_king.html | archivedate=February 25, 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=https://www.encyclopedia.com/article-1G2-2591304957/king-billie-jean-1943.html | title=King, Billie Jean (1943)  Women in World History: A Biographical Encyclopedia | publisher=Encyclopedia.com | accessdate=June 29, 2014}}&lt;/ref&gt; Billie Jean's family was athletic. Her mother excelled at swimming, her father played basketball, baseball and ran track.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man"&gt;{{Cite news|url=https://www.nytimes.com/2013/08/25/magazine/plays-tennis-like-a-man-speaks-out-like-billie-jean-king.html|title=Plays Tennis Like a Man, Speaks Out Like  Billie Jean King|last=Higdon|first=Hal|date=August 23, 2013|work=The New York Times|access-date=September 16, 2017|issn=0362-4331}}&lt;/ref&gt; Her younger brother, [[Randy Moffitt]], became a Major League Baseball pitcher, pitching for 12 years in the major leagues for the [[San Francisco Giants]], [[Houston Astros]], and [[Toronto Blue Jays]].&lt;ref&gt;{{cite web|url=https://www.baseball-reference.com/m/moffira01.shtml|title=Randy Moffitt Statistics|accessdate=February 15, 2007}}&lt;/ref&gt;&lt;ref&gt;[https://www.baseball-reference.com/m/moffira01.shtml Randy Moffitt Stats]. Baseball-Reference.com. Retrieved on May 20, 2018.&lt;/ref&gt; Billie Jean also excelled at baseball and softball as a child, playing shortstop at 10 years old on a team with girls 45 years older than her.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; The team went on to win the Long Beach softball championship.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt;
+
+Billie Jean switched from softball to tennis at age 11,&lt;ref name=":1"&gt;{{Cite news|url=https://www.womenofthehall.org/inductee/billie-jean-king/|title=King, Billie Jean  National Womens Hall of Fame|last=|first=|date=|work=National Womens Hall of Fame|access-date=September 15, 2017}}&lt;/ref&gt; on a suggestion from her parents, when Billie Jean was looking for a more ladylike sport.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; She saved her own money, $8, to buy her first racket.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; Billie Jean learned tennis on the many free public courts in Long Beach, taking advantage of the free lessons tennis professional [[Clyde Walker]] offered at those courts.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; One of the city's tennis facilities has subsequently been named the Billie Jean Moffitt King Tennis Center.&lt;ref&gt;{{cite web | url=https://www.longbeach.gov/park/park-and-facilities/directory/billie-jean-king-tennis-center/ | title=Billie Jean King Moffitt Tennis Center}}&lt;/ref&gt; As a kid playing in her first tennis tournaments, Billie Jean was often hindered by her aggressive playing style.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; [[Bob Martin (sportswriter)|Bob Martin]], sportswriter for the Long Beach, ''[[Press-Telegram]]'' wrote about Billie Jean's success in a weekly tennis column.{{citation needed|date=August 2017}}
+
+Billie Jean attended [[Long Beach Polytechnic High School]].&lt;ref&gt;{{cite web|url=https://www.kingsschools.org/pr_si-article.asp|title=Press Release  King's Schools|archiveurl=https://web.archive.org/web/20061224233102/http://kingsschools.org/pr_si-article.asp|archivedate=December 24, 2006|accessdate=February 15, 2007}}&lt;/ref&gt; After graduating, she attended [[California State University, Los Angeles]] (Cal State LA).&lt;ref name=":1" /&gt; Billie Jean did not graduate, leaving school in 1964 to focus on tennis.&lt;ref&gt;{{cite web|url=https://www.questia.com/read/121600472/game-set-match-billie-jean-king-and-the-revolution|title=Game, Set, Match: Billie Jean King and the Revolution in Women's Sports|last=Ware|first=Susuan|date=2011|website=www.questia.com|access-date=October 1, 2017}}&lt;/ref&gt;{{Rp|25}} While attending Cal State Billie Jean met [[Larry King (tennis)|Larry King]] in a library.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; The pair became engaged while still in school when Billie Jean was 20 and Larry 19 years old and married on September 17, 1965 in Long Beach.&lt;ref name=":4"&gt;{{Cite news|url=http://www.phillymag.com/articles/billie-jean-king-racquet-revolutionary/4/|title=Billie Jean King: Racquet Revolutionary  Page 4 of 5  Philadelphia Magazine|last=Hingston|first=Sandy|date=June 17, 2011|work=Philadelphia Magazine|access-date=September 30, 2017}}&lt;/ref&gt;
+
+==Career==
+[[File:Billie Jean King by Gage Skidmore.jpg|thumb|Billie Jean King speaking at an event in [[Des Moines, Iowa]]]]
+
+King's triumph at the French Open in 1972 made her only the fifth woman in tennis history to win the singles titles at all four Grand Slam events, a "career Grand Slam."{{efn|Five additional women have completed a career Grand Slam since King.}} King also won a career Grand Slam in mixed doubles. In women's doubles, only the Australian Open eluded her.
+
+King won a record 20 career titles at Wimbledon  six in singles, 10 in women's doubles, and four in mixed doubles.{{efn|[[Martina Navratilova]] also has 20 career titles at Wimbledon.}}
+
+King played 51 Grand Slam singles events from 1959 through 1983, reaching at least the semifinals in 27 and at least the quarterfinals in 40 of her attempts. King was the runner-up in six Grand Slam singles events. An indicator of King's mental toughness in Grand Slam singles tournaments was her 112 career record in deuce third sets, i.e., third sets that were tied 55 before being resolved. {{citation needed|date=November 2017}}
+
+King won 129 singles titles,&lt;ref&gt;{{cite book|last1=Nelson|first1=Murry R.|title=American Sports: A History of Icons, Idols, and Ideas [4 Volumes]: A History of Icons, Idols, and Ideas|date=May 23, 2013|publisher=ABC-CLIO|isbn=0313397538|page=665|url=https://books.google.com/?id=tfTXAQAAQBAJ&amp;pg=PA665&amp;lpg=PA665&amp;dq=billie+jean+king+129+singles+titles#v=onepage&amp;q=129%20singles%20titles&amp;f=false}}&lt;/ref&gt; 78 of which were WTA titles, and her career prize money totaled US$1,966,487.&lt;ref&gt;{{cite web | url=http://www.wtatennis.com/players/player/110100/title/billie-jean-king | title=Billie Jean King: Overview | publisher=Women's Tennis Association | accessdate=August 26, 2017}}&lt;/ref&gt;
+
+In Federation Cup finals, King was on the winning United States team seven times, in 1963, 1966, 1967, and 1976 through 1979. Her career winloss record was 524.{{efn|263 in singles and 261 in doubles}} She won the last 30 matches she played,{{efn|excluding two unfinished matches}} including 15 straight wins in both singles and doubles.&lt;ref&gt;[http://www.fedcup.com/en/players/player/profile.aspx?playerid=20000786 Billie Jean King record in Federation Cup] {{webarchive | url=https://web.archive.org/web/20150723173839/http://www.fedcup.com/en/players/player/profile.aspx?playerid=20000786 | date=July 23, 2015}}&lt;/ref&gt; In Wightman Cup competition, King's career winloss record was 224,{{efn|142 in singles and 82 in women's doubles}} winning her last nine matches.{{efn|six in singles and three in doubles}} The United States won the cup ten of the 11 years that King participated. In singles, King was 61 against Ann Haydon-Jones, 40 against Virginia Wade, and 11 against Christine Truman Janes.&lt;ref&gt;{{cite book | authors=[[Zander Hollander|Hollander, Zander]]; Collins, Bud | title=Bud Collins' Modern Encyclopedia of Tennis | publisher=Visible Ink Press | location=Detroit, Michigan | year=1994 | pages=5801 | isbn=0-8103-9443-X}}&lt;/ref&gt;
+
+===The early years: 1959 through 1963===
+As King began competing in 1959, she began working with new coaches including Frank Brennan&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; and [[Alice Marble]], who had won 18 Grand Slam titles as a player herself.&lt;ref&gt;Teele, Jack, "The Sports Beat", ''Long Beach Press-Telegram'', November 12, 1959, page D-3&lt;/ref&gt; King made her Grand Slam debut at the 1959 [[US Open (tennis)|U.S. Championships]] at age 15.&lt;ref name=":3"&gt;{{cite web|url=https://www.tennisfame.com/hall-of-famers/inductees/billie-jean-king/|title=Billie Jean King|last=|first=|date=|website=International Tennis Hall of Fame|access-date=September 15, 2017}}&lt;/ref&gt; She lost in the first round.&lt;ref&gt;{{Cite news|url=http://www.stltoday.com/sports/other/three-aces-for-tennis/article_acd07a75-cff4-519e-93f7-f36979bf7b99.html|title=Three aces for Tennis|last=Nelson|first=Kathleen|date=July 3, 2011|work=stltoday.com|access-date=September 24, 2017}}&lt;/ref&gt; King began playing at local, regional, and international tennis championships.&lt;ref&gt;{{Cite book|url=https://books.google.com/books?id=hYydgQsTz-AC&amp;lpg=PA164|title=101 Changemakers: Rebels and Radicals Who Changed U.S. History|last=Bollinger|first=Michele|last2=Tran|first2=Dao|date=November 6, 2012|publisher=Haymarket Books|year=|isbn=9781608461561}}&lt;/ref&gt;{{Rp|164}} Sports Illustrated already pegged her as "one of the most promising youngsters on the West Coast."&lt;ref&gt;{{Cite news|url=https://www.si.com/vault/1959/02/16/604435/new-hopes-are-abounding-on-the-courts|title=New Hopes are Abounding on the Courts|last=Talbert|first=William F.|date=February 16, 1959|work=SI.com|access-date=October 8, 2017}}&lt;/ref&gt; King won her first tournament the next year in Philadelphia at the 1960 Philadelphia and District Grass Court Championships.&lt;ref&gt;{{Cite news|url=http://www.phillymag.com/articles/billie-jean-king-racquet-revolutionary/4/|title=Billie Jean King: Racquet Revolutionary  Page 4 of 5  Philadelphia Magazine|last=Hingston|first=Sandy|date=June 17, 2011|work=Philadelphia Magazine|access-date=September 27, 2017}}&lt;/ref&gt;&lt;ref name=":3" /&gt; At her second attempt at the U.S. Championships, King made it to the third round, losing to [[Bernice Carr Vukovich]] of South Africa.{{Citation needed|date=September 2017}} Also in 1960, King reached the final of the National Girls 18 and Under Championships, losing to [[Karen Hantze Susman|Karen Hantze Susmen]].&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; King's national tennis ranking improved from number 19 in 1959 to number 4 1960.&lt;ref name="Ware, Susan, Game, Set, Match"&gt;{{cite web|url=https://www.questia.com/read/121600470/game-set-match-billie-jean-king-and-the-revolution|title=Game, Set, Match: Billie Jean King and the Revolution in Women's Sports|last=Ware|first=Susan|date=2011|website=www.questia.com|access-date=October 1, 2017}} {{closed access}}&lt;/ref&gt;{{Rp|23}} Despite the success, Marble terminated her professional relationship with King because for reasons stemming from King's ambition.&lt;ref name="Ware, Susan, Game, Set, Match" /&gt;{{Rp|23}}
+
+[[File:Billy Jean Moffitt.jpg|thumb|Billie Jean Moffitt (later King) at the [[Tennis Ireland|Irish Open]] at [[Fitzwilliam Lawn Tennis Club]], Dublin in the 1960s where she won her first international title]]
+King first gained international recognition in 1961 when the Long Beach Tennis Patrons, Century Club, and Harold Guiver raised $2,000 to send her to [[The Championships, Wimbledon|Wimbledon]].&lt;ref name="ITHF biography"&gt;{{cite web|url=http://www.tennisfame.com/famer.aspx?pgID=867&amp;hof_id=171|title=International Tennis Hall of Fame biography of Billie Jean Moffitt King|archiveurl=https://web.archive.org/web/20061119112817/http://www.tennisfame.com/famer.aspx?pgID=867&amp;hof_id=171 &lt;!-- Bot retrieved archive --&gt;|archivedate=November 19, 2006|accessdate=February 15, 2007}}&lt;/ref&gt; There, she won the women's doubles title in her first attempt while partnering Karen Hantze Susman.&lt;ref name="Official Wimbledon profile of BJK" /&gt; King was 17 and Susmen was 18, making them the youngest team to the Wimbledon doubles title.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; King had less luck that year at [[1961 Wimbledon Championships  Women's Singles|1961 Wimbledon Women's Singles]], losing to fifth-seeded [[Yola Ramrez Ochoa]] in a two-day match on Centre Court.&lt;ref&gt;{{cite book|title=My Life With the Pros|author=Collins, Bud|publisher=E. P. Dutton|year=1989|isbn=0-525-24659-2|location=New York|page=261|oclc=}}&lt;/ref&gt; For the 1962 singles tournament at [[1962 Wimbledon Championships  Women's Singles|Wimbledon]], King upset [[Margaret Court]], the World No. 1 and top seed, in a second round match by attacking Court's forehand&lt;ref name="Billie Moffitt's Strategy"&gt;Billie Moffitt's Strategy  Attack!", ''Kansas City Times'', June 27, 1962, page 15&lt;/ref&gt;&lt;ref name="Starr, Cynthia, We have come a long way"&gt;{{cite book |author1=Starr, Cynthia |author2=King, Billie Jean |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |page=106 |isbn=0-07-034625-9}}&lt;/ref&gt; This was the first time in Wimbledon history that the women's top seed had lost her first match.&lt;ref name="Wimbledon Upset, Post-Herald"&gt;"Wimbledon Upset", Beckley (West Virginia) Post-Herald, June 27, 1962, page 2&lt;/ref&gt; That same year, King and Hantze Susman repeated their doubles victory at Wimbledon.&lt;ref name="Ware, Susan, Game, Set, Match" /&gt;{{Rp|24}} In 1963, King again faced Margaret Court at Wimbledon.&lt;ref name="Ware, Susan, Game, Set, Match" /&gt;{{Rp|24}} This time they met in the finals with Court prevailing.&lt;ref name="Ware, Susan, Game, Set, Match" /&gt;{{Rp|24}}
+
+===1964===
+In 1964, King won four relatively minor titles{{Citation needed|date=October 2017}} but lost to Margaret Court in the [[1964 Wimbledon Championships  Women's Singles|Wimbledon]] semifinals.&lt;ref&gt;{{Cite news|url=https://www.si.com/vault/1964/07/13/608312/the-outcasts-are-counted-in|title=The Outcasts are Counted In|last=Lovesey|first=John|date=July 13, 1964|work=SI.com|access-date=October 15, 2017}}&lt;/ref&gt; She defeated Ann Haydon-Jones at both the Wightman Cup and [[Fed Cup]] but lost to Court in the final of the Federation Cup. At the U.S. Championships, fifth-seeded [[Nancy Richey|Nancy Richey Gunter]] upset third-seeded King in the quarterfinals. Late in the year, King decided to make a full-time commitment to tennis. While a history major at [[Los Angeles State College]] King made the decision to play full-time when businessman Robert Mitchell, offered to pay her way to Australia so that she could train under the great Australian coach [[Mervyn Rose]].&lt;ref&gt;{{cite book |author1=Starr, Cynthia |author2=King, Billie Jean |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |pages=1134 |isbn=0-07-034625-9 |oclc= }}&lt;/ref&gt; While in Australia, King played three tournaments that year and lost in the quarterfinals of the Queensland Grass Court Championships, the final of the [[N.S.W. Open/Medibank International|New South Wales Championships]] (to Court), and the third round of the [[Victoria (Australia)|Victorian]] Championships.
+
+===1965===
+In early 1965, King continued her three-month tour of Australia. She lost in the final of the South Australian Championships and the first round of the Western Australia Championships. At the [[Fed Cup]] in Melbourne, King defeated Ann Haydon-Jones to help the United States defeat the United Kingdom in the second round. However, Margaret Court again defeated King in the final. At the [[Australian Open|Australian Championships]] two weeks later, King lost to Court in the semifinals in two sets. At [[1965 Wimbledon Championships  Women's Singles|Wimbledon]], King again lost in the semifinals, this time in three sets to Maria Bueno.&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; Her last tournament of the year was the U.S. Championships, where she defeated Jones in the quarterfinals and Bueno in the semifinals. In the final, King led 53 in both sets, was two points from winning the first set, and had two set points in the second set&lt;ref&gt;Santana, Miss Smith Grab U.S. Tennis Championships", ''Pacific Stars &amp; Stripes'', September 14, 1965, page 20&lt;/ref&gt; before losing to Court in straight sets. King said that losing while being so close to winning was devastating, but the match proved to her that she was "good enough to be the best in the world. I'm going to win Wimbledon next year."&lt;ref name = "Starr-BillieJean"&gt;{{cite book |author1=Starr, Cynthia |author2=King, Billie Jean |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |page=114 |isbn=0-07-034625-9 |oclc= }}&lt;/ref&gt; King won six tournaments during the year. For the first time in 81 years, the annual convention of the [[United States Tennis Association|United States Lawn Tennis Association]] overruled its ranking committee's recommendation to award King the sole U.S. No. 1 position and voted 59,810 to 40,966 to rank Nancy Richey Gunter and King as co-U.S. No. 1.&lt;ref&gt;"Billie Jean Must Share No. 1 Rating", ''Independent Press-Telegram'' (Long Beach, California), February 6, 1966, page C-1&lt;/ref&gt;
+
+===Prime competitive years: 1966 through 1975===
+
+====Overview of these years====
+
+Six of King's Grand Slam singles titles were at Wimbledon, four were at the U.S. Championships/Open, one was at the French Open, and one was at the Australian Championships. King reached the final of a Grand Slam singles tournament in 16 out of 25 attempts and had a 124 winloss record in those finals. In the nine tournaments that she failed to reach the final, she was a losing semifinalist twice and a losing quarter finalist five times. From 1971 through 1975, King won seven of the ten Grand Slam singles tournaments she played. She won the last seven Grand Slam singles finals she contested, six of them in straight sets and four of them against [[Evonne Goolagong]]. All but one of King's Grand Slam singles titles were on [[grass court|grass]].
+
+King's Grand Slam record from 1966 through 1975 was comparable to that of Margaret Court, her primary rival during these years. One or both of these women played 35 of the 40 Grand Slam singles tournaments held during this period, and together they won 24 of them. During this period, Court won 31 of her career 64 Grand Slam titles, including 12 of her 24 Grand Slam singles titles, 11 of her 19 Grand Slam women's doubles titles, and eight of her 21 Grand Slam mixed doubles titles. Court reached the final of a Grand Slam singles tournament in 14 out of 25 attempts and had a 122 winloss record in those finals. Court won seven of the 12 Grand Slam finals she played against King during these years, including 21 in singles finals, 41 in women's doubles finals, and 13 in mixed doubles finals.
+
+King was the year-ending World No. 1 in six of the ten years from 1966 through 1975. She was the year-ending World No. 2 in three of those years and the World No. 3 in the other year.
+
+King won 97 of her career 129 singles titles during this period and was the runner-up in 36 other tournaments.
+
+====1966====
+In 1966, King defeated Dorothy "Dodo" Cheney (then 49 years old) for the first time in five career matches, winning their semifinal at the Southern California Championships 60, 63. King also ended her nine match losing streak to Margaret Court by defeating her in the final of the South African Tennis Championships. At the Wightman Cup just before [[1966 Wimbledon Championships  Women's Singles|Wimbledon]], King defeated [[Virginia Wade]] and Ann Haydon-Jones. After thirteen unsuccessful attempts to win a Grand Slam singles title from 1959 through 1965, King at the age of 22 finally won the first of her six singles titles at Wimbledon and the first of twelve Grand Slam singles titles overall, defeating Court in the semifinals 63, 63 and [[Maria Bueno]] in the final. King credited her semifinal victory to her forehand down the line, a new shot in her repertoire.&lt;ref name = "Starr-BillieJean" /&gt; She also said that the strategy for playing Court is, "Simple. Just chip the ball back at her feet."&lt;ref&gt;{{cite news |author=Lovesey, John |url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1078753/index.htm |title=Manolo is king, and a King is queen |publisher=Vault.sportsillustrated.cnn.com |date=July 11, 1966 |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20081209092229/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1078753/index.htm |archivedate=December 9, 2008 |df=mdy-all }}&lt;/ref&gt; At the U.S. Championships, an ill King was upset by [[Kerry Melville|Kerry Melville Reid]] in the second round.&lt;ref&gt;{{cite web|url=http://news.elementfx.com/1966-tennis.html |title=News Archive; 1966: Tennis |publisher=News.elementfx.com |accessdate=July 4, 2011}}&lt;/ref&gt;
+
+====1967====
+King successfully defended her title at the South African Tennis Championships in 1967, defeating Maria Bueno in the final. She played the French Championships for the first time in her career,&lt;ref&gt;King claims that the United States Lawn Tennis Association prohibited her from playing the French Championships earlier in her career because the association needed her to play grass court tournaments in the United States to draw crowds. {{cite book |author1=Starr, Cynthia |author2=King, Billie Jean |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |page=114 |isbn=0-07-034625-9 |oclc= }}&lt;/ref&gt; falling in the quarterfinals to [[Annette Van Zyl|Annette Van Zyl DuPlooy]] of South Africa. At the Federation Cup one week later in West Germany on [[clay court|clay]], King won all four of her matches, including victories over DuPlooy, Ann Haydon-Jones, and [[Helga Niessen Masthoff]]. King then successfully switched surfaces and won her second consecutive [[1967 Wimbledon Championships  Women's Singles|Wimbledon]] singles title, defeating [[Virginia Wade]] in the quarterfinals 75, 62 and Jones. At the Wightman Cup, King again defeated Wade and Jones. King won her second Grand Slam singles title of the year when she won the U.S. Championships for the first time and without losing a set, defeating Wade, DuPlooy, [[Franoise Drr]], and Jones in consecutive matches. Jones pulled her left hamstring muscle early in the final and saved four match points in the second set before King prevailed.&lt;ref&gt;"Aussie, Billie Jean Capture U.S. Titles", ''Oakland Tribune'', September 11, 1967, page 40-E&lt;/ref&gt; King won the singles, women's doubles, and mixed doubles titles at both Wimbledon and the U.S. Championships, the first woman to do that since [[Alice Marble]] in 1939.&lt;ref&gt;{{cite web|url=http://news.elementfx.com/1967-tennis.html |title=News Archive; 1967: Tennis |publisher=News.elementfx.com |accessdate=July 4, 2011}}&lt;/ref&gt; King then returned to the Australian summer tour in December for the first time since 1965, playing seven events there and [[Judy Tegart Dalton]] in six of those events (winning four of their matches). King lost in the quarterfinals of the [[Medibank International|New South Wales Championships]] in Sydney to Dalton after King injured her left knee in the second game of the third set of that match.&lt;ref&gt;Injury May Force King Out Of Tennis Tourney", ''Florence Morning News'', November 25, 1967, page 6&lt;/ref&gt; However, King won the Victorian Championships in Melbourne the following week, defeating Dalton, Reid, and [[Lesley Turner Bowrey]] in the last three rounds. At a team event in [[Adelaide]], King won all three of her singles and doubles matches to help the U.S. defeat Australia 51. To finish the year, King lost to Dalton in the final of the South Australian Championships in Adelaide.
+
+====1968====
+In early 1968, King won three consecutive tournaments to end her Australian tour. In [[Perth, Western Australia|Perth]], King won the Western Australia Championships, defeating Margaret Court in the final. In [[Hobart, Tasmania|Hobart]], King won the [[Tasmania]]n Championships by defeating [[Judy Tegart Dalton]] in the final. King then won the Australian Championships for the first time, defeating Dalton in the semifinals and Court in the final. King continued to win tournaments upon her return to the United States, winning three indoor tournaments before Nancy Richey Gunter defeated King in the semifinals of the [[Madison Square Garden]] Challenge Trophy amateur tournament in New York City before 10,233 spectators.&lt;ref&gt;{{cite news|last=Anderson |first=Dave |url=https://select.nytimes.com/gst/abstract.html?res=FB0F15F8345D147493C2AA1788D85F4C8685F9 |title=Miss Richey Upsets Mrs. King, 46, 75, 60, to Gain Garden Tennis Final |newspaper=The New York Times |date=March 30, 1968 |accessdate=July 4, 2011}}&lt;/ref&gt; The match started with Gunter taking a 42 lead in the first set, before King won 9 of the next 10 games. King served for the match at 51 and had a match point at 53 in the second set; however, she lost the final 12 games and the match 46, 75, 60.&lt;ref&gt;{{cite web|url=http://news.elementfx.com/1968-tennis.html |title=News Archive; 1968: Tennis |publisher=News.elementfx.com |accessdate=July 4, 2011}}&lt;/ref&gt; King then won three consecutive tournaments in Europe before losing to Ann Haydon-Jones in the final of a professional tournament at Madison Square Garden. Playing the French Open for only the second time in her career and attempting to win four consecutive Grand Slam singles titles (a "non-calendar year Grand Slam"), King defeated Maria Bueno in a quarterfinal before losing to Gunter in a semifinal 26, 63, 64. King rebounded to win her third consecutive [[1968 Wimbledon Championships  Women's Singles|Wimbledon]] singles title, defeating Jones in the semifinals and Dalton in the final. At the [[1968 U.S. Open  Women's Singles|US Open]], King defeated Bueno in a semifinal before being upset in the final by Virginia Wade. On September 24, she had surgery to repair cartilage in her left knee&lt;ref&gt;{{cite news|url=https://select.nytimes.com/gst/abstract.html?res=F10D16FE3B5D11738FDDAD0A94D1405B888AF1D3 |title=Mrs. King Undergoes Successful Surgery |newspaper=The New York Times |date=June 3, 2011 |accessdate=July 4, 2011}}&lt;/ref&gt; and did not play in tournaments the remainder of the year. King said that it took eight months (May 1969) for her knee to recover completely from the surgery.&lt;ref&gt;{{cite news|title=Surgery for Billie Jean|work=Independent Press-Telegram|location=Long Beach, California |date=July 11, 1970 |page=C-1}}&lt;/ref&gt; In 1977, King said that her doctors predicted in 1968 that her left knee would allow her to play competitive tennis for only two more years.&lt;ref&gt;{{cite news|title=King Will Resume Singles Competition|work=The Pocono Record| location=Stroudsburg, Pennsylvania |date=January 20, 1977 |page=14}}&lt;/ref&gt;
+
+====1969====
+King participated in the 1969 Australian summer tour for the second consecutive year. Unlike the previous year, King did not win a tournament. She lost in the quarterfinals of the Tasmanian Championships and the semifinals of the New South Wales Championships. At the Australian Open, King defeated 17-year-old Evonne Goolagong in the second round 63, 61 and Ann Haydon-Jones in a three-set semifinal before losing to Margaret Court in a straight-sets final. The following week, King lost in the semifinals of the New Zealand Championships. Upon her return to the United States, King won the Pacific Coast Pro and the Los Angeles Pro. King then won two tournaments in South Africa, including the South African Open. During the European summer clay court season, King lost in the quarterfinals of both the [[Rome Masters|Italian Open]] and the French Open. On grass at the Wills Open in [[Bristol]], United Kingdom, King defeated Virginia Wade in the semifinals (68, 119, 62) before losing to Court. At [[1969 Wimbledon Championships  Women's Singles|Wimbledon]], King lost only 13 points while defeating [[Rosemary Casals]] in the semifinals 61, 60;&lt;ref&gt;"Mrs. King Crushes Foe", ''Abilene (Texas) Reporter-News'', July 3, 1969, page 12-A&lt;/ref&gt; however, Jones upset King in the final and prevented King from winning her fourth consecutive singles title there. The week after, King again defeated Wade to win the Irish Open for the second time in her career. In the final Grand Slam tournament of the year, King lost in the quarterfinals of the [[1969 U.S. Open  Women's Singles|US Open]] to Nancy Richey Gunter 64, 86. This was the first year since 1965 that King did not win at least one Grand Slam singles title. King finished the year with titles at the Pacific Southwest Open in Los Angeles, the [[Stockholm]] Indoors, and the [[Midland, Texas|Midland (Texas)]] Pro. She said during the Pacific Southwest Open, "It has been a bad year for me. My left knee has been OK, but I have been bothered by a severe tennis elbow for seven months. I expect to have a real big year in 1970, though, because I really have the motivation now. I feel like a kid again."&lt;ref&gt;Billie Jean, Pancho Gain Pacific Southwest Finals", ''Independent Press-Telegram'', Long Beach, California, September 28, 1969, page S-6&lt;/ref&gt;
+
+====1970====
+In 1970, Margaret Court won all four Grand Slam singles tournaments and was clearly the World No. 1. King lost to Court three times in the first four months of the year, in Philadelphia, Dallas, and [[Johannesburg]] (at the South African Open). Court, however, was not totally dominant during this period as King defeated her in Sydney and [[Durban, South Africa]]. Where Court dominated was at the Grand Slam tournaments. King did not play the Australian Open. King had leg cramps and lost to Helga Niessen Masthoff of West Germany in the quarter finals of the French Open 26, 86, 61.&lt;ref&gt;{{cite news |author=Katz, Michael |url=https://select.nytimes.com/gst/abstract.html?res=F70717F93F5812718DDDAD0894DE405B808BF1D3 |title=Mrs. King, Hobbled by Leg Cramps, Loses to Miss Niessen in French Tennis |newspaper=The New York Times|date=June 4, 1970 |accessdate=July 4, 2011}}&lt;/ref&gt; At [[1970 Wimbledon Championships  Women's Singles|Wimbledon]], Court needed seven match points&lt;ref&gt;{{cite news|url=http://news.bbc.co.uk/1/hi/wimbledon2000/fans_guide/769768.stm |title=Classic women's singles finals |publisher=BBC News |date=June 11, 2000 |accessdate=July 4, 2011}}&lt;/ref&gt; to defeat King in the final 1412, 119 in one of the greatest women's finals in the history of the tournament.&lt;ref&gt;[http://www.wimbledon.org/en_GB/about/history/margaret_court.html Margaret Court/Smith (Wimbledon official website)] {{webarchive |url=https://web.archive.org/web/20090515135547/http://www.wimbledon.org/en_GB/about/history/margaret_court.html |date=May 15, 2009 }}&lt;/ref&gt; On July 22,&lt;ref&gt;"Billie Jean Has Knee Surgery", ''Wisconsin State Journal'', July 23, 1970, section 2, page 3&lt;/ref&gt; King had right knee surgery, which forced her to miss the [[1970 U.S. Open  Women's Singles|US Open]]. King returned to the tour in September, where she had a first round loss at the [[Virginia Slims]] Invitational in Houston and a semifinal loss at the [[Pacific Coast Championships]] in [[Berkeley, California]]. To close out the year, King in November won the Virginia Slims Invitational in [[Richmond, Virginia]] and the Embassy Indoor Tennis Championships in London. During the European clay court season, King warmed-up for the French Open by playing in [[Monte Carlo]] (losing in the semifinals), winning the [[1970 Italian Open (tennis)|Italian Open]] (saving three match points against Virginia Wade in the semifinals),&lt;ref&gt;"Billie Jean King, Julia Heldman score victories", ''Winona (Minnesota) Daily News'', April 26, 1970, page 7b&lt;/ref&gt; playing in [[Bournemouth]] (losing to Wade in the quarterfinals), and playing in [[Berlin, Germany|Berlin]] (losing to Masthoff in the semifinals). The Italian Open victory was the first important clay court title of King's career. Along the way, she defeated Masthoff in a three-set quarterfinal and Wade in a three-set semifinal, saving two match points at 45 in the second set. The twelfth game of that set (with King leading 65) had 21 deuces and lasted 22 minutes,&lt;ref&gt;{{cite book |author=Tingay, Lance |title=The Guinness Book of Tennis Facts &amp; Feats |publisher=Guinness Superlatives |location=Enfield, Middlesex |year=1983 |page=26 |isbn=0-85112-268-X |oclc= }}&lt;/ref&gt; with Wade saving seven set points and holding sixteen game points before King won. In Wightman Cup competition two weeks before Wimbledon but played at the [[All England Club]], King defeated both Wade and Ann Haydon-Jones in straight sets.
+
+====1971====
+Although King won only one Grand Slam singles title in 1971, this was the best year of her career in terms of tournaments won (17). According to the [[International Tennis Hall of Fame]], she played in 31 singles tournaments and compiled a 11213 winloss record.&lt;ref name="ITHF biography" /&gt;
+
+She started the year by winning eight of the first thirteen tournaments she played, defeating Rosemary Casals in seven finals. King's five losses during this period were to Franoise Drr (twice), Casals (once), Ann Haydon-Jones (once), and Chris Evert (in [[St. Petersburg, Florida|St. Petersburg]]). At the time, King said that retiring from the match with Evert after splitting the first two sets was necessary because of leg cramps. But in early 1972, King admitted that cramps associated with the abortion caused the retirement.&lt;ref&gt;"Tennis Pro Favors Abortion", ''Tucson (Arizona) Daily-Citizen'', February 23, 1972, page 16.&lt;/ref&gt;
+
+At the tournament in [[Hurlingham Club|Hurlingham]], United Kingdom in early May, King lost a second round match to an old rival, Christine Truman Janes (now 30 years old), 64, 62. But King recovered the next week to win the [[Qatar Telecom German Open|German Open]] in Hamburg on [[clay court|clay]]. Four weeks later at the [[Queen's Club]] tournament in London, King played Margaret Court for the first time in 1971, losing their final. At [[1971 Wimbledon Championships  Women's Singles|Wimbledon]], King defeated Janes in the fourth round (62, 75) and Durr in the quarterfinals before losing unexpectedly to Evonne Goolagong in the semifinals 64, 64. Two weeks after Wimbledon, King won the grass court tournament in [[Hoylake]], United Kingdom, beating Virginia Wade, Court, and Casals in the last three rounds. She then played two clay court tournaments in Europe, winning neither, before resuming play in the United States.
+
+In August, King won the indoor [[Houston]] tournament and the U.S. Women's Clay Court Championships in [[Indianapolis]]. King then switched back to grass and won the [[1971 U.S. Open  Women's Singles|US Open]] without losing a set, defeating Evert in the semifinals (63, 62) and Casals in the final. King then won the tournaments in [[Louisville, Kentucky|Louisville]], [[Phoenix, Arizona|Phoenix]], and London (Wembley Pro). King and Casals both defaulted at 66 in the final of the Pepsi Pacific Southwest Open in Los Angeles in September when their request to remove a lineswoman was denied, eventually resulting in the [[United States Lawn Tennis Association]] fining both players US$2,500.&lt;ref&gt;"Female tennis stars 'even{{' "}}, ''The Idaho Free Press'', January 5, 1972, page 12&lt;/ref&gt; To end the year, King played two tournaments in New Zealand but did not win either. She lost in [[Christchurch]] to Durr and in [[Auckland]] to Kerry Melville Reid.
+
+====1972====
+King won three Grand Slam singles titles in 1972, electing not to play the Australian Open despite being nearby when she played in New Zealand in late 1971. King said, "I was twenty-eight years old, and I was at the height of my powers. I'm quite sure I could have won the Grand Slam [in] ... 1972, but the Australian was such a minor-league tournament at that time.... More important, I did not want to miss any Virginia Slims winter tournaments. I was playing enough as it was."&lt;ref&gt;{{cite book |author1=Deford, Frank |author2=King, Billie Jean |title=Billie Jean |publisher=Viking |location=New York, N.Y. |year=1982 |page=20 |isbn=0-670-47843-1 |oclc= }}&lt;/ref&gt; Her dominance was aided by rival [[Margaret Court]]'s absence from the tour due to childbirth during most of the 1972 season.
+
+At the beginning of the year, King failed to win eight of the first ten tournaments she played. She won the title in San Francisco in mid-January. But then King lost in Long Beach to Franoise Drr (although King claimed in her 1982 autobiography that she intentionally lost the match because of an argument with her husband&lt;ref&gt;{{cite book |author1=Deford, Frank |author2=King, Billie Jean |title=Billie Jean |publisher=Viking |location=New York, N.Y. |year=1982 |page=93 |isbn=0-670-47843-1 |oclc= }}&lt;/ref&gt;) and in [[Fort Lauderdale, Florida|Fort Lauderdale]] on [[clay court|clay]] to Chris Evert 61, 60. The inconsistent results continued through mid-April, in [[Oklahoma City]] (losing in the quarterfinals); Washington, D.C. (losing in the second round); and Dallas (losing to Nancy Richey Gunter after defeating Evert in the quarterfinals 67(45), 63, 75 and Evonne Goolagong in the semifinals 16, 64, 61).&lt;ref&gt;For a description of the Dallas tournament in 1972, see [http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1085895/2/index.htm the ''Sports Illustrated'' article "Shoot-Out at the T Bar M"] {{webarchive|url=https://web.archive.org/web/20081209092234/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1085895/2/index.htm |date=December 9, 2008 }}&lt;/ref&gt; King won the title in Richmond; however, one week later, King lost in the semifinals of the tournament in San Juan. This was followed in successive weeks by a loss in the [[Jacksonville, Florida|Jacksonville]] final to [[Marie Pinterova|Marie Neumannova Pinterova]] and in a St. Petersburg semifinal to Evert (62, 63).
+
+King did not lose again until mid-August, winning six consecutive tournaments. She won the tournaments in [[Tucson, Arizona|Tucson]] and Indianapolis. King then won the French Open without losing a set and completed a career Grand Slam. She defeated Virginia Wade in the quarterfinals, Helga Niessen Masthoff in the semifinals, and Goolagong in the final.&lt;ref&gt;After winning the French Open in 1972, King stayed away from the tournament for seven consecutive years and, in fact, played the tournament only twice more during her career, in 1980 and 1982.&lt;/ref&gt; On grass, King then won the Wimbledon warm-up tournaments in [[Nottingham]] and Bristol and won [[1972 Wimbledon Championships  Women's Singles|Wimbledon]] itself for the fourth time. She lost only one set during the tournament, to Wade in the quarterfinals. That was followed by straight set wins over Rosemary Casals and Goolagong. When the tour returned to the United States, King did not win any of the three tournaments she played before the [[1972 U.S. Open  Women's Singles|US Open]], including a straight sets loss to Margaret Court in [[Newport, Rhode Island|Newport]]. At the US Open, however, King won the tournament without losing a set, including a quarterfinal win over Wade, a semifinal defeat of Court, and a final win over Kerry Melville Reid. King finished the year by winning the tournaments in Charlotte and Phoenix (defeating Court in the final of both), a runner-up finish in [[Oakland]] (losing to Court), and a semifinal finish in [[Boca Raton, Florida|Boca Raton]] (losing to Evert).
+
+====1973====
+1973 was Margaret Court's turn to win three Grand Slam singles titles, failing to win only Wimbledon, and was the clear World No. 1 for the year; this was her first full season since winning the Grand Slam in 1970, as she had missed significant portions of 1971 and 1972 due to childbirth. As during the previous year, King started 1973 inconsistently. She missed the first three Virginia Slims tournaments in January because of a wrist injury.&lt;ref&gt;"King bows in, on courts", ''Daily Review'', [[Hayward, California]], February 8, 1973, page 30&lt;/ref&gt; She then lost in the third round at the Virginia Slims of [[Miami]] tournament but won the Virginia Slims of Indianapolis tournament, defeating Court in the semifinals 67, 76, 63 and Rosemary Casals in the final. The semifinal victory ended Court's 12-tournament and 59-match winning streaks,&lt;ref&gt;{{" '}}Sweetie' upset for Billie Jean", ''Oakland Tribune'', February 26, 1973, page E27&lt;/ref&gt; with King saving at least three match points when down 54 (400) in the second set. Indianapolis was followed by five tournaments that King failed to win (Detroit, [[1973 Virginia Slims of Boston|Boston]], Chicago, [[Jacksonville, Florida|Jacksonville]], and the inaugural [[Family Circle Cup]] in [[Hilton Head, South Carolina]]). King lost to Court in two of those tournaments. After deciding not to defend her French Open singles title, King won four consecutive tournaments, including her fifth [[1973 Wimbledon Championships  Women's Singles|Wimbledon]] singles title when she defeated Kerry Melville Reid in the quarterfinals, Evonne Goolagong in the semifinals on her eighth match point,&lt;ref&gt;"Evert Shatters Court, Sets Up American Finals", ''Abilene (Texas) Reporter-News'', July 5, 1973, page 2-C&lt;/ref&gt; and Chris Evert in the final. King lost only nine points in the 60 bageling of Evert in the first set of their final.&lt;ref&gt;{{cite news |author=Jares, Joe |url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1087561/index.htm |title=A Bloomin' Winner |publisher=Vault.sportsillustrated.cnn.com |date=July 16, 1973 |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20090625151702/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1087561/index.htm |archivedate=June 25, 2009 |df=mdy-all }}&lt;/ref&gt;  King also completed the [[Grand Slam (tennis)#Triple Crown|Triple Crown]] at Wimbledon (winning the singles, women's doubles, and mixed doubles titles in the same year), thus becoming the first, and only, player to do so at Wimbledon in the Open Era.  In none of the preceding tournaments, however, did King play Court. Their rivalry resumed in the final of the Virginia Slims of [[Nashville, Tennessee|Nashville]] tournament, where Court won for the third time in four matches against King in 1973. (This was the last ever singles match between those players, with Court winning 21 and King 13 of their 34 matches.) Three weeks later at the [[1973 U.S. Open  Women's Singles|US Open]], King retired from her fourth-round match with Julie Heldman while ill&lt;ref&gt;{{cite book |author1=Starr, Cynthia |author2=King, Billie Jean |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |page=144 |isbn=0-07-034625-9 |oclc= }}&lt;/ref&gt; and suffering from the oppressive heat and humidity. When Heldman complained to the match umpire that King was taking too long between games, King reportedly told Heldman, "If you want the match that badly, you can have it!"&lt;ref&gt;{{cite book |authors=[[Zander Hollander|Hollander, Zander]]; Collins, Bud |title=Bud Collins' Modern Encyclopedia of Tennis |publisher=Visible Ink Press |location=Detroit, Michigan |year=1994 |page=196 |isbn=0-8103-9443-X |oclc= }}&lt;/ref&gt; The Battle of the Sexes match against Bobby Riggs was held in the middle of the Virginia Slims of Houston tournament. King won her first and second round matches three days before playing Riggs, defeated Riggs, won her quarterfinal match the day after the Riggs match, and then lost the following day to Casals in the semifinals 76, 61. According to King, "I had nothing left to give."&lt;ref&gt;{{cite book |author1=Starr, Cynthia |author2=King, Billie Jean |title=We Have Come a Long Way: The Story of Women's Tennis |publisher=McGraw-Hill |location=New York |year=1988 |page=145 |isbn=0-07-034625-9 |oclc= }}
+&lt;/ref&gt; To end the year, King won tournaments in Phoenix, Hawaii, and Tokyo and was the runner-up in [[Baltimore]].
+
+=====Battle of the Sexes=====
+{{Main|Battle of the Sexes (tennis)}}
+[[File:Billie Jean King and Bobby Riggs 1973.jpg|thumb|Billie Jean King and Bobby Riggs in 1973]]
+In 1973, King defeated [[Bobby Riggs]] in an exhibition match, winning $100,000.
+
+Riggs had been a top men's player in the 1930s and 1940s in both the amateur and professional ranks. He won the Wimbledon men's singles title in 1939, and was considered the World No. 1 male tennis player for 1941, 1946, and 1947. He then became a self-described tennis "hustler" who played in promotional challenge matches. In 1973, he took on the role of male [[chauvinist]]. Claiming that the women's game was so inferior to the men's game that even a 55-year-old like himself could beat the current top female players, he challenged and defeated [[Margaret Court]] 62, 61. King, who previously had rejected challenges from Riggs, then accepted a lucrative financial offer to play him for $100,000, winner-take-all.
+
+Dubbed "the Battle of the Sexes", the Riggs-King match took place at the [[Houston Astrodome]] in Texas on September 20, 1973. The match garnered huge publicity. In front of 30,492 spectators and a television audience estimated at 50 million people (U.S.), and 90 million in 37 countries, 29-year-old King beat the 55-year-old Riggs 64, 63, 63. The match is considered a very significant event in developing greater recognition and respect for women's tennis. King said, "I thought it would set us back 50 years if I didn't win that match. It would ruin the women's [tennis] tour and affect all women's self-esteem,"&lt;ref name="ESPN-BillieJean"&gt;{{cite web|url=http://espn.go.com/sportscentury/features/00016060.html|title=Billie Jean Won for All Women|last=Schwartz|first=Larry|date=|website=|accessdate=February 15, 2007}}&lt;/ref&gt; and that "To beat a 55-year-old guy was no thrill for me. The thrill was exposing a lot of new people to tennis."&lt;ref&gt;{{Cite book |last=Gilbert |first=Lynn |title=Particular Passions: Billie Jean King |url=http://particularpassions.com/Excerpts.htm |series=Women of Wisdom Series |edition=1st |date=December 10, 2012 |publisher=[[Lynn Gilbert Inc.]] |location=New York |isbn=978-1-61979-354-5 }}{{dead link|date=July 2017 |bot=InternetArchiveBot |fix-attempted=yes }}&lt;/ref&gt;
+
+====1974====
+King won five of the first seven tournaments she contested in 1974. She won the Virginia Slims of San Francisco, defeating Nancy Richey Gunter in the semifinals and Chris Evert in the final. The following week in [[Indian Wells, California]], King again defeated Gunter in the semifinals but lost to Evert in the final. King then won tournaments in [[Fairfax, Virginia]] and Detroit before losing a semifinal match to Virginia Wade in Chicago. King won both tournaments she played in March, defeating Gunter in the [[Akron, Ohio]] final and Evert at the [[US Indoors|U.S. Indoor Championships]] final. [[Olga Morozova]] then upset King in her next two tournaments, at Philadelphia in the final and at [[1974 Wimbledon Championships  Women's Singles|Wimbledon]] in a quarterfinal 75, 62. Afterward, King did not play a tour match until the [[1974 US Open  Women's Singles|US Open]], where she won her fourth singles title and third in the last four years. She defeated Rosemary Casals in a straight sets quarterfinal, avenged in the semifinals her previous year's loss to Julie Heldman, and narrowly defeated Evonne Goolagong in the final. King did not reach a tournament final during the remainder of the year, losing to Heldman in an [[Orlando, Florida|Orlando]] semifinal, Wade in a Phoenix semifinal, and Goolagong in a semifinal of the tour-ending [[WTA Tour Championships|Virginia Slims Championships]] in Los Angeles.
+
+====1975====
+In 1975, King played singles only half the year, as she retired (temporarily, as it turned out) from tournament singles competition immediately after winning her sixth [[1975 Wimbledon Championships  Women's Singles|Wimbledon]] singles title.
+
+She began the year in San Francisco, defeating Franoise Drr and Virginia Wade before losing to Chris Evert in the final. The following week, King won the [[Sarasota, Florida]] tournament, defeating Evert in the final 63, 62. Evert said immediately after the final, which was her thirteenth career match with King, "I think that's the best that Billie Jean has ever played. I hit some great shots but they just kept coming back at me."&lt;ref&gt;"Billie Jean Dumps Evert at Sarasota", ''Daily Times-News'', [[Burlington, North Carolina]], January 20, 1975, page 5B&lt;/ref&gt; Looking back at that match, King said, "I probably played so well because I had to, for the money. Out of frustration comes creativity. Right?"&lt;ref name="Mrs. Billie Jean King!" /&gt; Two months later, Wade defeated King in the semifinals of the Philadelphia tournament. At the [[Austin, Texas]] tournament in April, King defeated Evonne Goolagong 61, 63 before losing to Evert in the final. As King was serving for the match at 65 in the third set, a disputed line call went in Evert's favor. King said after the match that she was cheated out of the match and that she had never been angrier about a match.&lt;ref&gt;"Cool Chris Edges Angry Billie Jean", ''Star-News'', [[Pasadena, California]], April 21, 1975, page B-2&lt;/ref&gt;
+
+King played only one of the Wimbledon warm-up tournaments, defeating Olga Morozova in the [[The Hastings Direct International Championships|Eastbourne]] semifinals before losing to Wade in the final. Seeded third at Wimbledon, King defeated seventh seeded Morozova in the quarterfinals (63, 63) and then top seeded Evert in the semifinals (26, 62, 63) after being down 30 (4015) in the final set.&lt;ref name="Deford, Frank; King, Billie Jean 1982 95"&gt;{{cite book |author1=Deford, Frank |author2=King, Billie Jean |title=Billie Jean |publisher=Viking |location=New York, N.Y. |year=1982 |page=95 |isbn=0-670-47843-1 |oclc= }}&lt;/ref&gt; Evert blamed her semifinal defeat on a loss of concentration when she saw [[Jimmy Connors]], her former fianc, escorting [[Susan George (actress)|Susan George]] into Centre Court. King, however, believes that the match turned around because King planned for and totally prepared for Wimbledon that year and told herself when she was on the verge of defeat, "Hey, Billie Jean, this is ridiculous. You paid the price. For once, you looked ahead. You're supposed to win. Get your bahoola in gear."&lt;ref name="Deford, Frank; King, Billie Jean 1982 95" /&gt;  King then defeated fourth seeded Goolagong Cawley in the second most lopsided women's final ever at Wimbledon (60, 61). King called her performance a "near perfect match" and said to the news media, "I'm never coming back."&lt;ref&gt;{{cite book |author=Lannin, Joanne |title=Billie Jean King: Tennis Trailblazer |publisher=Lerner Publications Co |location=Minneapolis |year=1999 |page=99 |isbn=0-8225-4959-X |oclc= }}&lt;/ref&gt;
+
+===The later years: 1976 through 1990===
+
+====1976====
+Except for five Federation Cup singles matches that she won in straight sets in August, King played only in doubles and mixed doubles events from January through September. She partnered [[Phil Dent]] to the mixed doubles title at the US Open. She lost to [[Dianne Fromholtz Balestrat]] in both of the singles tournaments she played the remainder of the year. Looking back, King said, "I wasted 1976. After watching Chris Evert and Evonne [Goolagong] Cawley play the final at [[1976 Wimbledon Championships  Women's Singles|Wimbledon]] I asked myself what I was doing. So, despite my age and the operations, the Old Lady came back...."&lt;ref&gt;{{cite book |author1=Brace, Reginald |author2=King, Billie Jean |title=Play Better Tennis: With Billie Jean King and Reginald Brace |publisher=Octopus |year=1981 |page=16 |isbn= 0-7064-1223-0 |oclc= }}&lt;/ref&gt; King had knee surgery for the third time on November 9,&lt;ref&gt;"Billie Jean Undergoes Knee Surgery", ''Tyrone (Pennsylvania) Daily Herald'', November 10, 1976, page 12&lt;/ref&gt; this time on her right knee,&lt;ref&gt;"King Will Resume Singles Competition", ''The Pocono Record'', [[Stroudsburg, Pennsylvania]], January 20, 1977, page 14&lt;/ref&gt; and did not play the remainder of the year.
+
+====1977====
+King spent the first three months of the year rehabilitating her right knee after surgery in November 1976.&lt;ref&gt;"King to Command McFarlin Spotlight", ''San Antonio Light'', March 21, 1977, page 1-B&lt;/ref&gt;
+
+In March 1977, King requested that the Women's Tennis Association (WTA) exercise its right to grant a wild card entry to King for the eight-player Virginia Slims Championships at Madison Square Garden in New York City. Margaret Court, who finished in sixth place on the Virginia Slims points list, failed to qualify for the tournament because she did not play enough Virginia Slims tournaments leading up to the championships. This left a spot open in the draw, which the WTA filled with [[Mima Jauovec]]. King then decided to play the Lionel Cup tournament in [[San Antonio, Texas]], which the WTA harshly criticized because tournament officials there had allowed [[transsexual]] [[Rene Richards]] to enter.&lt;ref&gt;"Billie Jean King returns to tennis action", ''The Independent Record'', [[Helena, Montana]], March 23, 1977, page 10.&lt;/ref&gt; Chris Evert, Martina Navratilova, and [[Betty Stve]] (president of the WTA) criticized King's decision because of Richards's unresolved and highly controversial status on the women's tennis tour. Evert said she was disappointed with King and that until Richards's status was resolved, "all of the women should stick together." Navratilova said, "Billie Jean is a bad girl pouting. She made a bad decision. She's mad because she could not get what she wanted." Stve said that if King had wanted the competition, "[T]here are plenty of men around here she could've played with. She didn't have to choose a 'disputed' tournament."&lt;ref&gt;"Gals Continue to Snap at King", ''San Antonio Light'', March 25, 1977, page 4-E&lt;/ref&gt; The draw in San Antonio called for King to play Richards in the semifinals had form held; however, Richards lost in the quarterfinals. King eventually won the tournament.
+
+At the clay court Family Circle Cup in late March, King played for the last time her long-time rival Nancy Richey Gunter in the first round. King won 06, 76, 62. She defeated another clay court specialist, [[Virginia Ruzici]], in the second round before winning only one game from Evert in the final.
+
+At [[1977 Wimbledon Championships  Women's Singles|Wimbledon]] in the third round, King played Maria Bueno for the last time, with King winning 62, 75. In the quarterfinals, Evert defeated King for the first time at a Grand Slam singles tournament and for the first time on grass 61, 62 in just 46 minutes. Evert said it was the best match she had ever played on grass up to that point in her career,&lt;ref&gt;"Evert Thrashes Former Queen, King With 61, 62 Win at Wimbledon", ''Galveston (Texas) News'', June 28, 1977, page B1&lt;/ref&gt; and King said, "No excuses. Let's forget knees, ankles, toes, everything else. She just played beautiful tennis. I don't think many players would've beaten her today."&lt;ref&gt;{{cite web | url=https://news.google.com/newspapers?nid=1946&amp;dat=19770628&amp;id=XJguAAAAIBAJ&amp;sjid=n6EFAAAAIBAJ&amp;pg=1064,2757618&amp;hl=en | title=Evert Demolishes Billie Jean | newspaper=''The Gazette'' | location=Montreal, Quebec, Canada | date=June 28, 1977 | accessdate=August 26, 2017 | page=18}}&lt;/ref&gt; King also said after the match, "Maybe I can be happy being number eight instead of number one. At this stage, just playing, that's winning enough for me."&lt;ref&gt;{{cite book | author=Lannon, Joanne | title=Billie Jean King: Tennis Trailblazer | publisher=Lerner Publications Company | location=Minneapolis | year=1999 | page=101 | isbn=0-8225-4959-X}}&lt;/ref&gt; But when asked about retirement, King said, "Retire? Quit tournament tennis? You gotta be kidding. It just means I've got a lot more work. I've got to make myself match tough ... mentally as well as physically. I gotta go out and kill myself for the next six months. It's a long, arduous process. I will suffer. But I will be back."&lt;ref&gt;"Tennis' Joe Frazier", ''Idaho State Journal'', [[Pocatello, Idaho]], June 28, 1977, page A6&lt;/ref&gt; There was a small historic note at Wimbledon 1977 in that it was the first time ever that King competed at the championships that she did not reach a final. From her debut in 1961 until 1976, she had played in the final of one of the three championship events for women every year. Perhaps there was irony in this in that as the Wimbledon champion with the most titles in its history, the event was celebrating its centenary in the year King failed to make a final for the first time. The only other years she competed at the championship and did not feature in a final were 1980 and 1982. In her entire Wimbledon career of 22 competitions, King never failed to be a semi-finalist in at least one event every year.&lt;ref&gt;Barrett, John. Wimbledon: The Official History. Vision Sports Publishing, 2014 (revised edition). {{ISBN|978-1909534230}}&lt;/ref&gt;
+
+Evert repeated her Wimbledon quarterfinal victory over King at the clay court [[1977 U.S. Open  Women's Singles|US Open]], winning 62, 60. This loss prompted King to say, "I better get it together by October or November or that's it. I'll have to make some big decisions. I'm not 20-years-old and I can't just go out and change my game. It's only the last four weeks I haven't been in [knee] pain. [But if] I keep using that as a copout, I shouldn't play."&lt;ref&gt;"Comeback Soon Over for King?", ''News Tribune'', [[Fort Pierce, Florida]], September 8, 1977, page 10&lt;/ref&gt;
+
+The remainder of the year, King's winloss record was 313, losing only to Evert, Dianne Fromholtz Balestrat, and [[:fr:Michelle Tyler-Wilson|Michelle Tyler Wilson]]. King won five of the eight tournaments she entered plus both of her Wightman Cup matches. She defeated Navratilova all four times they played, including three times in three consecutive weeks, and beat Wimbledon champion Virginia Wade twice. Beginning September 26, King played seven consecutive weeks. She lost to Tyler in the second round in [[Palm Harbor, Florida]] and Fromholtz Balestrat in the semifinals in [[Atlanta]]. She then won three hard court tournaments in three consecutive weeks. She defeated Navratilova and [[Wendy Turnbull]] to win in Phoenix, losing only four points to Turnbull in the third set of the final.&lt;ref&gt;"King Wins 1st Major Tourney in 2 Years", ''Raleigh Register'', [[Beckley, West Virginia]], October 17, 1977, page 8&lt;/ref&gt; The next week, she defeated Navratilova, Fromholtz Balestrat, and Wimbledon runner-up Stve to win in [[So Paulo, Brazil|So Paulo]]. The third week, she defeated Ruzici, Stve, and [[Janet Newberry|Janet Newberry Wright]] to win in San Juan. In November, Evert snapped King's 18-match winning streak in the final of the Colgate Series Championships in [[Mission Hills, California]]. King then won her Wightman Cup matches, defeated Navratilova to win the tournament in Japan, and beat Wade to win the Bremar Cup in London. King said, "I have never had a run like this, even in the years when I was Wimbledon champion. At 34, I feel fitter than when I was 24."&lt;ref&gt;"King, Wade London Finalists", ''Star-News'', Pasadena, California, December 11, 1977, page D-7&lt;/ref&gt;
+
+====1978====
+[[File:Billie Jean King Lynn Gilbert 1978.jpg|thumb|King in 1978 photographed by [[Lynn Gilbert]] (1978)]]
+
+King played ten singles tournaments during the first half of 1978, limiting herself to doubles after Wimbledon.
+
+To start the year, King was the runner-up in Houston and [[Kansas City, Missouri|Kansas City]] (losing to Martina Navratilova in both) and in Philadelphia (losing to Chris Evert). At the Virginia Slims Championships, King lost her first round robin match to Virginia Wade and defaulted her two remaining round robin matches because of a leg injury sustained during the first match.
+
+At [[1978 Wimbledon Championships  Women's Singles|Wimbledon]], King played with a painful heel spur in her left foot and lost to Evert in the quarterfinals for the second consecutive year 63, 36, 62. The match was on-serve in the third set with King serving at 23 (400) before Evert won five consecutive points to break serve. King won a total of only two points during the last two games. King said after the match, "I don't think my mobility is very good and that's what I need to beat her. Physically, she [Evert] tears your guts apart unless you can stay with her. I'm really disappointed. I really wanted to play well. I just couldn't cut it because of my heel."&lt;ref&gt;"Evert Enters Grudge Match With Wade", ''Galveston (Texas) Daily News'', July 5, 1978, page 1-B&lt;/ref&gt; King and her partner [[Ray Ruffels]] lost in the final of mixed doubles in straight sets.
+
+King teamed with Navratilova to win the women's doubles title at the US Open, King's fourth women's doubles title at that tournament and fourteenth Grand Slam women's doubles title overall. To end the year, King was undefeated in five doubles matches (four with Evert and one with Rosemary Casals) as the U.S. won the Federation Cup in Melbourne, Australia. During the Federation Cup competition, King hinted at retirement from future major singles competitions and said that she was "sick and tired of continued surgery" in trying to get fit enough for those events.&lt;ref&gt;"U.S. wins Federation Cup opener", ''European Stars and Stripes'', November 29, 1978, page 28&lt;/ref&gt; Nevertheless, King had foot surgery on December 22 in an attempt to regain mobility for a return to the tennis tour.&lt;ref&gt;"Surgery for King", ''Valley Independent'', Monessen, Pennsylvania, December 22, 1978, page 9&lt;/ref&gt;
+
+====1979====
+During the first half of 1979, King played only one event  doubles in the Federation Cup tie against Spain  because of major surgery to her left foot during December 1978.
+
+King returned to singles competition at the Wimbledon warm-up tournament in [[Chichester Tennis Tournament|Chichester]]. She defeated the reigning Wimbledon champion, Martina Navratilova, in a 48-minute quarterfinal 61, 62&lt;ref&gt;"Sports Shorts", ''The Capital'', Annapolis, Maryland, June 16, 1979, page 25&lt;/ref&gt; before losing to Evonne Goolagong Cawley in the semifinals 16, 64, 108. Seeded seventh at [[1979 Wimbledon Championships  Women's Singles|Wimbledon]], King defeated [[Hana Mandlkov]] in the fourth round before losing the last six games&lt;ref&gt;{{Cite news|last=Radosta| first=John S.|author-link=John S. Radosta | title=Tracy Austin Ousts Mrs. King, 64, 67, 62 | newspaper=The New York Times | date=July 3, 1979}}&lt;/ref&gt; of the quarterfinal match with fourth-seeded [[Tracy Austin]] 64, 67(5), 62. King partnered with Navratilova at Wimbledon to win King's 20th and final Wimbledon title, breaking [[Elizabeth Ryan]]'s longstanding record of 19 Wimbledon titles just one day after Ryan collapsed and died at Wimbledon.&lt;ref&gt;"Ryan dies at Wimbledon", ''The News'', Frederick, Maryland, July 7, 1979, page D-2&lt;/ref&gt;
+
+At the [[1979 U.S. Open  Women's Singles|US Open]], the ninth-seeded King reached the quarterfinals without dropping a set, where she upset the fourth-seeded Virginia Wade 63, 76(4). Next up was a semifinal match with the four-time defending champion and top-seeded Chris Evert; however, with King hampered by a neck injury sustained during a bear hug with a friend the day before the match, Evert won 61, 60, including the last eleven games and 48 of the last 63 points.&lt;ref name = "Amdur-19790908"&gt;{{Cite news| last=Amdur| first=Neil| title=Injured Mrs. King Is Routed By Mrs. Lloyd in Semifinals|newspaper=The New York Times|date=September 8, 1979}}&lt;/ref&gt; This was Evert's eighth consecutive win over King, with Evert during those matches losing only one set and 31 games and winning four 60 sets.&lt;ref name = "Amdur-19790908" /&gt; Evert said after the match, "Psychologically, I feel very confident when I ... play her."&lt;ref name = "Amdur-19790908" /&gt;
+
+The following week in Tokyo, King won her first singles title in almost two years, defeating Goolagong Cawley in the final. In November in Stockholm, King defeated Betty Stve in the final after Stve lost her concentration while serving for the match at 54 in the third set.&lt;ref&gt;{{cite book |author1=Brace, Reginald |author2=King, Billie Jean |title=Play Better Tennis: With Billie Jean King and Reginald Brace | publisher=Octopus |year=1981 |page=46 |isbn= 0-7064-1223-0}}&lt;/ref&gt; Three weeks later in Brighton, King lost a semifinal match with Navratilova 75, 06, 76(3) after King led 65 in the third set.&lt;ref&gt;{{Cite news|title=Navratilova-Lloyd Final|newspaper=The New York Times|date=November 25, 1979}}&lt;/ref&gt; She ended the year with a quarterfinal loss in Melbourne (not the Australian Open), a second round loss in Sydney, and a three-set semifinal loss to Austin in Tokyo.
+
+====19801981====
+
+King won the tournament in Houston that began in February, snapping Martina Navratilova's 28-match winning streak in the straight-sets final.&lt;ref&gt;Martina and Billie advance", ''Daily Press'', [[Escanaba, Michigan]], March 20, 1980, page 3-B&lt;/ref&gt;
+
+At the winter series-ending Avon Championships in March, King defeated Virginia Wade in her first round robin match 61, 63. After Wade held serve at love to open the match, King won nine consecutive games and lost only nine points during those games.&lt;ref&gt;Martina and Billie advance", ''Daily Press'', Escanaba, Michigan, March 20, 1980, page 3-B&lt;/ref&gt; King then lost her second round robin match to Navratilova and defeated Wendy Turnbull in an elimination round match, before losing to Tracy Austin in the semifinals
+
+King played the 1980 French Open, her first time since she won the event in 1972 and completed a career singles Grand Slam.{{Citation needed|date=September 2017}} She was seeded second but lost in the quarterfinals to fifth-seeded [[Dianne Fromholtz|Dianne Fromholtz Balestrat]] of Australia.&lt;ref&gt;{{cite web|url=http://www.wtatennis.com/SEWTATour-Archive/Archive/Draws/1980/903.pdf|title=WTA Tournament Archives|last=|first=|date=|website=WTA|archive-url=https://web.archive.org/web/20160424043911/http://www.wtatennis.com/SEWTATour-Archive/Archive/Draws/1980/903.pdf|archive-date=April 24, 2016|dead-url=|access-date=September 23, 2017}}&lt;/ref&gt;
+
+At [[1980 Wimbledon Championships - Women's Singles|Wimbledon]], King defeated [[Pam Shriver]] in a two-hour, forty minute fourth round match after King saved a match point in the second set and recovered from a 42 (400) deficit in the third set with Shriver serving.&lt;ref&gt;"This Is a Wimbly to Remember for Veteran King", ''Abilene (Texas) Reporter-News'', July 1, 1980, page 1-C&lt;/ref&gt; In a quarterfinal that took two days to complete, King lost to two-time defending champion and top-seeded Navratilova 76, 16, 108. The beginning of the match was delayed until late afternoon because of rain. Because she wore eyeglasses, King agreed to start the match then on condition that tournament officials immediately suspend the match if the rain resumed. During the first set, drizzle began to fall; however, the chair umpire refused to suspend the match. King led in the tiebreaker 51 before Navratilova came back to win the set, whereupon the umpire then agreed to the suspension. When the match resumed the next day, King won 20 of the first 23 points to take a 50 lead in the second set and lost a total of seven points while winning the set in just 17 minutes. In the third set, Navratilova broke serve to take a 20 lead before King broke back twice and eventually served for the match at 65. King then hit four volley errors, enabling Navratilova to break serve at love and even the match. King saved three match points while serving at 67 and three more match points while serving at 78. During the change-over between games at 89, King's eyeglasses broke for the first time in her career. She had a spare pair, but they did not feel the same. King saved two match points before Navratilova broke serve to win the match. King said, "I think that may be the single match in my career that I could have won if I hadn't had bad eyes."&lt;ref&gt;{{cite book |author1=Deford, Frank |author2=King, Billie Jean |title=Billie Jean |publisher=Viking |location=New York, N.Y. |year=1982 |page= 82|isbn=0-670-47843-1 |oclc= |doi= |accessdate=}}&lt;/ref&gt;&lt;ref&gt;"Navratilova downs veteran King", ''Daily Intelligencer'', [[Doylestown, Pennsylvania]], July 2, 1980, page 21&lt;/ref&gt;&lt;ref&gt;"Martina Edges King; Borg, Connors Win", ''Syracuse (New York) Herald-Journal'', July 2, 1980, page C-1&lt;/ref&gt;
+
+King teamed with Navratilova to win King's 39th and final Grand Slam title at the US Open. Navratilova then decided she wanted a new doubles partner and started playing with Shriver but refused to discuss the change directly with King. She finally confronted Navratilova during the spring of 1981, reportedly saying to her, "Tell me I'm too old ... but tell me something." Navratilova refused to talk about it.&lt;ref&gt;{{cite book |author=Lannin, Joanne |title=Billie Jean King: Tennis Trailblazer |publisher=Lerner Publications Co |location=Minneapolis |year=1999 |page=103 |isbn=0-8225-4959-X |oclc= |doi=}}&lt;/ref&gt;
+
+King had minor knee surgery on November 14 in San Francisco to remove adhesions and cartilage.&lt;ref&gt;"Surgery for King", ''Valley Independent'', Monessen, Pennsylvania, November 15, 1980, page 6&lt;/ref&gt;
+
+====19821983====
+In 1982, King was 38 years old and the twelfth-seed at [[1982 Wimbledon Championships  Women's Singles|Wimbledon]]. In her third round match with [[:fr:Tanya Harford|Tanya Harford]] of South Africa, King was down 75, 54 (400) before saving three match points&lt;ref&gt;{{cite news|url=http://www.time.com/time/magazine/article/0,9171,925571-2,00.html |title=Wimbledon Under the Weather |work=Time |date=July 12, 1982 |accessdate=July 4, 2011}}&lt;/ref&gt; to win the second set 76(2) and then the third set 63. King said in her post-match press conference, "I can't recall the previous time I have been so close to defeat and won. When I was down 45 and love40, I told myself, 'You have been here 21 years, so use that experience and hang on.{{' "}}&lt;ref&gt;Associated Press, June 27, 1982&lt;/ref&gt; In the fourth round, King upset sixth-seeded Australian Wendy Turnbull in straight sets. King then upset third-seeded Tracy Austin in the quarterfinals 36, 64, 62 to become the oldest female semifinalist at Wimbledon since [[Dorothea Lambert Chambers|Dorothea Douglass Lambert Chambers]] in 1920. This was King's first career victory over Austin after five defeats and reversed the result of their 1979 Wimbledon quarterfinal. King said in her post-match press conference, "Today, I looked at the scoreboard when I was 20 in the third set and the '2' seemed to be getting bigger and bigger. In 1979, when I was up 20 at the same stage, I was tired and didn't have anything left. But today I felt so much better and was great mentally."&lt;ref&gt;Associated Press, July 1, 1982&lt;/ref&gt; Two days later in the semifinals, which was King's 250th career match at Wimbledon in singles, women's doubles, and mixed doubles,&lt;ref&gt;Knight-Ridder Wire, July 3, 1982&lt;/ref&gt; the second-seeded Chris Evert defeated King on her fifth match point 76(4), 26, 63. King was down a set and 21 in the second set before winning five consecutive games to even the match.&lt;ref&gt;Associated Press, July 3, 1982&lt;/ref&gt; King explained that she actually lost the match in the first set by failing to convert break points at 1540 in the second and fourth games.&lt;ref&gt;''Dallas Morning News'', "Lloyd spoils King's hopes", July 3, 1982, pages 1B, 9B&lt;/ref&gt;&lt;ref&gt;''Dallas Times Herald'', "Evert stops King rally in Wimbledon replay", July 3, 1982, page B-7&lt;/ref&gt;
+
+She reached the semifinals in her final appearance at [[1983 Wimbledon Championships  Women's Singles|Wimbledon]], losing to [[Andrea Jaeger]] 61, 61 after beating [[Kathy Jordan]] in the quarterfinals, seventh-seeded Wendy Turnbull in the fourth round, and Rosemary Casals, her longtime doubles partner, in the third round. Jaeger claims that she was highly motivated to defeat King because King had defeated Turnbull, a favorite of Jaeger's, and because King refused a towel from an attendant just before her match with Jaeger, explaining, "I'm not going to sweat in this match."&lt;ref&gt;{{cite news|url=http://www.dailymail.co.uk/pages/live/femail/article.html?in_article_id=560743&amp;in_page_id=1879 |title=Why I became a nun, by former tennis star Andrea Jaeger |work=Daily Mail |location=UK |date=April 19, 2008 |accessdate=July 4, 2011}}&lt;/ref&gt;
+
+King became the oldest WTA player to win a singles tournament when she won the [[1983 Edgbaston Cup|Edgbaston Cup]] grass court tournament in Birmingham at 39 years, 7 months and 23 days after a straight-sets victory in the final against [[Alycia Moulton]].&lt;ref&gt;{{cite news|title=Billie Jean King retained the $90,000 Edgbaston Women's Tennis...|url=http://www.upi.com/Archives/1983/06/12/Billie-Jean-King-retained-the-90000-Edgbaston-Womens-Tennis/5479424238400/|work=[[UPI]]|agency=UPI|date=June 12, 1983}}&lt;/ref&gt; The final official singles match of King's career was a second round loss to [[Catherine Tanvier]] at the [[1983 Australian Open  Women's Singles|1983 Australian Open]].
+
+====1984 to present====
+King played doubles sporadically from 1984 through 1990. She retired from competitive play in doubles in March 1990. In her last competitive doubles match, King and her partner, [[Jennifer Capriati]], lost a second round match to [[Brenda Schultz-McCarthy]] and [[Andrea Temesvri]] 63, 62 at the Virginia Slims of Florida tournament.
+
+King became the captain of the United States Fed Cup team and coach of its women's Olympic tennis squad. She guided the U.S. to the Fed Cup championship in 1996 and helped [[Lindsay Davenport]], [[Gigi Fernndez]], and [[Mary Joe Fernndez]] capture Olympic gold medals.
+
+In 2002, King dismissed Capriati from the Fed Cup team, saying Capriati had violated rules that forbade bringing along and practicing with personal coaches.&lt;ref&gt;{{Cite news|url=http://articles.latimes.com/2002/apr/27/sports/sp-capriati27|title=King Dismisses Capriati From Fed Cup|last=Dillman|first=Lisa|date=April 27, 2002|work=Los Angeles Times|access-date=October 15, 2017|issn=0458-3035}}&lt;/ref&gt; Opinion was sharply divided, with many supporting King's decision but many feeling the punishment was too harsh, especially in hindsight when [[Monica Seles]] and [[Lisa Raymond]] were defeated by lower-ranked Austrians [[Barbara Schett]] and [[:fr:Barbara Schwartz|Barbara Schwartz]]. The following year, [[Zina Garrison]] succeeded King as Fed Cup captain.
+
+===Activism within the tennis profession===
+
+==== Player compensation ====
+Before the start of the [[Tennis Open Era|open era]] in 1968, King earned US$100 a week as a playground instructor and student at [[California State University, Los Angeles|Los Angeles State College]] when not playing in major tennis tournaments.&lt;ref name="ESPN-BillieJean" /&gt;
+
+In 1967, King criticized the United States Lawn Tennis Association (USLTA) in a series of press conferences, denouncing what she called the USLTA's practice of "shamateurism", where top players were paid under the table to guarantee their entry into tournaments. King argued that this was corrupt and kept the game highly elitist. King quickly became a significant force in the opening of tennis to professionalism. King said this about the amateur game,
+
+{{quote|In America, tennis players are not people. If you are in tennis, you are a cross between a panhandler and a visiting in-law. You're not respected, you're tolerated. In England, you're respected as an artist. In Europe, you're a person of importance. [[Manuel Santana]] gets decorated by [[Francisco Franco|Franco]]. The [[Queen Elizabeth II|Queen]] leads the applause. How many times have I been presented at the [[White House]]? You work all your life to win Wimbledon and Forest Hills and all the people say is, "That's nice. Now what are you going to do with your life?" They don't ask [[Mickey Mantle]] that. Stop 12 people on the street and ask them who [[Roy Emerson]] is and they're stuck for an answer, but they know the third-string right guard for the [[Los Angeles Rams|Rams]]. I'd like to see tennis get out of its "sissy" image and see some guy yell, "Hit it, ya bum" and see it be a game you don't have to have a [[lorgnette]] or a sash across your tuxedo to get in to watch.&lt;ref&gt;"Huck Finn of Tennis: That's Billie Jean", ''Oakland Tribune'', September 26, 1967, page 38&lt;/ref&gt;}}
+
+==== Push for gender equality ====
+When the open era began, King campaigned for equal prize money in the men's and women's games. In 1971, with ideas for the formation of an eight player women's group from her husband, [[Larry King (tennis)|Larry King]],  financial backing of ''World Tennis'' magazine founder, [[Gladys Heldman]], and the sponsorship of Virginia Slims Chairman Joe Coleman, King became the first woman athlete to earn over US$100,000 in prize money;&lt;ref&gt;{{cite web |url=http://www.billiejeanking.com/fact.aspx |title=BJK Firsts and Facts |publisher=Billiejeanking.com |date=August 12, 2009 |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20100324004643/http://www.billiejeanking.com/fact.aspx |archivedate=March 24, 2010 |df=mdy-all }}&lt;/ref&gt; however, inequalities continued. King won the US Open in 1972 but received US$15,000 less than the men's champion [[Ilie Nstase]]. She stated that she would not play the next year if the prize money were not equal. In 1973, the US Open became the first major tournament to offer equal prize money for men and women.
+
+King led player efforts to support the first professional women's tennis tour in the 1970s called the Virginia Slims, founded by Gladys Heldman and funded by [[Joseph Cullman]] of [[Philip Morris USA|Philip Morris]].&lt;ref&gt;[http://www.budcollinstennis.com/buds-notes/notes-gladysh03.html Bud Collins on Gladys Heldman] {{webarchive |url=https://web.archive.org/web/20080513165717/http://www.budcollinstennis.com/buds-notes/notes-gladysh03.html |date=May 13, 2008 }}&lt;/ref&gt; Once the tour took flight, King worked tirelessly to promote it even though many of the other top players were not supportive. "For three years we had two tours and because of their governments [Martina] Navratilova and Olga Morozova had to play the other tour. Chris [Evert], Margaret [Court], Virginia [Wade], they let us do the pioneering work and they weren't very nice to us. If you go back and look at the old quotes; they played for the love of the game, we played for the money. When we got backing and money, we were all playing together  I wonder why? I tried not to get upset with them. Forgiveness is important. Our job was to have one voice and win them over."&lt;ref name = "TimesOnline-20071209" /&gt;
+
+In 1973, King became the first President of the women's players union  the Women's Tennis Association. In 1974, she, with husband Larry King and [[Jim Jorgensen]], founded ''[[womenSports]]'' magazine and started the Women's Sports Foundation.&lt;ref&gt;[http://www.womenssportsfoundation.org/cgi-bin/iowa/about/article.html?record=86 Billie Jean King: Founder, Leader, Legend] {{webarchive |url=https://web.archive.org/web/20071013152332/http://www.womenssportsfoundation.org/cgi-bin/iowa/about/article.html?record=86 |date=October 13, 2007 }}&lt;/ref&gt; Also in 1974, [[World TeamTennis]] began, founded by Larry King, Dennis Murphy, Frank Barman and Jordan Kaiser.&lt;ref&gt;{{cite web |url=http://www.wtt.com/page.aspx?article_id=64 |title=Billie Jean King co-founder |publisher=Wtt.com |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110721042537/http://www.wtt.com/page.aspx?article_id=64 |archivedate=July 21, 2011 |df=mdy-all }}&lt;/ref&gt; She became league commissioner in 1982 and major owner in 1984.
+
+King is a member of the Board of Honorary Trustees for the [[Sports Museum of America]],&lt;ref&gt;{{cite web |url=http://www.thesportsmuseum.com/about_board.html |title=Board of Honorary Trustees |publisher=Thesportsmuseum.com |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110717032433/http://www.thesportsmuseum.com/about_board.html |archivedate=July 17, 2011 |df=mdy-all }}&lt;/ref&gt; which opened in 2008. The museum is the home of the [[Billie Jean King International Women's Sports Center]], a comprehensive women's sports hall of fame and exhibit.&lt;ref&gt;[http://www.thesportsmuseum.com/experience_bjk.html The Billie Jean King Intl Women's Sports Center] {{webarchive |url=https://web.archive.org/web/20130507141236/http://www.thesportsmuseum.com/experience_bjk.html |date=May 7, 2013 }}&lt;/ref&gt;
+
+=== Other activities ===
+King and her then-husband Larry co-founded [[World TeamTennis|World Team Tennis]] in 1974.&lt;ref name=":2"&gt;{{Cite news|url=http://articles.latimes.com/2009/jun/30/sports/sp-dwyre30|title=Billie Jean King is still making team work|last=Dwyre|first=Bill|date=June 30, 2009|work=Los Angeles Times|access-date=September 23, 2017|issn=0458-3035}}&lt;/ref&gt; The couple used their savings to put on a team tennis event at the Oakland Coliseum.&lt;ref name=":2" /&gt; King remained involved with World Team Tennis for decades, eventually sharing ownership with her ex-husband, her life partner Ilana Kloss and USTA.&lt;ref name=":2" /&gt;
+
+In 1999, King was elected to serve on the Board of Directors of [[Altria|Philip Morris Incorporated]], garnering some criticism from anti-tobacco groups.&lt;ref&gt;{{cite web|url=http://www.cleanlungs.com/education/features/king.html|title=Billie Jean King Elected To Philip Morris Board|publisher=Cleanlungs.com|accessdate=July 4, 2011|date=1999}}&lt;/ref&gt; She no longer serves in that capacity.
+
+As of 2012 King was involved in the [[Women's Sports Foundation]] and the [[Elton John AIDS Foundation]].&lt;ref name="ABILITY magazine"&gt;{{cite news|url=http://www.abilitymagazine.com/billie-jean-king.html|title=Billie Jean King Still Got Game|newspaper=ABILITY magazine|accessdate=October 22, 2012}}&lt;/ref&gt; She also served on the President's Council for Fitness, Sports and Nutrition as a way to encourage young people to stay active&lt;ref name="ABILITY magazine" /&gt;
+
+In 2008, King published the book ''Pressure is a Privilege: Lessons I've Learned from Life and the Battle of the Sexes''.&lt;ref&gt;{{Cite news|url=https://www.npr.org/templates/story/story.php?storyId=93937984|title=Billie Jean King Remembers 'Battle Of The Sexes'|last=|first=|date=August 25, 2008|work=NPR.org|access-date=October 15, 2017}}&lt;/ref&gt;
+
+In December 2013, US President Barack Obama appointed King and openly gay ice hockey player [[Caitlin Cahow]] to represent the United States at the [[2014 Winter Olympics]] in [[Sochi, Russia]]. This has been interpreted as a signal on gay rights, in the context of [[concerns and controversies at the 2014 Winter Olympics]] regarding [[LGBT rights in Russia]].&lt;ref&gt;{{cite news|url=http://www.startribune.com/politics/national/236283091.html|title=Obama picks gay athletes for delegation to Sochi Olympics, sending signal on gay rights|author=Pells, Eddie |date=December 17, 2013|agency=Associated Press|deadurl=yes|archiveurl=https://web.archive.org/web/20131219031640/http://www.startribune.com/politics/national/236283091.html|archivedate=December 19, 2013|df=mdy-all}}&lt;/ref&gt; King was forced to drop out of the delegation due to her mother's ill health. Betty Moffitt, King's mother, died on February 7, 2014, the day of the 2014 Winter Olympics opening ceremonies.&lt;ref&gt;{{cite web|url=http://articles.chicagotribune.com/2014-02-07/sports/sns-rt-us-billjeanking-mother-20140207_1_randy-moffitt-billie-jean-king-sochi-winter-Olympics|title=Tennis Great Billie Jean King's Mother Dies in Arizona|date=February 7, 2014|accessdate=February 8, 2014}}&lt;/ref&gt;
+
+Billie Jean was selected to deliver the [[Northwestern University]] commencement address on June 16, 2017 in [[Evanston, Illinois]].&lt;ref&gt;{{cite web|url=https://news.northwestern.edu/stories/2017/february/equality-advocate-and-sports-icon-to-address-class-of-2017/?linkId=34456207|title=Equality advocate and sports icon to address Class of 2017  Northwestern Now|website=news.northwestern.edu}}&lt;/ref&gt;
+
+She attended the [[75th Golden Globe Awards]] in 2018 as a guest of [[Emma Stone]].&lt;ref&gt;{{cite web|last=Yam |first=Kimberly |url=https://www.huffingtonpost.com/entry/8-activists-who-went-to-the-golden-globes_us_5a539f75e4b003133ecacab1 |title=Heres What You Should Know About The 8 Activists Who Went To The Golden Globes &amp;#124; HuffPost |publisher=Huffingtonpost.com |date= |accessdate=January 11, 2018}}&lt;/ref&gt;
+
+==Awards, honors, and tributes==
+
+===Tributes from other players===
+
+[[Margaret Court]], who won more Grand Slam titles than anyone, has said that King was "the greatest competitor I've ever known".&lt;ref name="Who Is the Greatest Female Player Ever?"&gt;[http://www.insidetennis.com/0405_bestfemale.html Who Is the Greatest Female Player Ever?] {{webarchive |url=https://web.archive.org/web/20081228115125/http://www.insidetennis.com/0405_bestfemale.html |date=December 28, 2008 }}&lt;/ref&gt;
+
+[[Chris Evert]], winner of 18 Grand Slam singles titles, has said, "She's the wisest human being that I've ever met and has vision people can only dream about. Billie Jean King is my mentor and has given me advice about my tennis and my boyfriends. On dealing with my parents and even how to raise children. And she doesn't have any."&lt;ref name=":5"&gt;{{cite news|url=http://www.boston.com/sports/other_sports/tennis/articles/2006/12/03/no_royalty_like_king | title=No royalty like King | work=The Boston Globe |date=December 3, 2006 | accessdate=July 4, 2011 | first=Stan | last=Grossfeld}}&lt;/ref&gt;
+
+In 1979, several top players were asked who they would pick to help them recover from a hypothetical deficit of 15 (1540) in the third set of a match on Wimbledon's [[Centre Court]]. Martina Navratilova, [[Rosemary Casals]], and [[Franoise Drr]] all picked King. Navratilova said, "I would have to pick Billie Jean at her best. Consistently, Chris [Evert] is hardest to beat but for one big occasion, one big match, one crucial point, yes, it would have to be Billie Jean." Casals said, "No matter how far down you got her, you never could be sure of beating her."&lt;ref&gt;Billie Jean King toughest in tight spot: Durr says", ''Daily Leader'', [[Pontiac, Illinois]], March 22, 1979, page 13&lt;/ref&gt;
+
+===Awards and honors===
+* King was the [[Associated Press]] Female Athlete of the Year in 1967.&lt;ref&gt;"Billie Jean King Named 'Woman Athlete of the Year{{' "}}, Daily Capital News, [[Jefferson City, Missouri]], January 13, 1968, page 6&lt;/ref&gt;
+* In 1972, King became the first tennis player to be named ''[[Sports Illustrated]]'' [[Sportsman of the Year]]. She was also the first female athlete ever to receive that honor.&lt;ref&gt;{{cite news|url=http://sportsillustrated.cnn.com/2006/magazine/specials/sportsman/2006/12/04/wade.sportsman/index.html |title='&amp;#39;Sports Illustrated'&amp;#39; honors Wade |work=Sports Illustrated |accessdate=July 4, 2011 |date=December 4, 2006}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.thedynamicpath.com/pages/personalities/sports/billie-jean-king.php |title=Billie Jean King |publisher=The Dynamic Path |accessdate=July 4, 2011}}&lt;/ref&gt;
+* In 1975, ''[[Seventeen (American magazine)|Seventeen]]'' magazine found that King was the most admired woman in the world from a poll of its readers. [[Golda Meir]], who had been Israel's prime minister until the previous year, finished second.&lt;ref name="ESPN-BillieJean" /&gt; In a May 19, 1975, ''[[Sports Illustrated]]'' article about King, [[Frank Deford]] noted that she had become something of a sex symbol.&lt;ref name="Mrs. Billie Jean King!" /&gt;
+* King was inducted into the [[International Tennis Hall of Fame]] in 1987.&lt;ref name="ITHF biography" /&gt;
+* ''[[Life (magazine)|Life]]'' magazine in 1990 named her one of the "100 Most Important Americans of the 20th Century".&lt;ref name="ESPN-BillieJean" /&gt;
+* King was the recipient of the 1999 [[Arthur Ashe Courage Award]].&lt;ref&gt;{{cite web|url=http://espn.go.com/espy2004/s/04asheaward.html |title=Weah selected for Arthur Ashe Courage Award |publisher=ESPN |accessdate=July 4, 2011}}&lt;/ref&gt;
+* In 1999 King was inducted into the [[Chicago Gay and Lesbian Hall of Fame]].&lt;ref&gt;{{cite web|url=http://www.glhalloffame.org/index.pl?page=inductees&amp;todo=year |title=Chicago Gay and Lesbian Hall of Fame |publisher= |deadurl=yes |archiveurl=https://web.archive.org/web/20151017032241/http://www.glhalloffame.org/index.pl?page=inductees&amp;todo=year |archivedate=October 17, 2015 |df= }}&lt;/ref&gt;
+* In 2000, King received an award from [[Gay and Lesbian Alliance Against Defamation|GLAAD]], an organization devoted to reducing discrimination against gays, lesbians, bisexuals, and transgender people, for "furthering the visibility and inclusion of the community in her work".&lt;ref&gt;[http://www.glaad.org/media/archive_detail.php?id=99 Billie Jean King, Dennis &amp; Judy Shepard, Doonesbury, Harper's and Many Others Honored at the 11th Annual GLAAD Media Awards Presented by ''Absolut Vodka''] {{webarchive |url=https://web.archive.org/web/20081209020450/http://www.glaad.org/media/archive_detail.php?id=99 |date=December 9, 2008 }}&lt;/ref&gt;
+* In 2006, the Women's Sports Foundation began to sponsor the [[Billie Awards]], which are named after and hosted by King.&lt;ref&gt;{{Cite news |url=https://news.google.com/newspapers?id=5UIgAAAAIBAJ&amp;sjid=O4YEAAAAIBAJ&amp;pg=3229,6074838&amp;dq=billie-awards+billie-jean-king&amp;hl=en |newspaper=Sarasota Herald-Tribune |date=April 15, 2006 |first=Melissa |last=Murphy |title=Documentary focuses on tennis great Billie Jean King }}&lt;/ref&gt;
+
+[[File:Grandpa Marty Shoot Jul-10-06 260A.jpg|thumb|The USTA National Tennis Center in Flushing Meadows-Corona Park was rededicated as the [[USTA Billie Jean King National Tennis Center]]]]
+* On August 28, 2006, the [[USTA National Tennis Center]] in Flushing Meadows-Corona Park was rededicated as the USTA Billie Jean King National Tennis Center.&lt;ref&gt;[http://www.usta.com/nationaltenniscenternews/fullstory.sps?iNewsid=14189&amp;itype=941&amp;icategoryid=0 History of the Billie Jean King National Tennis Center] {{webarchive |url=https://web.archive.org/web/20080314232644/http://www.usta.com/nationaltenniscenternews/fullstory.sps?iNewsid=14189&amp;itype=941&amp;icategoryid=0 |date=March 14, 2008 }}&lt;/ref&gt; [[John McEnroe]], [[Venus Williams]], Jimmy Connors, and Chris Evert were among the speakers during the rededication ceremony.
+* In 2006, California Governor [[Arnold Schwarzenegger]] and his wife [[Maria Shriver]] inducted King into the [[California Hall of Fame]] located at [[The California Museum for History, Women, and the Arts]].&lt;ref&gt;{{Cite news|url=http://www.ocregister.com/2006/08/01/state-unveils-hall-of-fame/|title=State unveils Hall of Fame|last=|first=|date=August 1, 2017|work=Orange County Register|access-date=October 9, 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.californiamuseum.org/inductees|title=Inductees  California Museum|last=|first=|date=|website=www.californiamuseum.org|access-date=October 9, 2017}}&lt;/ref&gt;
+* On November 20, 2007, King was presented with the 2007 Sunday Times Sports Women of the Year Lifetime Achievement award for her contribution to sport both on and off the court.&lt;ref name="TimesOnline-20071209" /&gt;
+* She was honored by the Office of the [[Manhattan Borough President]] in March 2008 and was included in a map of [[Women's Rights Historic Sites|historical sites]] related or dedicated to important women.&lt;ref&gt;{{cite web |url=http://www.mbpo.org/free_details.asp?ID=234 |title=Scott Stringer  Manhattan Borough President |publisher=Mbpo.org |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110718113101/http://www.mbpo.org/free_details.asp?ID=234 |archivedate=July 18, 2011 |df=mdy-all }}&lt;/ref&gt;
+* On August 12, 2009, President [[Barack Obama]] awarded King the [[Presidential Medal of Freedom]]  for her work advocating for the rights of women and the [[LGBT|lesbian, gay, bisexual, and transgender]] community.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/2009/08/13/us/politics/13obama.html|title=Obama Gives Medal of Freedom to 16 Luminaries|last=Gay|first=Sheryl|date=August 12, 2009|work=The New York Times|accessdate=July 4, 2011}}&lt;/ref&gt;&lt;ref&gt;[http://www.whitehouse.gov/the_press_office/President-Obama-Names-Medal-of-Freedom-Recipients/ "President Obama Names Medal of Freedom Recipients"] {{webarchive|url=https://web.archive.org/web/20091215034234/http://www.whitehouse.gov/the_press_office/President-Obama-Names-Medal-of-Freedom-Recipients/ |date=December 15, 2009 }}, White House Office of the Press Secretary, July 30, 2009&lt;/ref&gt;
+* She was inducted into the [[Southern California Tennis Hall of Fame]] on August 5, 2011.&lt;ref&gt;{{Cite news|url=https://www.usta.com/en/home/about-usta/usta-awards/southerncalifornia/hall-of-fame-southern-california.html|title=Hall Of Fame Southern California|last=|first=|date=|work=|access-date=October 15, 2017}}&lt;/ref&gt;
+* On August 2, 2013, King was among the first class of inductees into the [[National Gay and Lesbian Sports Hall of Fame]].&lt;ref&gt;{{cite news|url=http://www.out.com/entertainment/popnography/2013/06/18/national-gay-lesbian-sports-hall-fame-chicago |title=National Gay &amp; Lesbian Sports Hall of Fame's Inaugural Class Announced &amp;#124; Out Magazine |publisher=Out.com |date=June 18, 2013 |accessdate=December 4, 2013}}&lt;/ref&gt;
+* In 2014, she was named one of ESPNW's Impact 25.&lt;ref&gt;{{cite web|url=http://espn.go.com/espnw/news-commentary/impact25/slideshow/12020053/18/billie-jean-king-71-2014-us-olympic-delegate-sochi|title=2014 espnW Impact 25|publisher=}}&lt;/ref&gt;
+* King was shown in ''Marie Claire'' magazine's "The 8 Greatest Moments for Women in Sports".&lt;ref&gt;{{cite web|last=Friedman |first=Megan |url=http://www.marieclaire.com/culture/g2761/female-athletes-history/?thumbnails |title=Historic Moments in Female Sports  Athletic Women |publisher=Marieclaire.com |date= |accessdate=April 16, 2015}}&lt;/ref&gt;
+
+==Playing style and personality==
+
+King learned to play tennis on the public courts of [[Long Beach, California|Long Beach]], [[California]], and was coached by tennis teacher [[Clyde Walker]].&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; She furthered her tennis career at the [[Los Angeles Tennis Club]].
+
+She was an aggressive, hard-hitting net-rusher with excellent speed,&lt;ref name = "ESPN-BillieJean" /&gt; [[Chris Evert]], however, said about King, "Her weakness is her impatience."&lt;ref&gt;{{cite news|url=http://www.time.com/time/magazine/article/0,9171,907800-2,00.html |title=Chris Evert: Miss Cool on the Court |work=Time |date=August 27, 1973 |accessdate=July 4, 2011}}&lt;/ref&gt;
+
+Concerning her motivations in life and tennis, King said,
+
+&lt;blockquote&gt;I'm a perfectionist much more than I'm a super competitor, and there's a big difference there.... I've been painted as a person who only competes.... But most of all, I get off on hitting a shot correctly.  ... Any woman who wants to achieve anything has to be aggressive and tough, but the press never sees us as multidimensional. They don't see the emotions, the downs....&lt;ref&gt;"Billie Jean King a perfectionist", ''New Mexican'', [[Santa Fe, New Mexico]], June 1, 1980, page C-7&lt;/ref&gt;
+&lt;/blockquote&gt;
+
+In a 1984 interview, just after she had turned 40, King said,
+
+&lt;blockquote&gt;Sometimes when I'm watching someone like Martina [Navratilova], I remember how nice it was to be No. 1. Believe me, it's the best time in your life. Don't let anyone ever tell you different. ... My only regret is that I had to do too much ''off'' the court. Deep down, I wonder how good I really could have been if I [had] concentrated just on tennis.&lt;ref&gt;"The Challenge of Her Life  Billie Jean at 40", ''[[Parade (magazine)|Parade]]'' magazine, ''Syracuse Herald Journal'', January 8, 1984, page 7&lt;/ref&gt;&lt;/blockquote&gt;
+
+[[Julie Heldman]], who frequently played King but never felt close to her, said about King's personality,
+
+&lt;blockquote&gt;One of the reasons I've never gotten close to Billie Jean is that I've never felt strong enough to survive against that overwhelming personality of hers. She talks about me being the smart one. Let me tell you, Billie Jean's the smartest one, the cleverest one you'll ever see. She was the one who was able to channel everything into winning, into being the most consummate tennis player.&lt;ref name="Mrs. Billie Jean King!"&gt;{{cite news |author=Deford, Frank |url=http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1089860/4/index.htm |title=Mrs. Billie Jean King! |publisher=Vault.sportsillustrated.cnn.com |date=May 19, 1975 |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20081209032646/http://vault.sportsillustrated.cnn.com/vault/article/magazine/MAG1089860/4/index.htm |archivedate=December 9, 2008 |df=mdy-all }}&lt;/ref&gt;&lt;/blockquote&gt;
+
+[[:fr:Kristien Shaw-Kemmer|Kristen Kemmer Shaw]], another frequent opponent of King, said,
+
+&lt;blockquote&gt;For a time, I think I was as close to Billie Jean as anyone ever was. But as soon as I got to the point where I could read her too well, she tried to dissociate the relationship. She doesn't want to risk appearing weak in front of anybody. She told me once that if you want to be the best, you must never let anyone, anyone, know what you really feel. You see, she told me, they can't hurt you if they don't know.&lt;ref name="Mrs. Billie Jean King!" /&gt;&lt;/blockquote&gt;
+
+Concerning the qualities of a champion tennis player, King said,
+
+{{quote|The difference between me at my peak and me in the last few years of my career is that when I was the champion I had the ultimate in confidence. When I decided, under pressure ... that I had to go with my very weakest shot  forehand down the line  I was positive that I could pull it off ... when it mattered the most. Even more than that; going into a match, I knew it was my weakest shot, and I knew in a tight spot my opponent was going to dare me to hit it, and I knew I could hit it those two or three or four times in a match when I absolutely had to.  ... The clich is to say that ... champions play the big points better. Yes, but that's only the half of it. The champions play their weaknesses better....&lt;ref&gt;{{cite book |author1=Deford, Frank |author2=King, Billie Jean |title=Billie Jean |publisher=Viking |location=New York, N.Y. |year=1982 |pages=967 |isbn=0-670-47843-1}}&lt;/ref&gt;}}
+
+== In popular culture ==
+King's friend [[Elton John]] wrote the song [[Philadelphia Freedom (song)|Philadelphia Freedom]], a nod to her World TeamTennis team, for King. Released New Year's Day 1975, became a number 1 hit.&lt;ref name="ITHF biography" /&gt; [[Charles M. Schulz]], creator of the ''[[Peanuts]]'' comic strip, was an admirer and close friend.&lt;ref&gt;{{Cite news|url=https://www.biography.com/news/peanuts-charles-schulz-facts|title=10 Facts About Charles Schulz, the Creator of the 'Peanuts' Gang|last=Kanzenberg|first=Corry|date=November 5, 2015|work=Biography.com|access-date=October 9, 2017}}&lt;/ref&gt; Schulz referred to King several times in ''Peanuts'' and used the comic strip to support the womens sports movement after becoming friends with King.&lt;ref&gt;{{Cite news|url=https://www.si.com/peppermint-patty-peanuts-charles-schulz-female-athletes|title=How Peppermint Patty became an advocate for female athletes|last=Kay|first=Stanley|date=August 19, 2016|work=SI.com|access-date=October 9, 2017}}&lt;/ref&gt; Actress [[Holly Hunter]] portrayed King in the 2001 ABC television film ''[[When Billie Beat Bobby]]''.&lt;ref&gt;{{Cite news|url=https://variety.com/2001/tv/reviews/when-billie-beat-bobby-1200467883/|title=When Billie Beat Bobby|last=Oxman|first=Steven|date=April 11, 2001|work=Variety|access-date=October 9, 2017}}&lt;/ref&gt; King played a judge on ''[[Law &amp; Order]]'' in 2007, &lt;ref&gt;{{cite web|url=http://www.imdb.com/title/tt0996071/fullcredits|title=Law &amp; Order  Fallout  Full Cast &amp; Crew|last=|first=|date=|website=IMDb|access-date=February 5, 2018}}&lt;/ref&gt; and appeared as herself on ''[[The Odd Couple (1970 TV series)|The Odd Couple]]'' in 1973, ''[[Ugly Betty]]'' in May 2009, and  ''[[Fresh Off The Boat]]'' in 2016''.''&lt;ref&gt;{{cite web|url=http://www.tvguide.com/celebrities/billie-jean-king/credits/223399/|title=Billie Jean King|last=|first=|date=|website=TVGuide.com|access-date=October 13, 2017}}&lt;/ref&gt; 
+
+Actress [[Emma Stone]] portrayed King in the 2017 biopic [[Battle of the Sexes (2017 film)|''Battle of the Sexes'']].&lt;ref&gt;{{Cite news|url=https://variety.com/2017/film/news/battle-of-the-sexes-emma-stone-billie-jean-king-1202561572/|title=Emma Stone Imagines a World Where Everyone Is Absolutely Equal at Battle of the Sexes Premiere|last=Sage|first=Alyssa|date=September 17, 2017|work=Variety|access-date=September 22, 2017}}&lt;/ref&gt; The [[Ted Tinling]] designed dress King wore for the real ''Battle of the Sexes'' match is part of a [[Smithsonian Institution|Smithsonian Museum]] collection.&lt;ref&gt;{{Cite news|url=https://www.smithsonianmag.com/arts-culture/how-billie-jean-king-picked-her-outfit-for-the-battle-of-the-sexes-match-89938552/|title=How Billie Jean King Picked Her Outfit for the Battle of the Sexes Match|last=Leibowitz|first=Ed|date=September 2003|work=Smithsonian|access-date=October 9, 2017}}&lt;/ref&gt;
+
+==Personal life==
+
+Billie Jean and [[Larry King (tennis)|Larry King]] were engaged in fall of 1964&lt;ref name="Higdon, Hal, Plays Tenis Like a Man" /&gt; and married in Long Beach, California, on September 17, 1965.&lt;ref&gt;"Billie Jean King of Her Family", ''Long Beach Press-Telegram'', November 23, 1965, page C-4&lt;/ref&gt; Billie Jean credited Larry with introducing her to feminism and for pushing her to pursue tennis as a career.&lt;ref name=":4" /&gt; Billie Jean later said she "was totally in love with Larry" when they married.&lt;ref name="TimesOnline-20071209" /&gt;
+
+By 1968, King realized that she was [[Lesbian|attracted to women]],&lt;ref name="NYTimes-20060426"&gt;{{cite news|url=https://www.nytimes.com/2006/04/26/arts/television/26stan.html|title=The Legacy of an Athlete Who Demanded Equal Play|date=April 26, 2006|work=The New York Times}}&lt;/ref&gt; and in 1971, began an intimate relationship with her secretary, Marilyn Barnett (born Marilyn Kathryn McRae on January 28, 1948). King acknowledged the relationship when it became public in a May 1981 '[[palimony]]' lawsuit filed by Barnett, making King the first prominent professional female athlete to come out as a bisexual. (Years before she realized she was actually gay).&lt;ref name = "TimesOnline-20071209"&gt;Walsh, David (December 9, 2007) [https://web.archive.org/web/20110414055233/http://www.timesonline.co.uk/tol/sport/tennis/article3021888.ece The Big Interview: Billie Jean King]. ''Sunday Times''.&lt;/ref&gt; Feeling she could not admit to the extent of the relationship, King publicly called it a fling and a mistake.&lt;ref name=":4" /&gt; She remained married to Larry.&lt;ref name=":4" /&gt; The lawsuit caused King to lose an estimated $2 million in endorsements and forced her to prolong her tennis career to pay attorneys.&lt;ref name=":5" /&gt;
+
+Concerning the personal cost of concealing her sexuality for so many years, King said:
+
+{{quote|I wanted to tell the truth but my parents were homophobic and I was in the closet. As well as that, I had people tell me that if I talked about what I was going through, it would be the end of the women's tour. I couldn't get a closet deep enough. One of my big goals was always to be honest with my parents and I couldn't be for a long time. I tried to bring up the subject but felt I couldn't. My mother would say, "We're not talking about things like that", and I was pretty easily stopped because I was reluctant anyway. I ended up with an eating disorder that came from trying to numb myself from my feelings. I needed to surrender far sooner than I did. At the age of 51, I was finally able to talk about it properly with my parents and no longer did I have to measure my words with them. That was a turning point for me as it meant I didn't have regrets any more.&lt;ref name = "TimesOnline-20071209" /&gt;}}
+
+Billie Jean and Larry remained married through the palimony suit fallout.&lt;ref name=":4" /&gt; The marriage ended in 1987 after Billie Jean fell in love with her doubles partner, [[Ilana Kloss]].&lt;ref name=":4" /&gt; Billie Jean and Larry remained on good terms, with Billie Jean serving as godmother to Larry's son from his subsequent marriage.&lt;ref name=":4" /&gt; King has residences in New York City and Chicago&lt;ref&gt;{{cite web |url=http://www.imgspeakers.com/_images/speakers/KingBillieJean.pdf |title=Billie Jean King, Mother of Modern Sports |publisher=Imgspeakers.com |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20110929080549/http://www.imgspeakers.com/_images/speakers/KingBillieJean.pdf |archivedate=September 29, 2011 |df=mdy-all }}&lt;/ref&gt; with Kloss, her life partner.&lt;ref&gt;{{cite web |last=Associated |first=The |url=http://www.pittsburghlive.com/x/pittsburghtrib/s_445847.html |title=Evert, Navratilova weigh in on tennis legend Billie Jean King |publisher=Pittsburghlive.com |date=April 23, 2006 |accessdate=July 4, 2011 |deadurl=yes |archiveurl=https://web.archive.org/web/20090422145449/http://www.pittsburghlive.com/x/pittsburghtrib/s_445847.html |archivedate=April 22, 2009 |df=mdy-all }}&lt;/ref&gt;
+
+==Grand Slam statistics==
+{{Main|Billie Jean King career statistics}}
+
+=== Grand Slam single finals ===
+'''18 finals (12 titles, 6 runner-ups)'''
+{| class="sortable wikitable"
+|-
+!Result
+!style="width:35px"|Year
+!style="width:200px"|Tournament
+!style="width:50px"|Surface
+!style="width:200px"|Opponent
+!style="width:150px" class="unsortable"|Score
+|- style="background:#cfc;"
+| style="background:#ffa07a;"|Loss || 1963 || [[The Championships, Wimbledon|Wimbledon]] || Grass || {{flagicon|AUS}} [[Margaret Court]] || 63, 64
+|- style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || 1965 || [[US Open (tennis)|U.S. Championships]] || Grass || {{flagicon|AUS}} Margaret Court ||  86, 75
+|- style="background:#cfc;"
+| style="background:#98fb98;"|Win || 1966 || Wimbledon &lt;small&gt;(1)&lt;/small&gt; || Grass || {{flagicon|BRA|1960}} [[Maria Bueno]] || 63, 36, 61
+|- style="background:#cfc;"
+| style="background:#98fb98;"|Win || 1967 || Wimbledon &lt;small&gt;(2) || Grass || {{flagicon|GBR}} [[Ann Haydon-Jones]] || 63, 64
+|- style="background:#ccf;"
+| style="background:#98fb98;"|Win || 1967 || U.S. Championships &lt;small&gt;(1)&lt;/small&gt; || Grass || {{flagicon|GBR}} Ann Haydon-Jones || 119, 64
+|- style="background:#ffc;"
+| style="background:#98fb98;"|Win || 1968 || [[Australian Open|Australian Championships]] &lt;small&gt;(1) || Grass || {{flagicon|AUS}} Margaret Court || 61, 62
+|- style="background:#cfc;"
+| style="background:#98fb98;"|Win || 1968 || Wimbledon &lt;small&gt;(3)&lt;/small&gt; || Grass || {{flagicon|AUS}} [[Judy Tegart Dalton]] || 97, 75
+|- style="background:#ccf;"
+| style="background:#ffa07a;"|Loss || 1968 || US Open || Grass || {{flagicon|GBR}} [[Virginia Wade]] || 64, 62
+|- style="background:#ffc;"
+| style="background:#ffa07a;"|Loss || 1969 || Australian Open || Grass ||{{flagicon|AUS}} Margaret Court || 64, 61
+|- style="background:#cfc;"
+| style="background:#ffa07a;"|Loss || 1969 || Wimbledon || Grass ||{{flagicon|GBR}} Ann Haydon-Jones || 36, 63, 62
+|- style="background:#cfc;"
+| style="background:#ffa07a;"|Loss || 1970 || Wimbledon || Grass ||{{flagicon|AUS}} Margaret Court || 1412, 119
+|- style="background:#ccf;"
+| style="background:#98fb98;"|Win || 1971 || US Open &lt;small&gt;(2)&lt;/small&gt; || Grass || {{flagicon|USA}} [[Rosemary Casals]] || 64, 76
+|- style="background:#ebc2af;"
+| style="background:#98fb98;"|Win || 1972 || French Open || Clay || {{flagicon|AUS}} [[Evonne Goolagong Cawley|Evonne Goolagong]] || 63, 63
+|- style="background:#cfc;"
+| style="background:#98fb98;"|Win || 1972 || Wimbledon &lt;small&gt;(4)&lt;/small&gt; ||Grass || {{flagicon|AUS}} [[Evonne Goolagong Cawley|Evonne Goolagong]] || 63, 63
+|- style="background:#ccf;"
+| style="background:#98fb98;"|Win || 1972 || US Open &lt;small&gt;(3)&lt;/small&gt; || Grass || {{flagicon|AUS}} [[Kerry Melville|Kerry Melville Reid]] || 63, 75
+|- style="background:#cfc;"
+| style="background:#98fb98;"|Win || 1973|| Wimbledon &lt;small&gt;(5)&lt;/small&gt; || Grass || {{flagicon|USA}} [[Chris Evert]] || 60, 75
+|- style="background:#ccf;"
+| style="background:#98fb98;"|Win || 1974|| US Open &lt;small&gt;(4)&lt;/small&gt; || Grass || {{flagicon|AUS}} [[Evonne Goolagong Cawley|Evonne Goolagong]] || 36, 63, 75
+|- style="background:#cfc;"
+| style="background:#98fb98;"|Win || 1975 || Wimbledon &lt;small&gt;(6)&lt;/small&gt; || Grass || {{flagicon|AUS}} [[Evonne Goolagong Cawley]] || 60, 61
+|}
+
+===Grand Slam tournament timeline===
+{{Performance key|short=yes|active=no}}
+'''Singles'''
+{|class=wikitable style=text-align:center;font-size:90%
+|-
+!Tournament!!'59!!'60!!'61!!'62!!'63!!'64!!'65!!'66!!'67!!'68!!'69!!'70!!'71!!'72!!'73!!'74!!'75!!'76!!'77!!'78!!'79!!'80!!'81!!'82!!'83!!'84!!SR!!WL
+|-
+|  style="text-align:left; background:#efefef;"|[[Australian Open]]
+|A
+|A
+|A
+|A
+|A
+|A
+| style="background:yellow;"|[[1965 Australian Championships  Women's Singles|SF]]
+|A
+|A
+|bgcolor=lime|[[1968 Australian Championships  Women's Singles|'''W]]
+| style="background:thistle;"|[[1969 Australian Open  Women's Singles|F]]
+|A
+|A
+|A
+|A
+|A
+|A
+|A
+|A/A
+|A
+|A
+|A
+|A
+| style="background:#ffebcd;"|[[1982 Australian Open  Women's Singles|QF]]
+| style="background:#afeeee;"|[[1983 Australian Open  Women's Singles|2R]]
+|A
+| style="background:#efefef;"|1 / 5
+| style="background:#efefef;"|164
+|-
+|  style="text-align:left; background:#efefef;"|[[French Open]]
+|A
+|A
+|A
+|A
+|A
+|A
+|A
+|A
+| style="background:#ffebcd;"|[[1967 French Championships  Women's Singles|QF]]
+| style="background:yellow;"|[[1968 French Open  Women's Singles|SF]]
+| style="background:#ffebcd;"|[[1969 French Open  Women's Singles|QF]]
+| style="background:#ffebcd;"|[[1970 French Open  Women's Singles|QF]]
+|A
+|bgcolor=lime|[[1972 French Open  Women's Singles|'''W]]
+|A
+|A
+|A
+|A
+|A
+|A
+|A
+| style="background:#ffebcd;"|[[1980 French Open  Women's Singles|QF]]
+|A
+| style="background:#afeeee;"|[[1982 French Open  Women's Singles|3R]]
+|A
+|A
+| style="background:#efefef;"|1 / 7
+| style="background:#efefef;"|216
+|-
+|  style="text-align:left; background:#efefef;"|[[The Championships, Wimbledon|Wimbledon]]
+|A
+|A
+| style="background:#afeeee;"|[[1961 Wimbledon Championships  Women's Singles|2R]]
+| style="background:#ffebcd;"|[[1962 Wimbledon Championships  Women's Singles|QF]]
+| style="background:thistle;"|[[1963 Wimbledon Championships  Women's Singles|F]]
+| style="background:yellow;"|[[1964 Wimbledon Championships  Women's Singles|SF]]
+| style="background:yellow;"|[[1965 Wimbledon Championships  Women's Singles|SF]]
+|bgcolor=lime|[[1966 Wimbledon Championships  Women's Singles|'''W]]
+|bgcolor=lime|[[1967 Wimbledon Championships  Women's Singles|'''W]]
+|bgcolor=lime|[[1968 Wimbledon Championships  Women's Singles|'''W]]
+| style="background:thistle;"|[[1969 Wimbledon Championships  Women's Singles|F]]
+| style="background:thistle;"|[[1970 Wimbledon Championships  Women's Singles|F]]
+| style="background:yellow;"|[[1971 Wimbledon Championships  Women's Singles|SF]]
+|bgcolor=lime|[[1972 Wimbledon Championships  Women's Singles|'''W]]
+|bgcolor=lime|[[1973 Wimbledon Championships  Women's Singles|'''W]]
+| style="background:#ffebcd;"|[[1974 Wimbledon Championships  Women's Singles|QF]]
+|bgcolor=lime|[[1975 Wimbledon Championships  Women's Singles|'''W]]
+|A
+| style="background:#ffebcd;"|[[1977 Wimbledon Championships  Women's Singles|QF]]
+| style="background:#ffebcd;"|[[1978 Wimbledon Championships  Women's Singles|QF]]
+| style="background:#ffebcd;"|[[1979 Wimbledon Championships  Women's Singles|QF]]
+| style="background:#ffebcd;"|[[1980 Wimbledon Championships  Women's Singles|QF]]
+|A
+| style="background:yellow;"|[[1982 Wimbledon Championships  Women's Singles|SF]]
+| style="background:yellow;"|[[1983 Wimbledon Championships  Women's Singles|SF]]
+|A
+| style="background:#efefef;"|6 / 21
+| style="background:#efefef;"|9515
+|-
+|  style="text-align:left; background:#efefef;"|[[US Open (tennis)|US Open]]
+| style="background:#afeeee;"|[[1959 U.S. National Championships  Women's Singles|1R]]
+| style="background:#afeeee;"|[[1960 U.S. National Championships  Women's Singles|3R]]
+| style="background:#afeeee;"|[[1961 U.S. National Championships  Women's Singles|2R]]
+| style="background:#afeeee;"|[[1962 U.S. National Championships  Women's Singles|1R]]
+| style="background:#afeeee;"|[[1963 U.S. National Championships  Women's Singles|4R]]
+| style="background:#ffebcd;"|[[1964 U.S. National Championships  Women's Singles|QF]]
+| style="background:thistle;"|[[1965 U.S. National Championships  Women's Singles|F]]
+| style="background:#afeeee;"|[[1966 U.S. National Championships  Women's Singles|2R]]
+|bgcolor=lime|'''[[1967 U.S. National Championships  Women's Singles|W]]'''
+| style="background:thistle;"|[[1968 US Open  Women's Singles|F]]
+| style="background:#ffebcd;"|[[1969 US Open  Women's Singles|QF]]
+|A
+|bgcolor=lime|[[1971 US Open  Women's Singles|'''W]]
+|bgcolor=lime|[[1972 US Open  Women's Singles|'''W]]
+| style="background:#afeeee;"|[[1973 US Open  Women's Singles|3R]]
+|bgcolor=lime|[[1974 US Open  Women's Singles|'''W]]
+|A
+|A
+| style="background:#ffebcd;"|[[1977 US Open  Women's Singles|QF]]
+|A
+| style="background:yellow;"|[[1979 US Open  Women's Singles|SF]]
+|A
+|A
+| style="background:#afeeee;"|[[1982 US Open  Women's Singles|1R]]
+|A
+|A
+| style="background:#efefef;"|4 / 18
+| style="background:#efefef;"|6314
+|- style="background:#efefef;"
+|  style="text-align:left; "|SR
+|0 / 1
+|0 / 1
+|0 / 2
+|0 / 2
+|0 / 2
+|0 / 2
+|0 / 3
+|1 / 2
+|2 / 3
+|2 / 4
+|0 / 4
+|0 / 2
+|1 / 2
+|3 / 3
+|1 / 2
+|1 / 2
+|1 / 1
+|0 / 0
+|0 / 2
+|0 / 1
+|0 / 2
+|0 / 2
+|0 / 0
+|0 / 4
+|0 / 2
+|0 / 0
+!12 / 51
+!19539
+|}
+
+*SR = the ratio of the number of singles tournaments won to the number of those tournaments played
+*Note: The Australian Open was held twice in 1977, in January and December.
+
+==See also==
+{{Portal|Tennis|Women's sport}}
+{{div col|colwidth=30em}}
+* [[List of Grand Slam women's singles champions]]
+* [[List of Wimbledon mixed doubles champions]]
+* [[List of French Open mixed doubles champions]]
+* [[List of US Open mixed doubles champions]]
+* [[List of French Open women's singles champions]]
+* [[List of Wimbledon ladies' singles champions]]
+* [[List of US Open women's singles champions]]
+* [[List of French Open women's doubles champions]]
+* [[List of Wimbledon ladies' doubles champions]]
+* [[List of US Open women's doubles champions]]
+* [[List of Open Era tennis records]]
+* [[All-time tennis records  women's singles]]
+*[[WTA Tour records]]
+*[[Open Era tennis records  women's singles]]
+* [[Homosexuality in sports in the United States]]
+*[[Billie Jean King Leadership Initiative]]
+{{div col end}}
+
+==Notes==
+{{notelist}}
+
+==References==
+{{reflist|30em}}
+
+==Further reading==
+*{{cite book | author=Fein, Paul |title=You Can Quote Me On That: Greatest Tennis Quips, Insights And Zingers |publisher=Potomac Books |location=Washington |year=2005 |isbn=1-57488-925-7 |oclc= }}
+*Jones, Ann, ''A Game of Love'', 1971
+*{{cite book | author=King, Billie Jean|title= Pressure is a Privilege: Lessons I've Learned from Life and the Battle of the Sexes|publisher=LifeTime Media Inc.|location=New York|year=2008 |isbn=0981636802 |oclc= }}
+*Overman, Steven J. and K. B. Sagert, ''Icons of Women's Sport.'' Greenwood Press, 2012, Vol. 1.
+*{{cite book |author=Roberts, Selena |title=A Necessary Spectacle : Billie Jean King, Bobby Riggs, and the Tennis Match That Leveled the Game |publisher=Crown |location=New York |year=2005 |isbn=1-4000-5146-0 |oclc= }}
+*Ware, Susan (2011). ''Game, Set, Match: Billie Jean King and the Revolution in Women's Sports''. University of North Carolina Press. Combines biography and history in a study of the tennis player, liberal feminism, and Title IX.
+
+==External links==
+{{Commons category|Billie Jean King}}
+* {{Official website|http://www.billiejeanking.com}}
+* {{WTA}}
+* {{Fed Cup player}}
+* {{Tennishof|billie-jean-king}}
+
+{{Women's Sports Foundation}}
+{{navboxes|title=Billie Jean King in the [[grand slam (tennis)|Grand Slam Tournaments]]
+|list1=
+{{Women's tennis players who won two or more Grand Slam singles titles in one calendar year}}
+{{Australian Championships women's singles champions}}
+{{Pre Open Era Wimbledon Ladies' singles champions}}
+{{U.S. National Championships women's singles champions}}
+{{Pre Open Era Wimbledon women's doubles champions}}
+{{U.S. National Championships women's doubles champions}}
+{{Australian Championships mixed doubles champions}}
+{{Pre Open Era Wimbledon Mixed Doubles champions}}
+{{French Championships mixed doubles champions}}
+{{U.S. National Championships mixed doubles champions}}
+{{French Open women's singles champions}}
+{{Wimbledon women's singles champions}}
+{{US Open women's singles champions}}
+{{French Open women's doubles champions}}
+{{Wimbledon women's doubles champions}}
+{{US Open women's doubles champions}}
+{{French Open mixed doubles champions}}
+{{Wimbledon mixed doubles champions}}
+{{US Open mixed doubles champions}}
+{{Tennis Career Grand Slam Champions}}
+{{Tennis women grand slam three and more}}
+}}
+{{navboxes|title=Billie Jean King achievements
+|list1=
+{{WTA Year-End Championships winners doubles}}
+{{SI Sportsman of the Year}}
+{{Time Persons of the Year 19511975}}
+{{National Women's Hall of Fame}}
+{{Associated Press Female Athlete of the Year navbox}}
+{{Arthur Ashe Courage}}
+{{Chicago Gay and Lesbian Hall of Fame}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:King, Billie Jean}}
+[[Category:1943 births]]
+[[Category:American female tennis players]]
+[[Category:American feminists]]
+[[Category:American Methodists]]
+[[Category:Australian Championships (tennis) champions]]
+[[Category:California State University, Los Angeles alumni]]
+[[Category:French Championships (tennis) champions]]
+[[Category:French Open champions]]
+[[Category:Grand Slam (tennis) champions in mixed doubles]]
+[[Category:Grand Slam (tennis) champions in women's doubles]]
+[[Category:Grand Slam (tennis) champions in women's singles]]
+[[Category:International Tennis Hall of Fame inductees]]
+[[Category:Lesbian feminists]]
+[[Category:Lesbian sportswomen]]
+[[Category:LGBT people from California]]
+[[Category:LGBT sportspeople from the United States]]
+[[Category:LGBT tennis players]]
+[[Category:Living people]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:Sportspeople from Long Beach, California]]
+[[Category:Tennis commentators]]
+[[Category:Tennis people from California]]
+[[Category:Toastmasters members]]
+[[Category:United States National champions (tennis)]]
+[[Category:US Open (tennis) champions]]
+[[Category:Wimbledon champions]] &lt;!-- Open Era --&gt;
+[[Category:Women sports announcers]]
+[[Category:World No. 1 tennis players]]
+[[Category:Women's Sports Foundation]]</text>
+      <sha1>3t5tmg9fy6g1abjogi92u9rzi2jfqqq</sha1>
+    </revision>
+  </page>
+</mediawiki>

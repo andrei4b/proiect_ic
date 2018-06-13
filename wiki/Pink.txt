@@ -1,0 +1,486 @@
+--music
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Pink</title>
+    <ns>0</ns>
+    <id>215567</id>
+    <revision>
+      <id>843640296</id>
+      <parentid>843625646</parentid>
+      <timestamp>2018-05-30T13:26:37Z</timestamp>
+      <contributor>
+        <ip>50.201.57.158</ip>
+      </contributor>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="76606">{{about|the color between red and white on the color spectrum of visible light|the singer|Pink (singer)|other uses}}
+{{Infobox color
+| textcolor=pink
+| title=Pink
+|image={{photomontage
+|photo1a=Pink sapphire ring.jpg
+|photo1b=Woman of Malaysia at the Spring Fest 2009 in Moscow, Russia.jpg
+|photo1c=
+|photo2a=Cherry Blossom Spring Sky (4531848988).jpg
+|photo2b=Jules Plisson Stade francais 2012-03-03.jpg
+|photo2c=
+|photo3a=James's Flamingo mating ritual.jpg
+| size = 243
+| color_border = #AAAAAA
+| color =  #F9F9F9
+|caption=(clockwise)Pink Sapphire, a Malaysian woman celebrating spring, Jules Pilsson in a pink jersey, Pink flamingoes, Pink cherry blossoms
+| foot_montage = }}
+
+| hex=FFC0CB
+| r=255|g=192  |b=203|rgbspace=[[sRGB color space|sRGB]]
+| c= 0|m= 20|y=  14|k= 0
+| h=350|s= 25|v= 100
+ |source=[[HTML color names|HTML/CSS]]&lt;ref name="css3-color"&gt;{{cite web|url=http://www.w3.org/TR/css3-color/#html4 |title=W3C TR CSS3 Color Module, HTML4 color keywords |publisher=W3.org |date= |accessdate=2010-09-11}}&lt;/ref&gt;
+}}
+
+'''Pink''' is a pale red color that is named after a [[Pink (flower)|flower of the same name]].&lt;ref&gt;''Shorter Oxford English Dictionary'', 5th Edition, Oxford University Press.&lt;/ref&gt;&lt;ref&gt;''Webster New World Dictionary'', Third College Edition: "Any of a genus (''Dianthus'') of annual and perennial plants of the pink family with white, pink or red flowers.; its pale red color."&lt;/ref&gt; It was first used as a color name in the late 17th century.&lt;ref&gt;"pink, ''n.'' and ''adj.''", [[Oxford English Dictionary]] Online&lt;/ref&gt; According to surveys in Europe and the United States, pink is the color most often associated with charm, politeness, sensitivity, tenderness, sweetness, childhood, femininity and the romantic. It is associated with chastity and innocence when combined with [[white]], but associated with eroticism and seduction when combined with [[purple]] or [[black]].&lt;ref&gt;Heller, Eva: ''Psychologie de la couleur  effets et symboliques'', pp. 179-184&lt;/ref&gt;
+{{TOC limit|3}}
+
+== In nature and culture ==
+{{See also|Shades of pink}}
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Dianthus.jpg|The color pink takes its name from the flowers called [[pink (flower)|pinks]], members of the genus ''[[Dianthus]]''.
+File:Rosa Queen Elizabeth1ZIXIETTE.jpg|In most European languages, pink is called rose or rosa, after the [[rose]] flower.
+File:Cherry blossoms in the Tsutsujigaoka Park.jpg|Cherry blossoms in Sendai, Miyagi, Japan. The Japanese language has different words for the pink of cherry blossoms (''sakura-iro''), and peach blossoms (''momo-iro''). Recently the word ''pinku'' has also become popular.
+File:Greater Flamingoes (Phoenicopterus roseus) in flight W IMG 0081.jpg|Pink is often associated with the exotic. Greater [[flamingo]]es in flight over Pocharam Lake in [[Andhra Pradesh]], India.
+File:Barite-Rhodochrosite-tcm01a.jpg|[[Rhodochrosite]] is one of the many kinds of pink gemstones.
+File:Pink 1963 Cadillac.jpg|Pink is sometimes associated with extravagance and a wish to be noticed. A 1963 pink Cadillac.
+File:Pink gothlolita.jpg|Pink and white together symbolize youth, tenderness and innocence.
+&lt;/gallery&gt;
+
+== Etymology and definitions ==
+The color pink is named after the flowers, [[Dianthus plumarius|pinks]],&lt;ref&gt;{{Cite web|url=https://www.monticello.org/site/house-and-gardens/pinks-gilliflowers-carnations-exalted-flowers|title=Pinks,  Gilliflowers, &amp; Carnations -- The Exalted Flowers {{!}} Thomas Jefferson's Monticello|last=Cornett|first=Peggy|date=January 1998|website=www.monticello.org|language=en|access-date=2018-03-12}}&lt;/ref&gt; [[flowering plant]]s in the genus ''[[Dianthus]],'' and derives from the frilled edge of the flowers. The [[verb]] "to pink" dates from the 14th century and means "to decorate with a perforated or punched pattern" (possibly from German ''pinken'', "to peck").&lt;ref&gt;Collins Dictionary&lt;/ref&gt;
+
+While the word "pink" was first used as a noun to refer to a color in the 17th century,&lt;ref&gt;{{Cite news|url=https://www.artsy.net/article/artsy-editorial-history-pink|title=A Brief History of the Color Pink|last=Bucknell|first=Alice|date=2017-11-06|work=Artsy|access-date=2018-03-12|language=en}}&lt;/ref&gt; the verb "pink" continues to be reflected today as the name of hand-held scissors that cut a zig-zagged line to prevent fraying that are referred to as [[pinking shears]].
+
+== History, art and fashion ==
+The color pink has been described in literature since ancient times. In the [[Odyssey]], written in approximately 800&amp;nbsp;BCE, [[Homer]] wrote "Then, when the child of morning, [[Eos|rosy-fingered dawn]] appeared..."&lt;ref&gt;The Odyssey, Book XII, translated by Samuel Butler.&lt;/ref&gt; Roman poets also described the color. ''[[wikt:roseus|Roseus]]'' is the [[Latin]] word meaning "[[Rose (color)|rosy]]" or "pink." [[Lucretius]] used the word to describe the [[dawn]] in his [[Epic poetry|epic poem]] ''On the Nature of Things'' (''[[De rerum natura]]'').&lt;ref&gt;{{cite web|url=http://www.ablemedia.com/ctcweb/glossary/glossaryr.html |title=CTCWeb Glossary: R (ratis to ruta) |publisher=Ablemedia.com |date= |accessdate=2010-09-11}}&lt;/ref&gt;
+
+Pink was not a common color in the fashion of the Middle Ages; nobles usually preferred brighter reds, such as crimson. However, it did appear in women's fashion, and in religious art. In the 13th and 14th century, in works by [[Cimabue]] and [[Duccio]], the Christ child was sometimes portrayed dressed in pink, the color associated with the body of Christ.
+
+In the high Renaissance painting the [[Madonna of the Pinks]] by [[Raphael]], the Christ child is presenting a [[pink (flower)|pink flower]] to the [[Virgin Mary]]. The pink was a symbol of marriage, showing a spiritual marriage between the mother and child.&lt;ref&gt;http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG6596 ''The Madonna of the Pinks'' on the official National Gallery website&lt;/ref&gt;
+
+During the Renaissance, pink was mainly used for the flesh color of faces and hands. The pigment commonly used for this was called light cinabrese; it was a mixture of the red earth pigment called [[sinopia]], or [[Venetian red]], and a white pigment called ''Bianco San Genovese'', or lime white. In his famous 15th century manual on painting, ''Il Libro Dell'Arte'', [[Cennino Cennini]] described it this way: "This pigment is made from the loveliest and lightest sinopia that is found and is mixed and mulled with St. Johns white, as it is called in Florence; and this white is made from thoroughly white and thoroughly purified lime. And when these two pigments have been thoroughly mulled together (that is, two parts cinabrese and the third white), make little loaves of them like half walnuts and leave them to dry. When you need some, take however much of it seems appropriate. And this pigment does you great credit if you use it for painting faces, hands and nudes on walls..."&lt;ref&gt;Lara Broecke, ''Cennino Cennini's ''Il Libro dell'Arte'': a New English Translation and Commentary with Italian Transcription'', Archetype 2015, p. 62.&lt;/ref&gt;
+&lt;gallery mode="packed" heights="150px"&gt;
+File:East in Libadakia, Serifos, Greece.jpg|The Greek poet [[Homer]] wrote of "the child of morning, rose-fingered dawn" in The [[Odyssey]]. Sunrise at [[Serifos]], Greece.
+File:Cimabue, The Virgin and Child Enthroned with Two Angels.jpg|In the early Renaissance, the infant Jesus was sometimes shown dressed in pink, the color associated with the body of Christ. This is the Virgin and Child Enthroned with Two Angels, by [[Cimabue]]. (12651280)
+File:Duccio di Buoninsegna - Madonna and Child (no. 593) - WGA06706.jpg|In the 1280s, [[Duccio]] also painted the Christ child dressed in pink
+File:Kneeling knight received a swan-crested helmet.jpg|A knight in red receiving a helmet from a damsel in pink, from an English manuscript of The Romance of Alexander (1338-1344).
+File:Raphael Madonna of the Pinks.jpg|In the painting [[Madonna of the Pinks]] by [[Raphael]], the Christ Child gives a [[pink (flower)|pink flower]] to the [[Virgin Mary]], symbolizing the union between the mother and child.
+&lt;/gallery&gt;
+
+===18th century===
+
+The zenith of the color pink was the 18th century, when pastel colors became very fashionable in all the courts of Europe. Pink was particularly championed by [[Madame de Pompadour]] (17211764), the mistress of King [[Louis XV of France]], who wore combinations of pale blue and pink, and had a particular tint of pink made for her by the [[Sevres porcelain]] factory, created by adding nuances of blue, black and yellow.&lt;ref&gt;Eva Heller, ''Psychologie de la couleur, effets et symboliques'', pp. 182-83&lt;/ref&gt;
+
+While pink was quite evidently the color of seduction in the portraits made by [[George Romney (painter)|George Romney]] of [[Emma, Lady Hamilton]], the future mistress of Admiral [[Horatio Nelson]], in the late 18th century, it had the completely opposite meaning in the portrait of Sarah Barrett Moulton painted by [[Thomas Lawrence]] in 1794. In this painting, it symbolized childhood, innocence and tenderness. Sarah Moulton was just eleven years old when the picture was painted, and died the following year.
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Pompadour6.jpg|[[Madame de Pompadour]], the mistress of [[Louis XV of France]], made pink and blue the leading fashion colors in the Court of Versailles. She had a special pink tint created for her by the Sevres porcelain factory. This portrait by [[Maurice Quentin de La Tour]] was painted between 1748 and 1755.
+File:Galerie des Modes 3.jpg|Pink had become a popular color throughout Europe by the late 18th century. It was associated with both romanticism and seduction. This fashion plate is from 17781787.
+File:George Romney - Lady Hamilton (as a Bacchante) 3.jpg|[[Emma, Lady Hamilton]], later the mistress of Admiral [[Horatio Nelson]], had herself painted by [[George Romney (painter)|English painter George Romney]] posing as a [[Bacchante]], dressed in pink. (17821784)
+File:Pinkie detailed.jpg|The portrait of Sarah Moulton, popularly known as "Pinkie", by Sir [[Thomas Lawrence]] (1794). Here pink represented youth, innocence and tenderness.
+File:D'Holbach.jpg|[[Paul-Henri Thiry, Baron d'Holbach]] by [[Louis Carmontelle]]. Pink was worn by both sexes.
+&lt;/gallery&gt;
+
+===19th century===
+
+In 19th century England, pink ribbons or decorations were often worn by young boys; boys were simply considered small men, and while men in England wore red uniforms, boys wore pink. In fact the clothing for children in the 19th century was almost always white, since, before the invention of chemical dyes, clothing of any color would quickly fade when washed in boiling water. Queen Victoria was painted in 1850 with her seventh child and third son, Prince Arthur, who wore white and pink. In late nineteenth-century France, Impressionist painters working in a pastel color palette sometimes depicted women wearing the color pink, such as [[Edgar Degas]] image of ballet dancers or [[Mary Cassatt]]s images of women and children. 
+&lt;gallery mode="packed" heights="150"&gt;
+File:Queen Victoria with Prince Arthur.jpg|[[Queen Victoria]] in 1850 or 1851 with her third son and seventh child, Prince Arthur. In the 19th century, baby boys often wore white and pink. Pink was seen as a masculine color, while girls often wore white and blue.
+File:American School, Young Boy with Whip, ca. 1840.jpg|Young boy in pink, American school of painting (about 1840). Both girls and boys wore pink in the 19th century.
+File:FranciscaGonzagaDeBranganca.jpg|[[Princess Francisca of Brazil|Francisca of Brazil]], [[Princess of Joinville]], wearing a pink gown decorated with pink roses, 1850s. Painting by [[Franz Xaver Winterhalter]].
+File:Claude Monet - Springtime - Google Art Project.jpg|The Impressionist painter [[Claude Monet]] used pink, blue and green to capture the effects of light and shadows on a white dress in ''[[Springtime (painting)|Springtime]]'' (1872).
+File:Girl in a Bonnet Tied with a Large Pink Bow by Mary Cassatt.jpg|Mary Cassatt, ''Girl in a Bonnet Tied with a Large Pink Bow'', 1909. Oil on canvas (68 x 57.2&amp;nbsp;cm). Private Collection.
+&lt;/gallery&gt;
+
+=== 20th century - present ===
+
+In the 20th century, pinks became bolder, brighter, and more assertive, in part because of the invention of chemical dyes which did not fade. The pioneer in the creation of the new wave of pinks was the Italian designer [[Elsa Schiaparelli]], (1890-1973) who was aligned with the artists of the [[surrealist]] movement, including [[Jean Cocteau]]. In 1931 she created a new variety of the color, called [[shocking pink]], made by mixing [[magenta]] with a small amount of white. She launched a perfume called Shocking, sold in a bottle in the shape of a woman's torso, said to be modelled on that of [[Mae West]]. Her fashions, co-designed with artists such as Cocteau, featured the new pinks.&lt;ref&gt;Eva Heller, ''Psychologie de la couleur - effets et symboliques'', p. 184.&lt;/ref&gt;
+
+In [[Nazi Germany]] in the 1930s and 1940s, inmates of [[Nazi concentration camps]] who were accused of [[homosexuality]] were forced to wear a [[pink triangle]].&lt;ref&gt;''The Pink Triangle: The Nazi War Against Homosexuals'' (1986) by Richard Plant (New Republic Books). {{ISBN|0-8050-0600-1}}.&lt;/ref&gt; Because of this, the pink triangle has become a symbol of the modern [[gay rights movement]].&lt;ref&gt;{{cite web|last1=McCormick|first1=Joseph Patrick|title=Nick Clegg calls for gay victims of the Nazis to be remembered in national Holocaust memorial|url=https://www.pinknews.co.uk/2015/01/27/nick-clegg-calls-for-gay-victims-of-the-nazis-to-be-remembered-in-national-holocaust-memorial/|website=Pink Triangle|accessdate=19 September 2015}}&lt;/ref&gt;
+
+The transition to pink as a sexually differentiating color for girls occurred gradually, through the selective process of the marketplace, in the 1930s and 40s. In the 1920s, some groups had been describing pink as a masculine color, an equivalent of the red that was considered to be for men, but lighter for boys. But stores nonetheless found that people were increasingly choosing to buy pink for girls, and blue for boys, until this became an accepted norm in the 1940s.&lt;ref&gt;''Smithsonian Magazine''&lt;br/&gt;[http://www.smithsonianmag.com/arts-culture/when-did-girls-start-wearing-pink-1370097/?no-ist When Did Girls Start Wearing Pink?]&lt;br/&gt;In 1927, ''Time'' magazine printed a chart showing sex-appropriate colors for girls and boys according to leading U.S. stores. In Boston, Filenes told parents to dress boys in pink. So did Best &amp; Co. in New York City, Halles in Cleveland and Marshall Field in Chicago.&lt;P&gt;Todays color dictate wasnt established until the 1940s, as a result of Americans preferences as interpreted by manufacturers and retailers. It could have gone the other way&lt;/ref&gt;&lt;ref name="npr-pink"&gt;{{cite web |title=Girls Are Taught To 'Think Pink,' But That Wasn't Always So |last1=Stamberg |first1=Susan  |date=April 1, 2014 |website=npr.org |publisher=[[NPR]] |accessdate=2014-09-26 |archive-url=https://web.archive.org/web/20140415154701/http://www.npr.org/2014/04/01/297159948/girls-are-taught-to-think-pink-but-that-wasnt-always-so |archivedate=2014-04-15 |url=https://www.npr.org/2014/04/01/297159948/girls-are-taught-to-think-pink-but-that-wasnt-always-so |quote=a 1918 trade catalog for children's clothing recommended blue for girls. The reasoning at the time was that it's a 'much more delicate and dainty tone,' Finamore says. Pink was recommended for boys 'because it's a stronger and more passionate color, and because it's actually derived from red.'}}&lt;/ref&gt;
+
+[[File:mamie eisenhower.gif|thumb|90px|Mamie Eisenhower in her pink inaugural gown, painted in 1953 by Thomas Stevens]]
+The US presidential inauguration of [[Dwight D. Eisenhower]] in 1953 when Eisenhower's wife [[Mamie Eisenhower]] wore a pink dress as her inaugural gown is thought to have been a key turning point to the association of pink as a color associated with girls. Mamie's strong liking of pink led to the public association with pink being a color that "ladylike women wear." The 1957 American musical [[Funny Face]] also played a role in cementing the color's association with women.&lt;ref name="Voxpink"&gt;{{cite web | url=https://www.youtube.com/watch?v=KaGSYGhUkvM | title=How did pink become a girly color? | publisher=[[Vox (website)|Vox]] | date=14 April 2015 | accessdate=9 August 2015 | author=Jennifer Wright}}&lt;/ref&gt;
+
+Author of ''Pink Think'', Lynn Peril, has dubbed the 1960s Hollywood moviestar [[Jayne Mansfield]] The Patron Saint of Pink Think.&lt;ref name=":0"&gt;{{Cite book|title=Pink Think: Becoming a Woman in Many Uneasy Lessons|last=Peril|first=Lynn|publisher=W. W. Norton &amp; Company|year=2002|isbn=|location=New York; London|pages=1618}}&lt;/ref&gt; Mansfield, who owned everything in the color, including a pink Jaguar and a home on Sunset Boulevard named [[Jayne Mansfield's Pink Palace|Pink Palace]], used pink as a visual shorthand for her ideas of femininity and female sexuality."&lt;ref name=":0" /&gt;
+
+Contemporary artists, museums, and publications frequently include the color pink in their work and exhibitions. The Turkish artist [[Tomur Atagk]] references Ingres ''[[Grande Odalisque|La Grande Odalisque]]'' in her ''Hommage to Ingres I'' and ''II'' (1985), as well as ancient Egyptian art in ''Artemis of Ephesus'' (1997).&lt;ref&gt;{{Cite web|url=http://tomuratagok.com/kadin.php?l=en|title=Gender Issues, 1981-|last=Atagk|first=Tomur|date=|website=|access-date=April 7, 2018}}&lt;/ref&gt; Other female artists who use pink include [[Sylvie Fleury]], whose installations such as ''First Spaceship on Venus'' (1996) offer critiques of pink in consumer culture, and [[Louise Bourgeois]], whose ''Nature Study'' series uses pink to suggest flesh tones in sculptural forms.&lt;ref&gt;{{Cite book|title=Pink: The Exposed Color in Contemporary Art and Culture|last=Nemitz|first=Barbara|publisher=Hatje Cantz ; D.A.P.|year=2006|isbn=|location=Ostfildern; New York|pages=7172}}&lt;/ref&gt; ''Pink Project: Table'' is an installation piece by [[Portia Munson]] that has been showcased at the New Museum, New York, as a part of the Bad Girls Exhibition in 1994, and at the Frieze in 2016.&lt;ref&gt;{{Cite web|url=http://www.phaidon.com/agenda/art/articles/2016/october/06/the-story-behind-that-pink-table-at-frieze/|title=The story behind that pink table at Frieze|last=|first=|date=|website=Phaidon|access-date=}}&lt;/ref&gt; The installation consists of a four meter long table covered in Munsons collection of pink consumer items, most from the late-20th century. Munson started her collection in the 1980s out of pure appreciation of the color while also trying to keep in mind consumerism, the gender roles played by colors such as pink and blue, and the human need to collect and discard.
+
+Many of [[Franz West]]'s [[aluminium]] sculptures were often painted a bright pink, for example ''Sexualittssymbol (Symbol of Sexuality).'' West has said that the pink was intended as an "outcry to nature".&lt;ref&gt;{{cite book|url=http://www.hatjecantz.de/pink-1718-1.html|title=Pink The Exposed Color in Contemporary Art and Culture|last1=Nemitz|first1=Barbara|publisher=Hatje Cantz|page=69}}&lt;/ref&gt;
+
+The 1972 ''[[Womanhouse]]'' art installation run by [[Judy Chicago]] and [[Miriam Schapiro]] with the Feminist Art Program at the California Institute of the Arts included a kitchen painted completely in a store-bought pink.&lt;ref name=":02"&gt;{{Cite journal|last=Schapiro|first=Miriam|date=Spring 1972|title=The Education of Women as Artists: Project Womanhouse|jstor=775513|journal=Art Journal|volume=31| issue =  2|pages=268270}}&lt;/ref&gt; The room was designed by Robin Weltsch and Susan Frazier with Vicki Hodgetts ''Eggs to Breasts'' motifs attached to its walls. According to Schapiro, the room intended to evoke ideas of maternity and domesticity by using pink as a consciousness-raising motif.&lt;ref name=":02" /&gt; The next year, in 1973, [[Sheila Levrant de Bretteville]] created "Pink," a [[Broadside (printing)|broadside]] (poster) meant to explore the notions of gender as associated with the color pink, for an American Institute of Graphic Arts exhibition about color. This was the only entry about the color pink. Various women including many in the Feminist Studio Workshop at the [[Woman's Building]] submitted entries exploring their association with the color. De Bretteville arranged the squares of paper to form a "quilt" from which posters were printed and disseminated throughout Los Angeles.&lt;ref&gt;{{cite web |url=http://www.moca.org/wack/?p=276 |title=WACK! Exhibition, podcast interview with de Bretteville |publisher=MOCA.org |date=1940-11-04 |accessdate=2010-09-27 |deadurl=yes |archiveurl=https://web.archive.org/web/20100707020250/http://www.moca.org/wack/?p=276 |archivedate=2010-07-07 |df= }}&lt;/ref&gt; She was often called "Pinky" as a result.
+
+In 2005, the international exhibition ''Rosa  The Exposed Color: Pink'' opened at the Tokyo National University of Fine Arts and Music.&lt;ref&gt;{{Cite book|title=Pink : the exposed color in contemporary art and culture|last=Nemitz|first=Barbara|publisher=Hatje Cantz ; D.A.P.|year=2006|isbn=|location=Ostfildern; New York|pages=24}}&lt;/ref&gt; From October, 2013  March, 2014, the Museum of Fine Arts, Boston, held an exhibition entitled ''Think Pink'' to coincide with Breast Cancer Awareness Month that October. The exhibit included clothing, graphic illustrations, and paintings that shed light on the social importance of the color since the eighteenth-century.&lt;ref&gt;{{Cite web|url=http://www.mfa.org/exhibitions/think-pink|title=Exhibition - Think Pink|last=|first=|date=|website=Museum of Fine Arts, Boston|access-date=April 7, 2018}}&lt;/ref&gt;
+
+''Pink: The Exposed Color in Contemporary Art and Culture'' is a book published in 2006 by Barbara Nemitz in collaboration with Hideto Fuse, Karl Schawelka, and Thomas von Taschitzki.&lt;ref&gt;{{Cite book|title=Pink: The Exposed Color in Contemporary Art|last=Nemitz|first=Barbara|publisher=Hatje Cantz; D.A.P.|year=2006|isbn=|location=Ostfildern; New York|pages=}}&lt;/ref&gt; Most of the images used in the book were collected by Nemitz over more than 20 years, starting in the late eighties, after she realized the effect that pink had on viewers of her own work. The images chosen showcase the different ways that pink has been used in advertising, fashion, artwork, and everyday life. The book is broken up into sections, each with the writings of a different collaborator who speaks on pink in relation to their life and research. Karl Schawelka writes on pink in relation to biology, sexuality, and its cultural relevance around the world. Hideto Fuse sheds light onto pinks role in Japanese art and culture. Thomas von Taschitzki also gives an overview of the use of pink in contemporary art, followed by a large collection of images of works by contemporary artists such as: Willem de Kooning, Louise Bourgeois, Takashi Murakami, and Paul Gauguin.
+
+[[Christo and Jeanne-Claude]]'s ''Surrounded Islands'' wrapped wooded islands in Miami's [[Biscayne Bay]] with {{convert|6500000|sqft|m2|abbr=on}} of bright pink fabric.&lt;ref&gt;{{cite news | first=Walter | last=Goodman | title=Film: Christo, in 'Islands' | date=1987-10-16 | url =https://query.nytimes.com/gst/fullpage.html?res=9B0DEEDD133EF935A25753C1A961948260 | work =The New York Times | accessdate = 2007-10-05 }}&lt;/ref&gt; Thomas von Taschitzki has said that "the monochrome pink wrappings"..."form a counterpoint to the small green wooded islands."&lt;ref&gt;{{cite book |last1=Nemitz | first1=Barbara |last2=Fuse |first2=Hideto |title =Pink The Exposed Color in Contemporary Art and Culture |publisher=Ostfildern:Hatje Cantz |date=2006 |location=New York |page=68 |url=http://www.worldcat.org/title/pink-the-exposed-color-in-contemporary-art-and-culture/oclc/64748633 |doi= |id= |isbn= }}&lt;/ref&gt;
+
+&lt;gallery mode="packed" heights="150"&gt;
+File:Shocking Pink Schiaparelli.jpg|Shocking pink, a mix of magenta with a little white, was the signature color of Italian fashion designer [[Elsa Schiaparelli]].
+File:Dinner in Honor of Andre Malraux.jpg|[[Jacqueline Kennedy]], the wife of President [[John F. Kennedy]], made pink a popular high-fashion color. Here she is in 1962 with French Minister of Culture Andre Malraux at the unveiling of the [[Mona Lisa]] on its first visit to America.
+File:Gentlemen Prefer Blondes Movie Trailer Screenshot (34).jpg|Pink combined with black or violet is associated with seduction. [[Marilyn Monroe]] in the trailer for the film [[Gentlemen Prefer Blondes (1953 film)|''Gentlemen Prefer Blondes'']] (1953).
+File:Kelly Sullivan at the Oscars.jpg|Pink [[lipstick]] is thought to attract attention and harmonize with flesh colors, clothes and fashion accessories. It is usually colored with synthetic pigments or with [[carmine]], a natural [[pigment]] made from the [[cochineal]] insect.
+File:DebrettevillePink.jpg|Detail of "Pink," a poster created by [[Sheila Levrant de Bretteville|Sheila de Bretteville]] in 1973. It was meant to explore the notions of gender as associated with the color pink, for an [[American Institute of Graphic Arts]] exhibition about color.
+&lt;/gallery&gt;
+
+== Science and nature ==
+=== Optics ===
+Red is the only color whose lighter shades have a different name, pink, than the color itself. In optics, the word "pink" can refer to any of the pale shades of colors between [[blue|bluish]] [[red]] to red in hue, of medium to high lightness, and of low to moderate [[saturation (color)|saturation]].&lt;ref&gt;{{cite web|url=http://www.merriam-webster.com/dictionary/pink?show=2&amp;t=1323575657 |title=Merriam Webster definition of the color "pink" |publisher=merriam-webster.com|accessdate=2017-02-11}}&lt;/ref&gt; Although pink is generally considered a [[tints and shades|tint]] of red,&lt;ref&gt;{{cite web|url=http://www.landscape-guide.com/garden-design-guide/color-in-the-garden/pink-a-tint-of-red.php |title=Pink, a Tint of Red |publisher=Landscape-guide.com |date= |accessdate=2010-09-11}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.enchantedlearning.com/crafts/Colormixing.shtml |title=For example, pink is a tint of red |publisher=Enchantedlearning.com |date= |accessdate=2010-09-11}}&lt;/ref&gt; the hues of most [[shades of pink]] are slightly bluish, and lie between red and [[magenta]]. A few variations of pink, such as salmon color, lean toward orange.&lt;ref&gt;[http://msdn.microsoft.com/en-us/library/aa358800%28VS.85%29.aspx Colors by Hue] at [[MSDN]]&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.adobe.com/devnet/fireworks/articles/style_samples_pt2_06.html |title=Creating Styles in Fireworks |publisher=Adobe.com |date=2009-07-14 |accessdate=2010-09-11 |archiveurl = https://web.archive.org/web/20080726135944/http://www.adobe.com/devnet/fireworks/articles/style_samples_pt2_06.html |archivedate = July 26, 2008}}&lt;/ref&gt;&lt;ref&gt;{{cite web|author=Dana Lee Ling |url=http://www.comfsm.fm/~dleeling/cis/x11colors.html |title=x11 Colors in Hue Saturation Luminosity order |publisher=Comfsm.fm |date= |accessdate=2010-09-11}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.imagemagick.org/script/color.php |title=Color Names |publisher=ImageMagick |date=2010-01-02 |accessdate=2010-09-11}}&lt;/ref&gt;
+
+===Why sunrises and sunsets sometimes look pink===
+As a ray of white sunlight travels through the atmosphere, some of the colors are scattered out of the beam by air molecules and [[Atmospheric particulate matter|airborne particles]]. This is called [[Rayleigh scattering]]. Colors with a shorter wavelength, such as blue and green, scatter more strongly, and are removed from the light that finally reaches the eye.&lt;ref name=saha&gt;{{cite book
+|author=K. Saha
+|title=The Earth's Atmosphere - Its Physics and Dynamics
+|year=2008
+|publisher=Springer
+|isbn=978-3-540-78426-5
+|page=107
+}}&lt;/ref&gt; At [[sunrise]] and [[sunset]], when the path of the sunlight through the atmosphere to the eye is longest, the blue and green components are removed almost completely, leaving the longer wavelength orange, red and pink light. The remaining pinkish sunlight can also be scattered by cloud droplets and other relatively large particles, which give the sky above the horizon a pink or reddish glow.&lt;ref name=guenther&gt;{{cite book
+|author=B. Guenther (ed.)
+|title=Encyclopedia of Modern Optics
+|publisher=Elsevier
+|year=2005
+|volume=Vol. 1
+|page=186
+}}&lt;/ref&gt;
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Sunrise in Southeast Alaska - NOAA.jpg|Sunrise in southeast Alaska. Sunsets and sunrises are sometimes pink because of an optical effect called [[Rayleigh scattering]].
+File:Sunset in santa monica.jpg|Sunset in [[Santa Monica, California]].
+&lt;/gallery&gt;
+
+===Geology===
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Topaz-170679.jpg|Pink [[topaz]] from [[Ouro Preto]], Brazil.
+File:Corundum-215337.jpg|[[Corundum]], or pink sapphire, from the [[Dodoma Region]] of [[Tanzania]]
+File:Calcite-163756.jpg|[[Calcite]] from Bou Azzer, [[Morocco]]
+File:Barite-Rhodochrosite-tcm01a.jpg|[[Barite]]-[[Rhodochrosite]] from the [[Guangxi Zhuang Autonomous Region]] in China.
+File:Clinochlore-tuc1030y.jpg|[[Clinochlore]] from [[Erzerum Province]], Turkey
+File:Coral Pink Sand Dunes State Park.jpg|The dunes in [[Coral Pink Sand Dunes State Park]] in [[Utah]] are made of fine grains of [[Navajo Sandstone]]. The pink color comes from grains of reddish hematite mixed with white quartz.
+Angel's Landing - Zion National Park.jpg|Angel's Landing in [[Zion National Park]] in [[Utah]] is made of pink sandstone.
+File:Isla Great Santa Cruz49.JPG|A pink sand beach on [[Great Santa Cruz Island]] in the [[Philippine Islands]].
+&lt;/gallery&gt;
+
+===Biology===
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Strigilla carnaria.jpg|A Strigilla carnaria shell from [[Dominica]], in the [[West Indies]].
+
+File:Frogfish ocellated.jpg|An Ocelated frogfish ([[Antennarius ocellatus]]), from [[East Timor]]. The frogfish is camouflaged to look like a rock covered with algae or seaweed; it lies motionless and waits for its prey to come to it.
+
+File:Iggy pink.jpg|The [[Pink Iguana|pink iguana]] of the [[Galapagos Islands]] was first identified in 1986 and first recognized as a distinct [[species]] in 2009.
+
+File:Inia geoffrensis head.jpg|The [[Amazon river dolphin|Pink Dolphin]] is a freshwater [[river dolphin]] which lives in the [[Orinoco]], [[Amazon River|Amazon]] and [[Araguaia River|Araguaia]]/[[Tocantins River]] systems of [[Brazil]], [[Bolivia]], [[Peru]], [[Ecuador]], [[Colombia]] and [[Venezuela]]. It is an [[endangered species]] and has a brain 40% larger than a human's.
+
+File:2012-kruger-albino-elephant.jpg|The so-called "[[White elephant (pachyderm)|white elephant]]" is revered in several countries in [[Southeast Asia]] and is naturally pinkish gray. They are actually [[albino]] elephants.
+
+File:Sow with piglet.jpg|The [[pig]] has been domesticated over ten thousand years and selectively bred to have a pink skin, without [[melanin]], which farmers traditionally have preferred to a dark color.&lt;ref&gt;[https://www.newscientist.com/article/dn16427-colourful-pigs-evolved-through-farming-not-nature.html] ''New Scientist'', "Colorful pigs evolved through farming, not nature".&lt;/ref&gt;
+
+File:Flamingos Laguna Colorada.jpg|[[Flamingo]]es in [[Laguna Colorada]], [[Bolivia]]. The pink or reddish color of flamingos comes from [[carotenoid]] proteins in their diet of animal and plant [[plankton]]. A unhealthy or malnourished flamingo, or one kept in captivity and not fed sufficient carotene, is usually pale or white.
+File:Roseate Spoonbill - Myakka River State Park.jpg|A [[Roseate spoonbill]] in [[Myakka River State Park]] in [[Florida]]. Its pink color, like that of the flamingo, comes from the [[carotenoid]] pigments in its diet.
+File:Lophochroa leadbeateri -Palmitos Park, Gran Canaria, Spain -mating-8a.jpg|The [[Lophochroa leadbeateri]], commonly known as Major Mitchell's Cockatoo or the pink cockatoo, is a native of the arid interior regions of Australia.
+&lt;/gallery&gt;
+
+===Why cooked beef, cured ham, steamed shrimp and salmon are pink===
+Raw [[beef]] is red, because the muscles of [[vertebrate]] animals, such as cows and pigs, contain a [[protein]] called [[myoglobin]], which binds oxygen and [[iron]] atoms. When beef is cooked, the myoglobin proteins undergo oxidation, and gradually turn from red to pink to brown; that is, from rare to medium to well-done. Pork contains less myoglobin than beef and therefore is less red; when heated, it changes from pinkish-red to less pink to tan or white.
+
+[[Ham]], though it contains myoglobins like beef, undergoes a different transformation. Traditional hams, such as [[prosciutto]], are made by taking the hind leg or thigh of a pig, covering it with sea salt, which removes the moisture content, and then letting it dry or cure for as long as two years. The salt ([[sodium nitrate]]) permits the ham to retain its original pink color, even when dried out. Supermarket hams are made by a different and faster process; they are brined, or infused with a salt-water solution, containing [[sodium nitrite]], which transfers [[nitric oxide]], which bonds with the myoglobin to form the traditional pink cured ham color.
+
+The shells and flesh of [[crustacean]]s such as [[crab]]s, [[lobster]]s and [[shrimp]] contain a pink [[carotenoid]] pigment called [[astaxanthin]]. Their shells, naturally blue-green, turn pink or red when cooked. The flesh of the [[salmon]] also contains astaxanthins, which makes it pink. Farm-bred salmon are sometimes fed these pigments to improve their pinkness, and it is sometimes also used to enhance the color of [[egg yolk]]s. 
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Rostas (ready and served).JPG|[[Roast beef]] gets its distinctive pink color from [[myoglobin]], which gradually turns from red to pink to brown (rare to medium to well-done) when heated.
+File:Prosciutto.jpg|Prosciutto hams also get their pink color from salt combined with the natural protein called [[myoglobin]].
+File:NCI steamed shrimp.jpg|The shells and flesh of steamed [[shrimp]] contain a natural [[carotenoid]] pigment called [[astaxanthin]], which turns pink when heated. The same process turns cooked lobster and crab from blue-green to red when they are boiled.
+File:Salmon Fish.JPG|The meat of the [[salmon]] is also colored pink by the natural [[carotenoid]] pigment called [[astaxanthin]].
+&lt;/gallery&gt;
+
+===Plants and flowers===
+Pink is one of the most common colors of flowers; it serves to attract the insects and birds necessary for [[pollination]] and perhaps also to deter predators. The color comes from natural pigments called [[anthocyanins]], which also provide the pink in [[raspberries]].
+&lt;gallery mode="packed" heights="150px"&gt;
+Pink_Rose_In_The_Rain_(216504571).jpg|A pink [[rose]] in the rain.
+Clematite_chantily_01.JPG|A [[clematis]] Chantilly.
+Flickr_-_brewbooks_-_Pink_Hibiscus_-_Brisbane_(1).jpg|A pink [[hibiscus]] from Australia.
+Tulip cv. 26.JPG|Pink [[tulips]] in the botanical gardens of [[Moscow State University]].
+Dahlia_-_%22Gilt_Edge%22_cultivar.jpg|A pink [[dahlia]]
+Gemeine_Pfingstrose.JPG|A pink [[peony]].
+Magnolia 'Susan' 03.JPG|A flower of a [[magnolia]] tree
+Rhododendron_catawbiense_01.JPG|A pink [[rhododendron]]
+Spiraea_japonica_Alpina3.jpg|''[[Spiraea japonica]]'' flowers.
+Cerisier_du_Japon_Prunus_serrulata.jpg|A Japanese cherry tree (''[[Prunus serrulata]]'') in bloom.
+Hyazinthen.JPG|Pink [[hyacinth (plant)|hyacinth]] flowers
+Phlox paniculata.jpg|''[[Phlox paniculata]]''
+Pink rose -IMG 20170224 143121.jpg|A pink rose picture
+&lt;/gallery&gt;
+
+=== Pigments - Pinke ===
+{{Main|Pinke (color)}}
+In the 17th century, the word ''pink'' or ''pinke'' was also used to describe a yellowish pigment, which was mixed with blue colors to yield greenish colors. [[Thomas Jenner (publisher)|Thomas Jenner]]'s ''A Book of Drawing, Limning, Washing'' (1652) categorizes "Pink &amp; [[Blue|blew]] [[bice]]" amongst the [[green]]s (p. &amp;nbsp;38),&lt;ref&gt;{{cite book|last=Jenner|first=Thomas |title=A Book of Drawing, Limning, Washing|publisher=M. Simmons |location=London |year=1652 |page=38 |url=http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp20532}}&lt;/ref&gt; and specifies several admixtures of greenish colors made with pinke.g. "Grasse-green is made of Pink and Bice, it is shadowed with [[Indigo]] and Pink  French-green of Pink and Indico [shadowed with] Indico" (pp.&amp;nbsp;3840). In [[William Salmon]]'s ''Polygraphice'' (1673), "Pink yellow" is mentioned amongst the chief [[yellow]] pigments (p.&amp;nbsp;96), and the reader is instructed to mix it with either [[Saffron (color)|Saffron]] or [[Venetian ceruse|Ceruse]] for "sad" or "light" shades thereof, respectively.
+
+=== Sonics ===
+* [[Pink noise]] ({{Audio|Pink noise.ogg|sample}}), also known as 1/f noise, in [[audio engineering]] is a signal or process with a frequency spectrum such that the power spectral density is proportional to the reciprocal of the frequency.
+
+=== Lighting ===
+*[[Grow light]]s often use a combination of red and blue wavelengths, which generally appear pink to the human eye.&lt;ref&gt;{{cite web | url=http://inhabitat.com/indoor-vertical-farm-pinkhouses-grow-plants-faster-with-less-energy/ | title=Indoor Vertical Farm Pinkhouses Grow Plants Faster With Less Energy | work=Inhabitat | accessdate=November 16, 2015}}&lt;/ref&gt;
+*Pink [[neon sign]]s are generally produced using one of two different methods. One method is to use neon gas and a blue or purple phosphor, which generally produces a warmer (more reddish) or more intense shade of pink. Another method is to use an argon/mercury blend and a red phosphor, which generally produces a cooler (more purplish) or softer shade of pink.
+*Pink [[LED]]s can be produced using two methods, either with a blue LED using two phosphors (yellow for the first phosphor, and red, orange, or pink for the second), or by placing a pink dye on top of a white LED. Color shifting was a common issue with early pink LEDs, where the red, orange, or pink phosphors or dyes faded over time, causing the pink color to eventually shift towards white or blue. These issues have been mitigated by the more recent introduction of more fade-resistant phosphors.
+
+=== Engineering ===
+*Insulation manufactured by [[Owens Corning]] is dyed pink, with the [[Pink Panther (character)|Pink Panther]] as its corporate mascot. The company holds a trademark on the color pink for insulation products in order to prevent competitors from using it, and is the first company in the United States to trademark a color.&lt;ref&gt;{{cite web | url=https://www.colormatters.com/color-and-marketing/color-branding-legal-rights | title=Color Branding &amp; Trademark Rights | work=Color Matters | accessdate=August 3, 2016}}&lt;/ref&gt;
+*The United States [[Manual on Uniform Traffic Control Devices]] specifies fluorescent pink as an optional color for [[traffic sign]]s used for [[incident management]] as an alternative to the traditional orange in order to distinguish them from construction zone signs.&lt;ref&gt;{{cite web | url=http://mutcd.fhwa.dot.gov/htm/2009/part6/part6f.htm | title=MUTCD 2009 Edition Chapter 6F. Temporary Traffic Control Zone Devices | work=[[Federal Highway Administration]] | accessdate=August 3, 2016}}&lt;/ref&gt;
+
+== Pink in symbolism and culture ==
+
+===Common associations and popularity===
+According to public opinion surveys in Europe and the United States, pink is the color most associated with charm, politeness, sensitivity, tenderness, sweetness, softness, childhood, the feminine, and the romantic.&lt;ref&gt;Eva Heller, Psychologie de la couleur - effets et symboliques, p. 179-185&lt;/ref&gt; Although it did not have any strong negative associations in these surveys, few respondents chose pink as their favorite color. Pink was the favorite color of only two-percent of respondents, compared with forty-five-percent who chose blue.&lt;ref&gt;Eva Heller, Psychologie de la couleur - effets et symboliques, p. 179.&lt;/ref&gt; Pink was the least-favorite color of seventeen percent of respondents; the only color more disliked was brown, with twenty percent. There was a notable difference between men and women; three percent of women chose pink as their favorite color, compared with less than one percent of men. Many of the men surveyed were unable to even identify pink correctly, confusing it with [[mauve]]. Pink was also more popular with older people than younger; twenty-five percent of women under twenty-five called pink their least favorite color, compared with only eight percent of women over fifty. Twenty-nine percent of men under the age of twenty-five said pink was their least favorite color, compared with eight percent of men over fifty.&lt;ref&gt;Eva Heller, Psychologie de la couleur - effets et symboliques, p. 179&lt;/ref&gt;
+
+In Japan, pink is the color most commonly associated with [[spring (season)|springtime]] due to the blooming cherry blossoms.&lt;ref&gt;{{cite web | url=http://threads.srithreads.com/2011/04/spring-is-pink/ | title=Spring is Pink | work=SRI Threads | date=April 4, 2011 | accessdate=January 7, 2016}}&lt;/ref&gt;&lt;ref&gt;{{cite web | url=http://www.calvin-c.com/blog/season-colour/ | title=Season Colour  I Think Spring is Green | work=Calvin-C.com | accessdate=February 17, 2016 | deadurl=yes | archiveurl=https://web.archive.org/web/20160306214652/http://www.calvin-c.com/blog/season-colour/ | archivedate=March 6, 2016 | df= }}&lt;/ref&gt; This is different from surveys in the United States and Europe where [[green]] is the color most associated with springtime.
+
+===Pink in other languages===
+In many languages, the word for the color pink is based on the name of the [[rose]] flower; like ''rose'' in French; ''roze'' in Dutch; ''rosa'' in German, Latin, Portuguese, Catalan, Spanish, Italian, Swedish and Norwegian (Nynorsk and Bokml); ''rozoviy'' in Russian; ''rowy'' in Polish; and {{nastaliq|}} ''gulabi'' in Urdu (and in English 'rose', too, often refers to both the flower and the color).
+
+In Danish, Faroese and Finnish, the color pink is described as a lighter shade of red: ''lyserd'' in Danish, ''ljsareyur'' in Faroese and ''vaaleanpunainen'' in Finnish, all meaning "light red". In Icelandic, the color is called ''bleikur'', originally meaning "pale".
+
+In the Japanese language, the traditional word for pink, {{nihongo|'''''momo-iro'''''|}}, takes its name from the peach blossom. There is a separate word for the color of the cherry blossom: ''sakura-iro''. In recent times a word based on the English version, {{nihongo|'''''pinku'''''|}}, has begun to be used.
+
+In Chinese, the color pink is named with a compound noun '''', meaning "powder red" where the powder refers to substances used for women's make-up.
+
+===Idioms and expressions===
+* '''In the pink'''. To be in top form, in good health, in good condition. In Romeo and Juliet, Mercutio says; "I am the very pink of courtesy." Romeo: Pink for flower? Mercutio: Right. Romeo: Then my pump is well flowered."&lt;ref&gt;Romeo and Juliet, Act 2, Scene 4&lt;/ref&gt;
+* '''To see pink elephants''' means to hallucinate from alcoholism. The expression was used by American novelist [[Jack London]] in his book ''John Barleycorn'' in 1913.
+* '''[[Pink slip (employment)|Pink slip]]'''. To be given a pink slip means to be fired or dismissed from a job. It was first recorded in 1915 in the United States.
+* The phrase "[[pink-collar worker]]" refers to persons working in jobs conventionally regarded as "[[women's work]]."
+* [[Pink money]], ''the pink pound'' or ''pink dollar'' is an economic term which refers to the spending power of the [[LGBT]] community.&lt;ref&gt;{{cite web|url=http://www.securian.com/pdf/Opportunities2005.pdf |title=Opportunities in the Pink Economy of the United Kingdom |format=PDF |date= |accessdate=2010-09-11 |deadurl=yes |archiveurl=https://web.archive.org/web/20090327012858/http://www.securian.com/pdf/Opportunities2005.pdf |archivedate=March 27, 2009 }}&lt;/ref&gt; [[Advertising]] agencies sometimes call the gay market the ''pink economy''.
+* '''Tickled pink''' means extremely pleased.
+
+===Architecture===
+Early pink buildings were usually built of brick or [[sandstone]], which takes its pale red color from hematite, or iron ore. In the 18th century - the golden age of pink and other pastel colors - pink mansions and churches were built all across Europe. More modern pink buildings usually use the color pink to appear exotic or to attract attention.
+&lt;gallery mode="packed" heights="150px"&gt;
+Castillo de Malbork, Polonia, 2013-05-19, DD 04.jpg|[[Malbork Castle]] in Poland, built by the [[Teutonic Knights]] in 1440, is the largest brick structure in the world.
+Agra 03-2016 09 Agra Fort.jpg|The [[Agra Fort]], also known as the Red Fort, in [[Agra]], [[Pradesh]], India was built between 1558 and 1574 by the [[Mughal Empire|Mughal]] emperor [[Akbar]].
+Casa Rosada Buenos Aires.jpg|[[Casa Rosada]], or the "Pink House", in [[Buenos Aires]], built between 1713 and 1855 as a fort and then customs house, is the official residence and office of the President of Argentina.
+File:Kannur City Centre, Kerala, India.jpg|The City Center in [[Kannur]], India.
+File: .jpg|[[Ostankino Palace]], outside of Moscow, is an 18th-century country house built by [[Pyotr Sheremetev]], then the richest man in Russia.
+File:Macau Government Headquarters 01.JPG|[[Macau Government Headquarters]] (1849), an example of Portuguese colonial architecture and the [[Pombaline style]] in [[Macau]].
+Royal Hawaiian.jpg|The [[Royal Hawaiian Hotel]] in [[Honolulu]], Hawaii, built in 1927, was the first hotel on [[Waikiki Beach]]. Its pink color was designed to match an exotic setting, and to contrast with the blue of the sea and green of the landscape.
+File:Interesting Building Angle of Georgia-Pacific Tower Atlanta.jpg|The [[Georgia-Pacific Tower]] in [[Atlanta, Georgia]] (1981), a modernist pink skyscraper.
+File:Canada Place Building Edmonton.jpg|[[Canada Place (Edmonton)|Canada Place Building]], in [[Edmonton]], [[Alberta]], Canada (1988) a [[post-modernist]] style government office building.
+&lt;/gallery&gt;
+
+=== Food and beverages ===
+According to surveys in Europe and the United States, pink is the color most associated with sweet foods and beverages. Pink is also one of the few colors to be strongly associated with a particular aroma, that of roses.&lt;ref&gt;Eva Heller, ''Psychologie de la couleur  effets et symboliques''&lt;/ref&gt; Many [[strawberry]] and [[raspberry]]-flavored foods are colored pink and light red as well, sometimes to distinguish them from [[cherry]]-flavored foods that are more commonly colored dark red (although raspberry-flavored foods, particularly in the United States, are often colored blue as well). The drink [[Tab (soft drink)|Tab]] was packaged in pink cans, presumably to subconsciously convey a sweet taste.
+
+The pink color in most packaged and processed foods, ice creams, candies and pastries is made with artificial [[food coloring]]. The most common pink food coloring is [[erythrosine]], also known as Red No. 3, an [[organoiodine compound]], a derivative of [[fluorone]], which is a cherry-pink synthetic.&lt;ref name=Ullmann&gt;Phyllis A. Lyday "Iodine and Iodine Compounds" in Ullmann's Encyclopedia of Industrial Chemistry, 2005, Wiley-VCH, Weinheim&lt;/ref&gt; It is usually listed on package labels as E-127. Another common red or pink (particularly in the United States where erythrosine is less frequently used) is [[Allura Red AC]] (E-129), also known as Red No. 40. Some products use a natural red or pink food coloring, [[Cochineal]], also called [[carmine]], made with crushed insects of the family [[Dactylopius coccus]].
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Choco pink.jpg|Pink is the color most commonly associated with sweet tastes.
+File:Strawberry Ice Cream Cone (5076899310).jpg|A strawberry ice cream cone. Strawberry is the fourth most popular ice cream flavor in the U.S., after vanilla, chocolate, and butter pecan.&lt;ref&gt;Reported by Food Channel Editor site, July 30, 2008. Source: the International Ice Cream Association, 888 16th Street, Washington DC.&lt;/ref&gt;
+File:Pink Cotton Candy.jpg|[[Cotton candy]] was first made for the French Royal Court in the 18th century, but did not become popular until the beginning of the 20th century, when an American dentist invented a machine for spinning it quickly and cheaply.
+File:Macarons filled with raspberries at Lawry's The Prime Rib, Mandarin Orchard Singapore - 20100309.jpg|A [[macaron]] with [[raspberries]]
+File:Bunga Kuda.jpg|Bunga kuda (also known as bunga pundak) is a traditional dessert in [[Malaysia]], containing a coconut filling.
+File:Chi chi dango.jpg|[[Chi chi dango]] is a sweet dessert made of rice flour. It is of Japanese origin, and very popular in Hawaii.
+File:Bandol rose.jpg|A [[ros]] wine from [[Bandol]], in [[Provence]]. Traditional ros wines get their pink color when they are fermented a short time with dark purple grapeskins.
+File:Rose Champagne Bubbles.jpg|Pink [[champagne]] takes its color either by being fermented for a short time with the skins of dark purple grapes, or by the addition of a small amount of red wine.
+&lt;/gallery&gt;
+
+=== Gender ===
+{{see also|List of historical sources for pink and blue as gender signifiers}}
+[[File:ANAB767300Restroomsign.jpg|thumb|This restroom sign on an [[All Nippon Airways]] Boeing 767-300 uses pink for the female gender]]
+In Europe and the United States, pink is often associated with girls, while blue is associated with boys. These colors were first used as [[gender]] signifiers just prior to World War I (for either girls or boys), and pink was first established as a female gender signifier in the 1940s.&lt;ref&gt;Jo B. Paoletti, ''Pink and Blue: Telling the Girls From the Boys in America'' (Indiana University Press, 2012), 87&lt;/ref&gt;&lt;ref&gt;[http://www.smithsonianmag.com/arts-culture/When-Did-Girls-Start-Wearing-Pink.html Smithsonian, When Did Girls Start Wearing Pink?, April 2011]&lt;/ref&gt; In the 20th century, the practice in Europe varied from country to country, with some assigning colors based on the baby's complexion, and others assigning pink sometimes to boys and sometimes to girls.&lt;ref&gt;{{cite news|title=Is pink for girls or boys?|url=http://news.bbc.co.uk/today/hi/today/newsid_8422000/8422225.stm|accessdate=1 October 2012|newspaper=BBC Radio|date=19 December 2009}}&lt;/ref&gt;
+
+Many&lt;ref&gt;Smithsonian.com: [http://www.smithsonianmag.com/arts-culture/When-Did-Girls-Start-Wearing-Pink.html Jeanne Maglaty, "When Did Girls Start Wearing Pink?," April 8, 2011], accessed June 4, 2011&lt;/ref&gt;&lt;ref&gt;[[Daphne Merkin|Merkin, Daphne]]. [https://www.nytimes.com/2006/03/12/style/tmagazine/t_m_1180_1182_devendra_.html "Gender Trouble"], ''The New York Times Style Magazine'', March 12, 2006. Retrieved 10 December 2007.&lt;/ref&gt;&lt;ref&gt;[[Peggy Orenstein|Orenstein, Peggy]]. [https://www.nytimes.com/2006/12/24/magazine/24princess.t.html?pagewanted=all "What's Wrong With Cinderella?"], ''[[The New York Times Magazine]]'', December 24, 2006, retrieved December 10, 2007. Orenstein writes: "When colors were first introduced to the nursery in the early part of the 20th century, pink was considered the more masculine hue, a pastel version of red. Blue, with its intimations of the Virgin Mary, constancy and faithfulness, was thought to be dainty. Why or when that switched is not clear, but as late as the 1930s a significant percentage of adults in one national survey held to that split."&lt;/ref&gt;&lt;ref&gt;{{cite web | url = http://www.stepinsidedesign.com/STEPMagazine/Article/28832 | archiveurl = https://web.archive.org/web/20080228111428/http://www.stepinsidedesign.com/STEPMagazine/Article/28832 | archivedate = 2008-02-28 | title = Pink is for Boys: cultural history of the color pink | author = Jude Stewart| work = Step Inside Design Magazine | year = 2008 }}&lt;/ref&gt;&lt;ref&gt;Kimmell, Michael. ''Manhood in America: A Cultural History'', 1996, The Free Press. p.158&lt;/ref&gt; have noted the contrary association of pink with boys in 20th-century America. An article in the trade publication ''Earnshaw's Infants' Department'' in June 1918 said:
+&lt;!--Do not edit this quote.  References confirm the quote was stated as written, with pink for boys and blue for girls. --&gt;
+{{quote|The generally accepted rule is pink for the boys, and blue for the girls.  The reason is that pink, being a more decided and stronger color, is more suitable for the boy, while blue, which is more delicate and dainty, is prettier for the girl.|sign=|source=}}
+
+One reason for the increased use of pink for girls and blue for boys was the invention of new chemical dyes, which meant that children's clothing could be mass-produced and washed in hot water without fading. Prior to this time, most small children of both sexes wore white, which could be frequently washed.&lt;ref&gt;Eva Heller, ''Psychologie de la couleur''; effets et symboliques.&lt;/ref&gt; Another factor was the popularity of blue and white sailor suits for young boys, a fashion that started in the late 19th century. Blue was also the usual color of school uniforms, for boys and girls. Blue was associated with seriousness and study, while pink was associated with childhood and softness.
+
+By the 1950s, pink was strongly associated with femininity but to an extent that was "neither rigid nor universal" as it later became.&lt;ref&gt;Paoletti, 92&lt;/ref&gt;&lt;ref&gt;{{cite news| url = https://www.theguardian.com/science/2007/aug/25/genderissues | title = Bad Science | author = Ben Goldacre | work = Out of the Blue and into the Pink| location=London | date=2007-08-25}}&lt;/ref&gt;&lt;ref&gt;{{cite book |author1=Zucker, Kenneth J. |author2=Bradley, Susan J. |lastauthoramp=yes | title = Gender Identity Disorder and Psychosexual Problems in Children and Adolescents | publisher = Guilford Press | year = 1995 | location = | page = 203 | url = https://books.google.com/books?id=atfTHGjjVeIC&amp;pg=PA203&amp;vq=pink+or+blue&amp;sig=9wAt47m2KdAGR6QQ7BOwIkMa_-E | doi = | id = | isbn = 0-89862-266-2}}&lt;/ref&gt;
+
+One study by two neuroscientists in ''Current Biology'' examined color preferences across cultures and found significant differences between male and female responses. Both groups favored blues over other hues, but women had more favorable responses to the reddish-purple range of the spectrum and men had more favorable responses to the greenish-yellow middle of the spectrum. Despite the fact that the study used adults, and both groups preferred blues, and responses to the color ''pink'' were never even tested, the popular press represented the research as an indication of an innate preference by girls for pink. The misreading has been often repeated in market research, reinforcing American culture's association of pink with girls on the basis of imagined innate characteristics.&lt;ref&gt;Paoletti, 97-8&lt;/ref&gt;
+
+As of 2008 various feminist groups and the [[Breast Cancer Awareness Month]] use the color pink to convey empowerment of women.&lt;ref name=Pinkthecolorp473&gt;"[https://books.google.com/books?id=6roUAQAAIAAJ&amp;q=%22+and+many+feminist+groups+have+adopted+the+color+pink+as+a+sign+of+empowerment.%22&amp;dq=%22+and+many+feminist+groups+have+adopted+the+color+pink+as+a+sign+of+empowerment.%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiereaCx4PKAhUD52MKHaa2BoAQ6AEIITAB Pink: The Color]." "Part 2: Girl Culture A to Z" - In: Mitchell, Claudia and Jacqueline Reid-Walsh (editors). ''Girl Culture: Studying girl culture : a readers' guide'' or ''Girl Culture: An Encyclopedia Volume 1''. ABC-CLIO (Greenwood Publishing Group), 2008. {{ISBN|0313339090}}, 9780313339097. p. [https://books.google.com/books?id=arQy0v_PBx4C&amp;pg=PA473&amp;dq=%22+and+many+feminist+groups+have+adopted+the+color+pink+as+a+sign+of+empowerment.%22&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwiereaCx4PKAhUD52MKHaa2BoAQ6AEIHDAA#v=onepage&amp;q=%22%20and%20many%20feminist%20groups%20have%20adopted%20the%20color%20pink%20as%20a%20sign%20of%20empowerment.%22&amp;f=false 473]. "It is important to note its significance to femininity as a Western phenomenon, because the color is a sign of masculinity in Japan and signifies a welcome embrace in India.[...]of pink with femininity has been strategically used in gendered terms to convey strength and pride: pink is the color of Breast Cancer Awareness Month, and many feminist groups have adopted the color pink as a sign of empowerment." - [https://www.google.com/search?tbm=bks&amp;hl=en&amp;q=%22+and+many+feminist+groups+have+adopted+the+color+pink+as+a+sign+of+empowerment.%22 See Google Books search result]&lt;/ref&gt; Breast cancer charities around the world have used the color to symbolize support for people with breast cancer and promote awareness of the disease. A key tactic of these charities is encouraging women and men to wear pink&lt;ref&gt;{{Cite web|url=http://www.realmenwearpink.org.au|title=Real Men Wear Pink {{!}} NBCF|website=Real Men Wear Pink 2016  The National Breast Cancer Foundation|language=en-US|access-date=2016-03-21}}&lt;/ref&gt; to show their support for breast cancer awareness and research.
+
+Pink has symbolized a "welcome embrace" in India and masculinity in Japan.&lt;ref name=Pinkthecolorp473/&gt;
+
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Female baby.jpg|In the United States and Europe, baby girls are often dressed in pink and white.
+File:Sailorsuit.jpg|Boy in a sailor suit (1920). The blue sailor suit helped make blue instead of pink the color for boys in the 20th century.
+File:Mugdha Godse Ghagra choli.jpg|Indian actress [[Mugdha Godse]]. In many cultures, pink is associated with femininity.
+File:Herero women.jpg|Women of the [[Herero people]] from [[Namibia]]. Pink stands out.
+File:Three Nuns in Pink (8398117658).jpg|Three nuns in pink in [[Yangon]], [[Burma]].
+&lt;/gallery&gt;
+
+=== Toys ===
+Toys aimed at girls often display pink prominently on packaging and the toy themselves. This is a relatively recent trend, with toys from the 1920s to the 1960s not being gendered by color (though they were gendered by a focus on domesticity and nurturing). The current color-based gendering of toys can be traced back to the deregulation of children's television programs. This allowed toy companies to produce shows that were designed specifically to sell their products, and gender was an important differentiator of these shows and the toys they were advertising.&lt;ref name=":03"&gt;{{Cite news|url=https://www.theatlantic.com/business/archive/2014/12/toys-are-more-divided-by-gender-now-than-they-were-50-years-ago/383556/|title=Toys Are More Divided by Gender Now Than They Were 50 Years Ago|last=Sweet|first=Elizabeth|work=The Atlantic|access-date=2018-04-07|language=en-US}}&lt;/ref&gt; Sociologist Elizabeth Sweet argues that toy companies began emphasizing their use of color-coded marketing and segregation of toys in the 1980s: &lt;blockquote&gt;I think it happened really gradually, it wasnt until the late 2000s, the 2010s, that people really started to notice. Now its undeniable.&lt;/blockquote&gt;She said that it encourages a culture where gender stereotypes define a way of life for children. Gender categorization of toys by color was not driven by market trends,&lt;ref name=":03"/&gt; but instead by decisions made by leaders of toy companies. Gendering by color allowed companies to better define target markets and gender stereotypes attracted young children who were forming their sense of self identity.&lt;ref&gt;{{Cite web|url=https://www.nytimes.com/roomfordebate/2014/12/22/why-should-toys-come-in-pink-and-blue/how-did-toys-get-stereotyped-by-sex|title=How Did Toys Get Stereotyped by Sex?|language=en|access-date=2018-04-07}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.nytimes.com/2012/12/23/opinion/sunday/gender-based-toy-marketing-returns.html|title=Opinion {{!}} Gender-Based Toy Marketing Returns|last=Sweet|first=Elizabeth|date=2012-12-21|work=The New York Times|access-date=2018-04-07|language=en-US|issn=0362-4331}}&lt;/ref&gt;
+
+Stores utilize gender-based compartmentalization as a means to help customers find what theyre looking for, but campaigner and parent Jess Day of the nonprofit ''[[Let Toys Be Toys]]'' stated, its driven by a massive assumption about what a child might want, as opposed to experimentation and urging children to play with whatever appeals to them. Additionally, studies have clearly shown the negative aspects of gender-stereotyping. One study documents that more than 100 toys, all heavily gender-coded toys, were less likely to promote cognitive development than gender-neutral toys.&lt;ref name=":0" /&gt; In a way, children may be influenced to shun particular career choices or merely interests that dont align with their own, based on the gendering of the toys they play with. This is considered to be a primary danger of exposing children to prejudices at such a young age, according to experts.&lt;ref&gt;{{Cite news|url=https://www.huffingtonpost.in/aradhana-pandey/pink-and-blue-the-myth-be_b_9191840.html|title=Pink And Blue: The Colours Of Gender Stereotyping|date=2016-02-12|work=HuffPost India|access-date=2018-04-07|language=en-IN}}&lt;/ref&gt;
+
+In its 1957 catalog, [[Lionel Trains]] offered for sale a pink model [[freight train]] for girls. The [[steam locomotive]] and [[coal car]] were pink and the freight cars of the freight train were various [[Pastel (color)|pastel colors]]. The [[caboose]] was [[baby blue]]. It was a marketing failure because any girl who might want a [[model train]] would want a realistically colored train, while boys in the 1950s did not want to be seen playing with a pink train. However, today it is a valuable collector's item.&lt;ref&gt;{{cite web|url=http://www.lionel-train-set.com/|title=Lionel's 1957 pink train for girls:|date=|publisher=Lionel-train-set.com|accessdate=2012-12-07}}&lt;/ref&gt; In 2011, [[The Lego Group]] launched [[Lego Friends]],  a line of products aimed specifically at the girls' toy market. The line made heavy use of colors in pink hues, including [https://brickset.com/parts/colour-Light-Purple Bright Pink], [https://brickset.com/parts/colour-Bright-Purple Dark Pink], and [https://brickset.com/parts/colour-Bright-Reddish-Violet Magenta]. The line was incredibly successful, doubling sales expectations in 2012, the year after it launched. Sales to girls tripled in just that year.&lt;ref&gt;{{Cite news|url=https://www.npr.org/sections/monkeysee/2013/06/28/196605763/girls-legos-are-a-hit-but-why-do-girls-need-special-legos|title=Girls' Legos Are A Hit, But Why Do Girls Need Special Legos?|work=NPR.org|access-date=2018-04-07|language=en}}&lt;/ref&gt;
+
+===Sexuality===
+As noted above, pink combined with black or violet is commonly associated with eroticism and seduction.
+* In street slang, ''the pink'' sometimes refers to the vagina.&lt;ref&gt;{{cite web|url=http://onlineslangdictionary.com/meaning-definition-of/pink |title=What does pink mean? pink Definition|date= |accessdate=2012-10-29}}&lt;/ref&gt;
+* In Russian, pink ('''', ''rozovyj'') is used to refer to [[lesbian]]s, and light blue ('''', ''goluboj'') refers to gay men.&lt;ref name="Gaylife"&gt;{{cite web | url=http://gaylife.about.com/od/world/a/russian.htm | title=Gay in Russia | publisher=Gaylife | accessdate=September 5, 2012}}&lt;/ref&gt;
+* In Japan, a genre of low budget, erotic cinema is referred to as {{nihongo|''[[Pink film]]s''||Pinku Eiga}}.&lt;ref&gt;{{cite web|url=http://search.japantimes.co.jp/cgi-bin/ff20081204r1.html |title=Pink thrills: Japanese sex movies go global &amp;#124; The Japan Times Online |publisher=Search.japantimes.co.jp |date=2008-12-04 |accessdate=2010-08-16}}&lt;/ref&gt;
+
+=== Politics ===
+[[File:Code Pink July 4.jpg|thumb|upright|[[Code Pink]] is an American women's activist group opposing war and globalization.]]
+* Pink, being a 'watered-down' red, is sometimes used in a derogatory way to describe a person with mild [[communism|communist]] or [[socialism|socialist]] beliefs (see [[Pinko]]).
+* The term ''little pink'' () is used to describe the young nationalists on the internet in China.&lt;ref&gt;{{cite web|url=https://www.economist.com/news/china/21704853-online-mobs-get-rowdier-they-also-get-label-east-pink |title=The East is pink|website= The Economist}}&lt;/ref&gt;
+* The term ''[[pink revolution]]'' is sometimes used to refer to the overthrow of President [[Askar Akayev]] and his government in the Central Asian republic of [[Kyrgyzstan]] after the [[Kyrgyz parliamentary elections, 2005|parliamentary elections]] of February 27 and of March 13, 2005, although it is more commonly called the ''[[Tulip Revolution]]''.
+* The Swedish feminist party [[Feminist Initiative (Sweden)|Feminist Initiative]] uses pink as their color.
+* [[Code Pink]] is an American women's anti-globalization and anti-war group founded in 2002 by activist [[Medea Benjamin]]. The group has disrupted Congressional hearings and heckled President Obama at his public speeches.
+*It was a common practice to color [[British Empire]] pink on maps.&lt;ref&gt;{{cite web|url=http://www.rmg.co.uk/explore/sea-and-ships/facts/faqs/why-is-the-british-empire-coloured-pink-on-maps |title=Why is the British Empire coloured pink on maps? |work=Royal Museums Greenwich |deadurl=unfit |archiveurl=https://web.archive.org/web/20151006041627/http://www.rmg.co.uk/explore/sea-and-ships/facts/faqs/why-is-the-british-empire-coloured-pink-on-maps |archivedate=October 6, 2015 }}&lt;/ref&gt;
+
+===Social movements===
+Pink is often used as a symbolic color by groups involved in issues important to women, and lesbian, gay, bisexual and transgender people.
+* A Dutch newsgroup about homosexuality is called ''nl.roze'' (''roze'' being the Dutch word for pink), while in Britain, [[Pink News]] is a gay newspaper and online news service. There is a magazine called ''Pink'' for the lesbian, gay, bisexual and transgender (LGBT) community which has different editions for various [[metropolitan area]]s.&lt;ref&gt;{{cite web|url=http://www.pinkmag.com/sanfrancisco.html |title=Website of Pink magazine: |publisher=Pinkmag.com |date= |accessdate=2010-09-11}}&lt;/ref&gt; In France [[Pink TV (France)|Pink TV]] is an LGBT cable channel.
+* In Ireland, Support group for Irish ''Pink'' Adoptions defines a ''pink'' family as a relatively neutral umbrella term for the single gay men, single lesbians, or same-gender couples who intend to adopt, are in the process of adopting, or have adopted. It also covers adults born/raised in such families. The group welcome the input of other people touched by adoption, especially people who were adopted as children and are now adults.&lt;ref&gt;{{cite web|url=http://irishpinkadoptions.com|author=&lt;!--Staff writer(s); no by-line.--&gt;|date=|website=irishpinkadoptions.com|title=Irish Pink Adoptions|access-date=|quote=|deadurl=yes|archiveurl=https://web.archive.org/web/20100331044341/http://irishpinkadoptions.com/|archivedate=2010-03-31|df=}}&lt;/ref&gt;{{Primary source inline|date=October 2013}}
+* [[Pinkstinks]], a campaign founded in London in May 2008&lt;ref name="Guest"&gt;{{cite news | url=
+https://www.independent.co.uk/life-style/christmas/gifts/girls-will-be-girls-the-battle-for-our-childrens-hearts-and-minds-this-christmas-6278498.html | title=Girls will be girls: The battle for our children's hearts and minds this Christmas | work=[[The Independent]] | date=18 December 2011 | accessdate=13 April 2013 | author=Katy Guest | location=London}}&lt;/ref&gt; to raise awareness of what they claim is the damage caused by [[gender]] [[stereotyping]] of children.&lt;ref name="Rustin 2"&gt;{{cite news | url=
+http://www.guardian.co.uk/lifeandstyle/2012/apr/21/girls-are-not-pretty-in-pink | title=Why girls aren't pretty in pink | work=[[The Guardian]] | date=21 April 2012 | accessdate=13 April 2013 | author=Susanna Rustin | location=London}}&lt;/ref&gt;&lt;ref name="Wallop"&gt;{{cite news | url=https://www.telegraph.co.uk/finance/newsbysector/retailandconsumer/6683639/Pink-toys-damaging-for-girls.html | title=Pink toys 'damaging' for girls | work=[[Daily Telegraph]] | date=30 November 2009 | accessdate=13 April 2013 | author=Harry Wallop | location= London}}&lt;/ref&gt;
+* The [[Pink Pistols]] is a gay [[Gun politics in the United States|gun rights]] organization.&lt;ref&gt;{{cite web|url=http://www.pinkpistols.org |title=Pink Pistols website: |publisher=Pinkpistols.org |date=2001-03-08 |accessdate=2010-09-11}}&lt;/ref&gt;
+* The [[pink ribbon]] is the international symbol of [[breast cancer]] awareness. Pink was chosen partially because it is so strongly associated with femininity.&lt;ref&gt;{{cite web  | last = Fernandez | first = Sandy | title = Pretty in Pink | url = http://thinkbeforeyoupink.org/Pages/PrettyInPink.html | publisher =  | date = JuneJuly 1998 | archiveurl= https://web.archive.org/web/20090815103749/http://thinkbeforeyoupink.org/Pages/PrettyInPink.html | archivedate = 2009-08-15 | accessdate = 28 May 2013 }}&lt;/ref&gt;
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Pink ribbon.svg|The [[pink ribbon]] has been a symbol of [[breast cancer]] awareness since 1991.
+File:Outubro Rosa (15396375806).jpg|The [[National Congress of Brazil]] lit up in pink for [[Breast Cancer Awareness Month]] on October 1, 2014.
+&lt;/gallery&gt;
+
+=== Academic dress ===
+* In the French [[academic dress]] system, the five traditional fields of study (Arts, Science, Medicine, Law and Divinity) are each symbolized by a distinctive color, which appears in the [[academic dress]] of the people who graduated in this field. Redcurrant, an extremely red shade of pink, is the distinctive color for Medicine (and other health-related fields) [[:fr:Groseille (couleur)]].
+
+=== Heraldry ===
+The word pink is not used for any tincture (color) in heraldry, but there are two fairly uncommon tinctures which are both close to pink:
+* The heraldic color of [[rose (heraldic tincture)|rose]] is a modern innovation, mostly used in Canadian heraldry, depicting a reddish pink color like the shade usually called [[rose (color)|rose]].
+* In French heraldry, the color [[carnation (heraldry)|carnation]] is sometimes used, corresponding to the skin color of a light skinned Caucasian human. This can also be seen as a pink shade but is usually depicted slightly more brownish beige than the rose tincture.
+
+=== Calendars ===
+* In [[Thailand]], pink is associated with Tuesday on the [[Thai solar calendar]]. Anyone may wear pink on Tuesdays, and anyone born on a Tuesday may adopt pink as their color.
+
+=== The press ===
+Pink is used for the newsprint paper of several important newspapers devoted to business and sports, and the color is also connected with the press aimed at the gay community.
+
+Since 1893 the London ''[[Financial Times]]'' newspaper has used a distinctive [[salmon pink]] color for its newsprint, originally because pink dyed paper was less expensive than bleached white paper.&lt;ref&gt;Cited by Stephen Fidler of the Wall Street Journal, formerly a correspondent for the Financial Times.&lt;/ref&gt; Today the color is used to distinguish the newspaper from competitors on a press kiosk or news stand. In some countries, the ''salmon press'' identifies economic newspapers or economics sections in "white" newspapers. Some sports newspapers, such as ''[[La Gazzetta dello Sport]]'' in Italy, also use pink paper to stand out from other newspapers. It awards a pink jersey to the winner of Italy's most important bicycle race, the [[Giro d'Italia]]. (See [[#Sports]]).
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Pink News Screenshot 15th April 2012.png|The ''[[PinkNews]]'' is a newspaper for the Gay community in Britain.
+&lt;/gallery&gt;
+
+=== Law ===
+* In England and Wales, a [[Brief (law)|brief]] delivered to a [[barrister]] by a [[solicitor]] is usually tied with pink ribbon. Pink was traditionally the color associated with the defense, while white ribbons may have been used for the [[prosecution]].&lt;ref&gt;{{cite news| url=https://www.independent.co.uk/life-style/the-evidence-the-barristers-desk-1175803.html | location=London | work=The Independent | first=Aoife | last=O'Riordain | title=The evidence: The barrister's desk | date=1998-10-03}}&lt;/ref&gt;
+
+=== Literature ===
+* In Spanish and Italian, a "pink novel" (''novela rosa'' in Spanish, ''romanzo rosa'' in Italian) is a [[Sentimentality|sentimental]] novel marketed to women.
+* In [[Nathaniel Hawthorne]]'s [[Young Goodman Brown]], Faith is wearing a '''pink''' ribbon in her hair which represents her [[innocence]].&lt;ref&gt;As he moves out of the darkness, a pink ribbon blows down next to him and he sees that Faith is part of the "communion" that is taking place in the woods.&lt;/ref&gt;
+* Carl Surely's short story "Dinsdale's Pink" is a [[coming of age]] tale of a young man growing up in Berlin in the 1930s, dealing with issues of gender, sexuality and politics.
+* In Louisa May Alcotts ''[[Little Women]]'', Amy March, uses blue and pink ribbons to tell the difference between newborn twins.&lt;ref&gt;{{Cite book|title=Pink Think: Becoming a Woman in Many Uneasy Lessons|last=Peril|first=Lynn|publisher=W. W. Norton &amp; Company|year=2002|isbn=|location=London; New York|pages=4}}&lt;/ref&gt;
+
+=== Religion ===
+* In the [[Yoga|Yogic Hindu]], [[Shakta|Shaktic Hindu]] and [[Tantric Buddhist]] traditions rose is one of the colors of the fourth primary energy center, the [[Chakra points cords and cores|heart chakra Anahata]]. The other color is [[green]].
+* In [[Catholicism]], pink (called [[rose (color)|rose]] by the Catholic Church) symbolizes joy and happiness. It is used for the Third Sunday of [[Advent]] and the Fourth Sunday of [[Lent]] (see [[Laetare Sunday]]) to mark the halfway point in these seasons of penance. For this reason, one of the candles in an [[Advent wreath]] may be pink, rather than purple.
+* Pink is the color most associated with Indian spiritual leader [[Meher Baba]], who often wore pink coats to please his closest female follower, Mehera Irani, and today pink remains an important color, symbolizing love, to Baba's followers.
+
+=== Sports ===
+* [[U.S. Citt di Palermo|Palermo]], a soccer team based in [[Palermo]], Italy, traditionally wears pink home jerseys. 
+* In [[Major League Baseball]], [[pink bat]]s are used by baseball players on Mother's Day as part of a week-long program to benefit [[Susan G. Komen for the Cure]].
+* Pink can mean the [[Scarlet (color)|scarlet]] coat worn in [[fox hunting]] (a.k.a. "riding to hounds"). One legend about the origin of this meaning refers to a tailor named Pink (or Pinke, or Pinque).
+* The leader in the [[Giro d'Italia]] [[road bicycle racing|cycle race]] wears a pink jersey (''maglia rosa''); this reflects the distinctive pink-colored newsprint of the sponsoring Italian ''[[La Gazzetta dello Sport]]'' [[newspaper]].
+* The [[University of Iowa]]'s Kinnick Stadium visitors' [[locker room]] is painted pink. The decor has sparked controversy, perceived by some people as suggesting [[sexism]] and [[homophobia]].&lt;ref&gt;{{cite web|url=http://sports.espn.go.com/ncf/news/story?id=2174828 |title=Controversy regarding pink University of Iowa locker room: |publisher=Sports.espn.go.com |date=2005-09-28 |accessdate=2010-09-11}}&lt;/ref&gt;
+* WWE Hall of Famer [[Bret Hart]], as well as other members of the [[Hart wrestling family]], is known for his pink and black wrestling attire.
+* The [[Western Hockey League]] team [[Calgary Hitmen]] originally wore pink as a tribute to the aforementioned Bret Hart, who was a part team owner at the time.
+* [[Snooker]] uses a pink coloured object ball that is worth 6pts when legally potted.
+
+&lt;gallery mode="packed" heights="150px"&gt;
+File:Ryder Hesjedal celebrating 2012 giro.jpg|The leader in the [[Giro d'Italia]] [[road bicycle racing|cycle race]] wears a pink jersey (''maglia rosa'')
+&lt;/gallery&gt;
+
+== See also ==
+* [[Baker-Miller pink]]
+* [[Fuchsia (color)]]
+* [[Lists of colors]]
+* [[Pinkstinks]]
+* [[Ros]], a wine whose color is neither red nor white
+* [[Shades of pink]]
+
+== References ==
+
+=== Further reading ===
+* {{cite book
+|last= Heller
+|first= Eva
+|title= Psychologie de la couleur  Effets et symboliques
+|year=2009
+|publisher=Pyramyd (French translation)
+|isbn= 978-2-35017-156-2}}
+* {{cite book
+|last= Broecke
+|first= Lara
+|title= Cennino Cennini's ''Il Libro dell'Arte'': a New English Translation and Commentary with Italian Transcription
+|year=2015
+|publisher=Archetype
+|isbn= 978-1-909492-28-8}}
+* Boston Museum of Fine Arts, Think Pink, 2014. [https://www.mfa.org/exhibitions/think-pink Exhibition Link]
+* Susan Stamberg/NPR, "Girls Are Taught To 'Think Pink,' But That Wasn't Always So, 2014. [https://www.npr.org/2014/04/01/297159948/girls-are-taught-to-think-pink-but-that-wasnt-always-so Story link.]
+
+=== Notes and citations ===
+{{Reflist|2}}
+
+== External links ==
+{{Wiktionary|in the pink}}
+
+{{Shades of red|}}
+{{Shades of pink|}}
+{{Shades of violet|}}
+{{Color topics}}
+
+[[Category:Shades of pink| ]]</text>
+      <sha1>097v6trttns1no4zkaevjs5joz2h3cr</sha1>
+    </revision>
+  </page>
+</mediawiki>

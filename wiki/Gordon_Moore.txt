@@ -1,0 +1,212 @@
+--scientific
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Gordon Moore</title>
+    <ns>0</ns>
+    <id>196914</id>
+    <revision>
+      <id>843785932</id>
+      <parentid>842706757</parentid>
+      <timestamp>2018-05-31T13:18:22Z</timestamp>
+      <contributor>
+        <username>Dbsseven</username>
+        <id>20479769</id>
+      </contributor>
+      <comment>/* Personal life */ simplify to keep on topic here</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="28784">{{about||the British admiral|Gordon Moore (Royal Navy officer)|the British philosopher|G. E. Moore}}
+{{Use American English|date=February 2016}}
+{{Use mdy dates|date=February  2016}}
+{{Infobox scientist
+|name         = Gordon Moore
+|image        = Gordon Moore.jpg
+|caption      = Moore in 2004
+|birth_name   = Gordon Earle Moore
+|birth_date   = {{birth date and age|1929|1|3}}
+|birth_place  = [[San Francisco]], [[California]], U.S.
+|death_date   = 
+|death_place  = 
+|education    = [[San Jose State University]]&lt;br&gt;[[University of California, Berkeley]] {{small|([[Bachelor of Science|BS]])}}&lt;br&gt;[[California Institute of Technology]] {{small|([[Master of Science|MS]], [[Doctor of Philosophy|PhD]])}}
+|known_for    = [[Intel]]&lt;br&gt;[[Moore's law]]&lt;br&gt;[[Gordon and Betty Moore Foundation]]
+|awards       = [[National Medal of Technology and Innovation|National Medal of Technology]] {{small|(1990)}}&lt;br&gt;[[John Fritz Medal]] {{small|(1993)}}&lt;br&gt;[[IEEE Founders Medal]] {{small|(1997)}}&lt;br&gt;[[Computer History Museum]] Fellow {{small|(1998)}}&lt;ref name=ComputerHistory&gt;{{cite web |title=Gordon Moore 1998 Fellow |url=http://www.computerhistory.org/fellowawards/hall/bios/Gordon,Moore/|website=Computer History Museum |accessdate=January 8, 2015 |deadurl=yes |archiveurl=https://web.archive.org/web/20150108161213/http://www.computerhistory.org/fellowawards/hall/bios/Gordon,Moore/ |archivedate=January 8, 2015 |df=mdy-all}}&lt;/ref&gt;&lt;br&gt;[[Othmer Gold Medal]] {{small|(2001)}}&lt;br&gt;[[Perkin Medal]] {{small|(2004)}}&lt;ref name="SCI Perkin Medal"&gt;{{cite web|title=SCI Perkin Medal|url=https://www.sciencehistory.org/sci-perkin-medal|website=[[Science History Institute]]|accessdate=24 March 2018}}&lt;/ref&gt;&lt;br&gt;[[Nierenberg Prize]] {{small|(2006)}}&lt;br&gt;[[IEEE Medal of Honor]] {{small|(2008)}}&lt;br&gt;[[Presidential Medal of Freedom]]
+|website      = {{url|intel.com/technology/mooreslaw|Official website}}
+|fields       = Entrepreneur&lt;br&gt;[[Electrical engineering]]
+|workplaces   = [[Intel]]&lt;br&gt;[[Gordon and Betty Moore Foundation]]&lt;br&gt;[[San Jose State University]]&lt;br&gt;[[University of California, Berkeley]]&lt;br&gt;[[California Institute of Technology]]&lt;br&gt;[[Johns Hopkins University]] [[Applied Physics Laboratory]]
+|thesis_title = I. Infrared Studies of Nitrous Acid, The Chloramines and Nitrogen Dioxide&lt;br&gt;II. Observations Concerning the Photochemical Decomposition of Nitric Oxide
+|thesis_url   = http://search.proquest.com/docview/302028299
+|thesis_year  = 1954
+}}
+{{external media | width = 240px | align = right | headerimage= [[File:Gordon Moore and Robert Noyce at Intel in 1970.png|240px]] | video1 = [https://www.youtube.com/watch?v=EzyJxAP6AQo Rather than becoming something that chronicled the progress of the industry, it became something that drove it.], ASML's 'Our Stories', Gordon Moore about Moore's Law, [[ASML Holding]]}}
+
+{{external media | width = 240px | align = right | headerimage= [[File:Gordon Moore Scientists You Must Know.png|210px]] | video1 = [https://vimeo.com/70293585 This powerful technology has allowed us to make more and more complex and high-performing circuits... They're the basis of everything electronic we have, unprecedented in human history.], Scientists You Must Know: Intel founder Gordon Moore, [[Science History Institute]]}}
+
+'''Gordon Earle Moore''' (born January 3, 1929) is an American businessman, [[engineer]], co-founder and chairman emeritus of [[Intel Corporation]], and the author of [[Moore's law]].&lt;ref name=MooresLaw1965&gt;{{cite journal|last1=Moore|first1=Gordon|title=Cramming More Components onto Integrated Circuits|journal=Electronics Magazine|date=April 19, 1965|volume=38|issue=8|pages=114117}}&lt;/ref&gt;&lt;ref name=MooresLawReprint&gt;{{cite journal|last1=Moore|first1=Gordon|title=Cramming More Components onto Integrated Circuits (Reprint)|journal=Proceedings of the IEEE|date=January 1998|volume=86|issue=1|doi=10.1109/jproc.1998.658762 |url=http://www.cs.utexas.edu/~fussell/courses/cs352h/papers/moore.pdf|accessdate=January 8, 2015}}&lt;/ref&gt;&lt;ref name="dblp"&gt;{{DBLP|name=Gordon E. Moore}}&lt;/ref&gt;&lt;ref name="ACM"&gt;{{ACMPortal|id=81542806056}}&lt;/ref&gt;&lt;ref&gt;{{Cite journal | last1 = Moore | first1 = G. E. | authorlink1 = Gordon Moore| title = The microprocessor: Engine of the technology revolution | doi = 10.1145/253671.253746 | journal = Communications of the ACM | volume = 40 | issue = 2 | pages = 112 | year = 1997 | pmid =  | pmc = }}&lt;/ref&gt; As of 2017, his net worth is $8.4&amp;nbsp;billion.&lt;ref name=Forbes&gt;{{cite web|title=Gordon Moore|url=https://www.forbes.com/profile/gordon-moore/|website=Forbes|accessdate=January 3, 2015}}&lt;/ref&gt;
+
+==Education==
+Moore was born in San Francisco, California, and grew up in nearby [[Pescadero, California|Pescadero]]; his father was the county sheriff. He attended [[Sequoia High School (Redwood City, California)|Sequoia High School]] in [[Redwood City, California|Redwood City]].
+Initially he went to [[San Jose State University]].&lt;ref name=IEEEHistory&gt;{{cite web|title=Gordon E. Moore|url=http://www.ieeeghn.org/wiki/index.php/Gordon_E._Moore|website=IEEE Global History Network|accessdate=January 8, 2015}}&lt;/ref&gt;
+After two years he transferred to the [[University of California, Berkeley]], from which he received a [[Bachelor of Science|B.S.]] degree in chemistry in 1950.&lt;ref name=CHFOralHistory/&gt;
+
+In September 1950, Moore matriculated at the [[California Institute of Technology]].&lt;ref name=Seeding/&gt; Moore received a [[Doctor of Philosophy|Ph.D.]] degree&lt;ref name="moore"&gt;{{cite thesis |degree=PhD |first=Gordon Earle|last=Moore |title=I. Infrared Studies of Nitrous Acid, The Chloramines and Nitrogen Dioxide II. Observations Concerning the Photochemical Decomposition of Nitric Oxide |publisher=California Institute of Technology |date=1964 |url=http://search.proquest.com/docview/302028299|authorlink=Gordon Moore}}&lt;/ref&gt; in chemistry and minor in physics from Caltech in 1954.&lt;ref name=CHFOralHistory&gt;{{cite book|first1=David C.|last1=Brock |first2=Christophe |last2=Lcuyer |title=Gordon E. Moore and Jay T. Last, Transcript of an Interview Conducted by David C. Brock and Christophe Lcuyer at Woodside, California on 20 January 2006 |date=20 January 2006 |url=https://oh.sciencehistory.org/sites/default/files/moore_ge_and_last_jt_0327_suppl.pdf |place=Philadelphia, PA|publisher=[[Chemical Heritage Foundation]] }}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://caltechcampuspubs.library.caltech.edu/2503/1/June_11%2C_1954.pdf |title=California Institute of Technology Sixtieth Annual Commencement Exercises (Program) |date=June 11, 1954 |publisher=Caltech Camps Publications |accessdate=March 29, 2013}}&lt;/ref&gt; Moore conducted [[postdoctoral research]] at the [[Applied Physics Laboratory]] at [[Johns Hopkins University]] from 1953 to 1956.&lt;ref name=CHFOralHistory/&gt;
+
+==Family==
+Moore met his wife, Betty Irene Whitaker, while attending San Jose State University.&lt;ref name=Seeding&gt;{{cite journal|title=Gordon and Betty Moore: Seeding the Path Ahead|first=Vannessa|last=Dodson|url=http://one.caltech.edu/news/cu/Fall_03/moore|journal=Campaign Update|issue=Fall 2003|publisher=California Institute of Technology (Caltech)|accessdate=January 8, 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150816203709/http://one.caltech.edu/news/cu/Fall_03/moore|archivedate=August 16, 2015|df=mdy-all}}&lt;/ref&gt; Gordon and Betty were married September 9, 1950,&lt;ref name=NNDB&gt;{{cite web|title=Gordon Moore|url=http://www.nndb.com/people/102/000026024/|website=NNDB Tracking the Entire World|accessdate=January 8, 2015}}&lt;/ref&gt; and left the next day to move to the California Institute of Technology. The couple has two sons, Kenneth and Steven.&lt;ref&gt;{{IMDb name|id=0601253|section=bio}}&lt;/ref&gt;
+
+==Scientific career==
+
+===Fairchild Semiconductor Laboratory===
+{{main|Traitorous eight}}
+Moore joined MIT and Caltech alumnus [[William Shockley]] at the [[Shockley Semiconductor Laboratory]] division of [[Beckman Instruments]], but left with the "[[traitorous eight]]", when [[Sherman Fairchild]] agreed to back them and created the influential [[Fairchild Semiconductor]] corporation.&lt;ref name="accidental"&gt;{{cite news|last1=Moore|first1=Gordon E.|title=The Accidental Entrepreneur|url=http://calteches.library.caltech.edu/3777/1/Moore.pdf|accessdate=January 8, 2015|work=Engineering &amp; Science|pages=2330|date=Summer 1994}}&lt;/ref&gt;&lt;ref name=BrockBook/&gt;
+
+===Moore's law===
+{{main|Moore's law}}
+In 1965, Moore was working as the director of research and development (R&amp;D) at Fairchild Semiconductor. He was asked by [[Electronics (magazine)|Electronics Magazine]] to predict what was going to happen in the semiconductor components industry over the next ten years. In an article published on April 19, 1965, Moore observed that the number of components (transistors, resistors, diodes or capacitors)&lt;ref name=Moore1995 &gt;{{cite web|url=http://www.lithoguru.com/scientist/CHE323/Moore1995.pdf |title=Lithography and the future of Moore's law |publisher=[[SPIE]] |author=Gordon E. Moore |year=1995 |accessdate=January 2, 2015}}&lt;/ref&gt; in a dense integrated circuit had doubled approximately every year, and speculated that it would continue to do so for at least the next ten years. In 1975, he revised the forecast rate to approximately every two years.&lt;ref name="Tuomi2002"&gt;{{Cite journal | doi = 10.5210/fm.v7i11.1000| title = The Lives and Death of Moore's Law| journal = First Monday| volume = 7| issue = 11| year = 2002| last1 = Tuomi | first1 = I. }}&lt;/ref&gt; [[Carver Mead]] popularized the phrase "Moore's law." The prediction has become a target for miniaturization in the semiconductor industry, and has had widespread impact in many areas of technological change.&lt;ref name=MooresLaw1965/&gt;&lt;ref name=BrockBook&gt;{{cite book
+ |editor-last1=Brock
+ |editor-first1=David C.
+ |title=Understanding Moore's law : four decades of innovation
+ |date=2006|publisher=Chemical Heritage Press
+ |location=Philadelphia, Pa
+ |isbn=0941901416}}&lt;/ref&gt;
+
+===Intel Corporation===
+{{main|Intel}}
+In July 1968, [[Robert Noyce]] and Moore founded NM Electronics which later became [[Intel Corporation]].&lt;ref name=Encyclopedia&gt;{{Cite encyclopedia|title=Intel Corporation|url=http://www.britannica.com/EBchecked/topic/289747/Intel-Corporation|publisher=[[Encyclopdia Britannica]]|accessdate=November 26, 2008}}&lt;/ref&gt;&lt;ref name=Yeh2004&gt;{{cite book|last1=Yeh|first1=Raymond T.|last2=Yeh|first2=Stephanie H.|title=The art of business : in the footsteps of giants|date=2004|publisher=Zero Time Pub.|location=Olathe, CO|isbn=978-0975427712|chapter=Intel: Leaping into the future with Moore's law|pages=7789|url=https://books.google.com/books?id=5-m8tra8xKgC&amp;pg=PA77|accessdate=January 8, 2015}}&lt;/ref&gt; Moore served as [[executive vice president]] until 1975 when he became president. In April 1979, Moore became chairman and chief executive officer, holding that position until April 1987, when he became chairman. He was named chairman emeritus in 1997.&lt;ref name=HistoryMakers&gt;{{cite web|title=2004 History Maker - Gordon Moore|url=http://www.historysmc.org/main.php?page=hmmoore|website=History Makers|publisher=San Mateo County History Museum|accessdate=January 8, 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20150114055933/http://www.historysmc.org/main.php?page=hmmoore|archivedate=January 14, 2015|df=mdy-all}}&lt;/ref&gt; Under Noyce, Moore, and later [[Andrew Grove]], Intel has pioneered new technologies in the areas of [[computer memory]], [[integrated circuits]] and [[microprocessor]] design.&lt;ref name=Yeh2004/&gt;
+
+==Philanthropy==
+In 2000 Betty and Gordon Moore established the [[Gordon and Betty Moore Foundation]], with a gift worth about $5&amp;nbsp;billion. Through the Foundation, they initially targeted environmental conservation, science, and the San Francisco Bay Area.&lt;ref name=Carnegie2009/&gt;
+
+The foundation gives extensively in the area of environmental conservation, supporting major projects in the Andes-Amazon Basin and the San Francisco Bay area, among others.&lt;ref name=InsidePhilanthropy&gt;{{cite web|title=Gordon and Betty Moore Foundation: Grants for Conservation|url=http://www.insidephilanthropy.com/grants-for-conservation/gordon-and-betty-moore-foundation-grants-for-conservation.html|website=Inside Philanthropy|accessdate=January 8, 2015}}&lt;/ref&gt; Moore was a director of [[Conservation International]] for some years. In 2002 he and Conservation International senior vice president Claude Gascon received the [[Order of the Golden Ark]] from [[Prince Bernhard of Lippe-Biesterfeld]] for their outstanding contributions to nature conservation.&lt;ref name=GoldenArk&gt;{{cite web|title=Intel's Gordon Moore and CI's Claude Gascon To Receive Major Award|url=http://www.conservation.org/NewsRoom/pressreleases/Pages/041902_gordon_moore_gascon_award.aspx|accessdate=January 8, 2015|website=Conservation International|date=April 19, 2002}}&lt;/ref&gt;
+
+Moore has been a member of Caltech's board of trustees since 1983, chairing it from 1993 to 2000, and is now a life trustee.&lt;ref&gt;{{cite web |title=Sally Ride, David Lee Named Caltech Trustees, Ben Rosen Named Trustee Chair |url=https://www.caltech.edu/content/sally-ride-david-lee-named-caltech-trustees-ben-rosen-named-trustee-chair |date=December 4, 2000 |accessdate=December 10, 2013 |publisher=[[Caltech]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.caltech.edu/content/technology-pioneer-gordon-moore-caltech-commencement-speaker |title=Technology Pioneer Gordon Moore is Caltech Commencement Speaker |date=May 3, 2001 |accessdate=December 10, 2013 |publisher=[[Caltech]]}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=https://www.caltech.edu/content/trustee-list |publisher=[[Caltech]] |accessdate=December 10, 2013 |title=Trustee List}}&lt;/ref&gt; In 2001, Moore and his wife donated $600&amp;nbsp;million to Caltech, at the time the largest gift ever to an institution of higher education.&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2001/10/28/us/intel-founder-gives-600-million-to-caltech.html |work=[[New York Times]] |title=Intel Founder Gives $600 Million to Caltech |date=October 28, 2001 |accessdate=December 10, 2013}}&lt;/ref&gt; He said that he wants the gift to be used to keep Caltech at the forefront of research and technology.&lt;ref name=Carnegie2009&gt;{{cite web|title=2009 Carnegie Medal of Philanthropy Awarded to Michael R. Bloomberg, The Ko Family, Gordon &amp; Betty Moore and Sanford &amp; Joan Weill|url=http://carnegie.org/news/press-releases/story/view/2009-carnegie-medal-of-philanthropy-awarded-to-michael-r-bloomberg-the-koc-family-gordon-betty/|accessdate=January 8, 2015|website=Carnegie Corporation of New York|date=October 7, 2009|deadurl=yes|archiveurl=https://web.archive.org/web/20150212174751/http://carnegie.org/news/press-releases/story/view/2009-carnegie-medal-of-philanthropy-awarded-to-michael-r-bloomberg-the-koc-family-gordon-betty/|archivedate=February 12, 2015|df=mdy-all}}&lt;/ref&gt;
+
+In December 2007, Moore and his wife donated $200&amp;nbsp;million to [[Caltech]] and the [[University of California]] for the construction of the [[Thirty Meter Telescope]] (TMT), expected to become the world's second largest optical telescope once it and the [[European Extremely Large Telescope]] are completed in the mid-[[2020s]]. The TMT will have a segmented mirror 30 meters across and be built on [[Mauna Kea]] in Hawaii. This mirror will be nearly three times the size of the current record holder, the [[Large Binocular Telescope]].&lt;ref name=SkyTelescope&gt;{{cite journal|last1=Tytell|first1=David|title=Thirty Meter Telescope Moves Forward|journal=Sky &amp; Telescope|date=August 22, 2007|url=http://www.skyandtelescope.com/astronomy-news/thirty-meter-telescope-moves-forward/|accessdate=January 8, 2015}}&lt;/ref&gt;  The Moores, as individuals and through their [[Gordon and Betty Moore Foundation|foundation]], have also, through a series of gifts and grants, given over $110 million to the [[University of California, Berkeley]].&lt;ref name="Gordon and Betty Moore Foundation"&gt;{{cite web|title=Grants Search|url=https://www.moore.org/grants}}&lt;/ref&gt; 
+
+In addition, through the Foundation, Betty Moore has created the Betty Irene Moore Nursing Initiative, targeting nursing care in the San Francisco Bay Area and Greater Sacramento.&lt;ref name=Carnegie2009/&gt;&lt;ref name=Nursing&gt;{{cite web|title=Betty Irene Moore Nursing Initiative|url=http://www.moore.org/programs/patient-care/betty-irene-moore-nursing-initiative|website=Gordon and Betty Moore Foundation|accessdate=January 8, 2015|deadurl=yes|archiveurl=https://web.archive.org/web/20141224140317/http://www.moore.org/programs/patient-care/betty-irene-moore-nursing-initiative|archivedate=December 24, 2014|df=mdy-all}}&lt;/ref&gt;  In 2007, the foundation pledged $100 million over 11 years to establish a nursing school at the [[University of California, Davis]].&lt;ref name="Gordon and Betty Moore Foundation"&gt;{{cite web|title=Grants Search|url=https://www.moore.org/grants}}&lt;/ref&gt;
+
+In 2009, the Moores received the [[Andrew Carnegie Medal of Philanthropy]].&lt;ref name=Carnegie2009/&gt;&lt;ref name=UCSE2007&gt;{{cite news|title=Gordon and Betty Moore Foundation Funds Programs to Address Nursing Crisis|url=http://insider.ucsf.edu/2004/aug/index.html|accessdate=January 8, 2015|work=UCSF Campaign Insider|agency=University of California San Francisco|date=2007|deadurl=yes|archiveurl=https://web.archive.org/web/20160304093135/http://insider.ucsf.edu/2004/aug/index.html|archivedate=March 4, 2016|df=mdy-all}}&lt;/ref&gt;
+
+==Scientific awards and honors==
+Moore has received many honors. He became a member of the [[National Academy of Engineering]] in 1976.&lt;ref name=NationalAcademy&gt;{{cite web|title=National Academy of Engineering Members|url=https://www.caltech.edu/content/national-academy-engineering-members|website=Caltech|accessdate=January 8, 2015}}&lt;/ref&gt;
+
+In 1990, Moore was presented with the [[National Medal of Technology and Innovation]] by President [[George H.W. Bush]], "for his seminal leadership in bringing American industry the two major postwar innovations in microelectronics - large-scale integrated memory and the microprocessor - that have fueled the information revolution."&lt;ref name=USPTO&gt;{{cite web|title=The National Medal of Technology and Innovation 1990 Laureates|url=http://www.uspto.gov/about/nmti/recipients/1990.jsp|website=USPTO.gov|publisher=The United States Patent and Trademark Office|accessdate=January 8, 2015}}&lt;/ref&gt;
+
+In 1998 he was inducted as a Fellow of the [[Computer History Museum]] "for his fundamental early work in the design and production of semiconductor devices as co-founder of Fairchild and Intel."&lt;ref&gt;{{Cite web |title= Gordon Moore  CHM Fellow Award Winner |author= CHM |url= http://www.computerhistory.org/fellowawards/hall/bios/Gordon,Moore/ |accessdate= March 30, 2015 |deadurl= yes |archiveurl= https://web.archive.org/web/20150402063331/http://www.computerhistory.org/fellowawards/hall/bios/Gordon,Moore |archivedate= April 2, 2015 |df= mdy-all }}{{cite web |url=http://www.computerhistory.org/fellowawards/hall/bios/Gordon,Moore/ |title=Archived copy |accessdate=2015-01-08 |deadurl=yes |archiveurl=https://web.archive.org/web/20150108161213/http://www.computerhistory.org/fellowawards/hall/bios/Gordon,Moore/ |archivedate=January 8, 2015 |df=mdy-all }}&lt;/ref&gt;
+
+In 2001, Moore received the [[Othmer Gold Medal]] for outstanding contributions to progress in chemistry and science.&lt;ref name=2001CAEN&gt;{{cite journal|last1=Voith|first1=Melody|last2=Reisch|first2=Marc|title=Gordon Moore Awarded the Othmer Gold Medal|journal=Chemical &amp; Engineering News|date=May 14, 2001|volume=79|issue=20|pages=62|url=http://pubs.acs.org/doi/abs/10.1021/cen-v079n020.p062|doi=10.1021/cen-v079n020.p062|accessdate=June 12, 2014}}&lt;/ref&gt;&lt;ref name=CHFAll&gt;{{cite web|title= Othmer Gold Medal |url=https://www.sciencehistory.org/othmer-gold-medal|publisher=[[Science History Institute]]|accessdate=February 19, 2018}}&lt;/ref&gt;
+
+Moore is also the recipient of the [[Presidential Medal of Freedom]], the United States' highest civilian honor, as of 2002.&lt;ref name=SIANews2022&gt;{{cite news|title=SIA Congratulates Intel's Gordon Moore for Receiving Presidential Medal of Freedom|url=http://www.semiconductors.org/news/2002/06/24/press_releases_2002/sia_congratulates_intel_s_gordon_moore_for_receiving_presidential_medal_of_freedom/|accessdate=January 8, 2015|work=SIA News|publisher=Semiconductor Industry Association|date=June 24, 2002}}&lt;/ref&gt; He received the award from President [[George W. Bush]]. In 2002, Moore also received the [[The Franklin Institute Awards|Bower Award]] for Business Leadership.
+
+In 2003, he was elected a [[Fellow of the AAAS|Fellow]] of the [[American Association for the Advancement of Science]].
+
+Moore was awarded the 2008 [[IEEE Medal of Honor]] for "pioneering technical roles in integrated-circuit processing, and leadership in the development of MOS memory, the microprocessor computer and the semiconductor industry."&lt;ref name="ieee"&gt;{{cite web|url=http://www.ieee.org/portal/pages/about/awards/pr/mohpr.html|publisher=ieee.org|title=IEEE - IEEE Medals, Technical Field Awards, and Recognitions  IEEE Medal of Honor Recipients |accessdate=June 2, 2017}}&lt;/ref&gt; Moore was featured in the documentary film ''[[Something Ventured]]'' which premiered in 2011.
+
+In 2009, Moore was inducted into the [[National Inventors Hall of Fame]].
+
+He was awarded the 2010 Future [[Dan David Prize]] for his work in the areas of Computers and Telecommunications.&lt;ref name="DDP"&gt;{{cite web|title=Gordon E. Moore|url=http://www.dandavidprize.org/laureates/2010/92-future-computers-and-telecommunications/199-gordon-e-moore|website=Dan David Prize|accessdate=August 18, 2014}}&lt;/ref&gt;
+
+The library at the [[Centre for Mathematical Sciences (Cambridge)|Centre for Mathematical Sciences]] at the [[University of Cambridge]] is named after him and his wife Betty,&lt;ref name="cam"&gt;{{cite web|url=http://www.lib.cam.ac.uk/BGML/|publisher=lib.cam.ac.uk|title=The Betty &amp; Gordon Moore Library |accessdate=June 2, 2017}}&lt;/ref&gt; as are the Moore Laboratories building (dedicated 1996) at Caltech and the Gordon and Betty Moore Materials Research Building at Stanford.
+
+[[The Electrochemical Society]] presents an award in Moore's name, the [[Gordon E. Moore Medal for Outstanding Achievement in Solid State Science and Technology]], every two years to celebrate scientists' contributions to the field of solid state science.&lt;ref&gt;{{cite web|title=ECS Society Awards|url=http://www.electrochem.org/awards/ecs/ecs_awards.htm#d|website=The Electrochemical Society}}&lt;/ref&gt;  The [[Society of Chemical Industry (American Section)]] annually presents the Gordon E. Moore Medal in his honor to recognize early career success in innovation in the chemical industries.&lt;ref name=MooreMedalSCI&gt;{{cite web|title=Gordon E. Moore Medal|url=http://sci-america.org/site/?page_id=69|website=Society of Chemical Industry (SCI America)|accessdate=February 4, 2015}}&lt;/ref&gt;&lt;ref name=MooreMedalCHF&gt;{{cite web|title=SCI Gordon E. Moore Medal|url=https://www.sciencehistory.org/sci-gordon-e-moore-medal|website=[[Science History Institute]]}}&lt;/ref&gt;
+
+==Personal life==
+Moore actively pursues and enjoys any type of fishing and has extensively traveled the world catching species from black marlin to rainbow trout. He has said his conservation efforts are partly inspired by his interest in fishing.&lt;ref name="charlierose"&gt;{{cite web|url=http://www.charlierose.com/view/interview/657|publisher=charlierose.com|title=Charlie Rose, November 14, 2005|accessdate=June 2, 2017|deadurl=yes|archiveurl=https://web.archive.org/web/20100802012627/http://www.charlierose.com/view/interview/657|archivedate=August 2, 2010|df=mdy-all}}&lt;/ref&gt;
+
+In 2011, Moore's genome was the first human genome sequenced on [[Ion Torrent]]'s [[Personal genomics|Personal Genome]] Machine platform, a massively parallel sequencing device, which uses field effect transistor sensors.&lt;ref name="mooreome"&gt;{{Cite journal | last1 = Rothberg | first1 = J. M. | authorlink1 = Jonathan M. Rothberg| last2 = Hinz | first2 = W. | last3 = Rearick | first3 = T. M. | last4 = Schultz | first4 = J. | last5 = Mileski | first5 = W. | last6 = Davey | first6 = M. | last7 = Leamon | first7 = J. H. | last8 = Johnson | first8 = K. | last9 = Milgrew | first9 = M. J. | last10 = Edwards | doi = 10.1038/nature10242 | first10 = M. | last11 = Hoon | first11 = J. | last12 = Simons | first12 = J. F. | last13 = Marran | first13 = D. | last14 = Myers | first14 = J. W. | last15 = Davidson | first15 = J. F. | last16 = Branting | first16 = A. | last17 = Nobile | first17 = J. R. | last18 = Puc | first18 = B. P. | last19 = Light | first19 = D. | last20 = Clark | first20 = T. A. | last21 = Huber | first21 = M. | last22 = Branciforte | first22 = J. T. | last23 = Stoner | first23 = I. B. | last24 = Cawley | first24 = S. E. | last25 = Lyons | first25 = M. | last26 = Fu | first26 = Y. | last27 = Homer | first27 = N. | last28 = Sedova | first28 = M. | last29 = Miao | first29 = X. | last30 = Reed | first30 = B. | title = An integrated semiconductor device enabling non-optical genome sequencing | journal = Nature | volume = 475 | issue = 7356 | pages = 348352 | year = 2011 | pmid =  21776081| pmc = }}&lt;/ref&gt;
+
+==References==
+{{Reflist|40em}}
+
+== External links ==
+{{Commons category}}
+{{Wikiquote}}
+{{Library resources box|by=yes|onlinebooksby=yes|viaf=265564053}}
+* {{cite web|author=Center for Oral History| title= Gordon E. Moore and Jay T. Last |url=https://oh.sciencehistory.org/oral-histories/moore-gordon-e-and-jay-t-last|website= [[Science History Institute]] }}
+* {{cite book|first1=David C.|last1=Brock |first2=Christophe |last2=Lcuyer |title=Gordon E. Moore and Jay T. Last, Transcript of an Interview Conducted by David C. Brock and Christophe Lcuyer at Woodside, California on 20 January 2006 |date=20 January 2006 |url=https://oh.sciencehistory.org/sites/default/files/moore_ge_and_last_jt_0327_suppl.pdf |place=Philadelphia, PA|publisher=[[Chemical Heritage Foundation]] }}
+* {{cite news|last1=Moore|first1=Gordon E.|title=The Accidental Entrepreneur |url=http://calteches.library.caltech.edu/3777/1/Moore.pdf |accessdate=January 8, 2015|work=Engineering &amp; Science|pages=2330|date=Summer 1994}}
+* {{cite news|last1=Kaplan|first1=David A.|title=Gordon Moore's journey|url=http://fortune.com/2012/09/24/gordon-moores-journey/|accessdate=January 8, 2015|work=Fortune|date=September 24, 2012}}
+* {{cite web|title=1996 Horatio Alger Award Winner Gordon E. Moore|url=http://www.horatioalger.org/members_info.cfm?memberid=MOO96|website=Horatio Alger Association|accessdate=January 8, 2015}}
+* {{cite web|title=Gordon E. Moore Retired Chief Executive Officer and Chairman of the Board, Chairman Emeritus|url=https://newsroom.intel.com/biography/gordon-e-moore/|website=Intel|accessdate=March 22, 2016}}
+* {{cite news|last1=Kanellos|first1=Michael|title=Moore says nanoelectronics face tough challenges|url=http://news.cnet.com/Moore-says-nanoelectronics-face-tough-challenges/2100-1006_3-5607422.html|accessdate=January 8, 2015|work=CNET News|date=March 9, 2005}}
+* {{cite news|title=It Was the '60s, Man|url=http://archive.wired.com/science/discoveries/news/2005/04/67254|accessdate=January 8, 2015|work=Wired|date=April 17, 2005}}
+* {{cite journal|last1=Huang|first1=Maria|title=Moore Laboratory opened with great expectations|url=http://caltechcampuspubs.library.caltech.edu/1993/1/1996_01_12_97_12.pdf|accessdate=January 8, 2015|work=The California TECH|volume=XCVII|issue=12|pages=1, 3|date=January 12, 1996}}
+* {{cite web|title=The Fairchild Chronicles: DVD tells tale of Silicon Valley's seminal startup|url=https://web.stanford.edu/dept/news/pr/2005/pr-fairchild-030905.html|website=Stanford News Service|date=March 8, 2005|accessdate=January 8, 2015}}
+* {{C-SPAN}}
+
+{{S-start}}
+{{S-bus}}
+{{S-bef| before=[[Robert Noyce]]}}
+{{S-ttl| title=Intel CEO | years=19751987}}
+{{S-aft| after=[[Andrew Grove]]}}
+{{S-end}}
+
+{{IEEE Founders Medal}}
+{{IEEE Medal of Honor}}{{Intel}}
+{{Authority control}}
+
+{{DEFAULTSORT:Moore, Gordon}}
+[[Category:1929 births]]
+[[Category:American billionaires]]
+[[Category:American technology chief executives]]
+[[Category:American physical chemists]]
+[[Category:California Institute of Technology alumni]]
+[[Category:Giving Pledgers]]
+[[Category:IEEE Medal of Honor recipients]]
+[[Category:Intel people]]
+[[Category:Living people]]
+[[Category:Members of the United States National Academy of Engineering]]
+[[Category:National Medal of Technology recipients]]
+[[Category:Businesspeople from San Francisco]]
+[[Category:Presidential Medal of Freedom recipients]]
+[[Category:San Jose State University alumni]]
+[[Category:University of California, Berkeley alumni]]
+[[Category:Berkeley Student Cooperative alumni]]
+[[Category:American chief executives of manufacturing companies]]
+[[Category:People from San Mateo County, California]]</text>
+      <sha1>gx6emf4lt5laae4t3qt961xqf05yjso</sha1>
+    </revision>
+  </page>
+</mediawiki>

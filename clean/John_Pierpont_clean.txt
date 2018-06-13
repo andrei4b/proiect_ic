@@ -1,0 +1,86 @@
+--business
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>John Pierpont</title>
+    <ns>0</ns>
+    <id>1191238</id>
+    <revision>
+      <id>798439901</id>
+      <parentid>743321230</parentid>
+      <timestamp>2017-09-01T23:34:44Z</timestamp>
+      <contributor>
+        <username>KolbertBot</username>
+        <id>31691822</id>
+      </contributor>
+      <minor/>
+      <comment>Bot: HTTPHTTPS</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="6743">thumb|John Pierpont
+'''John Pierpont''' (April 6, 1785  August 27, 1866) was an American poet, who was also successively a teacher, lawyer, merchant, and Unitarian minister. His most famous poem is ''The Airs of Palestine''.
+
+==Overview==
+Born in 1785 in Litchfield, Connecticut,Samuel Atkins Eliot, [https://books.google.com/books/about/Heralds_of_a_liberal_faith.html?id=VkLpVWpWeXUC&redir_esc=y ''Heralds of a liberal faith'', Volume 2], American Unitarian Association, 1910, p. 185. John Pierpont had careers as a tutor, attorney, merchant, and minister.  He graduated from Yale College in 1804. In 1816 he began his religious work as a theology student, first in Baltimore and then at Harvard, afterwards accepting an appointment as pastor at the Hollis Street Church in Boston (1819-1845). During his tenure, Pierpont was instrumental in establishing Boston's English Classical School in 1821 and gained national recognition as an educator. He published two of the better-known early school readers in the United States, ''The American First Class Book'' (1823) and ''The National Reader'' (1827). However, Pierpont's latter years at the Hollis Street Church were characterized by controversy. His social activism for temperance and abolition angered some parishioners, and after a long public battle, he resigned in 1845.
+
+After his resignation, Pierpont served as pastor of a Unitarian church in Troy, New York (18451849), and then led the First Parish Church (Unitarian) in Medford, Massachusetts (18491856). He ran for Massachusetts governor during the 1840s as a Liberty Party candidate, and in 1850 as a Free Soil Party candidate for the US House of Representatives. After two weeks' service as a 76-year-old military chaplain with the 22nd Massachusetts Volunteer Infantry during the Civil War, Pierpont was given an appointment in the Treasury Department in Washington, which he held from 1861 until his death. He died at Medford, Massachusetts in 1866.
+
+==Literary works==
+
+Pierpont gained a literary reputation with his book ''Airs of Palestine: A Poem'' (1816), re-published in an anthology by the same name in 1840. He also published moral literature, such as ''Cold Water Melodies'' and ''Washington Songster'' (comp. 1842). In addition, he is probably the anonymous "gentleman" who co-authored ''The Drunkard; or, The Fallen Saved'' (1844), attributed to W. H. Smith, an actor and stage manager at Moses Kimball's Boston Museum (theatre). ''The Drunkard'' quickly became one of the most popular temperance plays in America.
+
+Pierpont's many published sermons include, among others, ''The Burning of the Ephesian Letters'' (1833), ''Jesus Christ Not a Literal Sacrifice'' (1834), ''New Heavens and a New Earth'' (1837), ''Moral Rule of Political Action'' (1839), ''National Humiliation'' (1840), and ''A Discourse on the Covenant with Judas'' (1842). With publication of ''Phrenology and the Scriptures'' (1850), Pierpont became known not only as a reform lecturer, but also as an expert on phrenology and spiritualism.
+
+Pierpont was an important influence on reform-minded antebellum poets. Along with John Greenleaf Whittiers verse, Pierponts poems were frequently recited at public antislavery meetings. Oliver Johnson, a leading antislavery publisher and Garrison associate, published Pierponts ''Anti-Slavery Poems'' in 1843. The collection contains poems that had appeared mostly in the poetry columns of ''The Liberator'' and ''The National Anti-Slavery Standard''. Pierponts writings were also anthologized widely in antislavery poetry collections, such as William Allens ''Autographs of Freedom'' (1853).
+
+John Pierpont did not write the song "Jingle Bells" as erroneously claimed by Robert Fulghum in his collection of essays It Was on Fire When I Lay Down on It (1989). "Jingle Bells" was composed by his son James Lord Pierpont, who lived in Savannah, Georgia, and who was a Confederate soldier during the Civil War, composing songs for the Confederate States of America, including "Our Battle Flag", "Strike for the South", and "We Conquer or Die".
+
+==Genealogy==
+
+John Pierpont was also the maternal grandfather of financier J. Pierpont Morgan. For detailed [http://ccat.sas.upenn.edu/rs/rak/gen/pier/piergen.htm genealogical information], see 20&gt;16232 in "PIERPONT (PIERREPONT[E], PIERPOINT, etc.) GENEALOGIES, With Focus on the New England Pier(re)ponts of America."
+
+==Notes==
+{{Reflist}}
+

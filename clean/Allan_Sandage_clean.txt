@@ -1,0 +1,61 @@
+--scientific
+ scientist. 
+name             =Allan Sandage. 
+image            =Allan Sandage.jpg. 
+caption          =. 
+birth_date       ={{birth date|1926|6|18}}. 
+birth_place      =Iowa City, Iowa. 
+death_date       ={{Death date and age|2010|11|13|1926|6|18}}. 
+death_place      =San Gabriel, California. 
+nationality      =United States. 
+field            =astronomy. 
+work_institutions=Carnegie Observatories. 
+alma_mater       =California Institute of TechnologyUniversity of Illinois. 
+doctoral_advisor =Walter Baade. 
+doctoral_students=. 
+known_for        =Physical cosmology. 
+influences       =Walter BaadeEdwin Hubble. 
+influenced       =. 
+prizes           ={{no wrap|Helen B. Warner Prize for Astronomy {{small|(1957)}}Eddington Medal {{small|(1963)}}Rittenhouse Medal (1968)National Medal of Science {{small|(1970)}}Elliott Cresson Medal {{small|(1973)}}Bruce Medal {{small|(1975)}}Crafoord Prize {{small|(1991)}}Fellow of the Royal Society}}
+}}
+
+'''Allan Rex Sandage''' (June 18, 1926 &ndash; November 13, 2010) was an American astronomer. He was Staff Member Emeritus with the Carnegie Observatories in Pasadena, California. He determined the first reasonably accurate values for the Hubble constant and the age of the universe. He also discovered the first quasar.
+
+{| class="wikitable" align="right" style="margin: 1em;". 
++ '''Asteroids discovered: 1'''. 
+ (96155) 1973 HA || 27 April 1973. 
+}
+
+==Career==
+Sandage was one of the most influential astronomers of the 20th century.The educational website [http://www.superscholar.org/features/20-most-influential-scientists-alive-today SuperScholar] includes Sandage on its list of "The 20 Most Influential Scientists Alive Today." He was born in Iowa City, Iowa, United States.  He graduated from the University of Illinois in 1948. In 1953 he received a Ph.D. from the California Institute of Technology; the German-born Wilson Observatory-based astronomer Walter Baade was his advisor. During this time Sandage was a graduate student assistant to cosmologist Edwin Hubble. He continued Hubble's research program after Hubble died in 1953. In 1952 Baade surprised his fellow astronomers by announcing (at the 1952 Conference of the International Astronomical Union, in Rome) his determination of two separate populations of Cepheid variable stars in the Andromeda Galaxy, resulted in a doubling of the estimated age of the universe (from 1.8 to 3.6 billion years). Hubble had posited the earlier value; he had considered only the weaker Population II Cepheid variables as standard candles. After Baade's pronouncements, Sandage showed that astronomers' previous assumption, that the brightest stars in galaxies were of approximately equal inherent intensity, was mistaken in the case of H II regions which he found not to be stars and inherently brighter than the brightest stars in distant galaxies. This resulted in another 1.5 factor increase in the calculated age of the universe, to approximately 5.5 billion years. Throughout the 1950s and well into the 1980s Sandage was regarded as the pre-eminent observational cosmologist, making contributions to all aspects of the cosmological distance scale, ranging from calibrators within our own Milky Way Galaxy, to cosmologically distant galaxies.
+
+Sandage began working at the Palomar Observatory. In 1958 he published the first good estimate for the Hubble constant, revising Hubble's value of 250 down to 75km/s/Mpc, which is close to today's accepted value. Later he became the chief advocate of an even lower value, around 50, corresponding to a Hubble age of around 20 billion years.
+
+Sandage performed photometric studies of globular clusters, and calculated their age to be at least 25 billion years. This led him to speculate that the universe did not merely expand, but actually expanded and contracted with a period of 80 billion years. The current cosmological estimates of the age of the universe, in contrast, are typically of the order of 14 billion years. As part of his studies concerning the formation of galaxies in the early universe, he co-wrote the paper now referred to as ELS after the authors Olin J. Eggen, Donald Lynden-Bell and Sandage, first describing the collapse of a proto-galactic gas cloud into our present Milky Way Galaxy. He later defended the paper in 1990.
+
+In his 1961 paper "The Ability of the 200-inch Telescope to Discriminate Between Selected World Models," he suggested that the future of observational cosmology would be the search for two parameters: the Hubble constant H0 and the deceleration parameter q0. This paper influenced observational cosmology for at least three decades as it carefully specified the types of observational tests that could be performed with a large telescope. He also published two atlases of galaxies, in 1961 and 1981, based on the Hubble classification scheme.
+
+In 1962 Sandage studied the possibility of directly measuring the temporal variation of the redshift of extra-galactic sources. This analysis became known as the "SandageLoeb test".
+
+Sandage discovered jets erupting from the core of the so-called Cigar Galaxy. These must have been caused by massive explosions in the core, and they have apparently been occurring for at least 1.5 million years.
+
+Sandage was a prolific researcher; during his career he published more than 500 papers. Until his death he continued to be an active researcher at the Carnegie Observatories, still publishing several papers a year.As shown by a Smithsonian Astrophysical Observatory/NASA Astrophysics Data System search that was performed in 2009
+
+==Personal life==
+In 1959, Sandage married Mary Connelley, also an astronomer, with whom he had two sons, David and John. In 1983 Sandage announced he had become a Christian and began to write essays on the subject of religion and science. On November 13, 2010, Sandage died of pancreatic cancer at his home in San Gabriel, California. He was 84 years old.[https://www.independent.co.uk/news/obituaries/allan-sandage-astronomer-widely-acknowledged-as-among-the-most-outstanding-of-the-20th-century-2140189.html Allan Sandage: Astronomer widely acknowledged as among the most outstanding of the 20th century], ''The Independent Obituary'', 22 November 2010
+
+==Honors==
+'''Awards'''
+*Helen B. Warner Prize for Astronomy (1957)
+*Eddington Medal (1963)
+*Gold Medal of the Royal Astronomical Society (1967)
+*National Medal of Science (1970)
+*Henry Norris Russell Lectureship (1972)
+*Elliott Cresson Medal (1973)
+*Fellow of the Royal Society
+*Bruce Medal (1975)
+*Crafoord Prize (1991)
+*Gruber Prize in Cosmology (2000)
+'''Named after him'''
+*Main-belt asteroid, 9963 Sandage (1992 AN)
+

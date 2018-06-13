@@ -1,0 +1,201 @@
+--politics
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Emily Murphy</title>
+    <ns>0</ns>
+    <id>701877</id>
+    <revision>
+      <id>844416292</id>
+      <parentid>844416277</parentid>
+      <timestamp>2018-06-04T19:43:44Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/209.89.79.114|209.89.79.114]] to version by 184.64.97.232. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (3400214) (Bot)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="29868">{{Use Canadian English|date=March 2013}}
+{{Use dmy dates|date=February 2011}}
+{{Infobox person
+|name        =  Emily Murphy 
+|image       = Emily Murphy c1917.jpeg
+|caption     = 
+|birth_name = Emily Gowan Ferguson
+|birth_date  = {{Birth date|1868|3|14|df=y}}
+|birth_place = [[Innisfil|Cookstown, Ontario]], Canada
+|death_date  = {{Death date and age|1933|10|27|1868|3|14|df=y}}
+|death_place = [[Edmonton|Edmonton, Alberta]], Canada
+|other_names = 
+|known_for   = Women's rights activist
+|occupation  = Magistrate, activist, jurist, author
+}}
+'''Emily Murphy''' (born '''Emily Gowan Ferguson'''; 14 March 1868{{spaced ndash}}27 October 1933)&lt;ref&gt;{{Cite web|url=https://www.historicacanada.ca/content/heritage-minutes/emily-murphy|title=Emily Murphy {{!}} Historica Canada|website=www.historicacanada.ca|language=en|access-date=2017-05-02}}&lt;/ref&gt; was a Canadian [[women's rights]] [[activist]], [[jurist]], and [[author]]. In 1916, she became the first female [[magistrate]] in Canada, and in the [[British Empire]]. She is best known for her contributions to Canadian feminism, specifically to the question of whether women were "persons" under Canadian law.
+
+Murphy is known as one of "[[The Famous Five (Canada)|The Famous Five]]" (also called "The Valiant Five")&lt;ref&gt;{{cite book|last=Kome|first=Penney|title=Women of Influence: Canadian Women and Politics|year=1985|publisher=Doubleday Canada|location=Toronto, Ontario|isbn=978-0-385-23140-4|pages=3132|url={{google books|hBQqAAAAYAAJ|plainurl=yes|page=31}}|edition=1st}}&lt;/ref&gt;a group of Canadian women's rights activists that also included [[Henrietta Muir Edwards]], [[Nellie McClung]], [[Louise McKinney]] and [[Irene Parlby]]. In 1927, the women launched the "Persons Case," contending that women could be "qualified persons" eligible to sit in the [[Senate of Canada|Senate]]. The [[Supreme Court of Canada]] ruled that they were not. However, upon appeal to the [[Judicial Committee of the Privy Council|Judicial Committee of the British Privy Council]], the court of last resort for Canada at that time, the women won their case.&lt;ref&gt;{{cite web |url=https://www.historicacanada.ca/content/heritage-minutes/emily-murphy? |title=Emily Murphy |website=Heritage Minutes |publisher=Historica Canada |access-date=28 May 2010}}&lt;/ref&gt;
+
+However, there has been some criticism of her later work, mainly for her role in the [[Sexual Sterilization Act of Alberta]] and her allegations that a ring of immigrants from other countries, particularly China, would corrupt the white race by getting Canadians hooked on drugs.&lt;ref&gt;{{cite news |last=Yedlin |first=Deborah |date=18 March 2009 |title=To some, it's the Infamous Five |url=https://www.theglobeandmail.com/opinion/to-some-its-the-infamous-five/article746377/ |newspaper=Globe and Mail |location=Toronto |access-date=18 December 2016}}&lt;/ref&gt; In her book ''The Black Candle'', she wrote: "It is hardly credible that the average Chinese peddler has any definite idea in his mind of bringing about the downfall of the white race, his swaying motive being probably that of greed, but in the hands of his superiors, he may become a powerful instrument to that end."&lt;ref&gt;{{cite news |last=Bourrie |first=Mark |date=30 September 2012 |title=A  pioneer in the war on pot |url=http://news.nationalpost.com/full-comment/mark-bourrie-on-emily-murphy-a-pioneer-in-the-war-on-pot |newspaper=National Post |location=Toronto |access-date=18 December 2016}}&lt;/ref&gt;
+
+==Early life==
+Emily Murphy was born in [[Innisfil|Cookstown, Ontario]], the third child of Isaac and Emily Ferguson. Isaac Ferguson was a successful businessman and property owner.&lt;ref&gt;{{cite web |url=http://www.collectionscanada.gc.ca/women/030001-1111-e.html |title=Emily Ferguson Murphy |website=Celebrating Women's Achievements |publisher=[[Library and Archives Canada]] |date=2 October 2000 |accessdate=19 March 2013}}&lt;/ref&gt; As a child, Murphy frequently joined her two older brothers Thomas and Gowan in their adventures; their father encouraged this behaviour and often had his sons and daughters share responsibilities equally.
+
+Murphy grew up under the influence of her maternal grandfather, [[Ogle Robert Gowan|Ogle R. Gowan]] who was a politician that founded a local branch of the [[Orange Order of Canada|Orange Order]] in 1830 and two uncles who were a Supreme Court justice and a Senator, respectively. Her brother also became a lawyer and another member of the Supreme Court. Her family were prominent members of society and she benefited from parents who supported their daughter receiving formal academic education. Her uncle was [[Thomas Roberts Ferguson]], an MP,&lt;ref&gt;{{cite book|editor1-last=Charters|editor1-first=C. V.|title=A history of Peel County: to mark its centenary|date=1967|publisher=The County of Peel|location=Brampton ON|page=150}}&lt;/ref&gt; and she was related to [[James Robert Gowan]], who was a lawyer, judge, and senator.
+
+Murphy attended [[Bishop Strachan School]], an exclusive Anglican private school for girls in Toronto and, through a friend, she met her future husband Arthur Murphy, who was 11 years her senior.
+
+In 1887, they married, and subsequently had four daughters: Madeleine, Evelyn, Doris and Kathleen. Doris died. After Doris' death, the family decided to try a new setting and moved west to [[Swan River, Manitoba]] in 1903 and then to [[Edmonton|Edmonton, Alberta]] in 1907.
+
+== Activism ==
+
+===Dower Act===
+[[File:emilymurphy.jpg|left|thumb|Statue of Emily Murphy in the monument to [[The Famous Five (Canada)|The Famous Five]], Parliament Hill, Ottawa]]
+
+While Arthur was working as an Anglican priest, Murphy explored her new surroundings and became increasingly aware of the poverty that existed.
+
+At the age of 40, when her children became independent and began their separate lives, Murphy began to actively organize women's groups where the isolated housewives could meet and discuss ideas and plan group projects. In addition to these organizations, Murphy began to speak openly and frankly about the disadvantaged and the poor living conditions that surrounded their society.
+
+Her strong interest in the rights and protection of women and children intensified when she was made aware of an unjust experience of an Albertan woman whose husband sold the family farm; the husband then abandoned his wife and children who were left homeless and penniless. At that time, property laws did not leave the wife with any [[legal recourse]].
+
+This case motivated Murphy to create a campaign that assured the property rights of married women. With the support of many rural women, Murphy began to pressure the Alberta government to allow women to retain the rights of their land. In 1916, Murphy successfully persuaded the [[Alberta legislature]] to pass the Dower Act that would allow a woman legal rights to one third of her husband's property. Murphy's reputation as a women's rights activist was established by this first political victory.{{Citation needed|date=April 2016}}
+
+===Appointment as female magistrate===
+[[File:WLMK unveiling plaque to Valiant Five.jpg|thumb|right|[[William Lyon Mackenzie King]] unveils a plaque commemorating the five Alberta women whose efforts resulted in the Persons Case. [Front, L-R]: Mrs. Muir Edwards, daughter-in-law of Henrietta Muir Edwards; Mrs. J.C. Kenwood, daughter of Judge Emily Murphy; Hon. W.L. Mackenzie King; Mrs. Nellie McClung. [Rear, L-R]: Senators Iva Campbell Fallis, Cairine Wilson (Ottawa).]]
+
+Murphy's success in the fight for the Dower Act, along with her work through the Local Council of Women and her increasing awareness of women's rights, influenced her request for a female magistrate in the women's court.
+
+In 1916, Murphy, along with a group of women, attempted to observe a trial for women who were {{not a typo|labelled}} prostitutes and were arrested for "questionable" circumstances. The women were asked to leave the courtroom on the claims that the statement was not "fit for mixed company". This outcome was unacceptable to Murphy and she protested to the provincial Attorney General. "If the evidence is not fit to be heard in mixed company," she argued, "then the government must set up a special court presided over by women, to try other women".
+
+Murphy's request was approved and she became the first woman police magistrate for the [[British Empire]].{{Citation needed|date=April 2016}}
+
+Her appointment as a judge, however, became the cause for her greatest adversity concerning women within the law. In her first case in Alberta on July 1, 1916, she found the prisoner guilty. The prisoner's lawyer called into question her right to pass sentence since she was not legally a person. The Provincial Supreme Court denied the appeal.&lt;ref&gt;{{cite book|title=The Women's Book of World Records and Achievements|last=Horowitz |first=Janice M.|editor-last=O'Neill |editor-first=Lois Decker|publisher=Anchor Press |year=1979|page=352|chapter=Women in Law and the Justice System|isbn=0-385-12733-2}}&lt;/ref&gt;
+
+=== Persons case ===
+In 1917, she headed the battle to have women declared as "persons" in Canada, and, consequently, qualified to serve in the Senate. Lawyer, Eardley Jackson, challenged her position as judge because women were not considered "persons" under the [[British North America Act 1867]]. This understanding was based on a British common law ruling of 1876, which stated, "women were eligible for pains and penalties, but not rights and privileges."&lt;ref&gt;{{cite encyclopedia |last=Kaye |first=Frances W. |editor-last=Wishart |editor-first=David J. |title=Persons Case |encyclopedia=Encyclopedia of the Great Plains |publisher=University of Nebraska Press |url={{google books|rtRFyFO4hpEC|plainurl=yes|page=320}} |date=2004 |p=320 |isbn=0-80324-787-7|access-date=23 July 2015}}&lt;/ref&gt;
+
+In 1919, she presided over the inaugural conference of the [[Federated Women's Institutes of Canada]], which passed a resolution calling for a female senator to be appointed. The [[National Council of Women of Canada|National Council of Women]] and the Montreal Women's Club also supported the resolution, selecting Murphy as their preferred candidate.&lt;ref name=":0"&gt;{{Cite book|title=Canadian Women: A History|last=Prentice|first=Alison|last2=Bourne|first2=Paula|last3=Brandt|first3=Gail Cuthbert|last4=Light|first4=Beth|last5=Mitchinson|first5=Wendy|last6=Black|first6=Naomi|publisher=Harcourt Brace Jovanovich|year=1988|isbn=|location=[[Toronto]]|pages=28283|quote=|author-link2=Paula Bourne|author-link5=Wendy Mitchinson|via=}}&lt;/ref&gt;
+
+Murphy began to work on a plan to ask for clarification of how women were regarded in the BNA act and how they were to become Senators. In order for her question to be considered, she needed at least five citizens to submit the question as a group.{{Citation needed|date=November 2011}} She enlisted the help of four other Albertan women and on 27 August 1927 she and human rights activist [[Nellie McClung]], ex MLA [[Louise McKinney]], women's rights campaigners [[Henrietta Edwards]] and [[Irene Parlby]] signed the petition to the [[Federal cabinet of Canada|federal Cabinet]],  asking that the federal government [[Reference question|refer the issue]] to the [[Supreme Court of Canada]]. The women's petition set out two questions,&lt;ref&gt;{{cite web |url=http://epe.lac-bac.gc.ca/100/206/301/lac-bac/famous_five-ef/www.lac-bac.gc.ca/famous5/05300301_e.html |title=Petition of August 27, 1927, containing the five Alberta women's two questions |website=The Famous Five |publisher=[[Library and Archives Canada]] |date=27 August 1927 |access-date=23 July 2015}}&lt;/ref&gt; but the federal government re-framed it as one question, asking the Supreme Court: "Does the word 'person' in Section 24 of the British North America Act include female persons?" The campaign became known as ''The Persons Case'' and reached the [[Supreme Court of Canada]] in March 1928. The Court held that women were not qualified to sit in the Senate. The five women then appealed to the [[Judicial Committee of the Privy Council]] in Britain.  On 18 October 1929, in a decision called [[Edwards v. Canada (Attorney General)]], the Privy Council declared that 'persons' in Section 24 of the BNA Act of 1867 should be interpreted to include both males and females therefore women were eligible to serve in the Senate.
+
+Despite the ruling, Murphy was never appointed to the Senate. The Prime Minister at the time, [[William Lyon Mackenzie King]], was a [[Liberal Party of Canada|Liberal]], and Murphy was a partisan Conservative, so she was passed over in favour of philanthropist [[Cairine Wilson]] in 1930. After the Conservatives under [[R. B. Bennett]] won the [[Canadian federal election, 1930|1930 federal election]], Murphy was denied to chance to sit in the Senate again in 1931, because the vacancy had been caused by the death of a Catholic senator, and Murphy was a Protestant. Murphy would die in 1935 without fulfilling her dream of sitting in Canada's upper chamber.&lt;ref name=":0" /&gt;
+
+The women were known as the Famous Five and were considered leaders in education for social reform and women's rights. They challenged convention and established an important precedent in Canadian history. In Canada's Senate Chamber, the five women are honoured with a plaque that reads, "To further the cause of womankind these five outstanding pioneer women caused steps to be taken resulting in the recognition by the Privy Council of women as persons eligible for appointment to the Senate of Canada." Murphy, along with the rest of the Famous Five, was featured on the back of one of the Canadian 50 dollar bills issued in 2004 as part of the Canadian Journey Series. In October 2009, the Senate voted to name Murphy and the rest of the Five Canada's first "honorary senators".&lt;ref&gt;{{cite news |url=https://www.theglobeandmail.com/news/national/albertas-famous-five-named-honorary-senators/article1320491/ |title=Alberta's Famous Five named honorary senators |work=[[The Globe and Mail]] |date=11 October 2009 |access-date=24 July 2015}}&lt;/ref&gt;
+
+==Views==
+===Drugs and race===
+[[File:BlackCandle.jpg|thumb|200px|The cover of Murphy's 1922 book ''The Black Candle'']]
+Although Murphy's views on race changed over the course of her life,&lt;ref&gt;{{cite thesis |first=Alisa Dawn |last=Smith |title=Rethinking First-Wave Feminism Through the Ideas of Emily Murphy |type=MA thesis |publisher=University of Victoria |date=1997 |oclc=858586557 |p=49}}&lt;/ref&gt; the perspective contained in her book ''The Black Candle'' is considered the most consequential because it played a role in creating a widespread "war on drugs mentality" leading to legislation that "defined addiction as a law enforcement problem".{{attribution needed|date=February 2018}}&lt;ref name=Tooley36&gt;{{cite thesis |first=Jennifer |last=Tooley |title=Demon Drugs and Holy Wars: Canadian Drug Policy as Symbolic Action |type=MA thesis |publisher=University of New Brunswick |date=1999 |p=36}}&lt;/ref&gt; A series of articles in ''[[Maclean's]]'' magazine under her pen name, "Janey Canuck", forms the basis of ''The Black Candle''. Using extensive anecdotes and "expert" opinion, ''The Black Candle'' depicts an alarming picture of [[drug abuse]] in Canada, detailing Murphy's understanding of the use and effects of [[opium]], [[cocaine]], and [[Pharmaceutical drug|pharmaceuticals]], as well as a "new menace", "[[cannabis (drug)|marihuana]]".&lt;ref&gt;{{cite book |last=Murphy |first=Emily F. |date=1922 |title=The Black Candle |chapter=Chapter XXIII. Marahuana - A New Menace |location=Toronto, Ontario |publisher=Thomas Allen Publisher |url={{google books|h7cyAQAAMAAJ|plainurl=yes|page=331}} |p=331 |access-date=24 July 2015}}&lt;/ref&gt; Murphy's concern with drugs began when she started coming into "disproportionate contact with Chinese people" in her courtroom because they were over-represented in the criminal justice system.&lt;ref&gt;{{cite thesis |first=Alisa Dawn |last=Smith |title=Rethinking First-Wave Feminism Through the Ideas of Emily Murphy |type=MA thesis |publisher=University of Victoria |date=1997 |oclc=858586557 |p=53}}&lt;/ref&gt; In addition to professional expertise and her own observations, Murphy was also given a tour of [[opium den]]s in [[Chinatown (Vancouver)|Vancouver's Chinatown]] by [[Vancouver Police Department|local police detectives]].  Vancouver at the time was in the midst of a [[moral panic]] over drugs that was part of the anti-Oriental campaign that precipitated the [[Chinese Immigration Act of 1923]].&lt;ref&gt;{{cite book |first1=Ian |last1=MacDonald |first2=Betty |last2=O'Keefe |title=Canadian Holy War: A Story of Clans, Tongs, Murder, and Bigotry |url={{google books|uRwR2xxM8BkC|plainurl=yes|page=9}} |location=Vancouver, British Columbia |publisher=Heritage House |date=2000 |pp=9&amp;ndash;21}}&lt;/ref&gt;
+
+Canadian drug historian Catherine Carstairs has argued that Murphy's importance regarding drug policy has been "overstated". Although Murphy's anti-drug screeds were widely read and helped spread the drug panic across Canada, she was not respected by the Division of Narcotic Control because of the creative liberties she took in presenting research they had assisted her with. According to Carstairs, "There were insinuations in the records that the bureaucrats at the division of narcotic control did not think very highly of Emily Murphy and did not pay attention to what she was writing about, and they didn't consider her a particularly accurate or valuable source."&lt;ref&gt;{{Cite news | first = Schartz| last = Daniel| title = Marijuana was criminalized in 1923, but why?| url = http://www.cbc.ca/news/health/marijuana-was-criminalized-in-1923-but-why-1.2630436| publisher =[[CBC News]]|date=3 May 2014 |access-date=18 December 2016 |quote=...it's understandable why people would later link the decision to ''The Black Candle''. But Carstairs says it's probably just happenstance.}}&lt;/ref&gt;
+
+Carstairs also avers that Murphy did not influence the drug panic in Vancouver, but that nevertheless "her articles did mark a turning point and her book&amp;nbsp;... brought the Vancouver drug panic to a larger Canadian audience".&lt;ref name=Carstairs&gt;{{cite journal |first=Catherine |last=Carstairs |title=Deporting "Ah Sin" to Save the White Race: Moral Panic, Racialization, and the Extension of Canadian Drug Laws in the 1920s |url=http://www.cbmh.ca/index.php/cbmh/article/view/1538/1532 |journal=Canadian Bulletin of Medical History |issn=0823-2105 |volume=16 |issue=1 |date=1999 |pp=71&amp;ndash;72 |deadurl=yes |archiveurl=https://web.archive.org/web/20150725023913/http://www.cbmh.ca/index.php/cbmh/article/view/1538/1532 |archivedate=25 July 2015 |df=dmy-all }}&lt;/ref&gt;
+
+Race permeates ''The Black Candle'', and is intricately entwined with the drug trade and addiction in Murphy's analysis. Yet she is ambiguous in her treatment of non-whites.&lt;ref name=Smith56&gt;{{cite thesis |first=Alisa Dawn |last=Smith |title=Rethinking First-Wave Feminism Through the Ideas of Emily Murphy |type=MA thesis |publisher=University of Victoria |date=1997 |oclc=858586557 |p=56}}&lt;/ref&gt; In one passage, for example, she chastises whites who use the Chinese as "scapegoats",&lt;ref&gt;{{cite book |last=Murphy |first=Emily F. |date=1922 |title=The Black Candle |chapter=Chapter XIII. Girls as Pedlars |location=Toronto, Ontario |publisher=Thomas Allen Publisher |url={{google books|h7cyAQAAMAAJ|plainurl=yes|page=233}} |p=233 |access-date=24 July 2015}}&lt;/ref&gt; while elsewhere, she refers to the Chinese man as a "visitor" in this country, and that "it might be wise to put him out" if it turns out that this visitor carries "poisoned lollipops in his pocket and feeds them to our children".&lt;ref name=Carstairs/&gt; Drug addiction, however, not the Chinese immigrant, is "a scourge so dreadful in its effects that it threatens the very foundations of civilization", and which laws therefore need to target for eradication.  Drugs victimize everyone, and members of all races perpetrate the drug trade, according to Murphy.&lt;ref&gt;{{cite book |last=Murphy |first=Emily F. |date=1922 |title=The Black Candle |chapter=Chapter VI. Heroin Slavery |location=Toronto, Ontario |publisher=Thomas Allen Publisher |url={{google books|h7cyAQAAMAAJ|plainurl=yes|page=59}} |p=59|access-date=24 July 2015}}&lt;/ref&gt; At the same time, she does not depart from the dominant view of middle class whites at the time that "races" were discrete, biologically determined categories, naturally ranked in a hierarchy. In this scheme, the white race was facing degradation through [[miscegenation]], while the more prolific "black and yellow races may yet obtain the ascendancy"&lt;ref&gt;{{cite journal |first=Constance |last=Backhouse |title=The White Women's Labor Laws: Anti-Chinese Racism in Early Twentieth-Century Canada |journal=Law and History Review |volume=14 |issue=2 |date=Fall 1996 |jstor=743786 |doi=10.2307/743786 |pp=315&amp;ndash;368}}&lt;/ref&gt; and thus threatened to "wrest the leadership of the world from the British".&lt;ref name=Smith56/&gt;
+
+Murphy's distaste for non-whites is reflected in scholarly debates, but what is not controversial is that ''The Black Candle'' was written "for the express purpose of arousing public demands for stricter drug legislation" and that in this she was to some degree successful.&lt;ref name=Tooley36/&gt; This motivation may have influenced her racial analysis by playing to the popular prejudices of her white audiences. On the other hand, she may have deliberately tried to distance herself from those prejudices, especially the ones propagated by the more vulgar and hysterical Asian exclusionists in [[British Columbia]] in order to maximize her own credibility and sway her more moderate readers.&lt;ref name=Carstairs/&gt;
+
+===Eugenics movement===
+During the early twentieth century, [[scientific knowledge]] emerged in the forefront of social importance. Advances in science and technology  were thought to hold answers to current and future social problems.
+
+Murphy was among those who thought that societal problems like alcoholism, drug abuse and crime resulted from mental deficiencies. In a 1932 article titled "Overpopulation and Birth Control", she states: "over-population [is a] basic problem of all&amp;nbsp;... none of our troubles can even be allayed until this is remedied". As the politics behind the [[Second World War]] continued to develop, Murphy, who was a [[Pacifism|pacifist]], theorized that the only reason for war was that nations needed to fight for land to accommodate their growing populations. Her argument was that: if there was population control, people would not need as much land. Without the constant need for more land, war would cease to exist.
+
+Her solution to these social issues was [[eugenics]]. Murphy supported selective breeding and the compulsory sterilization of those individuals who were considered mentally deficient. She believed that the mentally and socially inferior reproduced more than the "human thoroughbreds" and appealed to the [[Alberta Legislative Assembly]] for forced sterilization. In a petition, she wrote that mentally defective children were "a menace to society and an enormous cost to the state&amp;nbsp;... science is proving that mental defectiveness is a transmittable hereditary condition". She wrote to Minister of Agriculture and Health, [[George Hoadley (Alberta politician)|George Hoadley]] that two female "feeble-minded" mental patients had already bred several offspring. She called it "a neglect amounting to a crime to permit these two women to go on bearing children".
+
+Due in part to her heavy advocacy of compulsory sterilization, thousands of Albertan men and women were sterilized without their knowledge or consent under the [[Sexual Sterilization Act of Alberta]] before its repeal in 1972.
+
+==Legacy==
+Her legacy is disputed, with her important contributions to [[feminism]] being weighed against her racist and [[nativism (politics)|nativist]] views and her advocation of eugenics. In addition to being against immigration, she was a strong supporter of Alberta's legislation for the ''Sexual Sterilization of the Insane'' at a time when [[compulsory sterilization]] was practised in some North American jurisdictions.&lt;ref&gt;{{cite encyclopedia |last=Murphy |first=Emily |date=September 1932 |url=http://www.abheritage.ca/famous5/achievements/reading/sterilization_insane.html |title=Sterilization of the Insane |encyclopedia=Alberta Online Encyclopedia |archive-date=8 December 2010 |archive-url=https://wayback.archive-it.org/2217/20101208161436/http://www.abheritage.ca/famous5/achievements/reading/sterilization_insane.html |access-date=5 April 2007}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Wong |first=Jan |date=17 April 1998 |title=Speech presented as part of the Famous Five Foundation Mentorship series |url=http://www.canuck.com/famous5/html/jan_wong__april_17__1998.html |archive-date=21 March 2005 |archive-url=https://web.archive.org/web/20050321085700/http://www.canuck.com/famous5/html/jan_wong__april_17__1998.html |publisher=Famous 5 Foundation |access-date=5 April 2007}}&lt;/ref&gt;
+
+Recent memorializing of the Famous Five, such as the illustration on the back of the fifty-dollar bill, has been used as the occasion for re-evaluating Murphy's legacy. [[Legality of cannabis|Marijuana decriminalization]] activists especially have criticized Murphy as part of the movement to discredit [[Legal history of cannabis in Canada|marijuana prohibition]]. It has been speculated that today's drug laws are built on the racist foundations laid by Murphy and that the drug war has harmed more women than the Persons Case has benefited.&lt;ref&gt;{{cite web |first=Debra |last=Harper |title=Emily's Paradox |website=Cannabislink.ca |url=http://cannabislink.ca/papers/murphy/ |date=November 2004 |access-date=24 July 2015}}&lt;/ref&gt; Conversely, Murphy's defenders note that she was writing at a time when white racism was typical, not exceptional, and that Murphy's views were more progressive than many of her peers.&lt;ref&gt;{{cite web |first=Erik |last=Floren |title=Emily Murphy's Legacy |work=Edmonton Sun |date=3 October 2004 |url=http://www.canoe.ca/NewsStand/EdmontonSun/Centennial/2004/10/08/pf-661309.html |archive-url=http://cannabislink.ca/papers/murphy/murphystory.htm |archive-date=22 November 2004 |access-date=24 July 2015}}&lt;/ref&gt;
+
+Emily Murphy's house in [[Edmonton]], [[Alberta]], is on the Canadian Register of Historic People and Places. She lived in this home from 1919 until her death in 1933.  It is now located on the campus of the University of Alberta and houses the Student Legal Services.&lt;ref&gt;{{cite web |title=North Campus Map |url=http://www.campusmap.ualberta.ca/~/media/uofa2/Maps/pdf/northcampus-map.pdf |format=PDF |publisher=University of Alberta |access-date=24 July 2015}}&lt;/ref&gt;
+
+In 1958, she was recognized as a [[Persons of National Historic Significance|Person of National Historic Significance]] by the government of Canada. A plaque commemorating this is installed at Emily Murphy Park on Emily Murphy Park Road in Edmonton.&lt;ref&gt;{{DFHD|895|Murphy, Emily Ferguson 'Janey Canuck' National Historic Person|access-date=28 September 2015}}&lt;/ref&gt; The "National Persons" case was recognized in 1997 as a [[Events of National Historic Significance (Canada)|National Historic Event]] with a plaque at the same place.&lt;ref&gt;{{DFHD|1809|Persons Case National Historic Event|28 September 2015}}&lt;/ref&gt;
+
+==Notes and references==
+{{Reflist|30em}}
+
+==Further reading==
+* {{cite book |last=James |first=Donna |date=2001 |title=Emily Murphy |location=Toronto, Ontario |publisher=Fitzhenry &amp; Whiteside |isbn=1-55041-491-7 |edition=2nd |series=The Canadians}}
+* {{cite thesis |last=Karamitsanis |first=Aphrodite  |date=1991 |title=Emily Murphy : portrait of a social reformer |type=MA thesis |location=Edmonton, Alberta |publisher=University of Alberta |oclc=635946459}}
+* {{cite book |last=Karamitsanis |first=Aphrodite  |date=1992 |title=Emily Murphy : portrait of a social reformer |format=microform |location=Ottawa, Ontario |publisher=National Library of Canada |isbn=0-31570-075-0}}
+* {{cite book |last=Mander |first=Christine |title=Emily Murphy, Rebel: First Female Magistrate in the British Empire |url={{google books|CbovVFvFRywC|plainurl=yes}} |location=Toronto, Ontario |publisher=Simon &amp; Pierre |date=1985 |isbn=0-88924-173-2}}
+* {{cite book |last=Sanders |first=Byrne Hope |date=1945 |title=Emily Murphy: Crusader ("Janey Canuck") |location=Toronto, Ontario |publisher=The Macmillan Company of Canada }}
+* {{cite book |last=Sanders |first=Byrne Hope |date=1958 |title=Famous Women: Canadian Portraits |location=Toronto, Ontario |publisher=Clarke, Irwin &amp; Company }}
+
+==External links==
+* {{FadedPage|id=Murphy, Emily F.|name=Emily F. Murphy|author=yes}}
+{{Library resources box|by=yes|onlinebooks=yes|viaf=8184752}}
+*Library and Archives Canada [https://web.archive.org/web/20060524065157/http://www.collectionscanada.ca/women/002026-305-e.html Emily Murphy  Celebrating Women's Achievements/Women in Canadian Legislatures]
+*Historica [http://www.historicacanada.ca/content/heritage-minutes/emily-murphy-0? Historica Minutes: Emily Murphy]
+{{Commons}}
+
+{{Authority control}}
+
+{{DEFAULTSORT:Murphy, Emily}}
+[[Category:1868 births]]
+[[Category:1933 deaths]]
+[[Category:Canadian Anglicans]]
+[[Category:Canadian cannabis activists]]
+[[Category:Canadian eugenicists]]
+[[Category:Canadian feminists]]
+[[Category:Canadian human rights activists]]
+[[Category:Canadian justices of the peace]]
+[[Category:Canadian pacifists]]
+[[Category:Canadian women judges]]
+[[Category:Cannabis in Canada]]
+[[Category:Cannabis prohibition]]
+[[Category:Maclean's writers and editors]]
+[[Category:People from Simcoe County]]
+[[Category:Persons of National Historic Significance (Canada)]]
+[[Category:Racism in Canada]]
+[[Category:Women in Alberta politics]]
+[[Category:20th-century Canadian politicians]]
+[[Category:20th-century women politicians]]</text>
+      <sha1>tltcuiw08f4k67p6dbqbqu16bat8dih</sha1>
+    </revision>
+  </page>
+</mediawiki>

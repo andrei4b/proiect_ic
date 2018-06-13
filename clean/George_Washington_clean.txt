@@ -1,0 +1,892 @@
+--politics
+ officeholder. 
+ name          = George Washington. 
+ office        = President of the United States. 
+ order         = 1st. 
+ image         = Gilbert Stuart Williamstown Portrait of George Washington.jpg{{!}}border. 
+ caption       = George Washington by Gilbert Stuart, 1797. 
+ predecessor   = office established. 
+ successor     = John Adams. 
+ vicepresident = John Adams. 
+ footnotes     = 
+{{collapsible list. 
+ titlestyle    = background;. 
+ title         = Other offices held. 
+ bullets       = on. 
+ Member of the Virginia House of Burgesses (17581765) }}. 
+ signature     = George Washington signature.svg. 
+ signature_alt = Cursive signature in ink. 
+ appointer2    = Continental Congress. 
+ office2       = Commander-in-Chief of theContinental Army. 
+ predecessor2  = office established. 
+ party         = None. 
+ appointer1    = John Adams. 
+ office1       = Senior Officer of the U.S. Army. 
+ predecessor1  = James Wilkinson. 
+ successor1    = Alexander Hamilton. 
+ successor2    = Henry Knox {{nowrap|(as Senior Officer of the Army)}}. 
+ birth_date    = {{Birth date|1732|2|22}}. 
+ birth_place   = Popes Creek, Colony of Virginia, British America. 
+ death_date    = {{Death date and age|1799|12|14|1732|2|22}} . 
+ death_place   = Mount Vernon, Virginia, U.S.. 
+ parents       = Augustine Washington  Mary Ball Washington. 
+ spouse        = {{marriage|Martha Dandridge|January 6, 1759}}{{sfn|Lillback|Newcombe|2006|pp=11187}}. 
+ allegiance    = {{flag|Kingdom of Great Britain}}{{flag|United States|1777}}. 
+ branch        = Colonial Militia{{flagicon image|Gadsden flag.svg}} Continental Army{{army|USA}}. 
+ serviceyears  = 175258 (British Militia)177583 (Continental Army)179899 (U.S. Army). 
+ rank          = Colonel (British Army)General and Commander-in-Chief (Continental Army)Lieutenant General (United States Army)General of the Armies (promoted posthumously: 1976, by an Act of Congress). 
+ commands      = Virginia Colony's regimentContinental ArmyUnited States Army. 
+ battles       = {{hidden. 
+''See battles''. 
+
+* French and Indian War
+* Battle of Jumonville Glen
+* Battle of Fort Necessity
+* Braddock Expedition
+* Battle of the Monongahela
+* Forbes Expedition
+* American Revolutionary War
+* Boston campaign
+* New York and New Jersey campaign
+* Philadelphia campaign
+* Yorktown campaign
+* Northwest Indian War. 
+-. 
+headerstyle=background:#dbdbdb. 
+style=text-align:center;
+}}. 
+ awards        = Congressional Gold MedalThanks of Congress. 
+ term_start    = April 30, 1789{{efn|March 4 is the official start of the first presidential term. April 6 is when Congress counted the votes of the Electoral College and certified a president. April 30 is when Washington was sworn in.}}. 
+ term_end      = March 4, 1797. 
+ term_start1   = July 13, 1798. 
+ term_end1     = December 14, 1799. 
+ term_start2   = June 15, 1775. 
+ term_end2     = December 23, 1783. 
+ office3       = Delegate to the Second Continental Congress from Virginia. 
+ term_start3   = May 10, 1775. 
+ term_end3     = June 15, 1775. 
+ predecessor3  = office established. 
+ successor3    = Thomas Jefferson. 
+ office4       = Delegate to the First Continental Congressfrom Virginia. 
+ term_start4   = September 5, 1774. 
+ term_end4     = October 26, 1774. 
+ predecessor4  = office established. 
+ successor4    = office abolished. 
+ death_cause   = Epiglottitis and hypovolemic shock. 
+ restingplace  = Washington Family Tomb, Mount Vernon, Virginia, U.S.
+}}
+{{WashingtonSeries}}
+'''George Washington''' (February 22, 1732{{efn|Old style: February 11, 1731}}{{efn|name="calendar"|Contemporaneous records used the Julian calendar and the Annunciation Style of enumerating years, recording his birth as February 11, 1731. The provisions of the British Calendar (New Style) Act 1750, implemented in 1752, altered the official British dating method to the Gregorian calendar with the start of the year on January 1 (it had been March 25). These changes resulted in dates being moved forward 11 days, and an advance of one year for those between January 1 and March 25. For a further explanation, see Old Style and New Style dates.{{sfn|Engber|2006}}}} {{nowrap|December 14}}, 1799) was an American statesman and soldier who served as the first President of the United States from 1789 to 1797. As one of the new nation's leading patriots, he was among the Founding Fathers of the United States, and served as commander-in-chief of the Continental Army during the American Revolutionary War. He presided over the 1787 convention. He also came to be known as the "Father of His Country."
+
+Washington was born into Colonial Virginia gentry to a family of wealthy planters, vested with tobacco plantations and slaves which he later inherited. He was variously educated and learned mathematics and surveying which he put into practice. Shortly after joining the colonial militia at the start of the French and Indian War he became a senior Virginian officer. He grew in his opposition to Britains rule by its Parliament, which allowed no representation from the American colonies yet began to levy direct taxes on them. In 1775, the Second Continental Congress made him commander-in-chief of the Continental Army in the American Revolution. Washington drove the British out of Boston in 1776, but was defeated and lost New York City. He crossed the Delaware River in mid-winter and defeated the British in two battles, retook New Jersey, and restored momentum to the Patriot cause. Washington's strategy, field command, development of the army, and alliance with the French all combined to defeat British forces in every theater, climaxing with the allied victory at the Siege of Yorktown. Historians attribute Washington's success to his mastery of military command on the job and his respect for civilian control of the military through his coordination with congressional and state officials. 
+
+Once victory was in hand in 1783, Washington resisted further power and resigned as commander-in-chief, affirming his devotion to American republicanism. He was unanimously chosen to lead the Constitutional Convention in 1787 which devised the new Federal government of the United States. He was also admired for his strong nationalist leadership qualities and was unanimously elected as president by the Electoral College in the first two national elections. As president, he worked to unify rival factions in the fledgling nation. But by 1794, Congress was divided between rival parties founded by two of his cabinet secretaries: Thomas Jeffersons Democratic-Republican Party and Alexander Hamiltons Federalist Party. He remained non-partisan, never joining the Federalists but largely supporting their policies. He adopted Hamilton's programs to satisfy federal and state debts, establish a permanent seat of government, implement an effective tax system, and create a national bank.
+
+In securing the Jay Treaty of 1795, Washington avoided another war with Great Britain and guaranteed a decade of peace and profitable trade, despite intense opposition from the Democratic-Republicans. He oversaw the creation of a strong, well-financed national government that maintained neutrality in the French Revolutionary Wars, suppressed the Whiskey Rebellion, and won wide acceptance of the new Federal government among Americans. Washington's incumbency established many precedents still in use today, such as the cabinet system, the inaugural address, and the title "Mr. President". His retirement from office in 1797 after two terms established a traditional two-term limit to the presidency which was eventually made formal policy. Washington's Farewell Address was an influential primer on civic virtue, warning against partisanship, sectionalism, and involvement in foreign wars. Upon his death, Washington was famously eulogized as "first in war, first in peace, and first in the hearts of his countrymen". Scholarly and public polling consistently rank him among the top three presidents in American history, and he has been depicted and remembered in myriad monuments, public works, currency, and other dedications to the present day.
+
+== Early life (17321752) ==
+{{Further|Ancestry of George Washington}}
+
+George Washington was the first child of Augustine Washington and his second wife Mary Ball Washington, born at Wakefield on their Popes Creek Estate near Colonial Beach in Westmoreland County, Virginia.{{sfn|Ferling|2000|p=3}} He was born on February 11, 1731, according to the Julian calendar and Annunciation Style of enumerating years then in use in the British Empire. The Gregorian calendar was adopted within the British Empire in 1752, and it renders a birth date of February 22, 1732.{{sfnm|University of Virginia|2008|Ferling|2000|2p=3}}{{efn|name="calendar"}}
+
+thumb|left|upright|Wakefield, Popes Creek Estate, Washington's birthplace
+
+Washington was descended primarily from English gentry of Sulgrave, England. His great-grandfather John Washington immigrated to Virginia in 1656 and began accumulating land and slaves, as did his son Lawrence and his grandson Augustine, George's father. Augustine was a tobacco planter who also tried his hand at iron manufacturing,{{sfn|Alden|1993|pp=34}} and later was the Justice of the Westmoreland County Court.{{sfn||Wiencek|2013|p=54}}{{efn|Augustines namesake and maternal grandfather Augustine Warner Jr. was also a direct ancestor of Queen Elizabeth II through her mother, the late Queen Elizabeth The Queen Mother.{{sfn|Hudgins|1957}}}} In Washington's youth, his moderately prosperous family was among the members of Virginia's "country level gentry" of "middling rank," rather than one of the wealthy elite planter families.{{sfnm|Hofstra|1998|1p=vii|Carroll|2008|2p=1}} When Washington was 3, the family left Popes Creek (the home was destroyed by fire in 1779) and moved to ''Epsewasson'', a more prosperous plantation which his father purchased on the bluffs of the Potomac River.{{sfn|Ferling|2000|p=4}} 
+
+Washington was one of seven surviving children of Augustine's two marriages, including older half-brothers Lawrence and Augustine from his father's first marriage to Jane Butler Washington, and full siblings Samuel, Elizabeth (Betty), John Augustine, and Charles.{{sfn|Ferling|2000|p=3}} Three siblings died before adulthood: his sister Mildred died when she was about one, his half-brother Butler died in infancy, and his half-sister Jane died at age 12 when George was about 2.{{sfn|Fitzpatrick|1936|pp=509-510}}
+
+When Washington was 6, his family moved to a home on Ferry Farm in Stafford County, Virginia near Fredericksburg. The family kept 10 slaves in the main farmhouse and outbuildings, and another 20 near the farm. He spent much of his boyhood here, and he is said to have damaged his father's cherry tree on Ferry Farm, according to American folk legend.{{sfn|Carroll|2008|p=2}}
+
+Washington's father  of a sudden illness in April 1743 when George was 11, and his half-brother Lawrence became a surrogate father and role model. Washington grew up under the patronage of the powerful Fairfax family.{{sfnm|Alden|1993|1pp=45, 73|Chernow|2010|2pp=1014}}{{sfn|Wiencek|2017}} Lawrence had married Ann Fairfax, daughter of William Fairfax, a wealthy Virginia plantation owner.{{sfn|Wiencek|2017}}  William Fairfax's son George William Fairfax was a close friend and associate of Washington.{{sfn|Randall|1997|p=36}} His wife Sally was also a friend of Washington, as well as an early romantic interest, and they maintained correspondence when she moved to England with her father. Most of the letters were intercepted by the British during the war.{{sfn|Chernow|2010|p=444}}
+
+Lawrence Washington inherited ''Epsewasson'' from their father, and he changed the name to Mount Vernon in honor of his commanding officer Vice Admiral Edward Vernon. Washington inherited Ferry Farm upon his father's death and eventually acquired Mount Vernon after Lawrence's death on July 26, 1752.{{sfnm|Freeman|1948|1pp=1:1572|Chernow|2010|2p=26}}
+
+thumb|upright=0.7|[[Coat of arms of the Washington family|The Washington family Coat of Arms{{sfn|McMillan|2006|pp=12}}]]
+
+The death of his father prevented Washington from an education at England's Appleby Grammar School such as his older brothers had received.{{sfn|Ferling|2000|p=14}} He had two or three years of formal education from a variety of tutors, and also attended a school run by an Anglican clergyman in Fredericksburg.{{sfnm|Knott|2005|1pp=15|Ferling|2010|2pp=56|Ferling|2000|3p=14}} His education totaled seven or eight years, while he lived with relatives at various places in the Westmoreland and the Chotank regions of Virginia, and at Ferry Farm and Mount Vernon. He was trained in mathematics, trigonometry, and surveying that developed a natural talent in draftsmanship and map making. He was an avid reader and purchased books on military affairs, agriculture, and history, as well as the popular novels of his time.{{sfn|Fitzpatrick|1936|p=510}} There was talk of securing an appointment for him in the Royal Navy when he was 15, but the idea was abandoned at the objection of his widowed mother.{{sfn|Freeman|1948|p=1:199}}
+
+In 1751, Washington traveled with Lawrence to Barbados (his only trip abroad) in the hope that the climate would be beneficial to Lawrence's declining health, as he was suffering from tuberculosis.{{sfn|Chernow|2010|p=24}} Washington contracted smallpox during the trip, which left his face slightly scarred but immunized him against future exposures to the disease.{{sfn|Flexner|1974|p=8}} Lawrence's health failed to improve, and he returned to Mount Vernon where he died in the summer of 1752.{{sfn|Freeman|1948|p=1:264}} That year, Washington became a member of the Freemasons while in Fredericksburg, though his involvement was minimal.{{sfn|Alden|1993|p=9}}
+
+=== Colonial surveyor ===
+Washington was introduced to surveying through school exercises followed by practical experience in the field. His initial surveying occurred in the territory surrounding Mount Vernon; in 1748, he joined a survey party organized by his neighbor George William Fairfax to lay out large tracts of land along the border of western Virginia, where he gained valuable experience.Philander D. Chase, "A stake in the west: George Washington as backcountry surveyor and landholder." in  Warren R. Hofstra and Philander D. Chase, eds. ''George Washington and the Virginia Backcountry'' (1998): 159-194. He began his professional career in 1749 at age 17 when he received a commission and surveyor's license from the College of William & Mary and was appointed Surveyor of Culpeper County, Virginia.{{sfn|Fitzpatrick|1936|p=510}}{{efn|Washington received his license through the college, whose charter gave it the authority to appoint Virginia county surveyors. There is no evidence that he actually attended classes there.U.S. National Archives:George Washington's Professional Surveys, 2nd prgh This lucrative appointment was due to his connection with the prominent Fairfax family through his brother Lawrence.}} He completed his first survey in less than two days, plotting a 400-acre parcel of land. He was consequently able to purchase land in the Shenandoah Valley, the first of his many land acquisitions in western Virginia. On March 23, he recorded his first encounter with Indians when his surveying crew met a war party of 13 returning from a battle; Washington noted that the men in the crew were "agreeably surprised".{{sfn|Chernow|2010|p=19-20}}
+
+Washington also surveyed land in Western Virginia for the Ohio Company, a land investment firm funded by Virginia investors. The new Lieutenant governor Robert Dinwiddie took notice of him thanks to brother Lawrence's position as commander of the Virginia militia. In October 1750, Washington resigned his position as an official surveyor, though he continued to survey professionally for two more years. By 1752, he had completed close to 200 surveys on numerous properties totaling more than 60,000 acres, and he continued to survey at different times throughout his life.{{sfn|Chernow|2010|p=53}}
+
+== Colonial military career (1752-1758) ==
+{{Main|George Washington in the French and Indian War|Military career of George Washington}}
+{{multiple image
+ | direction=horizontal
+ | width1=149
+ | image1=Washington Pennsylvania Mapb.jpg
+ | alt1=
+ | caption1=Washington's map accompanying his ''Journal to the Ohio'' (175354)
+ | width2=153
+ | image2=Major George Washington - 1754.tif 
+ | alt2=
+ | caption2=Major George Washington ''1754''
+ | align=right
+ | header=''Washington Expeditions 1753-1754''
+ }}
+Washington's military career began immediately after his older brother Lawrence died, which left vacant the position of Adjutant General. Washington decided to give up surveying, begin a soldier's life, and pursue the position; his military ambition had been inspired by Lawrence's service with Admiral Edward Vernon.{{sfnm|Freeman|1948|1p=1:268|Fitzpatrick|1936|2p=510}} The Province of Virginia was divided into four districts, with an adjutant in charge of each district. He wanted to oversee the Northern District, but he was assigned to the less prestigious Southern District on December 13, 1752 by Lieutenant Governor Dinwiddie. However, William Fitzhugh decided to move to Maryland and resigned as adjutant to the Northern District, and Washington immediately lobbied for the position. He was chosen as a military ambassador for the British crown to the French officials and Indians as far north as Erie, Pennsylvania (the Northern District) in 1753. He was only 21 and was eager to prove himself, so he immediately accepted the mission.{{sfnm|Chernow|2010|1pp=2627|Randall|1997|2p=74}}
+
+The British government had ordered Dinwiddie to guard British territorial claims in the Ohio River basin as protection for entrepreneurial interest there in settlements and Indian trade.{{sfn|Fitzpatrick|1936|p=510}} He ordered Washington to deliver a letter in late 1753, asking French commander Jacques Legardeur de Saint-Pierre at Fort Le Boeuf to vacate the Ohio Valley, and providing him with a safe escort to Lake Erie. Washington was also to make peace with the Six Nations.{{sfnm|Freeman|1948|1pp=1:274327|Chernow|2010|2p=33}} 
+
+Washington and six frontiersmen reached the Ohio River that November, but the French had withdrawn. He met with Tanacharison (also called "Half-King") and other Six Nations Iroquois chiefs at Logstown and secured their support against the French if needed, and then continued 60 miles and met the French at Venangobut the letter was refused.{{sfn|Fitzgerald|1936|p=510-511}} Washington then reached Fort Le Boeuf and delivered the letter to its commander, who told Dinwiddie to send his demand to the Major General of New France in its capital at Quebec City.{{sfnm|Lengel|2005|1pp=2324|Fitzpatrick|1936|2p=511|Chernow|2010|3p=33}} Washingtons diary of the expedition was printed by William Hunter according to Dinwiddies order, giving Washington name recognition in Virginia and England;{{sfn|Washington|Dinwiddie|1865}}{{sfn|Fitzpatrick|1936|p=511}} it also helped him obtain a commission to raise a company of men.{{sfnm|Grizzard|2002|1p=86|Lengel|2005|2pp=xxiii,}}
+
+=== French and Indian War ===
+{{see|French and Indian War}}
+thumb|An engraved depiction of Lt. Col. George Washington's evening council at Fort Necessity
+In 1753, the French expanded their military control into the Ohio Country, a territory already claimed by the British colonies of Virginia and Pennsylvania. These competing claims led to the French and Indian War (175462){{efn|Also referred to as the ''Seven Years' War'' and ''The French War''}} and contributed to the start of the global Seven Years' War (175663). Washington became involved in it by chance in 1754; the fighting commenced on his orders, and it was his first battle experience.{{sfn|Alden|1993|p=13}}
+
+On March 15, 1754, Governor Dinwiddie commissioned Washington a Lieutenant Colonel in the newly formed Virginia Regiment and sent him on his second Ohio Country expedition to safeguard construction of a fort at Pittsburgh. He set out on April 2 with 150 men, but he received news en route that a French force had driven out colonial traders and begun construction of Fort Duquesne. Tanacharison and a few warriors discovered a small detachment of French troops east of Uniontown, Pennsylvania led by Joseph Coulon de Jumonville. Washington built an entrenched camp at Great Meadows, Pennsylvania which he called Fort Necessity and, with some of his militia unit and their Mingo allies, he ambushed the French on May 28 in the Battle of Jumonville Glen.{{sfn|Fitzpatrick|1936|p=511}} There are discrepancies, but several primary accounts agree that the battle only lasted about 15 minutes; Jumonville was killed and most of his party were taken prisoner or killed.{{sfnm|Lengel|2005|1pp=3138|Anderson|2000|2pp=5358}} Following the battle, Tanacharison gave Washington the nickname Town Destroyer.{{sfn|Misencik|2014|p=131}}
+
+The French responded by attacking and capturing Washington at Fort Necessity in July 1754 in a ten-hour battle{{sfn|Fitzpatrick|1936|p=511}} which culminated in Washington's only surrender.{{sfn|Grizzard|2002|pp=11519|Lengel|2005|p=44}} The French allowed him to return with his troops to Virginia, but he signed a French surrender document due to faulty translation which said that he had "assassinated" Jumonville, a pretext to blame him for starting a war.{{sfn|Fitzpatrick|1936|p=511}}  Historian Joseph Ellis concludes that the episode demonstrated Washington's bravery, initiative, inexperience, and impetuosity.{{sfn|Ellis|2004|pp=1718}} Upon his return to Virginia, Washington refused to accept a demotion to the rank of captain, and resigned his commission.{{sfn|Ferling|2009|pp=2527}}
+
+Washington's expedition into the Ohio Country had international consequences; the French accused him of assassinating Jumonville according to the surrender document, and they further claimed that Jumonville was only on a diplomatic mission.{{sfn|Ellis|2004|pp=1718}} Both France and Great Britain were ready to fight for control of the region and both sent troops to North America in 1755; war was formally declared in 1756.{{sfn|Anderson|2005|pp=10001}}
+
+==== Braddock expedition and disaster (1755) ====
+{{main|Braddock Expedition}}
+thumb|right|180px|19th-century engraving of Major-General Braddock's death in the ''Battle of the Monongahela''
+In 1755, Washington became the senior American aide to British General Edward Braddock on the ill-fated Braddock expedition. This was the largest British expedition to the colonies and was intended to expel the French from the Ohio Country; the first objective was the capture of Fort Duquesne.{{sfn|Alden|1993|pp=3536}} Washington initially sought an appointment as a major from Braddock, but he agreed to serve as a staff volunteer upon advice that no rank above captain could be given except by London. During the passage of the expedition, Washington fell ill with severe headaches and fever. He recommended to Braddock that the army be split into two divisions when the pace of the troops continued to slow, forming a primary and more lightly equipped "flying column" offensive which could move more rapidly.{{sfnm|Alden|1993|1p=37|Ferling|2010|2pp=3536}}
+
+In the Battle of the Monongahela, the French and their Indian allies ambushed Braddock's reduced forces, and the general was mortally wounded. After suffering devastating casualties, the British panicked and retreated. Washington rallied his forces into an organized retreat, demonstrating bravery and stamina despite his lingering illness. He had two horses shot from beneath him, and his hat and coat were pierced by several bullets. Two-thirds of the British force of 976 men were killed or wounded in the battle. Washington's conduct in the battle redeemed his reputation among many who had criticized his command in the Battle of Fort Necessity.{{sfn|Ferling|2009|pp=2830}} However, he was not included by the succeeding commander Col. Thomas Dunbar in planning subsequent force movements, possibly as a result of his recommendation to Braddock.{{sfn|Alden|1993|pp=3746}}
+
+==== Commander of Virginia Regiment (1755) ====
+On August 14, 1755, Lt. Governor Dinwiddie rewarded Washington with a commission as "Colonel of the Virginia Regiment and Commander in Chief of all forces now raised in the defense of His Majesty's Colony" and gave him the task of defending Virginia's frontier. The Virginia Regiment was the first full-time American military unit in the colonies, as opposed to part-time militias and the British regular units. He was ordered to "act defensively or offensively" as he thought best.{{sfn|Flexner|1965|p=138}} He happily accepted the commission, but the coveted red coat of officer rank continued to elude himalong with the accompanying pay. Dinwiddie urged the British military to incorporate the Virginia Regiment into its ranks, but to no avail.{{sfn|Alden|1993|pp=47, 54}}
+
+Washington was in command of a thousand soldiers, and he was known to be a disciplinarian who emphasized training. He led his men in brutal campaigns against the Indians in the west; his regiment fought 20 battles in 10 months and lost a third of its men. As a result of his strenuous efforts, Virginia's frontier population suffered less than that of other colonies; Ellis concludes that "it was his only unqualified success" in that war.{{sfnm|Fischer|2004|1pp=1516|Ellis|2004|2p=38}}
+
+==== Forbes expedition and retirement (1758) ====
+thumb|right|180px|Engraving depicting the British arrival at the remains of Fort Duquesne
+In 1758, Colonel Washington participated in the Forbes Expedition to capture Fort Duquesne. He was embarrassed by a friendly fire episode in which his unit and a British unit each thought that the other was the French enemy and opened fire, with 14 dead and 26 wounded in the mishap. Washington was not involved in any other major fighting on the expedition, and the British scored a strategic victory, gaining control of the Ohio Valley when the French abandoned the fort. Following the expedition, he retired from his Virginia Regiment commission in December 1758 and did not return to military life until the outbreak of the revolution in 1775.{{sfn|Lengel|2005|pp=7576, 81}}
+
+=== Lessons learned ===
+Washington never gained the commission in the British army that he yearned for, but in these years he acquired military, political, and leadership skills that proved invaluable during the Revolution,{{sfn|Chernow|2010|pp=9193}} aided by his observations, readings, and conversations with professional officers.{{sfn|Lengel|2005|p=80}} Some historians ascribe his views on the advantages of a strong national government and a vigorous executive agency to his frustrations in dealing with government officials during this conflict{{sfn|Chernow|2010|pp=9293}} (although others point to his later American Revolutionary War service).{{efn|Ellis and Ferling, for example, point to his negative experiences dealing with the Continental Congress during the Revolution, and Don Higginbotham places Washington's first formal advocacy of a strong central government in 1783.{{sfn|Higginbotham|2002|p=37}}{{sfnm|Ellis|2004|1p=218}}|Ferling|2009|2pp=3233, 200, 25872, 316}} He developed a very negative view of an undisciplined militia compared to regular troops, {{sfn|Higginbotham|1985|pp=2225}} although his experience was limited to command of 1,000 men in remote frontier conditions, far removed from the urban situations that he faced during the Revolution.{{sfn|Freeman|1968|pp=13637}}
+
+== Civilian life, marriage, and Mount Vernon (17591774) ==
+thumb|upright|A mezzotint of Martha Washington based on a 1757 portrait by [[John Wollaston (painter)|Wollaston]]
+
+On January 6, 1759, Washington married wealthy widow Martha Dandridge Custis, aged 28. Surviving letters suggest that he may have been in love at the time with Sally Fairfax, the wife of a friend; nevertheless, George and Martha made a compatible marriage. Martha was intelligent, gracious, and experienced in managing a planter's estate.{{sfn|Ferling|2000|pp=3334}} The couple raised her children from a previous marriage, John Parke Custis and Martha Parke (Patsy) Custis, and they later raised Martha's grandchildren Eleanor Parke Custis and George Washington Parke Custis. The couple never had any children together; his bout with smallpox in 1751 may have made him sterile.{{sfnm|Chernow|2010|1p=103|Flexner|19742|pp=4243}}{{efn|Washington may not have been able to admit to his own sterility, while he grieved privately over not having his own children.{{sfn|Bumgarner|1994|pp=18}} }} They moved to Mount Vernon near Alexandria where he took up life as a successful planter of tobacco and wheat, and soon emerged as a political figure.{{sfnm|Chernow|2010|1pp=97-98|Fischer|2004|2p=14}} Through the marriage, Washington acquired 84 slaves brought to Mount Vernon from the Custis Estate.{{sfn|Ten Facts About Washington & Slavery}} 
+
+Washington's marriage to Martha greatly increased his property holdings and social standing and made him one of Virginia's wealthiest men. He acquired one-third of the {{convert|18000|acre|km2|0|adj=on}} Custis estate, worth approximately $100,000, and he managed the remainder on behalf of Martha's children for whom he sincerely cared.{{sfn|Wiencek|2013|pp=6769, 336}}
+thumb|left|Washington expanded the estate at Mount Vernon after his marriage.
+In 1754, Lieutenant Governor Robert Dinwiddie had promised land bounties to the soldiers and officers who volunteered during the French and Indian War.{{sfn|Rasmussen|Tilton|1999|p=100}} Washington prevailed upon the new governor Lord Botetourt, and he finally fulfilled Dinwiddie's promise in 176970;{{sfn|Chernow|2010|p=184}} Washington received title to {{convert|23200|acre|km2}} where the Kanawha River flows into the Ohio River in West Virginia.{{sfn|Grizzard|2002|pp=13537}} He also frequently bought additional land, doubled the size of Mount Vernon to {{convert|6500|acre|km2|0}}, and increased its slave population to over 100 by 1775.{{sfn|Ellis|2004|pp=4142, 48}}
+
+As a respected military hero and large landowner, he held local office and was elected to the Virginia provincial legislature, representing Frederick County in the House of Burgesses for seven years beginning in 1758.{{sfn|Ellis|2004|pp=4142, 48}} In the election that year, he plied the voters with 170 gallons of rice punch, beer, wine, hard cider, and brandy, while he was largely absent, serving on the Forbes Expedition.{{sfn|Alden|1993|p=71}} He won election with roughly 40 percent of the vote, defeating three other candidates with the help of several local elites.{{sfn|Ferling|2009|pp=4951}} He rarely spoke in his early legislative career, but he became a prominent critic of Britain's taxation and mercantilist policies in the 1760s.{{sfn|Ferling|2009|pp=5154, 68}}
+
+thumb|220px|upright|'''Col. George Washington''' Provincial Troops, Virginia Regiment, oil on canvas painted by Charles Willson Peale, 1772, Washington and Lee University, Lexington, Virginia
+
+Washington lived an aristocratic lifestyle, and fox hunting was a favorite leisure activity,{{sfnm|Ferling|2000|1p=44|Ellis|2004|2p=44}} as well as dances and parties, the theater, races, and cockfights. He also was known to play cards, backgammon, and billiards.{{sfn|Ferling|2000|pp=4344}} Like most Virginia planters, he imported luxuries and other goods from England and paid for them by exporting his tobacco crop. By 1764, these luxuries and a poor tobacco market left him 1,800 in debt.{{sfn|Ellis|2004|pp=4950}} He gradually pulled himself out of debt in the mid-1760s by diversifying his business interests, paying more attention to his finances, and reducing imported luxuries. He changed Mount Vernon's primary cash crop from tobacco to wheat that could be processed and then sold in various forms in the colonies, and he further diversified operations to include flour milling, fishing, horse breeding, hog production, spinning, and weaving. In the 1790s, he erected a distillery for whiskey production which yielded more than 1,000 gallons a month.{{sfnm|Hirschfeld|1997|1pp=4445|Ferling|2009|2p=351}}
+
+After five years of suffering from epileptic attacks, step-daughter Patsy Custis died peacefully in Washington's arms on June 19, 1773. The following day, he wrote to Burwell Bassett: "It is easier to conceive, than to describe, the distress of this Family, especially that of the unhappy Parent of our Dear Patcy Custis, when I inform you that yesterday re-moved the Sweet, Innocent Girl into a more happy & peaceful abode than any she has met with, the afflicted path she hitherto has trod."{{sfn|Chernow|2010|p=161}} He cancelled all business activity and was not away from Martha for a single night for the next three months.{{sfn|Higginbotham|2001|p=154}} Patsy's death enabled Washington to pay off his British creditors, since half of her inheritance passed to him.{{sfnm|Ferling|2010|1pp=6667|Ellis|2004|2pp=5053|Higginbotham|2001|3pp=6793}}
+
+Washington became a political figure and soon emerged as a leader in the social elite in Virginia. From 1768 to 1775, he invited some 2,000 guests to his Mount Vernon estate, mostly those whom he considered "people of rank". His advice regarding people who were not of high social status was to "treat them civilly" but "keep them at a proper distance, for they will grow upon familiarity, in proportion as you sink in authority".{{sfn|Fischer|2004|p=14}} In 1769, he became more politically active, presenting legislation in the Virginia Assembly to establish an embargo on goods from Great Britain.{{sfn|Ferling|2000|pp=7376}}
+
+== American Revolution ==
+{{main|American Revolution|George Washington in the American Revolution}}
+Washington played a leading military and political role in the American Revolution that started in 1765. His first-hand involvement began in 1767 when he took political stands against acts of the British Parliament, such as the Stamp Act, the first direct tax on the coloniesenacted with no representatives from the colonies. He assumed a leading role in the widespread colonial protests against the Townshend Acts (enacted in 1767). In May 1769, he introduced a proposal drafted by his friend George Mason, calling for Virginia to boycott English goods until the Acts were repealed.{{sfn|Freeman|1968|pp=17476}} Parliament repealed the Townshend Acts in 1770. 
+
+Washington regarded the passage of the Intolerable Acts in 1774 as "an Invasion of our Rights and Privileges",{{sfn|Randall|1997|p=262}} telling his friend Bryan Fairfax, "I think the Parliament of Great Britain has no more right to put their hands in my pocket without my consent than I have to put my hands into yours for money." He also said that Americans must not submit to acts of tyranny "till custom and use shall make us as tame and abject slaves, as the blacks we rule over with such arbitrary sway."{{sfn|Alden|1993|p=101}} In July 1774, he chaired a committee which adopted the "Fairfax Resolves" calling for a Continental Congress, among other things. In August, he attended the First Virginia Convention where he was selected as a delegate to the First Continental Congress.{{sfnm|Ferling|2010|1p=100|Ford|Hunt|Fitzpatrick|1904|2p=11}}
+
+=== American Revolutionary War (17751783) ===
+{{main|American Revolutionary War|Military career of George Washington}}
+
+thumb|200px|upright|left|'''Gen. George Washington''' Continental Army, oil on canvas painted by Charles Willson Peale, July 1776, Brooklyn Museum
+
+The colonies formally went to war with Great Britain after initial armed conflicts, including casualties, in the Battles of Lexington and Concord near Boston in April 1775. Washington appeared at the Second Continental Congress in a military uniform, marking his preparation for war.{{sfnm|Rasmussen|Tilton|1999|1p=294|Fitzpatrick|1936|2p=514}} On June 14, Congress created the Continental Army and in recognition of Washington as the most prominent Southern military leader, he was nominated by Samuel Adams and John Adams of Massachusetts to be supreme commander. {{sfnm|Bell|2005|1pp=52, 66|Ellis|2004|2pp=687|Fitzpatrick|1936|3p=514}}{{sfn|Chernow|2010|p=186}} On June 15,  Washington was unanimously elected supreme commander of the Continental Armythe result of a compromise between the North and Souththe war effort then concentrated in the North required Virginia, Washington's southern home state, and the largest and wealthiest colony, for a united war front.{{sfnm|Ellis|2004|1p=68|Chernow|2010|2p=185|Fitzpatrick|1936|3p=514}} In his acceptance speech Washington declined a salary, but accepted reimbursement for expences, for which he accounted over the next eight years.{{sfnm|Ferling|2009|1pp=8687|Fitzpatrick|1936|2p=514}} 
+
+Washington joined the Continental Army and set up his headquarters in Cambridge, while Congress appointed to his command thirteen generals, with whom he was to council and give approval to conduct the war.{{sfn|Ferling|2000|p=108}} He found capable officers such as General Nathanael Greene (chief of the Continental Army artillery), Colonel Henry Knox (chief of artillery), and Colonel Alexander Hamilton (chief of staff). Washington was impressed by the enthusiasm of Benedict Arnold and gave him the responsibilities of invading Canada. Washington also engaged General Daniel Morgan, with whom he had served in The French and Indian War.{{sfn|Ferling|2000|pp=109-110}}
+
+He immediately made reforms in the army and imposed strict discipline including stockades, floggings, and fines. {{sfn|Ferling|2000|p=112}} During his initial months of command Washington trained his officer staff, and ordered them to familiarize themselves with their recruits so as to understand what military duties best suited them. {{sfn|Ferling|2000|pp=112-113}} Washington taught his officers the importance of being prepared, to respect civilians, and urged them to read military manuals.{{sfn|Ferling|2000|p=113}}  The war effort and supplying the troops were under the purview of Congress and Washington needfully pressured that body to provide the essentials.{{sfnm|Freedman|2008|1p=42|Carp|1990|2p=220|Ferling|2000|3p=115}}
+
+Washington removed officers he thought cowardly or incompetent, and told Congress it was a "most necessary Work." {{sfn|Ferling 2000|p=116}} He urged recruits whose enlistments were about to expire to remain in the army, but this failed. Washington only had 3,500 men for the 1776 campaign. By mid-January Washington's army was half-strength at 9,600 men; the colonial militia that fought in the French and Indian War was summoned to fill in the gaps.{{sfn|Ferling 2000|pp=116-117}}{{efn|In June 1776, Congress made its first attempt at running the war effort with the committee known as "Board of War and Ordnance", succeeded by the Board of War in July 1777, a committee which eventually included members of the military.{{sfn|Freedman|2008|p=42}}}} Fortunately for Washington and the burgeoning Continental Army, General William Howe, the British commander in Boston, refused to attack.{{sfn|Ferling 2000|p=117}} 
+
+thumb|right|170px|'''Washington at Dorchester Heights'''Gilbert Stuart ''1806''
+==== Victory at Boston ====
+
+In September 1775, Washington, impatient with inactivity, called for a council of war, and proposed an attack on the besieged British Army in Boston.{{sfn|Ferling 2000|p=117}} Most of his generals were aghast at such a proposal believing Howe's British Army, supported by the British Navy, was firmly entrenched and it would cause high casualties.{{sfn|Ferling 2000|pp=117-118}} To bypass his generals, needing their support, Washington ordered Col. Knox to Fort Ticonderoga to fetch artillery for the Continental Army. Having fifty-two cannon and fourteen mortars, Washington's generals concented to bombard British forces from Dorchester Heights, overlooking Boston. Howe refused to attack Washington at Dorchester Heights, believing he would suffer high casualties, such as at Bunker Hill, and on March 1776, the British Army and British Navy evacuated Boston.{{sfnm|Lengel|2005|1pp=124126|Higginbotham|1985|2pp=12534|Ferling|2000|p=118-119}} Knowing the British were not defeated, Washington moved the Army to New York City, correctly predicting the British Army and British Navy, would return in full force and flotilla. British newspapers disparaged most of the Patriots, but praised Washington's personal character and qualities as a military commander despite his opposition to Britain, which some believed would ruin the empire.{{sfn|Bickham|2002}}
+
+==== Defeat at New York ====
+{{main|Battle of Long Island}}
+
+Beginning in June, 1776, British General William Howe, based on Staten Island, had amassed a large force of British and Hessian troops in preparation for an all out siege on New York City, which was considered the key to securing the continent. Before the attack Howe attempted to negotiate peace terms with Washington and sent him a dispatch which he addressed to ''George Washington, Esq''. Washington refused the letter, demanding that he be recognized and addressed as a General and a belligerent, not as a rebel. He was also concerned that, as rebels, his men could be hanged if captured, and considered it his duty to insist that his men and the newly established United States be recognized and addressed with the proper protocol. After a few attempts, the negotiations failed.{{sfnm|Chernow|2010|1p=240|Davis|1975|2pp=93-94}}
+thumb|left|220px|'''Battle of Long Island'''Alonzo Chappel ''1858
+In the weeks leading up to the siege British naval and land forces were increasing in strength. In August 1776, Howe launched a massive naval and land campaign designed to seize New York. Many of Washington's generals preferred retreating from the city and engaging in a defensive strategy, but he believed it better to engage in a major pitched battle.{{sfn|Ellis|2004|pp=9596}} The Continental Army under Washington engaged the enemy for the first time as an army of the United States at the Battle of Long Island, the largest battle of the entire war. The Americans were heavily outnumbered, many men deserted, and Washington was badly defeated. He and his generals determined on a course of retreat, and Washington instructed General William Heath to make available every flat-bottom riverboat and sloop in the area. General William Alexander (''Lord Stirling'') held off the British Army, that allowed Washington and the Continental Army to retreat. In little time, Washington's army crossed the East River safely under the cover of darkness to Manhattan Island and did so without loss of life or materiel, although Lord Stirling was captured by the British.{{sfn|McCullough|2005|pp=18695}}
+
+Washington had considered abandoning the island and Fort Washington, but he heeded Generals Greene and Putnam's recommendation to attempt a defense of the fort. Unable to hold there Washington, with strong objections from Lee, abandoned the fort and retreated further north to White Plains.{{sfnm|Davis|1975|1p=136|Chernow|2010|2p=257}}    However, with Howe in pursuit he was unable to secure that position and was forced to retreat across the Hudson to Fort Lee to avoid encirclement. With the Americans in retreat, Howe was able to take the offensive; he landed his troops on the island on November 16 and surrounded and captured Fort Washington, resulting in high Continental casualties. As commander Washington was responsible for the decision to delay the retreat, but he also faulted the wishes of Congress and the bad advice of Nathaniel Greene."{{sfn|Alden|1993|p=137}}
+
+==== Crossing the Delaware ====
+{{main|Washington's crossing of the Delaware River}}
+thumb|230px|Washington Crossing the Delaware December 25, 1776'''Emanuel Leutze''' ''1851''{{efn|This painting has received both acclaim and criticism.{{sfnm|Howat|1968|1pp=290, 293, 297|Nowlan|2012|2p=66}} See Emanuel Leutze article for details.''}}
+
+Retreating from his defeat in New York, Washington continued his flight across New Jersey, with Howe's troops pursuing most of the way.{{sfn|Fischer|2004|pp=224-226}} The future of the Continental Army was in doubt due to poor supply, lack of adequate clothing and boots along with expiring enlistments and many desertions along the way.{{sfnm|Ketchum|1999|1p=235|Chernow|2010|2p=264}} He was disappointed to find that many New Jersey residents were Loyalists, or simply very skeptical about the prospect of Independence.
+
+Later he prepared to make his move across the Delaware River into Pennsylvania. The over confident General Howe assumed that Washington and his men would never be able to cross the Delaware, decided not to advance on Philadelphia and instead bided his time and took up winter quarters in Trenton, New Jersey situated on the east shore of the Delaware.
+
+Learning about the complacency of Howe and his Hessian mercenaries, and prompted by desperate conditions and expiring enlistments, Washington gathered with his generals on Christmas Eve at the home of Samuel Merrick and devised a plan to cross the icy Delaware at night and surprise the British/Hessian garrison encamped there. By sundown stormy weather was increasing and a light rain began to fall. Before the mass crossing, Washington had already crossed the river and staked out an area on the New Jersey shore where his troops would land. In the mean time, he had his men search along the Delaware for sixty miles for sturdy boats and barges suitable for transporting troops and supply across the river, commandeer any rivercraft that could be used for the crossing, and to destroy any that could later be used by the British. Many Durham boats{{efn|''Durham Boats'' were so named as they were built for the Durham Iron Works to carry iron ore lumber or grain on the upper Delaware.{{sfn|Fischer|2004|p=216}}}} were found and used in the crossing. Washington ordered some of the extra boats found to be hidden away in creeks for future use.{{sfnm|Chernow|2010|1pp=270272|Randall|1997|2p=319}} However, at about midnight, his plan was on the verge of failure with serious delays from the artillery teams assembling at the point of departure. On the night of December 2526, 1776, he led his army across the Delaware, with eighteen pieces of artillery, while struggling with rapid currents and ice hindering their way. Washington divided his forces into three groups, with two of them failing to make it across the river.{{sfn|Fischer|2004|pp=215217}}
+
+==== Battles of Trenton and Princeton ====
+{{main||Battle of Trenton|Battle of Princeton}}
+border|thumb|left|220px|'''Battle of Trenton'''[[H. Charles McBarron, Jr.|Charles McBarron ''1975'']]
+The American troops crossed the next morning with stormy weather and heavy sleet and snow still coming down, and his scouts reported the location of the Hessian outposts and forward positions about one mile from Trenton in New Jersey. Washington divided his army into three groups and rode about on horseback giving words of encouragement to his men: "Soldiers keep by your officers. For God's sake, keep by your officers." Still on his mount, Washington stopped briefly and was given food and drink at a nearby home while his senior officers gathered around for a council of war. Moving on, the three divisions divided at the Birmingham crossroads, with General Nathanael Greene's division taking the upper Ferry Road and General John Sullivan's division advancing on River Road.{{sfn|Fischer|2004|pp=228-230}} In coordinated effort Washington advanced on Trenton in a surprise attack at about 8 a.m., still dark from heavy cloud cover. He led the charge himself, aided by Major-General Henry Knox and his artillery, and captured some 850 prisoners.{{sfn|Fischer|2004|pp=232234, 405}}
+
+Washington followed up his victory at Trenton with another over British regulars at Princeton on January 3,{{sfn|Ketchum|1999|pp=306307}} with only forty Americans killed or wounded while the British forces suffered 273 killed or captured.{{sfn|Alden|1993|p=146}} American Generals Hugh Mercer and John Cadwalader were already present and being driven back by the British, with Mercer fallen and mortally wounded. Washington, mounted on his white horse, arrived at the scene and rallied Mercer's and Cadwalader's men to counterattack, with Washington out in front advancing to some thirty yards from the British front line.{{sfn|Alden|1993|p=145}} The other British troops retreated after making a brief stand, some evacuating Princeton and others taking refuge in Nassau Hall. Hessian commander Colonel Johann Rall was mortally wounded during the battle, which took place in less than an hour.{{sfn|Chernow|2010|p=276}} Alexander Hamilton was present at the battle; he brought three cannons and began firing at the building where the British were held up. Washington's troops charged the building, and the British put out a white flag and surrendered; 194 soldiers walked out of the building and laid down their arms.{{sfnm|Ketchum|1999|1p=361-364|Fischer|2004|2p=339}} The other British retreated to New York City and its environs, which they held until the Treaty of Paris (1783).
+
+The depleted Continental army took up winter headquarters in Morristown, New Jersey after his victory at Princeton, rather than retreating back to Pennsylvania; this allowed him to disrupt British supply lines and drive them from parts of New Jersey. He admitted some years later that the British could easily have defeated his thinly guarded encampment if they had counter-attacked before his troops were dug in.{{sfn|Chernow|2010|pp=285-286}}
+
+Washington's victories marked a turning point in the revolution and wrecked the British carrot-and-stick strategy of showing overwhelming force, then offering generous terms. The Americans would not negotiate for anything short of independence.{{sfn|Fischer|2004|p=367}} These victories alone were not enough to ensure ultimate Patriot victory, however, since many soldiers did not re-enlist or even deserted during the harsh winter. Washington and Congress reorganized the army with increased rewards for staying and punishment for desertion, which raised troop numbers effectively for subsequent battles.{{sfn|Fischer|2004|p=151}}
+
+==== 1777 campaigns ====
+In February 1777 while encamped at Morristown, New Jersey, Washington became convinced that only smallpox inoculation by variolation would prevent the destruction of his Army. He ordered the inoculation of all troops and, by some reports, death by smallpox in the ranks dropped from 17% of all deaths to 1% of all deaths.{{sfn|Henderson|2009|p=47}}
+In late summer of 1777, British General John Burgoyne led a major invasion army south from Quebec, with the intention of splitting off rebellious New England. But General Howe in New York took his army south to Philadelphia instead of going up the Hudson River to join with Burgoyne near Albanya major strategic mistake. Meanwhile, Washington rushed to Philadelphia to engage Howe, while closely following the action in upstate New York, where the patriots were led by General Philip Schuyler and his successor Horatio Gates. The ensuing pitched battles at Philadelphia were too complex for Washington's relatively inexperienced men and they were defeated.{{sfn|Higginbotham|1971|loc=ch. 8}}
+
+At the Battle of Brandywine on September 11, 1777, Howe outmaneuvered Washington and marched into the American capital at Philadelphia unopposed on September 26. Washington's army unsuccessfully attacked the British garrison at Germantown in early October. Meanwhile, to the north, Burgoyne was beyond the reach of help from Howe, trapped and forced to surrender after the Battles of Saratoga.{{sfn|Higginbotham|1971|loc=ch. 8}} This was a major turning point militarily and diplomaticallythe French responded to Burgoyne's defeat by entering the war, allying with America and expanding the Revolutionary War into a major worldwide affair.
+
+Washington's loss at Philadelphia prompted some members of Congress to consider removing him from command. This movement termed the Conway Cabal, failed after Washington's supporters rallied behind him.{{sfn|Heydt|2005|pp=5073}} Biographer Alden relates, "it was inevitable that the defeats of Washington's forces and the concurrent victory of the forces in upper New York should be compared." The zealous admiration of Washington indeed inevitably waned, with John Adams giving Washington little credit.{{sfn|Alden|1993|p=163}}
+
+==== Valley Forge ====
+{{Main|Valley Forge}}
+thumb|270px|'''Washington and Lafayette at Valley Forge'''John Ward Dunsmore ''1907''
+
+Washington's army of 11,000 went into winter quarters at Valley Forge north of Philadelphia in December 1777. Over the next six months, the deaths in camp numbered in the thousands, the majority being from disease, compounded by lack of food and proper clothing, poor shelter, and the extreme cold. Historians' death toll estimates range from 2,000 to over 3,000 men.
+
+{{sfnm|Ferling|2000|1pp=186|Alden|1993|2pp=165, 167|Freedman|2008|3p=30}} The British were comfortably quartered in Philadelphia and paid for their supplies in sterling. In contrast, Washington had difficulty procuring supplies from the few farmers in the area who would not accept rapidly depreciating American paper currency, while the woodlands about the valley had soon been exhausted of game. As conditions worsened, Washington was faced with the task of maintaining morale and discouraging desertion, which had become common by February.{{sfn|Alden|1993|p=165}}
+
+Washington had repeatedly petitioned the Continental Congress for badly needed provisions but with no success. Finally, on January 24, 1778, five Congressmen came to Valley Forge to examine the conditions of the Continental Army. Washington expressed the urgency of the situation, exclaiming, "Something must be done. Important alterations must be made." At this time, he also contended that Congress should take control of the army supply system, pay for its supplies, and promptly expedite them as they became necessary. In response to Washington's urgent appeal, Congress gave full support to funding the supply lines of the army, which also resulted in reorganizing the commissary department, which controlled gathering the supplies for the army. By late February, there were adequate supplies flowing throughout camp.{{sfn|Freedman|2008|p=42}}
+
+Washington recruited regulars and assigned Baron Friedrich Wilhelm von Steuben, , to train them, who transformed Washington's army into a disciplined and effective force.{{sfn|Randall|1997|pp=342, 359}} The next spring, a revitalized army emerged from Valley Forge in good order, thanks in great part to a full-scale training program supervised by General von Steuben, a veteran of the Prussian general staff,{{sfnm|Alden|1993|1p=168|Randall|1997|2pp=342, 356}}, who was promoted to Major General for his effort and became Washington's chief of staff for the remainder of the war.{{sfn|Chernow|2010|p=336}} 
+
+====Battle of Monmouth====
+{{main|Battle of Monmouth}}
+The British evacuated Philadelphia for New York in June 1778. Washington summoned a council of war with Generals Lee, Greene, Wayne, and Lafayette. He decided to make a partial attack on the retreating British at the Battle of Monmouth. The British were commanded by Sir Henry Clinton, Howe's successor. On June 28, Lee and Lafayette moved with 4,000 men, without Washington's immediate knowledge and bungled their first attack. After sharp words of criticism, Washington relieved Lee and continued fighting to an effective draw in one of the war's largest battles. When nightfall came, the fighting came to a stop and the British continued their retreat and headed towards New York, where Washington soon moved his army just outside the city.{{sfnm|Alden|1993|1pp=17677|Ferling|2000|2pp=19597}}
+Monmouth was the last major battle Washington fought in the north. It was after this battle that he came to realize that it was best to protect his army than to try and keep the British from occupying towns, as they rarely had anything to offer that helped the effectiveness of the British army.{{sfn|Chernow|2010|p=344}}
+
+==== Sullivan Expedition ====
+{{Main|Sullivan Expedition}}
+In the summer of 1779, Washington and Congress decided to strike the Iroquois warriors of the "Six Nations" in a campaign to force Britain's Indian allies out of New York, which they had used as a base to attack American settlements around New England.{{sfn|Grizzard|2002|p=303}} In June 1779, the Indian warriors joined with Tory rangers led by Colonel William Butler and slew over 200 frontiersmen, using barbarities normally shunned, and laid waste to the Wyoming Valley in Pennsylvania. One British officer who witnessed the Tory brutality said that the redcoats on return to England would "scalp every son of a bitch of them."{{sfn|Alden|1993|p=184}} In August 1779, General John Sullivan led a military operation that destroyed at least 40 Iroquois villages, burning all available crops. Few people were killed as the Indians fled to British protection in Canada. Sullivan later reported that "the immediate objects of this expedition are accomplished, viz: total ruin of the Indian settlements and the destruction of their crops, which were designed for the support of those inhuman barbarians."{{sfn|Mann|2008|p=106}}
+
+==== Hudson River and Southern battles ====
+Washington at this time moved his headquarters from Middlebrook in New Jersey up to New Windsor on the Hudson, with an army of 10,000. The British, led by Clinton, made a move up the Hudson against American posts at Verplanck's Point and Stony Point, and both places succumbed; but a counter-offensive was briefly successful by the patriots led by General Anthony Wayne. Clinton was able to shut off Kings Ferry in the end, but it was a strategic loss; he could proceed no farther up the river due to American fortifications and Washington's army. The skirmishes at Verplanck's Point and at Stony Point demonstrated that the continental infantry had become quite formidable and were an enormous boost to morale.{{sfn|Alden|1993|pp=18586}}
+
+Washington went into quarters at Morristown during the winter of 17791780, which represented the worst suffering for the army during the war. The temperatures fell to 16 below zero, the New York Harbor was frozen over, and snow and ice covered the ground for weeks, with the troops again lacking provisions for a time as at Valley Forge.{{sfn|Alden|1993|pp=187188}} In late 1779, Clinton moved his forces south to Charleston for an offensive against the patriots led by Benjamin Lincoln. After his success there, Clinton returned victorious to New York, leaving Cornwallis in the south. Congress replaced Lincoln with Gates, despite Washington's recommendation of Greene. Gates failed in South Carolina and was then replaced by Greene. The British at the time seemed to have the South almost in their grasp. Despite this news, Washington was encouraged when he learned in mid-1780 that Lafayette had returned from France with additional naval assets and forces.{{sfn|Alden|1993|pp=187188}}
+
+==== West Point plot and treachery ====
+{{main|Military career of Benedict Arnold, 177779}}
+thumb|A page from the Culper Ring's codebook, listing the men whom Washington gathered to be agents
+Washington had worked hard to develop a successful espionage system to detect British locations, plots, and plans.See [http://www.mountvernon.org/george-washington/the-revolutionary-war/spying-and-espionage/george-washington-spymaster/  "George Washington, Spymaster" at ''George Washington's Mount Vernon'']  In 1778, he ordered Major Benjamin Tallmadge to form the Culper Ring to collect information about the British movements and activities in New York City.{{sfn|Rose|2006|p=75, 224, 25861}} 
+
+Benedict Arnold, meanwhile, was a Continental Army major general who had distinguished himself in many battles and had gained Washington's respect and admiration.{{sfnm|Chernow|2010|1pp=378-387}} Sometime between May and June 1779, however, he began treasonable correspondence with British General Henry Clinton.{{sfn|Adams|1928|p=365}} Historians have noted several likely reasons for Arnold's treachery: anger at losing promotions to junior officers and repeated slights from Congress;{{sfnm|Palmer|2010|1p=203|Flexner|1991|2pp=119221|Rose|2006|3p=196}} for war profiteering, for which he faced court martial; his debt and the substantial bribe from the British.{{sfnm|Adams|1928|1p=365|Palmer|2010|2p=306, 320, 315, 319}} Whatever motivated him, Arnold began to feed sensitive information to the British during 17791780. His wife Peggy was also complicit in his communications with the British..{{sfnm|Adams|1928|1pp=365-366|Ward|1994}} Washington had ignored all the warning signs and completely trusted Arnold, in spite of the fact that he was usually mindful of treachery.{{sfn|Ward|1994}}
+
+In the Summer of 1780, Arnold and the British were conspiring to capture West Point a key defensive position situated above New York on the Hudson River. Washington, after repeated requests from Arnold, finally gave him command, where Arnold soon began efforts to undermine its strength.{{sfnm|Chernow|2010|1pp=378-380|Lengel|2005|2p=322|Adams|1928|3p=366}}. Thereafter Arnold immediately demanded 20,000 from General Clinton in exchange for handing West Point over to the British. On September 21, he met British spymaster Major John Andr and gave him the plans to take over the garrison;{{sfn|Adams|1928|p=366}} however, Andr was captured by the Culper Ring soon after, and Arnold's treasonous plot was revealed. Arnold escaped to New York, was later paid 6,315 by Clinton, became a senior British commander, and fought the Patriots in Virginia and Connecticut.{{sfnm|Chernow|2010|1pp=378-387|Van Doren|1941|2pp=325-355|Adams|1928|3pp=366-367}} Andr was tried by a military court for spying and was sentenced to death. Washington offered to exchange Andr for Arnold, but General Clinton refused.  Andr asked Washington to be executed by firing squad. At first Washington was inclined to grant his wish, but under pressure to make an example of Andr, Washington soon changed his mind and Andr was hanged in Tappan, New York on October 2, 1780.{{sfnm|Metz|2017|1p=122|Flexner|1991|2p=386|Rose|2006|3p=212}}
+
+==== Winter of 17801781 ====
+{{main|Pennsylvania Line mutiny|Pompton Mutiny}}
+Washington's army went into winter quarters at New Windsor in 1780 and suffered again for lack of supplies. Washington prevailed upon Congress as well as state officials to come to their aid with provisions. He sympathized with their suffering, saying that he hoped that the army would not "continue to struggle under the same difficulties they have hitherto endured, which I cannot help remarking seem to reach the bounds of human patience".{{sfn|Alden|1993|p=193}}
+
+==== Victory at Yorktown ====
+{{main|Siege of Yorktown}}
+thumb|left|'''Siege of Yorktown'''General Washington and General [[Comte de Rochambeau|Rochambeau give last orders before an attack at Yorktown.Auguste Couder ''1836'']]
+
+
+
+In July 1780, 5,000 veteran French troops led by the ''comte'' de Rochambeau arrived at Newport, Rhode Island to aid in the war.{{sfn|Lancaster|Plumb|1985|p=311}} French naval forces then landed, led by Admiral Franois Joseph Paul de Grasse. Washington then encouraged Rochambeau to move his fleet south, and launch a joint land-naval attack on Arnold's troops. 
+
+In December 1780, British General Sir Henry Clinton sent Benedict Arnold, now a Brigadier General in the British Army, with about 1,700 troops to Virginia to capture Portsmouth and spread terror throughout the tsate. Washington responded by sending Lafayette south with a small army to counter Arnold's efforts but the effort was generally ineffective.{{sfn|Chernow|2010|p=403}} This was the first encounter Arnold had with Washington since his treasonous abandonment of the Continental Army. At first Washington hoped to bring the allied fight to New York drawing off British forces from Virginia, and to end the war there, but Rochambeau advised de Grasse that Cornwallis in Virginia was the better target. Admiral de Grasse followed this advice and arrived off the Virginia coast. Washington immediately saw the advantage created, made a feinting move with his force towards Clinton in New York, and then headed south to Virginia.{{sfnm|Alden|1993|1pp=19899|Chernow|2010|2p=403404}}
+
+Washington's Continental Army, also newly funded by $20,000 in French gold, delivered the final blow to the British in 1781, after a French naval victory allowed American and French forces to trap a British army in Virginia, preventing reinforcement by Clinton from the North.{{sfn|Alden|1993|pp=198, 201}} The surrender at Yorktown on October 19, 1781, marked the end of major fighting in North America.{{sfnm|Mann|2005|1p=38|Lancaster|Plumb|1985|2p=254}} Cornwallis failed to appear at the official surrender ceremony, and sent General Charles O'Hara as his proxy; Washington then had General Benjamin Lincoln accept the surrender in his place.{{sfn|Alden|1993|pp=20102}}{{clear}}
+
+==== Demobilization and resignation ====
+Substantial combat had ended but the war had not, and a formal treaty of peace was months away. The British still had 26,000 troops occupying New York City, Charleston, and Savannah, and had a powerful fleet. The French army and navy departed, so the Americans were on their own in 178283. Money matters fed anxiety; the treasury was empty, and the unpaid soldiers were growing restive almost to the point of mutiny. At one point, they forced an adjournment of the Congress from Philadelphia to Princeton. Washington dispelled unrest among officers by suppressing the Newburgh Conspiracy in March 1783, and Congress came up with the promise of a five-year bonus.{{sfn|Kohn|1970|pp=187220}}
+
+thumb|General George Washington Resigning His CommissionCapitol RotundaJohn Trumbull ''1824''
+
+With the initial peace treaty articles ratified in April 1783, a recently formed Congressional committee under Hamilton was considering needs and plans for a peacetime army. On May 2, 1783, the Commander in Chief submitted his ''Sentiments on a Peace Establishment''{{sfn|Wright|1987|p=193}} to the Committee, essentially providing an official Continental Army position. The original proposal was defeated in Congress in two votes (May 1783, October 1783), with a truncated version also being rejected in April 1784.{{sfn|Wright|1987|p=27}}
+
+By the Treaty of Paris signed on September 3, 1783, Great Britain recognized the independence of the United States. Washington disbanded his army and gave an eloquent farewell address to his soldiers on November 2.{{sfn|Washington|1799|p=343}} On November 25, the British evacuated New York City, and Washington and the governor took possession. Only a few trusted members of Congress, including Thomas Jefferson, knew of Washington's decision to resign his commission as Commander-in-chief. At Fraunces Tavern on December 4, after leading the Continental Army for eight and a half years,{{sfn|Chernow|2010|p=417}} Washington formally bade his officers farewell, and he resigned his commission on December 23, 1783, to the Continental Congress in the Old Senate Chamber of the Maryland State House in Annapolis, Maryland.{{sfnm|Randall|1997|1p=402|Chernow|2010|2p=416}}
+
+"I consider it an indispensable duty to close this last solemn act of my official life, by commending the interests of our dearest country to the protection of Almighty God, and those who have the superintendence of them, to his holy keeping."{{sfn|Alden|1993|p=210}} Historian Gordon S. Wood concludes that "The greatest act of his life, the one that gave him his greatest fame, was his resignation as commander in chief of the American forces."{{sfn|Wood|1992|p=205}} King George III called Washington "the greatest character of the age" because of this.{{sfn|Brookhiser|1996|p=103}}
+
+Washington later submitted a formal account of the expenses that he had personally advanced the army over the eight-year conflict of about $450,000. It is said to have been detailed regarding small items and vague concerning large ones, and included the expenses incurred from Martha's visits to his headquarters, as well as his compensation for servicenone of which had been drawn during the war.{{sfn|Alden|1993|p=209}}
+
+== Constitutional Convention ==
+{{Main|Constitutional Convention (United States)}}
+thumb|[[Scene at the Signing of the Constitution of the United States|''Signing of the U.S. Constitution''by Howard Chandler Christy, 1940]]
+
+Washington made an exploratory trip to the western frontier in 1784 and inspected his land holdings that had been earned decades earlier for his service in the French and Indian War.{{sfn|Bell|2005|pp=52, 66}} There he confronted squatters, including David Reed and the Covenanters; they vacated, but only after losing a court decision heard in Washington, Pennsylvania in 1786.{{sfn|Explore PA|2011}} He also facilitated the creation of the Potomac Company, a publicprivate partnership that linked the Potomac River with the Ohio River. He was elected president of the company, for which he proselytized extensively. It served as a model for large-scale canal-building but technical and financial challenges rendered it unprofitable.{{sfn|Ferling|2009|pp=251255}}Robert J. Kapsch, ''The Potomac Canal: George Washington and the Waterway West'' (West Virginia UP, 2007.)
+
+After much reluctance, he was persuaded to attend the Constitutional Convention in Philadelphia during the summer of 1787 as a delegate from Virginia, where he was unanimously elected as president of the Convention.{{sfn|Unger|2013|p=33}} He held considerable criticism of the Articles of Confederation of the thirteen colonies, for the weak central government which it established, referring to the Articles as no more than "a rope of sand" to support the new nation.{{sfn|Alden|1993|p=221}} Washington's view for the need of a strong federal government grew out of the recent war, as well as the inability of the Continental Congress to rally the states to provide for the needs of the military, as was clearly demonstrated for him during the winter at Valley Forge. The general populace, however, did not share Washington's views of a strong federal government binding the states together, comparing such a prevailing entity to the British Parliament that previously ruled and taxed the colonies.{{sfn|Ellis|2007|pp=9192}}
+
+Washington's participation in the debates was minor, although he cast his vote when called upon; his prestige facilitated the collegiality and productivity of the delegates. After a couple of months into the task, Washington told Alexander Hamilton, "I almost despair of seeing a favorable issue to the proceedings of our convention and do therefore repent having had any agency in the business."{{sfn|Alden|1993|pp=22627}}
+Following the Convention, his support convinced many, but not all of his colleagues, to vote for ratification. He unsuccessfully lobbied anti-federalist Patrick Henry, saying that "the adoption of it under the present circumstances of the Union is in my opinion desirable;" he declared that the only alternative would be anarchy. Nevertheless, he did not consider it appropriate to cast his vote in favor of adoption for Virginia, since he was expected to be nominated president under it.{{sfn|Alden|1993|p=229}} The new Constitution was subsequently ratified by all thirteen states.{{sfn|Bruns|1986}} The delegates to the convention designed the presidency with Washington in mind, allowing him to define the office by establishing precedent once elected.National Park Service, 2011 Washington thought that the achievements were monumental once they were finally completed.{{sfn|Alden|1993|pp=22627}}
+
+== Election of 1788-1789 ==
+{{main|United States presidential election, 178889}}
+
+Starting on December 15, 1788, and during the long Congressional delay in counting the votes,{{sfn|Chernow|pp=559560}} Washington feared that most Republican electors had not voted for him.{{sfn|Ferling|2009|p=361}} However, the Electoral College, under the new Constitution, unanimously elected Washington on January 10, 1789, the first President of the United States.{{efn|Under the Articles of Confederation, Congress called its presiding officer "President of the United States in Congress Assembled". The position had no executive powers, but the similarity of titles has confused some into thinking that there were other presidents before Washington.{{sfnm|Jensen|1948|1pp=17879|Unger|2013|2pp=61, 146}}}}  John Adams received the next highest vote total and was elected vice president.{{sfn|Ferling|2009|p=274}}
+
+== Presidency (17891797) ==
+{{Main|Presidency of George Washington}}
+thumb|220px|'''President George Washington'''Gilbert Stuart ''1795''
+
+At the age of fifty-seven, Washington was inaugurated on April 30, 1789, taking the first presidential oath of office at Federal Hall in New York City.{{sfnm|Cooke|2002|1p=4|Fitzpatrick|1936|2p=522}}{{efn|There is historical debate and some controversy over whether Washington added "So help me God" to the end of the oath.{{sfnm|Irving|1856|1p=475|Alden|1993|2p=236|Henriques|2009}}}} He arrived in a coach led by militia and a marching band, followed by a long line of statesmen and foreign dignitaries in the nation's first inaugural parade. As he stepped onto the balcony, he was greeted by a cheering crowd of some 10,000 people.{{sfnm|Chernow|2010|1p=566567|Randall|1997|2p=448}} As Washington was administered the oath by Chancellor Robert R. Livingston, he was given a thirteen-gun salute.{{sfn|Cooke|2002|p=4}} Returning to the Senate Chambers, Washington read a modest 1,200word speech, asking that an "Almighty Being" bless the "important revolution".{{sfnm|Randall|1997|1p=448|Alden|1993|2p=236}} Washington declined a salary in his speech, but Congress later voted him a salary of $25,000 annually.{{sfn|Fitzpatrick|1936|p=522}} Washington accepted the amount to defray costs of the presidency.{{sfnm|Fitzpatrick|1936|1p=522|Chernow|2010|2p=552}} Washington was aware that everything he did set a precedent, and he attended carefully to the pomp and ceremony of office, making sure that the titles and trappings were suitably republican and never emulated European royal courts.{{sfn|Unger|2013|p=79}}{{efn|Washington wrote to James Madison: ""As the first of everything in our situation will serve to establish a precedent, it is devoutly wished on my part that these precedents be fixed on true principles." Washington to James Madison, May 5, 1789, cited by Unger, 2013, p. 76.}} To that end, he preferred the title "Mr. President" to the more majestic names proposed by the Senate.{{sfn|Bassett|1906|p=155}}
+
+Washington originally planned to resign during his first term, but because of his overwhelming support and admiration felt obligated to remain in office.{{sfn|Chernow|2010|p=674}} He proved an able administrator and established many precedents in the functions of the presidency, including messages to Congress and the cabinet form of government.{{sfn|Unger|2013|pp=23637}} He set the standard for tolerance of opposition voices, despite fears that a democratic system would lead to political violence, and he conducted a smooth transition of power to his successor.{{sfnm|Kazin|2009|1p=589|Unger|2013|2pp=23637}} As president he was an excellent delegator and judge of talent and character; he talked regularly with department heads and listened to their advice before making a final decision.{{sfn|Ellis|2004|pp=19798}} In handling routine tasks, he was "systematic, orderly, energetic, solicitous of the opinion of others but decisive, intent upon general goals and the consistency of particular actions with them."{{sfn|White|1948|p=100}} 
+
+During his first term in office, Washington had to contend with major problems, old and new. The United States was not completely unified; North Carolina and Rhode Island had not yet formally joined the Union, and the status was uncertain of the independent Vermont Republic. He was faced with the task of assembling a yet to be formed executive department, of which he relied heavily on Tobias Lear for advice on selecting its officers and incorporating the department into the new government.{{sfn|Chernow|2010|p=575}} At this time Great Britain had refused to relinquish its forts in the American West.{{sfn|Cooke|2002|p=5}} Additionally, the United States Army was minuscule and the United States Navy did not exist. The old Confederation lacked the powers to handle the needed workload. It had weak leadership, no executive, a small bureaucracy of clerks, a large debt, worthless paper money, and no taxing power.{{sfn|Cooke|2002|p=5}}
+
+=== Cabinet and executive departments ===
+thumb|left|220px|'''Washington and His Cabinet''' Left to right:Washington, Knox, Hamilton (standing), Jefferson, and Randolph
+Congress created executive departments during Washington's first months in office in 1789, including the State Department on July 27, the Department of War in early August, and the Treasury Department on September 2. The President also received two additional officers without departments: the Attorney General and Postmaster General. Washington appointed Richmond lawyer Edmund Randolph as Attorney General and Samuel Osgood as Postmaster General. He also appointed fellow Virginian Thomas Jefferson to be Secretary of State and Henry Knox as Secretary of War. Finally, he appointed Alexander Hamilton to head the Treasury Department.{{sfn|Cooke|2002|p=4}} Washington's cabinet eventually developed into a consultation and advisory body, although this was not mandated by the Constitution.{{sfn|Cooke|2002|pp=4-5}}
+
+During Washington's administration, the President was given broad powers for removing officials in the executive branch. Congress passed a bill sponsored by James Madison that gave the President the power to remove public officials whose appointments mandated Senatorial approval. In 1789, Vice President John Adams cast the deciding vote in the Senate against a bill that would have mandated senatorial consent for the removal of Senate-confirmed federal and cabinet appointments. The bill had been sponsored by Pennsylvania Senator William Maclay.{{sfnm|Cooke|2002|1p=6|McCullough|2001|2pp=413-414}}
+
+Washington's cabinet members were known for their dissension, forming rival parties and having sharply divided views, the most fierce between Hamilton and Jefferson.{{sfnm|Cooke|2002|1p=5|Banning|1974|2p=5}} Jefferson described his relationship with Hamilton as being "daily pitted like two cocks." Knox almost always sided with Hamilton, while Randolph tried to remain neutral but tended to side more with Jefferson, his fellow Virginian. Washington restricted cabinet discussions to topics of his own choosing, without participating in debate. He occasionally requested cabinet opinions in writing, and he expected his department heads to carry out his decisions without complaint. Hamilton played an active role advising Congress, including written reports and using influence over congressional committee leaders.{{sfn|Cooke|2002|p=5}}
+
+=== Domestic issues ===
+thumb|The President's House in Philadelphia was Washington's official residence from 1790 to 1797
+Washington was not a member of any political party and hoped that they would not be formed, fearing conflict that would undermine republicanism.{{sfn|Elkins|McKitrick|1995|p=290}} His closest advisors formed two factions, however, thereby setting the framework for the future First Party System. Secretary of the Treasury Alexander Hamilton had plans to establish the national credit and to build a financially powerful nation, and he formed the basis of the Federalist Party. Secretary of State Thomas Jefferson was the founder of the Jeffersonian Republicans, and he strenuously opposed Hamilton's agenda. Washington typically favored Hamilton over Jefferson, and it was Hamilton's agenda that went into effect and became law. Hamilton's fiscal recommendations, created bitter controversy, during Washington's presidency.{{sfn|Cooke|2002|p=7}}
+
+==== Public credit and National Bank ====
+The most pressing fiscal problem of the new administration was the public credit of the United States.{{sfn|Cooke|2002|p=7}} On January 14, 1790, Hamilton submitted his ''Report Relative to a Provision for the Support of Public Credit'' to Congress which culminated in the Funding Act of 1790 and the Residence Act, both of which Washington signed into law on August 4. Congress authorized the assumption and payment of these debts, and provided funding through customs duties and excise taxes.{{sfn|Cooke|2002|pp=7-8}}
+
+Congress reached a compromise concerning the location of the nation's capital, to be situated in Philadelphia for a decade and then permanently located near Georgetown on the Potomac River.{{sfn|Cooke|2002|p=7}} The Residence Act authorized the President to select the specific location on the Potomac for the seat of the government. He was to appoint three commissioners to survey and acquire property for it, and Washington personally oversaw this effort throughout his term in office. In 1791, the commissioners named the seat of government "The City of Washington in the Territory of Columbia" to honor him.{{efn|In 1800, the Territory of Columbia became the District of Columbia when the federal government moved to the site, according to the provisions of the Residence Act.{{sfn|Webb|Wooldridge|1892|p=87}}}}
+
+Hamilton created more controversy among Washington's Cabinet members when he advocated the establishment of the Bank of the United States (''BUS''). Although Madison and Jefferson objected, the bank easily passed Congress and the law was presented to Washington for signing on February 14, 1791. Washington asked for advise from his cabinet, Jefferson and Randolph strongly opposed the new bank constitutionally, while Hamilton believed it would legally be operated on the government's enumerated powers. Washington sided with Hamilton and signed the legislation on February 25, however, the rift between Hamilton and Jefferson widened and became openly hostile.{{sfn|Cooke|2002|p=8}}
+
+Under Washington, the young American nation experienced its first financial crisis in March 1792 when federalists under Hamilton used large loans to gain control of the U.S. debt securities, causing a run on the new national bank.{{sfn|Sobel|1968|p=27}}{{efn|Hamilton's appointed former Treasury assistant, William Duer, had misappropriated $200,000 Treasury funds, that enabled him to speculate on securities, which triggered a financial crisis. Unable to repay the $200,000, Duer was arrested, prosecuted and sent to debtor's prison by the New York District Attorney, with Hamilton's blessing.{{sfnm|Chernow|2004|1p=381|Banning|1974|2p=9|Sobel|1968|3p=26-27}}}} By mid-April the markets returned to normal.{{sfnm|Banning|1974|1p=9|Sobel|1968|2p=30}} Jefferson believed Hamilton was part of the scheme, in spite of Hamilton's efforts to remedy matters, and informed Washington who was caught in the middle of what was the beginning of a long-standing feud between his two secretaries, Hamilton and Jefferson.{{sfn|Chernow|2010|pp=673674}}
+
+==== Hamilton-Jefferson feud ====
+{{multiple image
+ | align=right
+ | direction=horizontal
+ | width=
+ | header=Jefferson and Hamilton, bitter rivals
+ | width1=138
+ | image1=T Jefferson by Charles Willson Peale 1791 2.jpg
+ | alt1= 
+ | caption1=Thomas Jefferson 
+ | width2=162
+ | image2=Alexander Hamilton portrait by John Trumbull 1806, detail.jpg
+ | alt2= 
+ | caption2= Alexander Hamilton 
+}}
+Two of Washington's Cabinet members, Thomas Jefferson, Secretary of State, and Alexander Hamilton, Secretary of the Treasury, were diametrically opposed in political principles.  Hamilton believed in a strong national government that needed a national bank and foreign loans to function, while Jefferson believed the government should be primarily under the direction of the states and the farm element and deeply resented the idea of banks and foreign loans. This difference was the cause of many disputes and infighting between the two, much to Washington's dismay.{{sfnm|Chernow|2010|1pp=515, 627-630, 648-650|Randall|1997|2pp=452, 463, 468-471}} In 1791, Jefferson and Congressman James Madison encouraged revolutionary poet Philip Freneau to form the ''National Gazette'', a newspaper to counter the pro-Hamilton press.{{sfnm|Banning|1974|1p=6|Ferling|2013|2pp=221-222}}  A few weeks later, Hamilton demanded that Jefferson resign if he could not support Washington.{{sfn|Banning|1974|p=8}} Rather than respond publicly, Jefferson told Washington that Hamilton's fiscal system would undermine and overthrow the republic.{{sfnm|Banning|1974|1p=8|Cooke|2002|2p=9}}
+ 
+Washington pleaded with his two secretaries by letters to stop the open warfare for the sake of the nation, but Hamilton and Jefferson politely ignored the president's advice.{{sfnm|Cooke|2002|1p=9|Fitzpatrick|1936|2p=523}} To keep party strife under control, Washington gave up hope that he would retire after his first term.{{sfnm|Banning|1974|1p=8|Cooke|2002|2p=9}} The feud continued after Washington's reelection and into his second term in office.{{sfn|Banning|1974|p=8}} Jefferson's political actions, his support of Freneau's ''National Gazette'',{{sfn|Elkins|McKitrick|1995|pp=240, 285, 290, 361}} and his attempt to undermine Hamilton nearly led Washington to dismiss him from his cabinet, though Jefferson ultimately resigned office voluntarily in December, 1793.{{sfnm|Cooke|2002|1p=9|Chernow|2004|2p=427}}{{efn|Washington never forgave him and never spoke to him again.{{sfn|Chernow|2004|p=427}}}} The feud between Hamilton and Jefferson led to the well-defined Federalist and Republican parties.{{sfn|Fitzpatrick|1936|p=523}} 
+
+Washington remained aloof from attacks on Hamilton launched in Congress, but he did not write a public statement that protected him.  The Reynolds Affair embarrassed Hamilton; nevertheless Washington held him in "very high esteem" and who still viewed Hamilton as the dominate force in establishing federal law and government.{{sfn|Ferling|2013|pp=283284, 301302}}  By 1794, party affiliation was necessary for election to Congress.{{sfn|Ferling|2013|p=222}}
+
+==== Whiskey Rebellion ====
+{{see also|Whiskey Rebellion}}
+In March 1791, Congress imposed an excise tax on distilled spirits to help pay the national debt; grain farmers strongly protested in frontier districts, especially the westernmost counties of Pennsylvania, saying they were unrepresented and were unfairly shouldering too much of the debt. Threats and violence against tax collectors escalated into full-scale defiance of federal authority in 1794, known as the Whiskey Rebellion. The federal army was too small to meet the task, so Washington invoked the Militia Act of 1792 to summon militias from Pennsylvania, Virginia, Maryland, and New Jersey.{{sfn|Coakley|1996|pp=4349}} The governors sent the troops, with Washington taking initial command. He subsequently named Henry "Lighthorse Harry" Lee as field commander to lead the troops into the rebellious districts. The rebels dispersed and there was no fighting. Washington's forceful action demonstrated that the new government could protect itself and its tax collectors. This represented the premier instance of the federal government using military force to exert authority over the states and citizens{{sfn||Kohn|1972|pp=56784}} and was the only time that a sitting U.S. president personally commanded troops in the field.{{sfn|Ellis|2004|p=225}} Washington justified his action against "certain self-created societies" whom he regarded as "subversive organizations" that threatened the national union. He was not disputing their right to protest, but insisted that their dissent should not take the form of flagrant violation of federal law. Congress overwhelmingly agreed and extended their congratulations to him, with only Madison and Jefferson expressing their indifference.{{sfn|Ellis|2004|p=225226}}
+
+=== Foreign and Indian affairs ===
+thumb|right|200px|'''Battle of Fallen Timbers'''The Ohio Country was ceded to America in its aftermath.
+Washington's most pressing foreign problem, at the start of his presidency, was the British occupation of forts on the American western frontier.{{sfn|Fitzpatrick|1936|p=523}} Indian tribes roamed largely uncontrolled and used guerrilla warfare, that presented an effective force against the sparcely manned American army. {{sfn|Cooke|2002|p=9}} In the Northwest frontier Indians were aided by British allies to protect the British-Canadian fur trade, while Indian tribes warred with each other. {{sfn|Cooke|2002|pp=9-10}} In 1791, to restore peace, Washington sent General Arthur St. Clair from Fort Washington on a punitive expedition against warring tribes into present day Indiana.{{sfn|Cooke|2002|p=10}} On November 4, St. Clair's forces, despite Washington's warning, were ambushed and humiliatingly defeated by a confederated Indian army. {{sfn|Cooke|2002|p=10}} St. Clair resigned, and Washington replaced him with General Anthony Wayne, who between 1792 and 1793, instructed his troops in Indian warfare tactics. {{sfn|Cooke|2002|p=10}} On August 24, 1784, Wayne defeated the Northwest Indians at the Battle of Fallen Timbers, and the Ohio Country was opened up for American cession.{{sfn|Cooke|2002|p=14}} Uncommon for his times, Washington equated killing Native Americans, to those of whites, and he desired a policy to protect their property, and integrate Indians into American culture.{{sfn|Cooke|2002|p=10}}
+
+In April 1792, the French Revolutionary Wars broke out between Great Britain and its allies and revolutionary France; Washington, with cabinet approval, proclaimed American neutrality. The revolutionary government of France sent diplomat Edmond-Charles Gent to America, called "Citizen Gent". He was welcomed with great enthusiasm and began promoting the case for France, using a network of new Democratic Societies in major cities. He even issued French letters of marque and reprisal to French ships manned by American sailors so that they could capture British merchant ships. Washington denounced the societies and demanded that the French government recall Gent, which they did.{{sfn|Elkins|McKitrick|1995|pp=33554}}
+
+Hamilton formulated the Jay Treaty to normalize trade relations with Great Britain, remove them from western forts, and resolve financial debts remaining from the Revolution;{{sfn|Elkins|McKitrick|1995|loc=ch. 9}} John Jay negotiated and signed the treaty on November 19, 1794. Jeffersonians supported France and strongly attacked the treaty. Washington listened to both sides, then announced his strong support, which mobilized public opinion and was pivotal in securing ratification in the Senate on June 24, 1795 by the requisite two-thirds majority.{{sfnm|Estes|2000|1pp=393422|Estes|2001|2pp=12758}} Washington himself was not immune from open Republican criticism after he had signed the Jay Treaty, that was believed to favor the British. {{sfn|Banning|1974|pp=14-16}} Additionally, Washington was charged with withdrawing more than his allotted $25,000 annual salary, but he made no public reply. {{sfnm|Banning|1974|1pp=14-16|Cooke|2002|2p=17}}
+
+The British agreed to depart from their forts around the Great Lakes, and the United States-Canada boundary had to be re-adjusted. Numerous pre-Revolutionary debts were liquidated, and the British opened their West Indies colonies to American trade. Most importantly, the treaty delayed war with Great Britain and instead brought a decade of prosperous trade. The treaty angered the French and became a central issue in many political debates.{{sfn|Varg|1963|pp=95122}} Relations with France deteriorated after the treaty was signed, leaving succeeding president John Adams with the prospect of war.{{sfnm|Grizzard|2005|1p=263|Lengel|2005|2p=357}}
+
+===Second term===
+Washington remained popular and unopposed during the Election of 1792, while no one dared to run against him,{{sfn|Cooke|2002|p=10}} Alexander Hamilton strongly urged a reluctant Washington to run for a second term. Washington's silence on the election upon his return to Mount Vernon, in October 1792, was considered an acquiescence and consent for his being the only viable candidate to assume the presidency during this unstable period. On February 13, 1793 the Electoral College unanimously elected Washington president for a second term. John Adams was reelected Vice President by a vote only of seventy-seven to fifty.{{sfn|Cooke|2002|p=10}}{{efn|Washington refused to run for a third term in 1796, establishing the tradition of a maximum of two terms for a president, which was solidified by Thomas Jefferson and James Madison.{{sfn|Unger|2013|p=237}}}} 
+
+Criticized by the National Gazette and political adversaries over his birthday celebration and for appearing as a "monarchist", Washington kept a low profile, arriving at his inauguration in plain form and alone in a simple carriage. The second inauguration was held in the Senate Chamber of Congress Hall in Philadelphia, on Monday, March 4, 1793. The presidential oath of office was administered to Washington by Associate Justice William Cushing This was the first inauguration to take place in Philadelphia, the nation's capital at this time. After the swearing in ceremony Washington maintained his low profile and delivered the shortest inaugural address on record.{{sfn|Chernow|2010|p=687}}
+
+In 1793 Washington signed the Fugitive Slave Act which allowed slave owners to cross state lines and retrieve runaway slaves.{{sfn|Chernow|2010|p=758}} He did sign into law the Slave Trade Act of 1794, which limited American involvement in the Atlantic slave trade.{{sfn|Bassett|1906|pp=187189}}
+
+=== Farewell Address ===
+{{Main|George Washington's Farewell Address}}
+thumb|left|upright=1.1|[[George Washington's Farewell Address|Washington's Farewell Address (September 19, 1796)]]
+
+In the months that led up to the end of Washington's presidency, he was relentlessly assailed by his political foes and a largely partisan press, which was highly critical of his numerous successes and Federalist leanings, accusing him of being ambitious and greedy. He pointed out that he had taken no salary during the entire war and risked his life in numerous battles. He came to regard the press as an erosive and disuniting force that spread numerous falsehoods, referring to them as "diabolical". This also had a great influence in his Farewell Address, which expressed how troubled he was by the years of infighting and character assassination by much of the press.{{sfnm|Randall|1997|1pp=491492|Chernow|2010|2pp=752754}}
+
+Washington's Farewell Address was first published in the ''American daily Advertiser'' on September 19, 1796 and was one of the most influential statements on republicanism. The sentiment and theme of the address was Washington's, but the actual wording was mostly that of Alexander Hamilton.{{sfn|Chernow|2010|pp-752753}} It stressed the necessity and importance of national union, the value of the Constitution, the rule of law, the evils of political parties, and the proper virtues of a republican people. He referred to morality as "a necessary spring of popular government". "Whatever may be conceded to the influence of refined education on minds of peculiar structure, reason, and experience, both forbid us to expect that national morality can prevail in exclusion of religious principle."Library of Congress, 2011
+
+The address warned against foreign alliances and their influence in domestic affairs and American meddling in European affairs, and against bitter partisanship in domestic politics. He also called for men to move beyond partisanship and serve the common good, {{sfn|Randall|1997|p=492}} stressing that the United States must concentrate on its own interests. He counseled friendship and commerce with all nations, but advised against involvement in European wars. The Farewell Address made no clear distinction between domestic and foreign policies; The address quickly set American values regarding foreign affairs. Washington's policy of non-involvement in the foreign affairs of the Old World was largely embraced by the founding generation of American statesmen, including John Adams, Thomas Jefferson, and James Madison.
+{{sfnm|Fishman|Pederson|Rozell|2001|pp=11920|{sfn|Gregg|1999|2pp=199216}}
+
+Washington's Farewell address, however, did not quell bi-partisan politics, but only served to aggravate them, setting the tone for the coming 1796 election, with Washington lending his support for John Adams.{{sfn|Randall|1997|p=492}}
+
+== Retirement (17971799) ==
+thumb|upright=1.3|A map of the Mount Vernon plantation and lands
+
+Washington retired from the presidency in March 1797 and returned to Mount Vernon with a profound sense of relief. He devoted much time to his plantations and other business interests, including his distillery, which produced its first batch of spirits in February 1797.{{sfn|Breen|White|2006|pp=20920}} His plantation operations were only minimally profitable.{{sfn|Chernow|2010|p=53}} His lands in the west (Piedmont) yielded little income because they were under attack by Indians, and the squatters living there refused to pay him rent. Washington attempted to sell off these holdings but failed to obtain the price that he desired. Meanwhile, he was losing money at Mount Vernon due to a glut of unproductive slaves, which he declined to sell due to a desire to keep families intact. In addition, some of the slaves belonged to Martha, but the groups had been living together for years and there had been much intermarriage among them.{{sfn|Ellis|2004|pp=25561}}
+
+Most Americans assumed that he was rich because of the well-known "glorified faade of wealth and grandeur" at Mount Vernon,{{sfn|Chernow|2010|loc=ch. 57, note 38}} but nearly all of Washington's wealth was tied up in land or slaves. Historians estimate that his estate was worth about $1million in 1799 dollars, equivalent to about $19.9million in 2014.{{sfn|Dalzell|Dalzell|1998|p=219}}
+
+Once in retirement, Washington became an even more committed Federalist. He vocally supported the Alien and Sedition Acts and convinced Federalist John Marshall to run for Congress in order to weaken the Jeffersonian hold on Virginia.{{sfn|Flexner|1974|p=386}}
+
+By 1798, relations with France had deteriorated to the point that war seemed imminent. President Adams offered Washington a commission as lieutenant general on July 4, 1798, and as Commander-in-chief of the armies raised or to be raised for service in a prospective war. He accepted and served as the senior officer of the United States Army from July 13, 1798 until his death 17 months later. He participated in planning for a Provisional Army to meet any emergency that might arise but avoided involvement in details as much as possible. He delegated most of the work to Hamilton, including active leadership of the army; Hamilton was serving as a major general in the U.S. Army at the time. No French army invaded the United States during this period, and Washington did not assume a field command {{sfnm|Kohn|1975|1pp=22542|Grizzard|2005|2p=264}}{{efn|This was the only instance where a former President later served as an official presidential appointee up until 1921, when President Warren G. Harding appointed former President William Howard Taft to the position of Chief Justice of the United States.}}
+
+== Personal life ==
+right|thumb|''The Washington Family'' by [[Edward Savage (artist)|Edward Savage, painted between 1789 and 1796, shows (from left to right): George Washington Parke Custis, George Washington, Eleanor Parke Custis, Martha Washington, and an enslaved servant, probably William Lee or Christopher Sheels]]
+
+Washington was a tall man endowed with great physical strength that often amazed his subordinates and younger men. He was mostly silent during times of debate, yet he exhibited a commanding and sometimes domineering presence without having to speak.{{sfn|Randall|1997|pp=34, 436}} His height was variously recorded as {{convert|6|ft|m|2|abbr=on}} to {{convert|6|ft|2|in|m|2|abbr=on}}, although he registered 6ft 3 in when measured for his coffin.{{sfn|Chernow|2010|pp=2930}}
+
+As a young man, Washington had red hair. It is often assumed that he wore a wig, as was the fashion among some at the time, but he did not. Instead, he powdered his hair,{{sfn|Chernow|2010|pp=2930}} which is represented in several portraits including the unfinished Gilbert Stuart depiction called the "Athenaeum Portrait".
+
+Washington was a very skilled horseman; Jefferson called him "the best horseman of his age", and both American and European observers praised his riding. The horsemanship benefited his hunting, a favorite hobby. He was an excellent dancer, and he also attended the theater frequently and would make Shakespearean references in his letters.{{sfn|Chernow|2010|pp=17276}} He drank in moderation and precisely recorded gambling wins and losses. He disliked the excessive drinking, gambling, smoking, and profanity that were common in colonial Virginia. He grew tobacco but he eventually stopped smoking and considered drunkenness a man's worst vice. He was glad that post-Revolutionary Virginia society was less likely to force guests "to drink and to make it an honor to send them home drunk."{{sfb|Chernow|2010|pp=18789}}
+
+Washington suffered from problems with his teeth throughout his life, and historians have tracked his experiences in great detail.{{sfn|Van Horn|2016}} He lost his first adult tooth when he was 22, and had only one left by the time that he became president.{{sfn|Llyod|2006|p=97}} John Adams claimed that he lost them because he used them to crack Brazil nuts, but modern historians suggest that mercury oxide probably contributed to the loss, which he was given to treat illnesses such as smallpox and malaria. He had several sets of false teeth made, four of them by a dentist named John Greenwood, and he went through several sets during his presidency. However, none of the sets was made from wood. The set made when he became president was carved from hippopotamus and elephant ivory, held together with gold springs. Prior to these, he had a set made with real human teeth. Dental problems left him in constant pain, for which he took laudanum, procured for him by Tobias Lear.{{sfn|Chernow|2010|pp=642643}}
+
+=== Religion ===
+{{Main|George Washington and religion}}
+For his entire life, Washington was affiliated with the established Anglican Church of Great Britain. It was dis-established in Southern states following the Revolution and reorganized as the Episcopal Church. In 1762 Washington served as a vestryman and as church warden for both Fairfax Parish in Alexandria and Truro Parish, a post he maintained for twenty-two years.{{sfn|Chernow|2010|p=130}}{{sfn|Thompson|2008|p=40}} Numerous historians have suggested that Washington's theology agreed largely with the Deists, but he never expressed any particular Deist beliefs. He often used words for the deity such as "God" and "Providence", while avoiding using the names "Jesus" and "Christ." In his collected works, such terms appear in an official letter to Indians which might have been drafted by an aide. At the time, Deism was a theological outlook, not an organized denomination. It was compatible with being an Episcopalian. There is speculation among some historians about how committed Washington was to Christianity as compared to Deism.{{sfnm|Chernow|2010|1p=131|Lillback|2010|2p=Chap.2}} 
+
+Washington devoted private time for prayer before breakfast,{{sfn|Chernow|2010|p=119}} and frequently accompanied his wife to church services. Third-hand reports say that he took communion,{{sfn|Johnson|1919|pp=87195}} although he is usually characterized as never or rarely participating in the rite.{{sfnm|Chernow|2010|1loc=ch. 12||Espinosa|2009|2p=52}} He would regularly leave services before communion with the other non-communicants (as was the custom of the day). He ceased attending at all on communion Sundays after being admonished by a rector.{{sfn|Chernow|2010|loc=ch. 12, note 14}} He regarded religion as a protective influence for America's social and political order, and he recognized the church's "laudable endeavors to render men sober, honest, and good citizens, and the obedient subjects of a lawful government."{{sfn|Boller|1963|p=46}}
+
+It is generally concluded that Washington was a Christian, although the exact nature of his religious beliefs has been debated by some historians and biographers for over 200 years. Biographer Don Higginbotham notes that, in such instances, people with diametrically opposing opinions frequently base their views of Washington's beliefs on their own beliefs.{{sfnm|Thompson|2008|1p=40|Higginbotham|2001|2p=264}} Higginbotham claims that Washington harbored no contempt of organized Christianity and its clergy, and quotes him as saying: "being no bigot myself to any mode of worship".{{sfn|Higginbotham|2001|p=313}} Washington was a vigorous promoter of tolerance for all religious denominations as commander of the army and as president. He often attended services of different denominations, and suppressed anti-Catholic celebrations in the Army.{{sfn|Boller|1963|p=125}} Michael Novak suggests that Washington did not assert his particular religious conviction, so that all Americans would feel free to approach him on their own termsand might also feel like full members of the new republic.{{sfn|Novak|2007|p=158}} He concludes that Washington was educated in and adhered to the Episcopal Church and believed in the fundamental doctrines of Christianity, with no indifference to other forms of Christianity.{{sfn|Novak|2007|pp=158161}}
+
+=== Enlightenment and Freemasonry ===
+thumb|upright=0.75|[[George Washington Masonic National Memorial|Masonic Memorial]]
+Historians have emphasized that Washington was deeply rooted in the ideas, values, and modes of thinking in the Age of Enlightenment.  Biographer Don Higginbotham maintains that Washington was a self made hero and a man of his age who embraced Enlightenment values more seriously than most of his contemporaries.{{sfn|Higginbotham|1971|p=313}} In 1793, Washington proclaimed "We have abundant reason to rejoice that in this Land the light of truth and reason has triumphed over the power of bigotry and superstition."{{sfn|Lillback|Newcombe|2006|p=314}} The economic ideas of Adam Smith were attractive to him, opposing mercantilism and favoring free trade.  He wrote in 1786 that he looked forward to that "not very remote" time "when the benefits of a liberal and free commerce will, pretty generally, succeed to the devastations and horrors of war."Quoted by Peter Onuf in 
+
+Like many activists in the Enlightenment in Europe and the colonies, Washington favored the Freemasonry movement. A new Masonic lodge was established in Fredericksburg in September, 1752 and he was initiated two months later as one of its first apprentices. Within a year, he progressed through its ranks to become a Master Mason,{{sfn|Chernow|2010|p=27}} and eventually was the highest ranking Mason in the United States.{{sfn|Randall|1997|p=67}} He had a high regard for the Masonic Order and often praised it, but he seldom attended lodge meetings. He was attracted by the movement's dedication to the Enlightenment principles of rationality, reason, and fraternalism. The American lodges did not share the anti-clerical perspective which made the European lodges so controversial.{{sfn|Chernow|2010|pp=27, 704}} In 1777, a convention of Virginia lodges asked him to be the Grand Master of the newly established Grand Lodge of Virginia, but he declined due to his responsibility in leading the Continental Army at a critical stage. In 1788, he was named Master in the Virginia charter of Alexandria Lodge No. 22, with his consent.
+
+Washington regularly attended the established Church of England, but he grew indifferent with its form of worship and refrained from using the term ''God'', substituting terms frequently used in Enlightenment doctrine such as ''The Creator'' or ''The Almighty'' in his correspondence and as Commander in Chief during the Revolution.{{sfn|Randall|1997|p=67}}
+
+=== Slavery ===
+{{Main|George Washington and slavery}}
+Although Washington owned slaves for 56 years of his life, he struggled with the institution of slavery, and spoke frequently of his desire to end the practice.{{sfn|Ten Facts About Washington & Slavery}} At the end of his life in 1799, Washington took the bold step to free all of his own slaves, 123 individuals, in his will, one of only a few Founders to do so.{{sfnm|Wiencek|2003|1pp=352-354|Finkelman|1994|2pp=221-222}}{{sfn|Ten Facts About Washington & Slavery}}{{efn|Virginians such as Washington, Robert Carter, Joseph Mayo, and John Pleasants also emanicpated all of their slaves.{{sfn|Finkelman|1994|pp=210, 221-222}}}} He privately opposed slavery as an institution, which he viewed as economically unsound and morally indefensible. He believed that the divisiveness of his countrymen's feelings about slavery was a potentially mortal threat to the unity of the nation.{{sfn|Striner|2006|p=15}} He never publicly challenged the institution of slavery,{{sfn|Stewart|2007|p=257}} possibly because he wanted to avoid provoking a split in the new republic over so inflammatory an issue.{{sfn|Twohig|1994}} 
+
+Prior to the Revolutionary War, Washington was a typical Virginia slave owner, buying and selling slaves, while he believed blacks were ignorant and dishonest.{{sfn|Ferling|2000|pp=163-164}} As Commander of the Continental Army, Washington's views on slavery were mediated by his young aides and officers who destested slavery, including Alexander Hamilton, Marquis de Lafayette, and others.{{sfn|Ferling|2000|p=164}} By 1784, Washington had acquired 255 slaves, that worked on his five plantations.{{sfn|Ferling|2000|p=275}} Washington enjoyed the material benefits slavery brought and wished to bestow an inheritance.{{sfn|Ferling|2000|p=275}} Subsequently for the next 15 years after the War of Independence, Washington never broke from the institution.{{sfn|Ferling|2000|p=276}} In one act of humanity, Washington refused to separate families by the sale of slaves.{{sfn|Henriques|2006|1pp=164-165|Ferling|2000|2p=277}}
+
+It was not until 1799, that Washington finally resolved his dilemna with slavery, in his new will. Washington's will stipulated that all his slaves be freed after the demise of his wife Martha.{{sfn|Ferling|2000|p=277}} He directed that the old and young slaves be taken care of indefinitely . The younger slaves were to be taught to read and write, and find suitable occupations.{{sfn|Ferling|2000|p=277}} He also stipulated that none of his freed slaves would be forced to leave Virginia, "under any pretence whatsoever." Washington's will was meant to be an act of atonement for a lifetime spent in human exploitation, while he hoped it would serve as an example to other slave holders, and hasten the end of American slavery.{{sfn|Ferling|2000|p=277}}  Martha chose to free them at the end of 1800, fearing that her life was not safe in their hands because her death would make them free.{{sfn|Flexner|1974|p=397}}
+
+Washington's slaves were well fed and clothed, but were poorly housed, while their workloads were heavy, and the discipline under which they worked and lived was severe.{{sfn|Weincek|2003|p=319|Ferling|2000|2pp=46, 277}} Washington allowed whippings of both male and female slaves.{{sfn|Ferling|2000|p=46}} His slaves were forced to work diligently from dawn to dusk. {{sfn|Ferling|2000|p=46}} Washington allowed his household slaves a measure of freedom, allowing them to go into town and visit the theater, among other such things.{{sfn|Chernow|2010|p=759}}
+
+=== American Cincinnatus ===
+During the Revolutionary and Early Republican periods of American history, many commentators compared Washington with Roman aristocrat and statesman Cincinnatus. The comparison arose as Washington, like Cincinnatus, commanded the Continental Army only until the British had been defeated. Thereafter, he returned as quickly as possible to cultivating his lands instead of seeking great political power.{{sfn|Chernow|2010|p=444, 461}} Lord Byron's ''Ode to Napoleon'' also lionized Washington as "the Cincinnatus of the West".{{sfn|Byron|2001}}
+
+==Final days==
+On Thursday, December 12, 1799, Washington spent several hours inspecting his plantation on horseback, in snow, hail and freezing rain; that evening, not wanting to keep his guests waiting, he ate his supper without changing from his wet clothes. The next day the weather worsened with heavy snow. Now nursing a sore throat, he trudged down the hill towards the Potomac to mark some trees he wanted cleared. That evening he complained of chest congestion and hoarseness, but his mood remained cheerful. Some time around 3a.m. that Saturday, he suddenly awoke with severe difficulty breathing and almost completely unable to speak or swallow.{{sfn|Chernow|2010|pp=806-10}} He was a firm believer in bloodletting, which was a standard medical practice of that era, and he had used it to treat various ailments of slaves on his plantation. He ordered estate overseer Albin Rawlins to remove nearly a pint of his blood.{{sfn|Chernow|2010|p=807}} Three physicians were also summoned, including Washington's personal physician Dr. James Craik, along with Dr. Gustavus Brown and Dr. Elisha Dick. Craik and Brown thought that Washington had "quinsey" or "quincy", while Dick thought that the condition was more serious or a "violent inflammation of the throat".{{sfnm|Chernow|2010|pp=806-807|Lear|1799|2p=257}} By the time that the three physicians finished their treatments and bloodletting of the president, half or more of his total blood content was removed over the course of just a few hours.{{sfn|Chernow|2010|pp=806-10}} Dick recognized that the bloodletting and other treatments were failing, and he proposed performing an emergency tracheotomy as a last-ditch effort to save Washington's life. Few American doctors were then familiar with this procedure and the other two doctors disapproved.{{sfnm|Chernow|2010|1pp=806-10|Felisati|2005|2pp=5558}} Washington finally instructed doctors Brown and Dick to cease their attempts in trying to save his life and leave the room, while he assured Doctor Craik, "Doctor, I die hard, but I am not afraid to go".{{sfn|Ellis|2004|p=269}}
+
+thumb|upright|Published regulations for the funeral procession in honor of Washington (in New York City)
+
+Washington's illness and subsequent death came swiftly and unexpectedly.{{sfn|Ferling|2009|p=365}}  His final instructions were, "Have me decently buried, and do not let my body be put in the vault in less than three days after I am dead."{{sfn|Chernow|2010|p=808}}{{efn|There is some discrepancy among some historians as to the number of days:  Betts, 2013, claims two days were to pass before being placed in the burial vault, Chernow, 2010, claims it was three.{{sfn|Betts|2013|p=145}}}} In his journal, Washington's personal secretary Tobias Lear recorded his last words as "'Tis well." With Martha calmly composed at the foot of his bed, Washington died peacefully without further struggle five hours later at home around 10p.m. on Saturday, December 14, 1799, aged 67.{{sfnm|Betts|2013|1pp=144145|Chernow|2010|2p=809|Randall|1997|3p=502}} Funeral arrangements were made by Washington's Masonic lodge of Alexandria. The funeral was held on December 18, 1799 at Mount Vernon, where his body was interred. Leading the procession were foot soldiers and cavalry; the pallbearers were six Colonels, all of whom had served under Washington during the revolution. The service was restricted mostly to family, friends, and neighbors. Congress chose Henry Lee III to deliver the eulogy, a Continental Army officer and loved by Washington.{{sfn|Betts|2013|p=146149}} Word traveled slowly concerning his death; church-bells rang in the various cities, and many places of business closed when word arrived.{{sfn|Chernow|2010|1pp=810-811|Betts|2013|2p=147}}
+
+Congress passed a joint resolution to construct a marble monument for his body in the planned crypt below the rotunda of the center section of the Capitol (still under construction), and Martha acquiesced.{{sfn|Carlson|2016|p=chapter one}} In December 1800, the House passed an appropriations bill for $200,000 to build the mausoleum, which was to be a pyramid with a {{convert|100|ft|adj=on}} square base. Southern representatives and senators opposed the plan and defeated the measure because they felt that it was best to have Washington's body remain at Mount Vernon.{{sfn|Boorstin|1965|pp=34950}}
+
+Throughout the world, people admired Washington and were saddened by his death. In the United States, memorial processions were held in major cities and thousands wore mourning clothes for months. Martha Washington wore a black mourning cape for one year. In France, First Consul Napoleon Bonaparte ordered ten days of mourning throughout the country.{{sfn|Betts|2013|pp=14750}} Ships of the British Royal Navy's Channel Fleet lowered their flags to half mast to honor his passing.{{sfn|Parsons|1898|p=112}} To protect their privacy, Martha Washington burned the correspondence which they had exchanged; only five letters between the couple are known to have survived, two letters from Martha to George and three from him to her.{{sfn|Chernow|2010|p=814}}
+=== Subsequent diagnoses ===
+The diagnosis of Washington's final illness and the immediate cause of his death have been subjects of debate since the day he died. In the days immediately following his death, Craik and Dick's published account stated that they felt that his symptoms had been consistent with ''cynanche trachealis'', a term of that period used to describe severe inflammation of the structures of the upper airway. Even at that early date, there were accusations of medical malpractice, with some believing that Washington had been bled to death.{{sfnm|Chernow|2010|1pp=806-10|Felisati|2005|2pp=5558}} Various modern medical authors have speculated that Washington probably died from a severe case of epiglottitis complicated by the given treatments (all of which were accepted medical practice in Washington's day), most notably the massive deliberate blood loss, which almost certainly caused hypovolemic shock.{{efn|At least three modern medical authors (Wallenborn 1999{{sfn|Wallenborn|1999}}, Shapiro 1975, Scheidemandel 1976) concluded that Washington most probably died from acute bacterial epiglottitis complicated by the administered treatments.  These treatments included multiple doses of calomel (a cathartic or purgative), and extensive bloodletting (with at least 2.365 total liters of blood being taken, which is slightly less than half of a normal adult's blood volume).
+* ''See'' A Physician Looks At The Death of Washington{{sfn|Vadakan|2005|loc=Footnotes}} ''for Shapiro and Scheidemandel references. Vadakan's article also directly quotes Doctors Craik and Dick's account (as published in the ''Times of Alexandria'' newspaper) concerning their treatment of Washington during his fatal illness.}}
+
+=== Move to new burial site ===
+{{multiple image
+ | align=right
+ | direction=vertical
+ | height=
+ | footer
+ | height1=200
+ | image1=Tomb of George Washington - wide - Mount Vernon.jpg|
+ | caption1= The Washington family tomb at Mount Vernon
+ | height2=200
+ | image2=Washington Tomb.jpg
+ | caption2=The sarcophagi of George (right) and Martha (left) Washington at the entrance to the Washington family tomb
+}}
+In 1830 a disgruntled ex-employee of the estate attempted to steal Washington's skull from the original tomb.{{sfn|Craughwell|2018|pp=7779}} The next year a new vault was constructed at Mount Vernon to receive George and Martha Washington's remains, along with other relatives buried in the original tomb.Mount Vernon Ladies' Association, New Tomb
+
+A joint Congressional committee debated the removal of President Washington's body from Mount Vernon to a crypt in the Capitol in early 1832. The crypt was built by architect Charles Bulfinch in the 1820s during the reconstruction of the burned-out capitol after the British had set it afire in August 1814, during the Burning of Washington. Southern opposition was intense, antagonized by an ever-growing rift between North and South. Congressman Wiley Thompson of Georgia expressed the Southerners' fear when he said, "Remove the remains of our venerated Washington from their association with the remains of his consort and his ancestors, from Mount Vernon and from his native State, and deposit them in this capitol, and then let a severance of the Union occur, and behold the remains of Washington on a shore foreign to his native soil."{{sfn|Boorstin|1965|pp=34950}}
+
+On October 7, 1837 George Washington's remains, still in the original lead coffin, were placed within a marble sarcophagus designed by William Strickland and constructed by John Struthers.{{sfn|Strickland|1840|pp=11-14}}{{sfn|Carlson|2016|p=chapter one}} The sarcophagus was sealed and encased with planks while an outer vault was constructed around it.{{sfn|Strickland|1840|pp=11-14}} The outer vault contains the sarcophagi of George and Martha Washington, the inner vault contains the remains of other Washington family members and relatives.
+
+=== Papers ===
+{{main|The Papers of George Washington}}
+The serious collection and publication of Washington's documentary record began with the pioneer work of Jared Sparks in the 1830s in ''Life and Writings of George Washington'' (12 vols., 18341837). ''The Writings of George Washington from the Original Manuscript Sources, 17451799'' (193144) is a 37 volume set edited by John C. Fitzpatrick. It contains over 17,000 letters and documents and is available online from the University of Virginia.{{sfn|Fitzpatrick|2016}} The definitive letterpress edition of his writings was begun by the University of Virginia in 1968, and today comprises 52 published volumes, with more to come. It contains everything written by Washington or signed by him, together with most of his incoming letters. Part of the collection is available online from the University of Virginia.{{sfn|Lengel|2011}}
+
+George Washington's personal annotated copy of the "Acts Passed at a Congress of the United States of America" from 1789 includes the Constitution of the United States and a draft of the Bill of Rights. It was sold on June 22, 2012, at Christie's for $9,826,500 (with fees added to the final cost) to The Mount Vernon Ladies' Association. This was the record for a document sold at auction.
+
+=== Cherry tree ===
+{{See also|Parson Weems#The cherry-tree anecdote}}
+thumb|right|upright=0.8|''Parson Weems' Fable''Grant Wood, 1939
+The best-known story about Washington's childhood is that he chopped down his father's favorite cherry tree and admitted the deed when questioned: "I can't tell a lie, Pa; you know I can't tell a lie. I did cut it with my hatchet."{{sfn|Weems|1918|loc=ch. 2}}  The anecdote was first reported by biographer Parson Weems, based on his interviews after Washington's death of people who knew him as a child over a half-century earlier. The Weems text was very widely reprinted throughout the 19th century, for example in McGuffey Readers. After 1890 historians required more direct evidence to corroborate this, and there was no documentation apart from Weems' statement that he learned it from one of the neighbors who knew young Washington. {{sfnm|Hughes|1926|1pp=1:24, 501|Grizzard|2002|2pp=4547}}
+
+== Historical reputation and legacy ==
+{{Main|Legacy of George Washington}}
+{{See also|Historical rankings of Presidents of the United States|Cultural depictions of George Washington}}
+upright|thumb|left|The ''Constable-Hamilton Portrait'' by Gilbert Stuart
+
+George Washington's legacy remains among the two or three greatest in American history, as Commander-in-Chief of the Continental Army, hero of the Revolution, and the first President of the United States.{{efn|Historians Jay A. Parry and Andrew M. Allison declare that Washington "was the dominant personality in three of the most critical events in that founding: the Revolutionary War, the Constitutional Convention, and the first national administration. Had he not served as America's leader in those three events, all three likely would have failed. And America as we know it today would not exist." Parry, 1991, p. xi.}} Congressman Henry "Light-Horse Harry" Lee, a Revolutionary War comrade, famously eulogized Washington, "First in warfirst in peaceand first in the hearts of his countrymen".{{sfn|Ferling|2009|pp=34}} Lee's words set the standard by which Washington's overwhelming reputation was impressed upon the American memory. Biographers hailed him as the great exemplar of republicanism. Washington set many precedents for the national government, and the presidency in particular, and was called the "Father of His Country" as early as 1778.{{efn|The earliest known image in which Washington is identified as the Father of His Country is in the frontispiece of a 1779 German-language almanac, with calculations by David Rittenhouse and published by Francis Bailey in Lancaster County Pennsylvania. ''Der Gantz Neue Nord-Americanishe Calendar'' has Fame appearing with an image of Washington holding a trumpet to her lips, from which come the words "''Der Landes Vater''" (translated as "the father of the country" or "the father of the land").}}{{sfn|Unger|2013|pp=23637}}{{sfn|Parry|Allison|1991|p=xi}}{{sfn|Hindle|1980|p=92}}Washington's Birthday is a federal holiday in the United States.{{usc|5|6103}} In terms of personality, biographer Douglas Southall Freeman concluded, "the great big thing stamped across that man is character." By character, says David Hackett Fischer, "Freeman meant integrity, self-discipline, courage, absolute honesty, resolve, and decision, but also forbearance, decency, and respect for others."
+{{sfn|Fischer|2004|p=446}}
+
+Washington became an international icon for liberation and nationalism, as the leader of the first successful revolution against a colonial empire. The Federalists made him the symbol of their party but, for many years, the Jeffersonians continued to distrust his influence and delayed building the Washington Monument.{{sfn|Cunliffe|1958|pp=2426}} On January 31, 1781, he was elected a member of the American Academy of Arts and Sciences.{{sfn|Willard|2017}}
+
+During the United States Bicentennial year, George Washington was posthumously appointed to the grade of General of the Armies of the United States by the congressional joint resolution Public Law 94-479 passed on January 19, 1976, with an effective appointment date of July 4, 1976.{{sfn|Bell|2005|pp=52, 66}} This restored his position as the highest-ranking military officer in U.S. history.{{efn|In ''Portraits & Biographical Sketches of the United States Army's Senior Officer'',{{sfn|Bell|2005}} William Gardner Bell states that Washington was recalled back into military service from his retirement in 1798, and "Congress passed legislation that would have made him General of the Armies of the United States, but his services were not required in the field and the appointment was not made until the Bicentennial in 1976, when it was bestowed posthumously as a commemorative honor." [http://www.history.army.mil/html/faq/5star.html How many U.S. Army five-star generals have there been and who were they?] states that with Public Law 94-479, President Ford specified that Washington would "rank first among all officers of the Army, past and present. "General of the Armies of the United States" is associated with only two people... one being Washington and the other being John J. Pershing.}}
+
+=== Monuments and memorials ===
+{{Main|List of memorials to George Washington}}
+thumb|upright|Washington Monument, Washington, DC
+
+Many places and entities have been named in honor of Washington. His name became that of the nation's capital Washington, D.C. The state of Washington is the only state to be named after a United States president. Mount Washington in New Hampshire, the tallest mountain in the Northeast, was named soon after the American Revolution by Colonel John Whipple.{{sfn|Burt|1906|pp=5, 76}}
+
+Washington, Theodore Roosevelt, Thomas Jefferson, and Abraham Lincoln are depicted in stone at the Mount Rushmore Memorial. The Washington Monument was built in his honor, one of the best-known American landmarks. The George Washington Masonic National Memorial in Alexandria, Virginia was constructed between 1922 and 1932 with voluntary contributions from all 52 local governing bodies of the Freemasons in the United States.{{sfnm|Callahan|1998|1pp=329-342|Weber|2009|p=137}}
+
+There have been many proposals to build a monument to Washington, starting after victory in the Revolution. After his death, Congress authorized a suitable memorial in the national capital, but the decision was reversed when the Democratic-Republicans took control of Congress in 1801. The Democratic-Republicans were dismayed that Washington had become the symbol of the Federalist Party.{{sfn|Cohen|1991|pp=187203}} Construction of the 554 foot memorial didn't begin until 1848. It was completed in 1885. There are many other "Washington Monuments" in the United States, including two well-known equestrian statues, one in Manhattan and one in Richmond, Virginia. The first statue to show Washington on horseback was dedicated in 1856 and is located in Manhattan's Union Square.
+
+The world's busiest bridge, the George Washington Bridge, is named in his honor. Several naval vessels are named in Washington's honor, including the USS ''George Washington''.
+
+
+File:Washington Indy Hall.jpg|Bailly's George Washington, Independence Hall, Philadelphia, Pennsylvania
+File:BaltWashMonument.JPG|The first Washington Monument in Baltimore, Maryland
+File:Virginia State Capitol complex - Houdon's Washington, seen from the front.jpg|Jean-Antoine Houdon's statue, State Capitol in Virginia
+File:George Washington statue.JPG|Lieutenant General George Washington, Washington Circle, Washington, D.C.
+File:MtRushmore GW close.jpg|'''Mt. Rushmore''', George Washington closeup
+
+
+=== Postage and currency ===
+{{see also|U.S. presidents on U.S. postage stamps#George Washington|History of Virginia on stamps}}
+George Washington appears on contemporary U.S. currency, including the one-dollar bill and the quarter-dollar coin (the Washington quarter).
+Washington and Benjamin Franklin appeared on the nation's first postage stamps in 1847. Since that time, Washington has appeared on many postage issues, more than all other presidents combined.{{sfn|Kloetzel|2009}}
+
+Washington's victory over Cornwallis at the Battle of Yorktown was commemorated with a two-cent stamp on the battle's 150th anniversary on October 19, 1931.Trotter, Gordon T., [http://arago.si.edu/index.asp?con=1&tid=2032992 Yorktown Issue] {{webarchive|url=https://web.archive.org/web/20150528231108/http://arago.si.edu/index.asp?con=1&tid=2032992 |date=May 28, 2015 }}, National Postal Museum online. The 150th anniversary of the signing of the Constitution with George Washington as presiding officer was celebrated with a three-cent issue on September 17, 1937, adapted from the painting by Julius Brutus Stearns.Trotter, Gordon T., [3c Constitution Sesquicentennial plate block of four Constitution Sesquicentennial Issue], National Postal Museum online. Washington's presidential inauguration at Federal Hall in New York City was celebrated on its 150th anniversary on April 30, 1939.Haimann, Alexander T., [http://arago.si.edu/index.asp?con=2&cmd=1&id=147831 Washington Inauguration Issue] {{webarchive|url=https://web.archive.org/web/20150529001913/http://arago.si.edu/index.asp?con=2&cmd=1&id=147831 |date=May 29, 2015 }}, National Postal Museum online.
+
+'''Selected issues'''
+
+{|. 
+alt=Washington, general issue of 1862, 24c|156px|thumb|Washingtonissue of 1862. 
+alt=Washington-Franklin Issue of 1917, 5c|160px|thumb|Washington-Franklin, issue of 1917. 
+160px|alt=Washington at Prayer, Valley Forge, issue of 1928, 2c|thumb|Washington at Valley Forge, issue of 1928. 
+252px|alt=President, Constitutional Convention,issue of 1937 3c|thumb|Washington as President of the [[Constitutional Convention (United States)|Constitutional Convention, issue of 1937]]. 
+}
+
+'''Selected currency'''
+
+{|. 
+thumb|180px|George Washington[[Quarter (United States coin)|quarter dollar]]. 
+thumb|174px|George Washington[[Presidential $1 Coin Program|presidential one dollar coin]]. 
+thumb|428px|George Washington on the 1928 [[United States one-dollar bill|dollar bill]]. 
+}
+
+=== Portrait gallery ===
+
+
+File:George Washington (detail) 1975.jpg|By Adolph Ulrik Wertmller
+File:George Washington by Giuseppe Perovani (MRABASF 693) 01.jpg|By G. Perovani, 1796, Madrid, Spain
+File:Peale George Washington.jpg|By Rembrandt Peale, c. 1846
+File:Washington at Verplanck's Point by John Trumbull.jpg|By John Trumbull, 1790
+File:George Washington by Gilbert Stuart, 1795-96.png|1795-96
+File:Portrait of George Washington-transparent.png|''George Washington'' by Rembrandt Peale, De Young Museum (ca. 1850)
+File:GeorgeWashingtonByRobertField.jpg|Miniature Portrait of Washington by Robert Field (1800)
+File:General George Washington at Trenton by John Trumbull.jpeg|alt=General George Washington in front of a white horse, on the night before the Battle of Princeton|''General George Washington at Trenton'' by John Trumbull, Yale University Art Gallery (1792)
+File:Gilbert Stuart - George Washington - Google Art Project.jpg|''Lansdowne portrait'', painted by Gilbert Stuart in 1796
+
+
+== See also ==
+* Culper Ring, the spy ring organized by Benjamin Tallmadge and supervised by Washington
+* American gentry
+* Conotocaurious (Town Destroyer), a nickname given to Washington by Iroquois Native Americans
+* Electoral history of George Washington
+* List of federal judges appointed by George Washington
+* List of notable Freemasons
+* List of Presidents of the United States, sortable by previous experience
+* List of United States militia units in the American Revolutionary War
+* Where's George?, a website that tracks the circulation of American paper money
+{{Wikipedia books |1=George Washington |3=Presidents of the United States (17891860)}}
+{{clear}}
+
+== Notes ==
+{{Notelist}}
+
+== References ==
+{{Reflist}}
+
+== Bibliography ==
+{{For|a list of published works|Bibliography of George Washington}}
+{{Refbegin|30em}}
+
+'''Book sources'''
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* , Pulitzer Prize
+* 
+* 
+* 
+* 
+* 
+
+* 
+* 
+
+* , standard political history of 1790s
+* 
+* 
+*  (Both Franklin's and Washington's confusing birth dates are clearly explained.)
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+* , heavily illustrated
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+
+* 
+* 
+
+* 
+* 
+
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+
+* 
+* 
+* 
+* 
+* 
+* 
+
+* 
+
+* 
+
+* 
+* 
+* }}
+
+* 
+* (Sent to the Commandment of the French Forces in Ohio)
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+
+'''Primary sources'''
+* 
+* 'Writings of George Washington'' edited by John C. Fitzpatrick, et al.  (39 vol. 1931)
+** [https://founders.archives.gov/about "Founders Online," searchable edition]
+
+'''Online sources'''
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* 
+* }}
+* 
+* 
+* 
+* 
+
+{{Refend}}
+{{Library resources box}}
+
+== External links ==
+{{Sister project links |wikt=Washington |commons=George Washington |b=US History/Presidents |n=no |s=Author:George Washington |v=The US Presidents/George Washington}}
+{{Spoken Wikipedia-2|2008-05-28|George_Washington_part_1.ogg|George_Washington_part_2.ogg}}
+* [https://www.whitehouse.gov/1600/presidents/georgewashington White House biography]
+* {{CongBio|W000178}}
+* [http://www.mountvernon.org/ George Washington's Mount Vernon]
+* [https://web.archive.org/web/20081014141828/http://millercenter.org/index.php/academic/americanpresident/washington American President: George Washington (17321799)] at the Miller Center of Public Affairs, University of Virginia
+* [https://www.loc.gov/rr/program/bib/presidents/washington/ George Washington: A Resource Guide] at the Library of Congress
+* [https://web.archive.org/web/20060630162324/http://etext.lib.virginia.edu/washington/ George Washington Resources] at the University of Virginia Library
+* [http://www.shapell.org/manuscript.aspx?george-washington-potomac-river Original Digitized Letters of George Washington] Shapell Manuscript Foundation
+* [http://avalon.law.yale.edu/subject_menus/washpap.asp The Papers of George Washington] at the Avalon Project
+* [https://founders.archives.gov/about/Washington The Papers of George Washington], subset of [https://founders.archives.gov/ Founders Online] from the National Archives
+* [http://www.nps.gov/gewa/index.htm George Washington Birthplace National Monument, Virginia] from the National Park Service
+* [https://www.archive.org/details/copiesofwillsofg1904wash ''Copies of the wills of General George Washington: the first president of the United States and of Martha Washington, his wife''] (1904), edited by E. R. Holbrook
+* [http://www.mountvernon.org/site/virtual-tour/ Virtual Tour Mount Vernon] 
+* 
+
+
+* {{Gutenberg author | id=Washington,+George | name=George Washington}}
+* {{Internet Archive author |sname=George Washington}}
+* {{Librivox author |id=354}}
+* [http://www.shapell.org/Collection/Presidents/Washington-George George Washington Personal Manuscripts]
+* [https://www.bbc.co.uk/programmes/p004y28v Washington & the American Revolution], BBC Radio 4 discussion with Carol Berkin, Simon Middleton & Colin Bonwick (''In Our Time'', June 24, 2004)
+
+{{s-start}}
+{{s-mil}}
+{{s-new|creation}}
+{{s-ttl|title=Commander-in-Chief of the Continental Army|years=17751783}}
+{{s-aft|after=Henry Knox|as=Senior Officer of the Army}}
+{{s-bef|before=James Wilkinson}}
+{{s-ttl|title=Senior Officer of the Army|years=17981799}}
+{{s-aft|after=Alexander Hamilton}}
+{{s-off}}
+{{s-new|creation}}
+{{s-ttl|title=President of the United States|order=1st|years=17891797}}
+{{s-aft|after=John Adams}}
+{{s-end}}
+
+{{GeorgeWashington}}
+{{Navboxes. 
+title=Articles related to George Washington. 
+list1=
+{{US Presidents}}
+{{United States Constitution signatories}}
+{{US Army Chiefs of Staff}}
+{{Washington family}}
+{{Washington cabinet}}
+{{Washington and Lee University}}
+{{College of William & Mary chancellors}}
+{{Hall of Fame for Great Americans}}
+}}
+{{Portal bar|Biography|Anglicanism|United States|American Revolutionary War|Virginia||Government of the United States|Military of the United States|United States Army}}
+{{Authority control}}
+
+{{good article}}
+
+{{DEFAULTSORT:Washington, George}}
+Category:1732 births
+Category:1799 deaths
+ 
+Category:18th-century American Episcopalians
+Category:18th-century American politicians
+Category:American cartographers
+Category:American deists
+Category:American foreign policy writers
+Category:American Freemasons
+Category:American male writers
+Category:American military personnel of the Seven Years' War
+Category:American people of Dutch descent
+Category:American people of English descent
+Category:American planters
+Category:American surveyors
+Category:British America army officers
+Category:Burials at Mount Vernon
+Category:Chancellors of the College of William & Mary
+Category:Commanders in chief
+Category:Congressional Gold Medal recipients
+Category:Continental Army generals
+Category:Continental Army officers from Virginia
+Category:Continental Congressmen from Virginia
+Category:Fellows of the American Academy of Arts and Sciences
+Category:Free speech activists
+Category:Hall of Fame for Great Americans inductees
+Category:House of Burgesses members
+Category:Members of the American Philosophical Society
+Category:People from Mount Vernon, Virginia
+Category:People from Westmoreland County, Virginia
+Category:People of the American Enlightenment
+Category:People of Virginia in the American Revolution
+Category:People of Virginia in the French and Indian War
+Category:Presidents of the United States
+Category:American rebels
+Category:Signers of the United States Constitution
+Category:Smallpox survivors
+Category:United States Army generals
+Category:United States Army personnel
+Category:United States presidential candidates, 1789
+Category:United States presidential candidates, 1792
+Category:Virginia militiamen in the American Revolution
+Category:Washington and Lee University people
+Category:Washington College people
+Category:Washington family
+Category:American slave owners
+Category:Virginia Independents</text>
+      <sha1>bhyl1rr2t90bxiwthgd4i1e3sglquha</sha1>
+    </revision>
+  </page>
+</mediawiki>

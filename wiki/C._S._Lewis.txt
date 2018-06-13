@@ -1,0 +1,537 @@
+--authors
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.32.0-wmf.7</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="108" case="first-letter">Book</namespace>
+      <namespace key="109" case="first-letter">Book talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="446" case="first-letter">Education Program</namespace>
+      <namespace key="447" case="first-letter">Education Program talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="first-letter">Gadget</namespace>
+      <namespace key="2301" case="first-letter">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>C. S. Lewis</title>
+    <ns>0</ns>
+    <id>5813</id>
+    <revision>
+      <id>843433312</id>
+      <parentid>839830076</parentid>
+      <timestamp>2018-05-29T03:52:22Z</timestamp>
+      <contributor>
+        <username>Mattresshugs</username>
+        <id>29176678</id>
+      </contributor>
+      <comment>Removed extraneous reference to his work entering the public domain in 2014</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text xml:space="preserve" bytes="96397">{{pp-semi-indef}}
+{{pp-move-indef}}
+{{Use British English|date=October 2016}}
+{{Use dmy dates|date=March 2017}}
+{{Infobox writer &lt;!-- for more information see [[:Template:Infobox writer/doc]] --&gt;
+| name = C. S. Lewis
+| image = C.s.lewis3.JPG &lt;!-- FAIR USE of C.s.lewis3.JPG: see image description page at http://en.wikipedia.org/wiki/Image:C.s.lewis3.JPG for rationale --&gt;
+| alt = Monochrome head-and-left-shoulder photo portrait of 50-year-old Lewis
+| caption = Lewis, age 48
+|pseudonym = Clive Hamilton, N. W. Clerk
+| birth_name = Clive Staples Lewis
+| birth_date = {{birth date|df=yes|1898|11|29}}
+| birth_place = [[Belfast]], Ireland &lt;!-- not "Northern Ireland, because Northern Ireland did not exist at the time --&gt;
+| death_date = {{death date and age|df=yes|1963|11|22|1898|11|29}}
+| death_place = [[Oxford]], England
+| occupation = Novelist, scholar, broadcaster
+| nationality = &lt;!-- Leave blank until ongoing disputes have been resolved and Consensus reached, see talk page --&gt;
+| citizenship = &lt;!-- Leave blank until ongoing disputes have been resolved and Consensus reached, see talk page --&gt;
+| alma_mater = [[University College, Oxford]]
+| genre = [[Christian apologetics]], [[fantasy]], science fiction, children's literature
+| notableworks = ''[[The Chronicles of Narnia]]'' &lt;br /&gt;''[[Mere Christianity]]''&lt;br /&gt;''[[The Allegory of Love]]''&lt;br /&gt;''[[The Screwtape Letters]]''&lt;br /&gt;''[[The Space Trilogy]]''&lt;br /&gt;''[[Till We Have Faces]]''&lt;br /&gt;''[[Surprised by Joy: The Shape of My Early Life]]''
+| spouse = {{marriage|[[Joy Davidman]]|1956|1960|reason=died}}
+| signature = 
+}}
+'''Clive Staples Lewis''' (29 November 1898&amp;nbsp; 22 November 1963) was a British novelist, poet, academic, [[medieval studies|medievalist]], literary critic, essayist, [[lay theologian]], broadcaster, lecturer, and [[Christian apologetics|Christian apologist]]. He held academic positions at both [[Oxford University]] ([[Magdalen College, Oxford|Magdalen College]], 19251954) and [[Cambridge University]] ([[Magdalene College, Cambridge|Magdalene College]], 19541963). He is best known for his works of fiction, especially ''[[The Screwtape Letters]]'', ''[[The Chronicles of Narnia]]'', and ''[[The Space Trilogy]]'', and for his non-fiction Christian apologetics, such as ''[[Mere Christianity]]'', ''[[Miracles (book)|Miracles]]'', and ''[[The Problem of Pain]]''.
+
+Lewis and fellow novelist [[J. R. R. Tolkien]] were close friends. They both served on the English faculty at Oxford University, and were active in the informal Oxford literary group known as the [[Inklings]]. According to Lewis's memoir ''[[Surprised by Joy]]'', he was baptised in the [[Church of Ireland]], but fell away from his faith during adolescence. Lewis returned to  [[Anglicanism]] at the age of 32, owing to the influence of Tolkien and other friends, and he became an "ordinary layman of the Church of England".{{sfn|Lewis|1997|p=6}} Lewis's faith profoundly affected his work, and his wartime radio broadcasts on the subject of Christianity brought him wide acclaim.
+
+Lewis wrote more than 30 books,&lt;ref&gt;Richard B. Cunningham, ''C. S. Lewis: Defender of the Faith'', Wipf and Stock Publishers (2008), p. 14&lt;/ref&gt; which have been translated into more than 30 languages and have sold millions of copies. The books that make up ''The Chronicles of Narnia'' have sold the most and have been popularised on stage, TV, radio, and cinema. His philosophical writings are widely cited by Christian apologists from many denominations.
+
+In 1956, Lewis married American writer [[Joy Davidman]]; she died of cancer four years later at the age of 45. Lewis died on 22 November 1963 from [[renal failure]], one week before his 65th birthday. In 2013, on the 50th anniversary of his death, Lewis was honoured with a memorial in [[Poets' Corner]] in Westminster Abbey.
+
+==Biography==
+
+===Childhood===
+[[File:Little Lea.JPG|thumb|Little Lea, home of the Lewis family from 1905 to 1930]]
+Clive Staples Lewis was born in [[Belfast]], Ireland&lt;!-- not "Northern Ireland, because Northern Ireland did not exist at the time --&gt;, on 29 November 1898.&lt;ref&gt;{{cite ODNB|id=34512|title=Lewis, Clive Staples (18981963)|origyear=2004|year=2008|last=Bennett|first=Jack Arthur Walter|last2=Plaskitt|first2=Emma Lisa}}&lt;/ref&gt; His father was Albert James Lewis (18631929), a solicitor whose father Richard had come to Ireland from Wales during the mid-19th century. His mother was Florence Augusta Lewis, [[Given name#Name_at_birth|ne]] Hamilton (18621908), known as Flora, the daughter of a [[Church of Ireland]] priest, and great grand-daughter of both Bishop [[Hugh Hamilton (bishop)|Hugh Hamilton]] and [[John Staples]]. He had an elder brother, [[Warren Lewis|Warren Hamilton Lewis]].&lt;ref&gt;{{Cite news|url=http://www.cslewis.org/resource/chronocsl/|title=The Life of C.S. Lewis Timeline |work=C.S. Lewis Foundation|access-date=11 March 2017}}&lt;/ref&gt;&lt;ref&gt;{{Cite web|url=http://www.notablebiographies.com/Ki-Lo/Lewis-C-S.html|title=C.S. Lewis Biography|website=Encyclopedia of World Biography|access-date=11 March 2017}}&lt;/ref&gt;
+
+When he was four, his dog Jacksie was killed by a car, and he announced that his name was now Jacksie. At first, he would answer to no other name, but later accepted Jack, the name by which he was known to friends and family for the rest of his life.&lt;ref&gt;{{Cite book|title=Ten Boys Who Used Their Talents|last=Howat|first=Irene|publisher=Christian Focus Publications Ltd|year=2006|isbn=978-1-84550-146-4|location=Great Britain|pages=22}}&lt;/ref&gt; When he was seven, his family moved into "Little Lea", the family home of his childhood, in the [[Strandtown]] area of East Belfast.&lt;ref&gt;{{Cite web|url=http://www.cslewisinstitute.org/Surprised_by_Belfast_Significant_Sites_in_the_Land_and_Life_of_CS_Lewis_Part_I_Little_Lea_FullArticle|title=Surprised by Belfast: Significant Sites in the Land and Life of C.S. Lewis, Part 1, Little Lea|last=Smith|first=Sandy|date=18 February 2016|website=C.S. Lewis Institute|access-date=7 March 2017}}&lt;/ref&gt;
+
+As a boy, Lewis was fascinated with [[anthropomorphic]] animals; he fell in love with [[Beatrix Potter]]'s stories and often wrote and illustrated his own animal stories. He and his brother Warnie created the world of [[Boxen (C. S. Lewis)|Boxen]], inhabited and run by animals. Lewis loved to read; his father's house was filled with books, and he felt that finding a book to read was as easy as walking into a field and "finding a new blade of grass".{{sfn|Lewis|1966b|p=10}}
+{{Quote box|align=right|quote=&lt;poem&gt;
+The New House is almost a major character in my story.
+I am the product of long corridors, empty sunlit rooms,
+upstair indoor silences, attics explored in solitude,
+distant noises of gurgling cisterns and pipes,
+and the noise of wind under the tiles. Also, of endless books.&lt;/poem&gt;
+|source=''[[Surprised by Joy]]''}}
+Lewis was schooled by private tutors until age 9, when his mother died in 1908 from cancer. His father then sent him to live and study at [[Wynyard School]] in [[Watford]], Hertfordshire. Lewis's brother had enrolled there three years previously. The school was closed not long afterwards due to a lack of pupils; the headmaster Robert "Oldie" Capron was soon after committed to a psychiatric hospital. Lewis then attended [[Campbell College]] in the east of Belfast about a mile from his home, but left after a few months due to respiratory problems. He was then sent to the health-resort town of [[Malvern, Worcestershire|Malvern]], Worcestershire, where he attended the preparatory school Cherbourg House, which Lewis calls "Chartres" in his autobiography. It was during this time that Lewis abandoned his childhood Christian faith and became an atheist, becoming interested in mythology and the occult.{{sfn|Lewis|1966b|p=56}} In September 1913, Lewis enrolled at [[Malvern College]], where he remained until the following June. He found the school socially competitive.{{sfn|Lewis|1966a|p=107}} After leaving Malvern, he studied privately with [[William T. Kirkpatrick]], his father's old tutor and former headmaster of [[Lurgan College]].&lt;ref name="Lewis"&gt;{{cite book |last=Lewis |first=C.S. |date=1955 |title=Surprised by Joy: The Shape of My Early Life |location=New York City |publisher=[[Harcourt Brace Jovanovich]] |pages=128186 |isbn=0-15-687011-8}}&lt;/ref&gt;
+
+As a teenager, Lewis was wonder-struck by the songs and legends of what he called ''Northernness'', the ancient literature of Scandinavia preserved in the [[Icelandic sagas]]. These legends intensified an inner longing he later called "joy". He also grew to love nature; its beauty reminded him of the stories of the North, and the stories of the North reminded him of the beauties of nature. His teenage writings moved away from the tales of Boxen, and he began using different art forms, such as [[epic poetry]] and opera, to try to capture his new-found interest in [[Norse mythology]] and the natural world. Studying with Kirkpatrick ("The Great Knock", as Lewis afterwards called him) instilled in him a love of [[Greek literature]] and mythology and sharpened his debate and reasoning skills. In 1916, Lewis was awarded a scholarship at [[University College, Oxford]].&lt;ref&gt;{{cite web|url=https://www.cslewis.com/us/about-cs-lewis|title= About C.S. Lewis |publisher=CSLewis.com | access-date =4 February 2016}}&lt;/ref&gt; Within months of entering Oxford, the British Army shipped him to France to fight in the [[First World War]].&lt;ref name="Lewis" /&gt; His experience of the horror of war confirmed his atheism.{{citation needed|date=November 2016}}
+
+==="My Irish life"&lt;!--Note to editors: Lewis described this as "My Irish Life" see the bottom of this section for the title's meaning--&gt;===
+[[File:CSLewisPlaque.jpg|thumb|Plaque on a park-bench in [[Bangor, County Down]]]]
+Lewis experienced a certain cultural shock on first arriving in England: "No Englishman will be able to understand my first impressions of England," Lewis wrote in ''[[Surprised by Joy]]''. "The strange [[Regional accents of English speakers|English accents]] with which I was surrounded seemed like the voices of demons. But what was worst was the English landscape&amp;nbsp;... I have made up the quarrel since; but at that moment I conceived a hatred for England which took many years to heal."{{sfn|Lewis|1966b|p=24}}
+
+From boyhood, Lewis had immersed himself in [[Norse mythology|Norse]] and [[Greek mythology|Greek]] mythology, and later in [[Irish mythology]] and [[Irish literature|literature]]. He also expressed an interest in the Irish language,&lt;ref&gt;{{cite book |first=Wayne |last=Martindale |title=Beyond the Shadowlands: C. S. Lewis on Heaven and Hell |publisher=Crossway |year=2005 |page=52 |isbn=978-1581345131}}&lt;/ref&gt;{{sfn|Lewis|1984|p=118}} though there is not much evidence that he laboured to learn it. He developed a particular fondness for [[W. B. Yeats]], in part because of Yeats's use of Ireland's Celtic heritage in poetry. In a letter to a friend, Lewis wrote, "I have here discovered an author exactly after my own heart, whom I am sure you would delight in, W. B. Yeats. He writes plays and poems of rare spirit and beauty about our old Irish mythology."{{sfn|Lewis|2000|p=59}}
+
+In 1921, Lewis met Yeats twice, since Yeats had moved to Oxford.{{sfn|Lewis|2004|pp= 56465}} Lewis was surprised to find his English peers indifferent to Yeats and the [[Celtic Revival]] movement, and wrote: "I am often surprised to find how utterly ignored Yeats is among the men I have met: perhaps his appeal is purely Irish&amp;nbsp; if so, then thank the gods that I am Irish."&lt;ref name="On Yeats"&gt;Yeats's appeal wasn't exclusively Irish; he was also a major "magical opponent" of famed English occultist [[Aleister Crowley]], as noted extensively throughout Lawrence Sutin's [https://books.google.com/books?id=JpR0FKRIissC&amp;pg=PA69&amp;lpg=PA32&amp;dq=aleister+crowley+yeats&amp;source=bl&amp;ots=n_oxScdKNJ&amp;sig=I4oh26EII5asPOwxxE9flizlHLc&amp;hl=en&amp;ei=zITTSY3wLpaItAOTzLj8Cw&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result ''Do what thou wilt: a life of Aleister Crowley'']. New York: MacMillan (St. Martins). cf. pp. 5678.&lt;/ref&gt;&lt;ref&gt;{{cite book |last=King |first=Francis |year=1978 |title=The Magical World of Aleister Crowley |location=New York |publisher=Coward, McCann &amp; Geoghegan |isbn=0-698-10884-1}}&lt;/ref&gt; Early in his career, Lewis considered sending his work to the major [[Dublin]] publishers, writing: "If I do ever send my stuff to a publisher, I think I shall try Maunsel, those Dublin people, and so tack myself definitely onto the Irish school."{{sfn|Lewis|2000|p=59}} After his [[conversion to Christianity]], his interests gravitated towards Christian theology and away from pagan Celtic mysticism.&lt;ref name="Thomas"&gt;{{cite book |first=Thomas C. |last=Peters |title=Simply C. S. Lewis: A Beginner's Guide to the Life and Works of C. S. Lewis |publisher=Crossway Books |year=1997 |page=70 |isbn=978-0891079484}}&lt;/ref&gt;
+
+Lewis occasionally expressed a somewhat tongue-in-cheek chauvinism toward the English. Describing an encounter with a fellow Irishman, he wrote: "Like all Irish people who meet in England, we ended by criticisms on the invincible flippancy and dullness of the Anglo-Saxon race. After all, there is no doubt, ''ami'', that the Irish are the only people: with all their faults, I would not gladly live or die among another folk."{{sfn|Lewis|2004|p= 310}} Throughout his life, he sought out the company of other Irish people living in England{{sfn|Clare|2010|pp=2122}} and visited Northern Ireland regularly. In 1958 he spent his honeymoon there at the Old Inn, [[Crawfordsburn]],{{sfn|The Old Inn|2007|p=}} which he called "my Irish life".{{sfn|Lewis|1993|p=93}}
+
+Various critics have suggested that it was Lewis's dismay over sectarian conflict in his native Belfast which led him to eventually adopt such an [[Ecumenism|ecumenical]] brand of Christianity.{{sfn|Wilson|1991|p=xi}} As one critic has said, Lewis "repeatedly extolled the virtues of all branches of the Christian faith, emphasising a need for unity among Christians around what the Catholic writer {{nowrap|G. K. Chesterton}} called 'Mere Christianity', the core doctrinal beliefs that all denominations share".{{sfn|Clare|2010|p=24}} On the other hand, Paul Stevens of the [[University of Toronto]] has written that "Lewis's mere Christianity&lt;!-- not a book title --&gt; masked many of the political prejudices of an old-fashioned Ulster Protestant, a native of middle-class Belfast for whom British withdrawal from Northern Ireland even in the 1950s and 1960s was unthinkable."&lt;ref&gt;Paul Stevens, review of "Reforming Empire: Protestant Colonialism and Conscience in British Literature" by Christopher Hodgkins, ''[[Modern Philology]]'', Vol. 103, Issue 1 (August 2005), pp. 1378, citing Humphrey Carpenter, ''The Inklings'' (London: Allen &amp; Unwin, 1978), pp. 5052, 2067.&lt;/ref&gt;
+
+===First World War and Oxford University===
+Soon after Lewis entered Oxford in the 1917 summer term, he joined the [[Officers' Training Corps]] at the university as his "most promising route into the army".&lt;ref name=Joy&gt;{{cite book|last1=Lewis|first1=C. S.|title=Surprised by Joy: The Shape of My Early Life|date=1955|publisher=Harvest Books|location=Orlando, FL|isbn=0-15-687011-8|pages=1868}}&lt;/ref&gt; From there, he was drafted into a Cadet Battalion for training.&lt;ref name=Joy /&gt;&lt;ref name=Sayer /&gt; After his training, he was [[commissioned officer|commissioned]] into the Third Battalion of the [[Somerset Light Infantry]] of the [[British Army]] as a Second Lieutenant. On his nineteenth birthday (29 November 1917) he arrived at the front line in the [[River Somme|Somme]] Valley in France, where he experienced [[trench warfare]] for the first time.&lt;ref name=Joy /&gt;&lt;ref name=Sayer&gt;{{cite book|last1=Sayer|first1=George|title=Jack: A Life of C. S. Lewis|date=1994|publisher=Crossway Books|location=Wheaton, IL|isbn=0-89107-761-8|pages=122130|edition=2nd}}&lt;/ref&gt;&lt;ref name="secret" /&gt; On 15 April 1918, Lewis was wounded and two of his colleagues were killed by a British shell falling short of its target.&lt;ref name="secret"&gt;{{cite book |last=Arnott |first=Anne |title=The Secret Country of C. S. Lewis |year=1975 |publisher=Wm. B. Eerdmans Publishing Co. |isbn=978-0802834683}}&lt;/ref&gt;{{page needed|date=October 2016}} He suffered from depression and homesickness during his convalescence and, upon his recovery in October, he was assigned to duty in [[Andover, Hampshire|Andover]], England. He was [[demobilised]] in December 1918 and soon restarted his studies.{{citation needed|date=November 2016}}
+
+After Lewis returned to Oxford University, he received a [[British undergraduate degree classification|First]] in [[Honour Moderations]] (Greek and [[Latin literature]]) in 1920, a First in [[Literae Humaniores|Greats]] (Philosophy and Ancient History) in 1922, and a First in English in 1923. In 1924 he became a philosophy tutor at [[University College Oxford|University College]] and, in 1925, was elected a Fellow and Tutor in English Literature at [[Magdalen College, Oxford|Magdalen College]], where he served for 29 years until 1954.{{citation needed|date=November 2016}}
+
+===Jane Moore===
+During his army training, Lewis shared a room with another cadet, Edward Courtnay Francis "Paddy" Moore (18981918). Maureen Moore, Paddy's sister, said that the two made a mutual pact{{sfn|Edwards|2007|p=133}} that if either died during the war, the survivor would take care of both of their families. Paddy was killed in action in 1918 and Lewis kept his promise. Paddy had earlier introduced Lewis to his mother, Jane King Moore, and a friendship quickly sprang up between Lewis, who was eighteen when they met, and Jane, who was forty-five. The friendship with Moore was particularly important to Lewis while he was recovering from his wounds in hospital, as his father did not visit him.
+
+Lewis lived with and cared for Moore until she was hospitalised in the late 1940s. He routinely introduced her as his mother, referred to her as such in letters, and developed a deeply affectionate friendship with her. Lewis's own mother had died when he was a child, and his father was distant, demanding, and eccentric.
+
+Speculation regarding their relationship resurfaced with the 1990 publication of [[A. N. Wilson]]'s biography of Lewis. Wilson (who never met Lewis) attempted to make a case for their having been lovers for a time. Wilson's biography was not the first to address the question of Lewis's relationship with Moore. [[George Sayer]] knew Lewis for 29 years, and he had sought to shed light on the relationship during the period of 14 years prior to Lewis's conversion to Christianity. In his biography ''Jack: A Life of C. S. Lewis'', he wrote:
+{{quote |Were they lovers? Owen Barfield, who knew Jack well in the 1920s, once said that he thought the likelihood was "fifty-fifty". Although she was twenty-six years older than Jack, she was still a handsome woman, and he was certainly infatuated with her. But it seems very odd, if they were lovers, that he would call her "mother". We know, too, that they did not share the same bedroom. It seems most likely that he was bound to her by the promise he had given to Paddy and that his promise was reinforced by his love for her as his second mother.&lt;ref&gt;{{cite book |last=Sayer |first=George |year=1997 |title=Jack: A Life of C. S. Lewis |location=London |publisher=Hodder &amp; Stoughton |page=154 |isbn=978-0340690680}}&lt;/ref&gt;}}
+
+Later Sayer changed his mind. In the introduction to the 1997 edition of his biography of Lewis he wrote:
+{{quote |I have had to alter my opinion of Lewis's relationship with Mrs. Moore. In chapter eight of this book I wrote that I was uncertain about whether they were lovers.  Now after conversations with Mrs. Moore's daughter, Maureen, and a consideration of the way in which their bedrooms were arranged at The Kilns, I am quite certain that they were.&lt;ref&gt;{{cite web|url=http://www.impalapublications.com/blog/index.php?/archives/5185-C.S.-Lewis-and-Mrs-Janie-Moore,-by-James-OFee.html|title=C.S. Lewis and Mrs Janie Moore, by James O'Fee|publisher=impalapublications.com}}&lt;/ref&gt;}}
+
+Lewis spoke well of Mrs. Moore throughout his life, saying to his friend George Sayer, "She was generous and taught me to be generous, too." In December 1917, Lewis wrote in a letter to his childhood friend Arthur Greeves that Jane and Greeves were "the two people who matter most to me in the world".
+
+In 1930, Lewis moved into "The Kilns" with his brother Warnie, Mrs. Moore, and her daughter Maureen. The Kilns was a house in the district of [[Headington Quarry]] on the outskirts of Oxford, now part of the suburb of [[Risinghurst]]. They all contributed financially to the purchase of the house, which passed to Maureen, who by then was [[Maureen Dunbar|Dame Maureen Dunbar]], when Warren died in 1973.
+
+Jane Moore suffered from [[dementia]] in her later years and was eventually moved into a nursing home, where she died in 1951. Lewis visited her every day in this home until her death.
+
+===Return to Christianity===
+Lewis was raised in a religious family that attended the [[Church of Ireland]]. He became an atheist at age 15, though he later described his young self as being paradoxically "angry with God for not existing".{{sfn|Lewis|1966b|p=115}} His early separation from Christianity began when he started to view his religion as a chore and a duty; around this time, he also gained an interest in the occult, as his studies expanded to include such topics.&lt;ref&gt;''The Critic'', Volume 32, Thomas More Association, 1973. Original from the [[University of Michigan]].&lt;/ref&gt; Lewis quoted [[Lucretius]] (''De rerum natura'', 5.1989) as having one of the [[Argument from poor design|strongest arguments]] for atheism:{{sfn|Lewis|1966b|p=65}}
+
+:{{lang|lt|Nequaquam nobis divinitus esse paratam}}
+:{{lang|lt|Naturam rerum; tanta stat praedita culpa}}
+
+which he translated poetically as follows:
+
+:Had God designed the world, it would not be
+:A world so frail and faulty as we see.
+
+(This is a highly poetic, rather than a literal translation.  A more literal translation, by William Ellery Leonard,{{sfn|Lucretius|1916}} reads: "That in no wise the nature of all things / For us was fashioned by a power divine  / So great the faults it stands encumbered with.")
+
+Lewis's interest in the works of [[George MacDonald]] was part of what turned him from atheism. This can be seen particularly well through this passage in Lewis's ''[[The Great Divorce]]'', chapter nine, when the semi-autobiographical [[Protagonist|main character]] meets MacDonald in [[Heaven]]:
+{{quote |...&amp;nbsp;I tried, trembling, to tell this man all that his writings had done for me. I tried to tell how a certain frosty afternoon at Leatherhead Station when I had first bought a copy of ''[[Phantastes]]'' (being then about sixteen years old) had been to me what the first sight of Beatrice had been to Dante: ''Here begins the new life''. I started to confess how long that Life had delayed in the region of imagination merely: how slowly and reluctantly I had come to admit that his Christendom had more than an accidental connexion with it, how hard I had tried not to see the true name of the quality which first met me in his books is Holiness.{{sfn|Lewis|2002b|pp=6667}}}}
+
+He eventually returned to Christianity, having been influenced by arguments with his Oxford colleague and Christian friend [[J. R. R. Tolkien]], whom he seems to have met for the first time on 11 May 1926, and the book ''[[The Everlasting Man]]'' by [[G. K. Chesterton]]. Lewis vigorously resisted conversion, noting that he was brought into Christianity like a prodigal, "kicking, struggling, resentful, and darting his eyes in every direction for a chance to escape".{{sfn|Lewis|1966b|p=229}} He described his last struggle in ''[[Surprised by Joy]]'':
+
+{{quote |You must picture me alone in that room in Magdalen [College, Oxford], night after night, feeling, whenever my mind lifted even for a second from my work, the steady, unrelenting approach of Him whom I so earnestly desired not to meet. That which I greatly feared had at last come upon me. In the Trinity Term of 1929 I gave in, and admitted that God was God, and knelt and prayed: perhaps, that night, the most dejected and reluctant convert in all England.{{sfn|Lewis|1966b|pp=228, 229}}}}
+
+After his conversion to [[theism]] in 1929, Lewis converted to Christianity in 1931, following a long discussion and late-night walk with his close friends Tolkien and [[Hugo Dyson]]. He records making a specific commitment to Christian belief while on his way to the zoo with his brother. He became a member of the [[Church of England]]&amp;nbsp; somewhat to the disappointment of Tolkien, who had hoped that he would join the Catholic Church.{{sfn|Carpenter|2006}}{{Rp|needed=yes|date=March 2012}}{{incomplete short citation|date=October 2016}}
+
+Lewis was a committed [[Church of England|Anglican]] who upheld a largely orthodox Anglican theology, though in his [[apologetics|apologetic]] writings, he made an effort to avoid espousing any one denomination. In his later writings, some believe that he proposed ideas such as purification of [[venial sin]]s after death in [[purgatory]] (''[[The Great Divorce]]'' and ''[[Letters to Malcolm]]'') and [[mortal sin]] (''[[The Screwtape Letters]]''), which are generally considered to be Roman Catholic teachings, although they are also widely held in Anglicanism (particularly in [[high church]] [[Anglo-Catholicism|Anglo-Catholic]] circles). Regardless, Lewis considered himself an entirely orthodox Anglican to the end of his life, reflecting that he had initially attended church only to receive communion and had been repelled by the hymns and the poor quality of the sermons. He later came to consider himself honoured by worshipping with men of faith who came in shabby clothes and work boots and who sang all the verses to all the hymns.{{sfn|Wilson|2002|p=147}}
+
+===Second World War===
+After the outbreak of the [[Second World War]] in 1939, the Lewises took child evacuees from London and other cities into [[The Kilns]].&lt;ref name=tst&gt;{{cite book |last=Bingham |first=Derick |title=C. S. Lewis: The Story Teller |series=Trailblazers |year=1999 |publisher=[[Christian Focus Publications]] |pages=8587 |isbn=978-1-85792-487-9}}&lt;/ref&gt; Lewis was only 40 when the war started, and he tried to re-enter military service, offering to instruct cadets; but his offer was not accepted. He rejected the recruiting office's suggestion of writing columns for the [[Ministry of Information (United Kingdom)|Ministry of Information]] in the press, as he did not want to "write lies"&lt;ref name=tst2&gt;{{cite book |first=Derick |last=Bingham |title=C. S. Lewis: The Story Teller |publisher=CF4Kids |series=Trailblazers |year=2004 |page=88 |isbn=978-1857924879}}&lt;/ref&gt; to deceive the enemy. He later served in the local [[Home Guard (United Kingdom)|Home Guard]] in Oxford.&lt;ref name=tst2 /&gt;
+
+From 1941 to 1943, Lewis spoke on religious programmes broadcast by the BBC from London while the city was under periodic air raids.&lt;ref name=tst3&gt;{{cite book |first=Derick |last=Bingham |title=C. S. Lewis: The Story Teller |year=2004 |pages=9193 |isbn=978-1857924879}}&lt;/ref&gt; These broadcasts were appreciated by civilians and servicemen at that stage. For example, [[Donald Hardman|Air Chief Marshal Sir Donald Hardman]] wrote:
+
+:"The war, the whole of life, everything tended to seem pointless. We needed, many of us, a key to the meaning of the universe. Lewis provided just that."&lt;ref name=tst4&gt;{{cite book |first=Derick |last=Bingham |title=C. S. Lewis: The Story Teller |year=2004 |page=93 |isbn=978-1857924879}}&lt;/ref&gt;
+
+The broadcasts were anthologised in ''Mere Christianity''. From 1941, he was occupied at his summer holiday weekends visiting R.A.F. stations to speak on his faith, invited by the [[Royal Air Force|R.A.F.'s]] [[Chaplain-in-Chief]] [[Maurice Edwards]].&lt;ref name=tst5&gt;{{cite book |first=Derick |last=Bingham |title=C. S. Lewis: The Story Teller |year=2004 |page=94 |isbn=978-1857924879}}&lt;/ref&gt;
+
+It was also during the same wartime period that Lewis was invited to become first President of the [[Socratic Club|Oxford Socratic Club]] in January 1942,&lt;ref name=tst6&gt;{{cite book |first=Derick |last=Bingham |title=C. S. Lewis: The Story Teller |year=2004 |page=96 |isbn=978-1857924879}}&lt;/ref&gt; a position that he enthusiastically held until he resigned on appointment to Cambridge University in 1954.{{citation needed|date=November 2016}}
+
+===Honour declined===
+
+Lewis was named on the last list of honours by [[George VI]] in December 1951 as a [[Commander of the Order of the British Empire]] (CBE) but declined so as to avoid association with any political issues.&lt;ref&gt;{{cite web|url=http://www.cslewis.org/resources/chronocsl.html |title=Chronology of the Life of C.S. Lewis |deadurl=yes |archiveurl=https://web.archive.org/web/20120206021046/http://www.cslewis.org/resources/chronocsl.html |archivedate= 6 February 2012 |df= }}&lt;/ref&gt;&lt;ref name="Letters of C.S. Lewis"&gt;{{cite book|first=C. S. |last=Lewis |title=Letters of C. S. Lewis |year=1994 |publisher=Mariner Books|location=New York |isbn=0-15-650871-0 |page=528 |url=https://www.amazon.com/exec/obidos/ASIN/0156508710/heroesofhistory |editor=W. H. Lewis |editor2=Walter Hooper}}&lt;/ref&gt;
+
+===Chair at Cambridge University===
+In 1954, Lewis accepted the newly founded chair of Mediaeval and Renaissance Literature at [[Magdalene College, Cambridge]], where he finished his career. He maintained a strong attachment to the city of [[Oxford]], keeping a home there and returning on weekends until his death in 1963.
+
+===Joy Davidman===
+{{Quote box
+ |width = 20%
+ |align = right
+ |qalign = right
+ |quote = She was my daughter and my mother, my pupil and my teacher, my subject and my sovereign; and always, holding all these in solution, my trusty comrade, friend, shipmate, fellow-soldier. My mistress; but at the same time all that any man friend (and I have good ones) has ever been to me. Perhaps more.
+ |source = C. S. Lewis&lt;ref name="washtimes"&gt;{{cite news |url=http://www.washingtontimes.com/news/2009/aug/16/books-out-my-bone-letters-joy-davidman/|newspaper=[[The Washington Times]] |title=BOOKS: 'Out of My Bone: The Letters of Joy Davidman' |last=Person Jr. |first=James E |date=16 August 2009 |access-date=8 December 2011}}&lt;/ref&gt;
+}}
+
+In later life, Lewis corresponded with [[Joy Gresham|Joy Davidman Gresham]], an American writer of Jewish background, a former Communist, and a convert from atheism to Christianity.&lt;ref&gt;{{cite web |first=David R. |last=Reagan |url=http://christinprophecy.org/articles/c-s-lewis-his-conversion/ |title=C. S. Lewis&amp;nbsp; His Conversion |publisher=Lamb &amp; Lion Ministries}}&lt;/ref&gt; She was separated from her alcoholic and abusive husband, novelist [[William Lindsay Gresham|William L. Gresham]], and came to England with her two sons, David and [[Douglas Gresham|Douglas]].{{sfn|Haven|2006}} Lewis at first regarded her as an agreeable intellectual companion and personal friend, and it was on this level that he agreed to enter into a [[civil marriage]] contract with her so that she could continue to live in the UK.{{sfn|Hooper|Green|2002|p=268}} The civil marriage took place at the [[register office]], 42 [[St Giles', Oxford]], on 23 April 1956.&lt;ref&gt;{{cite book|url=https://books.google.com/books?id=LWK59Z68ZGoC&amp;pg=PA79|last=Hooper|first=Walter|title=C. S. Lewis: A Complete Guide to His Life and Works|page=79|publisher=books.google.com|access-date=3 December 2011|isbn=9780060638801|date=23 June 1998}}&lt;/ref&gt;&lt;ref&gt;{{cite web|title=No. 42|url=http://www.oxfordhistory.org.uk/stgiles/tour/west/42.html|work=St Giles', Oxford|date=7 December 2011|access-date=9 October 2013}}&lt;/ref&gt; Lewis's brother Warren wrote: "For Jack the attraction was at first undoubtedly intellectual. Joy was the only woman whom he had met&amp;nbsp;... who had a brain which matched his own in suppleness, in width of interest, and in analytical grasp, and above all in humour and a sense of fun."{{sfn|Haven|2006}} After complaining of a painful hip, she was diagnosed with terminal [[bone cancer]], and the relationship developed to the point that they sought a Christian marriage. Since she was divorced, this was not straightforward in the Church of England at the time, but a friend, the Rev. Peter Bide, performed the ceremony at her bed in the [[Churchill Hospital]] on 21 March 1957.&lt;ref&gt;Schultz and West (eds), ''The C. S. Lewis Reader's Encyclopedia'' (Zondervan, Grand Rapids, Michigan, 1988), p. 249.&lt;/ref&gt;
+
+Gresham's cancer soon went into remission, and the couple lived together as a family with [[Warren Lewis]] until 1960, when recurrence of the cancer caused her death on 13 July. Earlier that year, the couple took a brief holiday in Greece and the [[Aegean Sea|Aegean]]; Lewis was fond of walking but not of travel, and this marked his only crossing of the English Channel after 1918. Lewis's book ''[[A Grief Observed]]'' describes his experience of bereavement in such a raw and personal fashion that he originally released it under the pseudonym N. W. Clerk to keep readers from associating the book with him. Ironically, many friends recommended the book to Lewis as a method for dealing with his own grief. After Lewis's death, his authorship was made public by Faber's, with the permission of the executors.{{sfn|Lewis|1961|loc=jacket notes}}
+
+Lewis continued to raise Gresham's two sons after her death. [[Douglas Gresham]] is a Christian like Lewis and his mother,&lt;ref&gt;{{Cite news | url = http://www.theage.com.au/news/books/at-home-in-narnia/2005/12/03/1133422143366.html?page=fullpage | title = At home in Narnia | newspaper = The Age | location = Melbourne, Australia | date = 3 December 2005 | page = 2}}&lt;/ref&gt; while David Gresham turned to his mother's ancestral faith, becoming Orthodox Jewish in his beliefs. His mother's writings had featured the Jews in an unsympathetic manner, particularly one "[[shohet]]" (ritual slaughterer). David informed Lewis that he was going to become a ritual slaughterer to present this type of Jewish religious functionary to the world in a more favourable light. In a 2005 interview, Douglas Gresham acknowledged that he and his brother were not close, but he did say that they are in email contact.&lt;ref name = "theage.com.au"&gt;{{Cite news | url = http://www.theage.com.au/news/books/at-home-in-narnia/2005/12/03/1133422143366.html?page=4 | title = At home in Narnia | newspaper = The Age | location=Melbourne, Australia | date = 3 December 2005 | page = 4}}&lt;/ref&gt; Douglas remains involved in the affairs of the Lewis estate.{{citation needed|date=November 2016}}
+
+===Illness and death===
+[[File:C. S. Lewis' grave.jpg|thumb|C. S. Lewis's grave at [[Holy Trinity Church, Headington Quarry]]]]
+In early June 1961, Lewis began suffering from [[nephritis]], which resulted in blood poisoning. His illness caused him to miss the autumn term at Cambridge, though his health gradually began improving in 1962 and he returned that April. His health continued to improve and, according to his friend George Sayer, Lewis was fully himself by early 1963. On 15 July that year, he fell ill and was admitted to the hospital; he suffered a heart attack at 5:00&amp;nbsp;pm the next day and lapsed into a coma, unexpectedly waking the following day at 2:00&amp;nbsp;pm. After he was discharged from the hospital, Lewis returned to the Kilns, though he was too ill to return to work. As a result, he resigned from his post at Cambridge in August. 
+
+Lewis's condition continued to decline, and he was diagnosed with end-stage [[Chronic renal failure|renal failure]] in mid-November. He collapsed in his bedroom at 5:30&amp;nbsp;pm on 22 November, exactly one week before his 65th birthday, and died a few minutes later.&lt;ref&gt;{{cite book |last=McGrath |first=Alister |year=2013 |title=C. S. Lewis  A Life: Eccentric Genius, Reluctant Prophet |publisher=Tyndale House Publishers, Inc |page=358}}&lt;/ref&gt; He is buried in the churchyard of [[Holy Trinity Church, Headington Quarry|Holy Trinity Church]], [[Headington|Headington, Oxford]].{{sfn|FoHTC}} His brother [[Warren Lewis|Warren]] died on 9 April 1973 and was buried in the same grave.&lt;ref&gt;{{cite web |url= http://cslewis.drzeus.net/multimedia/ | work =Into the Wardrobe | title = Picture Album | publisher = Dr Zeus | access-date =7 October 2010}}&lt;/ref&gt;
+
+Media coverage of Lewis's death was almost completely overshadowed by news of the [[Assassination of John F. Kennedy|assassination of US President John F. Kennedy]], which occurred on the same day (approximately 55 minutes following Lewis's collapse), as did the death of English writer [[Aldous Huxley]], author of ''[[Brave New World]]''.&lt;ref&gt;{{cite book |last=Ruddick |first=Nicholas |year=1993 |title=Ultimate Island: On the Nature of British Science Fiction |publisher=Greenwood Press |isbn=978-0313273735 |page=28}}&lt;/ref&gt; This coincidence was the inspiration for [[Peter Kreeft]]'s book ''[[Between Heaven and Hell (novel)|Between Heaven and Hell: A Dialog Somewhere Beyond Death with John F. Kennedy, C. S. Lewis, &amp; Aldous Huxley]]''.{{sfn|Kreeft|1982}} Lewis is commemorated on 22 November in the [[Calendar of saints (Episcopal Church)|church calendar]] of the [[Episcopal Church (United States)|Episcopal Church]].&lt;ref&gt;{{Cite news| work = USA Today| title = Parish to push sainthood for Thurgood Marshall | url = https://www.usatoday.com/news/religion/2006-01-26-marshall-sainthood_x.htm | date=27 January 2006 | access-date=28 April 2010}}&lt;/ref&gt;
+
+==Career==
+
+===Scholar===
+[[File:Magdalen College Oxford 20040613.jpg|thumb|right|Magdalen College, Oxford]]
+Lewis began his academic career as an undergraduate student at [[Oxford University]], where he won a triple first, the highest honours in three areas of study.&lt;ref&gt;{{Cite book | title = The Question of God: C. S. Lewis and Sigmund Freud Debate God, Love, Sex, and the Meaning of Life | first = Armand | last = Nicholi |year=2003 |publisher=Free Press |isbn=978-0743247856 | page = 4}}&lt;/ref&gt; He was then elected a Fellow of [[Magdalen College, Oxford]], where he worked for nearly thirty years, from 1925 to 1954.&lt;ref name="WWW"&gt;{{cite web|title=Lewis, Clive Staples|website=[[Who Was Who]]|publisher=Oxford University Press|doi=10.1093/ww/9780199540884.013.U48011|doi-broken-date=8 April 2018|date=1 December 2007|url=http://www.ukwhoswho.com/view/10.1093/ww/9780199540891.001.0001/ww-9780199540884-e-48011}}&lt;/ref&gt; In 1954, he was awarded the newly founded [[Professor of Medieval and Renaissance English (Cambridge)|chair of Mediaeval and Renaissance Literature]] at [[Cambridge University]], and was elected a fellow of [[Magdalene College, Cambridge|Magdalene College]].&lt;ref name="WWW" /&gt; {{Citation needed span|Concerning his appointed academic field, he argued that there was no such thing as an [[English Renaissance]]. Much of his scholarly work concentrated on the [[Late Middle Ages|later Middle Ages]], especially its use of allegory. His ''[[The Allegory of Love]]'' (1936) helped reinvigorate the serious study of late medieval narratives such as the ''[[Roman de la Rose]]''.
+
+Lewis wrote several prefaces to works of literature and poetry, such as Layamon's ''Brut''. His book "A Preface to ''Paradise Lost''" is still one of the most valuable criticisms of that work. His last [[academia|academic work]], ''[[The Discarded Image]]: An Introduction to Medieval and Renaissance Literature'' (1964), is a summary of the medieval world view, a reference to the "discarded image" of the cosmos.|date=November 2016}}
+
+[[File:Eagle and Child.jpg|thumb|left|upright|[[The Eagle and Child]] pub in Oxford where the Inklings met on Tuesday mornings in 1939]]
+Lewis was a prolific writer, and his circle of literary friends became an informal discussion society known as the "[[Inklings]]", including [[J. R. R. Tolkien]], [[Nevill Coghill]], [[Lord David Cecil]], [[Charles Williams (British writer)|Charles Williams]], [[Owen Barfield]], and his brother [[Warren Lewis]]. Glyer points to December 1929 as the Inklings' beginning date.{{sfn|Glyer|2007|p=}} Lewis's friendship with Coghill and Tolkien grew during their time as members of the Kolbtar, an Old Norse reading group that Tolkien founded and which ended around the time of the inception of the Inklings.{{sfn|Lazo|2004|pp=191226}} At Oxford, he was the tutor of poet [[John Betjeman]], critic [[Kenneth Tynan]], mystic [[Bede Griffiths]], novelist [[Roger Lancelyn Green]] and Sufi scholar [[Martin Lings]], among many other undergraduates. Curiously, the religious and conservative Betjeman detested Lewis, whereas the [[anti-establishment]] Tynan retained a lifelong admiration for him.{{sfn|Tonkin|2005}}{{Rp | needed = yes|date=March 2012}}
+
+[[File:MagdaleneCollegeCam.jpg|thumb|right|Magdalene College, Cambridge]]
+
+Of Tolkien, Lewis writes in ''[[Surprised by Joy]]'':
+
+{{quote |When I began teaching for the English Faculty, I made two other friends, both Christians (these queer people seemed now to pop up on every side) who were later to give me much help in getting over the last stile. They were HVV Dyson&amp;nbsp;... and JRR Tolkien. Friendship with the latter marked the breakdown of two old prejudices. At my first coming into the world I had been (implicitly) warned never to trust a Papist, and at my first coming into the English Faculty (explicitly) never to trust a [[philology|philologist]]. Tolkien was both.{{sfn|Lewis|1966b|p=216}}}}
+{{Clear}}
+
+===Novelist===
+In addition to his scholarly work, Lewis wrote several popular novels, including the science fiction ''[[Space Trilogy]]'' for adults and the [[Narnia]] fantasies for children. Most deal implicitly with Christian themes such as sin, humanity's [[Fall of Man|fall from grace]], and redemption.{{citation needed|date=November 2016}}
+
+His first novel after becoming a Christian was ''[[The Pilgrim's Regress]]'' (1933), which depicted his experience with Christianity in the style of [[John Bunyan]]'s ''[[The Pilgrim's Progress]]''. The book was poorly received by critics at the time,&lt;ref name="Thomas" /&gt; although David [[Martyn Lloyd-Jones]], one of Lewis's contemporaries at Oxford, gave him much-valued encouragement. Asked by Lloyd-Jones when he would write another book, Lewis replied, "When I understand the meaning of prayer."{{sfn|Murray|1990}}{{Rp | needed = yes|date=March 2012}}
+
+{{Citation needed span|The ''[[Space Trilogy]]'' (also called the ''Cosmic Trilogy'' or ''Ransom Trilogy'') dealt with what Lewis saw as the dehumanising trends in contemporary science fiction. The first book, ''[[Out of the Silent Planet]]'', was apparently written following a conversation with his friend J.R.R. Tolkien about these trends. Lewis agreed to write a "space travel" story and Tolkien a "time travel" one, but Tolkien never completed "[[The Lost Road and Other Writings|The Lost Road]]", linking his [[Middle-earth]] to the modern world. Lewis's main character [[Elwin Ransom]] is based in part on Tolkien, a fact to which Tolkien alludes in his letters.
+
+The second novel, ''[[Perelandra]]'', depicts a new [[Garden of Eden]] on the planet Venus, a new [[Adam and Eve]], and a new "serpent figure" to tempt Eve. The story can be seen as an account of what might have happened if the terrestrial Adam had defeated the serpent and avoided the [[Fall of Man]], with Ransom intervening in the novel to "ransom" the new Adam and Eve from the deceptions of the enemy. The third novel, ''[[That Hideous Strength]]'', develops the theme of nihilistic science threatening traditional human values, embodied in Arthurian legend.|date=November 2016}}
+
+Many ideas in the trilogy, particularly opposition to dehumanization as portrayed in the third book, are presented more formally in ''[[The Abolition of Man]]'', based on a series of lectures by Lewis at [[Durham University]] in 1943. Lewis stayed in Durham, where he says he was overwhelmed by the magnificence of [[Durham Cathedral|the cathedral]]. ''That Hideous Strength'' is in fact set in the environs of "Edgestow" university, a small English university like Durham, though Lewis disclaims any other resemblance between the two.{{sfn|Lewis|1945|page=}}{{Rp | needed = yes|date=March 2012}}
+
+[[Walter Hooper]], Lewis's literary executor, discovered a fragment of another science-fiction novel apparently written by Lewis called ''[[The Dark Tower (1977 novel)|The Dark Tower]]''. Ransom appears in the story but it is not clear whether the book was intended as part of the same series of novels. The manuscript was eventually published in 1977, though Lewis scholar [[Kathryn Lindskoog]] doubts its authenticity.&lt;ref&gt;{{cite news|last1=Washburn|first1=Jim|title=Literary Sleuth : Scholar Kathryn Lindskoog of Orange, author of 'Fakes, Frauds and Other Malarkey,' opened a can of worms by claiming a C.S. Lewis hoax|url=http://articles.latimes.com/1993-09-01/news/vw-30166_1_lewis-hoax/2|access-date=18 January 2018|date=1 September 1993|archiveurl=https://web.archive.org/web/20180118162322/http://articles.latimes.com/1993-09-01/news/vw-30166_1_lewis-hoax/2|archivedate=18 January 2018|deadurl=yes|df=dmy-all}}&lt;/ref&gt;
+
+[[File:Mourne mountains.jpg|thumb|[[Mourne Mountains|The Mountains of Mourne]] inspired Lewis to write ''The Chronicles of Narnia''. About them, Lewis wrote "I have seen landscapes&amp;nbsp;... which, under a particular light, make me feel that at any moment a giant might raise his head over the next ridge."&lt;ref name="The great British weekend: The Mourne Mountains"&gt;{{Cite news| url=http://www.timesonline.co.uk/tol/travel/holiday_type/breaks/article6828822.ece |work=The Times | location=London | title=The great British weekend The Mourne Mountains | first=Jane | last=Knight | date=12 September 2009 | access-date=28 April 2010}}&lt;/ref&gt;]]
+
+''[[The Chronicles of Narnia]]'' is a series of seven fantasy novels for children and is considered a classic of children's literature. Written between 1949 and 1954 and illustrated by [[Pauline Baynes]], the series is Lewis's most popular work, having sold over 100 million copies in 41 languages {{Harvard citation|Kelly|2006|pp=}} {{Harvard citation|Guthmann|2005|pp=}}. {{Citation needed span|It has been adapted several times, complete or in part, for radio, television, stage and [[The Chronicles of Narnia (film series)|cinema]].
+
+The books contain Christian ideas intended to be easily accessible to young readers. In addition to Christian themes, Lewis also borrows characters from [[Greek mythology|Greek]] and [[Roman mythology]], as well as traditional British and Irish fairy tales.|date=November 2016}}
+
+====Other works====
+Lewis wrote several works on [[Heaven]] and [[Hell]]. One of these, ''[[The Great Divorce]]'', is a short novella in which a few residents of Hell take a bus ride to Heaven, where they are met by people who dwell there. The proposition is that they can stay if they choose, in which case they can call the place where they had come from "[[Purgatory]]", instead of "Hell", but many find it not to their taste. The title is a reference to [[William Blake]]'s ''[[The Marriage of Heaven and Hell]]'', a concept that Lewis found a "disastrous error". This work deliberately echoes two other more famous works with a similar theme: the ''[[Divine Comedy]]'' of [[Dante Alighieri]], and Bunyan's ''[[The Pilgrim's Progress]]''.
+
+Another short work, ''[[The Screwtape Letters]]'', consists of letters of advice from senior [[demon]] Screwtape to his nephew Wormwood on the best ways to tempt a particular human and secure his [[Damnation#Religious|damnation]]. Lewis's last novel was ''[[Till We Have Faces]]'', which he thought of as his most mature and masterly work of fiction but which was never a popular success. It is a retelling of the myth of [[Cupid and Psyche]] from the unusual perspective of Psyche's sister. It is deeply concerned with religious ideas, but the setting is entirely [[paganism|pagan]], and the connections with specific Christian beliefs are left implicit.{{Citation needed|reason=standardized earlier cn request beginning with unreffed info halway up in previous paragraph|date=November 2016}}
+
+Before Lewis's conversion to Christianity, he published two books: ''[[Spirits in Bondage]]'', a collection of poems, and ''[[Dymer]]'', a single [[narrative poetry|narrative poem]]. Both were published under the pen name Clive Hamilton. Other narrative poems have since been published posthumously, including ''Launcelot'', ''The Nameless Isle'', and ''[[The Queen of Drum]]''.&lt;ref&gt;{{cite book |title=Narrative Poems. |first=C. S. |last=Lewis |edition=Walter Hooper  |publisher=Fount Paperbacks |location=London |date=1969}}&lt;/ref&gt;
+
+He also wrote ''[[The Four Loves]]'', which rhetorically explains four categories of love: [[philia|friendship]], [[Eros (concept)|eros]], [[storge|affection]], and [[agape|charity]].{{Citation needed|date=November 2016}}
+
+In 2009, a partial draft was discovered of ''[[Language and Human Nature]]'', which Lewis had begun co-writing with J. R. R. Tolkien, but which was never completed.&lt;ref&gt;{{cite web|url=http://www.txstate.edu/news/news_releases/news_archive/2009/07/CSLewis070809.html |title=Beebe discovers unpublished C.S. Lewis manuscript : University News Service : Texas State University |publisher=Texas State University |date=8 July 2009 |access-date=10 March 2010}}&lt;/ref&gt;
+
+===Christian apologist===
+Lewis is also regarded by many as one of the most influential [[Christian apologetics|Christian apologists]] of his time, in addition to his career as an English professor and an author of fiction. ''[[Mere Christianity]]'' was voted best book of the twentieth century by ''[[Christianity Today]]'' in 2000.&lt;ref&gt;{{cite magazine |url=http://www.christianitytoday.com/ct/2000/april24/5.92.html |title=Books of the Century |date=24 April 2000 |volume=44 |issue=5 |page=92 | access-date=7 October 2010}}{{subscription required}}&lt;/ref&gt; He has been called "The Apostle to the Skeptics" due to his approach to religious belief as a sceptic, and his following conversion.&lt;ref&gt;{{cite web| title=CS Lewis: Apostle to the Skeptics|url=https://books.google.bg/books/about/C_S_Lewis_apostle_to_the_skeptics.html?id=3qANAQAAMAAJ&amp;redir_esc=y}}&lt;/ref&gt;
+
+Lewis was very interested in presenting a [[Argument from reason|reasonable case]] for Christianity. ''Mere Christianity'', ''[[The Problem of Pain]]'', and ''[[Miracles (book)|Miracles]]'' were all concerned, to one degree or another, with refuting popular objections to Christianity, such as the question, "How could a good God allow pain to exist in the world?" He also became a popular lecturer and broadcaster, and some of his writing originated as scripts for radio talks or lectures (including much of ''Mere Christianity'').{{sfn|Lewis|1997|page=}}{{Rp | needed = yes|date=March 2012}}
+
+According to George Sayer, losing a 1948 debate with [[G. E. M. Anscombe|Elizabeth Anscombe]], also a Christian, led Lewis to re-evaluate his role as an apologist, and his future works concentrated on devotional literature and children's books.&lt;ref name = rilstone-refuted&gt;{{cite web | url = http://www.aslan.demon.co.uk/cslfaq.htm#_Toc5085891 |archiveurl= https://web.archive.org/web/20021202084439/http://www.aslan.demon.co.uk/cslfaq.htm#_Toc5085891 |archivedate=2 December 2002 |title=Were Lewis's proofs of the existence of God from 'Miracles' refuted by Elizabeth Anscombe? |work=Frequently Asked Questions | publisher = Alt.books.cs-lewis |first=Andrew |last=Rilstone |authorlink=Andrew Rilstone}}&lt;/ref&gt; Anscombe had a completely different recollection of the debate's outcome and its emotional effect on Lewis.&lt;ref name=rilstone-refuted /&gt; Victor Reppert also disputes Sayer, listing some of Lewis's post-1948 apologetic publications, including the second and revised edition of his ''Miracles'' in 1960, in which Lewis addressed Anscombe's criticism.&lt;ref name="Reppert 2005 https://books.google.com/books?id=hn1gaNlri1cC&amp;pg=PA266 266"&gt;{{Cite book | first =Victor |last=Reppert |authorlink= Victor Reppert |chapter= The Green Witch and the Great Debate: Freeing Narnia from the Spell of the Lewis-Anscombe Legend |chapterurl= https://books.google.com/books?id=hn1gaNlri1cC&amp;pg=PA260 |editor= Gregory Bassham and Jerry L. Walls | title = The Chronicles of Narnia and Philosophy: The Lion, the Witch, and the Worldview |publisher=[[Open Court Publishing Company]] |location = [[LaSalle, Illinois|La Salle]], Illinois |year=2005 |page=[https://books.google.com/books?id=hn1gaNlri1cC&amp;pg=PA266 266] |isbn = 0-8126-9588-7 |oclc=60557454}}&lt;/ref&gt; Noteworthy too is Roger Teichman's suggestion in ''The Philosophy of Elizabeth Anscombe''&lt;ref&gt;{{cite book |first=Roger |last=Teichman |title=The Philosophy of Elizabeth Anscombe |publisher=Oxford University Press |year=2008 |isbn=978-0199299331}}&lt;/ref&gt;{{Rp | needed = yes|date=March 2012}} {{Citation needed span|that the intellectual impact of Anscombe's paper on Lewis's philosophical self-confidence should not be over-rated: "...&amp;nbsp;it seems unlikely that he felt as irretrievably crushed as some of his acquaintances have made out; the episode is probably an inflated legend, in the same category as the affair of [[Wittgenstein's Poker]]. Certainly Anscombe herself believed that Lewis's argument, though flawed, was getting at something very important; she thought that this came out more in the improved version of it that Lewis presented in a subsequent edition of ''Miracles''&amp;nbsp; though that version also had 'much to criticize in it'."
+
+Lewis also wrote an autobiography titled ''Surprised by Joy'', which places special emphasis on his own conversion. (It was written before he met his wife, Joy Gresham; the title of the book came from the first line of a poem by [[William Wordsworth]].) His essays and public speeches on Christian belief, many of which were collected in ''[[God in the Dock]]'' and ''[[The Weight of Glory and Other Addresses]]'', remain popular today.|date=November 2016}}
+
+His most famous works, the ''Chronicles of Narnia'', contain many strong Christian messages and are often considered [[allegory]]. Lewis, an expert on the subject of allegory, maintained that the books were not allegory, and preferred to call the Christian aspects of them "[[supposition]]al". As Lewis wrote in a letter to a Mrs. Hook in December 1958:
+&lt;blockquote&gt;
+If Aslan represented the immaterial Deity in the same way in which Giant Despair &lt;nowiki&gt;[&lt;/nowiki&gt;a character in ''[[The Pilgrim's Progress]]''&lt;nowiki&gt;]&lt;/nowiki&gt; represents despair, he would be an allegorical figure. In reality, he is an invention giving an imaginary answer to the question, 'What might Christ become like, if there really were a world like Narnia and He chose to be incarnate and die and rise again in that world as He actually has done in ours?' This is not allegory at all.{{sfn|Martindale|Root|1990|pp=}}
+&lt;/blockquote&gt;
+
+===="Trilemma"====
+{{Main|Lewis's trilemma}}
+In a much-cited passage from ''Mere Christianity'', Lewis challenged the view that Jesus was a great moral teacher but not God. He argued that Jesus made several implicit claims to divinity, which would logically exclude that claim:
+
+{{quote|I am trying here to prevent anyone saying the really foolish thing that people often say about Him: 'I'm ready to accept Jesus as a great moral teacher, but I don't accept his claim to be God.' That is the one thing we must not say. A man who was merely a man and said the sort of things Jesus said would not be a great moral teacher. He would either be a lunatic&amp;nbsp; on the level with the man who says he is a poached egg&amp;nbsp; or else he would be the Devil of Hell. You must make your choice. Either this man was, and is, the Son of God, or else a madman or something worse. You can shut him up for a fool, you can spit at him and kill him as a demon or you can fall at his feet and call him Lord and God, but let us not come with any patronising nonsense about his being a great human teacher. He has not left that open to us. He did not intend to.{{sfn|Lewis|1997|p=43}}}}
+
+Although this argument is sometimes called "Lewis's trilemma", Lewis did not invent it but rather developed and popularized it. It has also been used by Christian apologist [[Josh McDowell]] in his book ''More Than a Carpenter''.&lt;ref&gt;{{Harvard citation|McDowell|2001}}&lt;/ref&gt; It has been widely repeated in Christian apologetic literature, but largely ignored by professional theologians and biblical scholars.&lt;ref&gt;{{Cite book |first=Stephen T. |last=Davis |chapter=Was Jesus Mad, Bad, or God? |chapterurl=https://books.google.com/books?id=xLtu0IwjK5oC&amp;printsec=frontcover&amp;source=gbs_summary_r&amp;cad=0#PPA221,M1 |editor=Stephen T. Davis, Daniel Kendall and Gerald O'Collins |title=The incarnation: an interdisciplinary symposium on the incarnation of the Son of God |publisher=[[Oxford University Press]] |location=Oxford |year=2004 |pages=222223 |isbn=0-19-927577-7 |oclc=56656427}}&lt;/ref&gt;
+
+Lewis's Christian apologetics, and this argument in particular, have been criticised. Philosopher John Beversluis described Lewis's arguments as "textually careless and theologically unreliable",&lt;ref&gt;{{Cite book |first=John |last=Beversluis |title=C. S. Lewis and the Search for Rational Religion |publisher=[[W. B. Eerdmans]] |location=Grand Rapids, Michigan |year=1985 |isbn=0-8028-0046-7}}&lt;/ref&gt; and this particular argument as logically unsound and an example of [[false dilemma]].&lt;ref&gt;{{Cite book |first=John |last=Beversluis |title=C. S. Lewis and the Search for Rational Religion |publisher=[[Prometheus Books]] |location=Buffalo, New York |year=2007 |page=132 |origyear=1985 |isbn=1-59102-531-1 |oclc=85899079}}&lt;/ref&gt; Theologian [[John Hick]] argues that New Testament scholars do not now support the view that Jesus claimed to be God.&lt;ref&gt;{{Cite book |first=John |last=Hick |authorlink=John Hick |chapter=From Jesus to Christ |chapterurl=https://books.google.com/books?id=rk_FMweWu_QC&amp;printsec=frontcover&amp;source=gbs_summary_r&amp;cad=0#PPA27,M1 |title=The metaphor of God incarnate: christology in a pluralistic age |publisher=Westminster/John Knox Press |location=Louisville, Kentucky |year=1993 |page=27 |isbn=0-664-25503-5 |oclc=28257481}}&lt;/ref&gt; New Testament scholar [[N. T. Wright]] criticises Lewis for failing to recognise the significance of Jesus' Jewish identity and setting&amp;nbsp; an oversight which "at best, drastically short-circuits the argument" and which lays Lewis open to criticism that his argument "doesn't work as history, and it backfires dangerously when historical critics question his reading of the gospels", although he believes this "doesn't undermine the eventual claim".&lt;ref&gt;{{Cite magazine |first=N. T. |last=Wright |authorlink=N. T. Wright |date=March 2007 |title=Simply Lewis: Reflections on a Master Apologist After 60 Years |url=http://www.touchstonemag.com/archives/article.php?id=20-02-028-f |magazine=[[Touchstone (magazine)|Touchstone]] |volume=20 |issue=2 |access-date=11 February 2009 |postscript=.}}&lt;/ref&gt;
+
+Lewis used a similar argument in ''[[The Lion, the Witch and the Wardrobe]]'', when [[Digory Kirke|the old Professor]] advises the young heroes that their sister's claims of a magical world must logically be taken as either lies, madness, or truth.&lt;ref name="Reppert 2005 https://books.google.com/books?id=hn1gaNlri1cC&amp;pg=PA266 266" /&gt;
+
+====Universal morality====
+One of the main theses in Lewis's apologia is that there is a common morality known throughout humanity, which he calls "[[Natural law]]". In the first five chapters of ''Mere Christianity'' Lewis discusses the idea that people have a standard of behaviour to which they expect people to adhere. Lewis claims that people all over the earth know what this law is and when they break it. He goes on to claim that there must be someone or something behind such a universal set of principles.{{sfn|Lindskoog|2001|p=144}}
+&lt;blockquote&gt;
+These then are the two points that I wanted to make. First, that human beings, all over the earth, have this curious idea that they ought to behave in a certain way, and cannot really get rid of it. Secondly, that they do not in fact behave in that way. They know the Law of Nature; they break it. These two facts are the foundation of all clear thinking about ourselves and the universe we live in.{{sfn|Lewis|1997|p=21}}
+&lt;/blockquote&gt;
+Lewis also portrays Universal Morality in his works of fiction. In ''The Chronicles of Narnia'' he describes Universal Morality as the "deep magic" which everyone knew.{{sfn|Lindskoog|2001|p=146}}
+
+In the second chapter of ''Mere Christianity'' Lewis recognises that "many people find it difficult to understand what this Law of Human Nature&amp;nbsp;... is." And he responds first to the idea "that the Moral Law is simply our herd instinct" and second to the idea "that the Moral Law is simply a social convention". In responding to the second idea Lewis notes that people often complain that one set of moral ideas is better than another, but that this actually argues for there existing some "Real Morality" to which they are comparing other moralities. Finally he notes that sometimes differences in moral codes are exaggerated by people who confuse differences in beliefs about morality with differences in beliefs about facts:
+
+{{quote |I have met people who exaggerate the differences, because they have not distinguished between differences of morality and differences of belief about facts. For example, one man said to me, "Three hundred years ago people in England were putting witches to death. Was that what you call the Rule of Human Nature or Right Conduct?" But surely the reason we do not execute witches is that we do not believe there are such things. If we did&amp;nbsp; if we really thought that there were people going about who had sold themselves to the devil and received supernatural powers from him in return and were using these powers to kill their neighbours or drive them mad or bring bad weather, surely we would all agree that if anyone deserved the death penalty, then these filthy [[quisling]]s did. There is no difference of moral principle here: the difference is simply about matter of fact. It may be a great advance in knowledge not to believe in witches: there is no moral advance in not executing them when you do not think they are there. You would not call a man humane for ceasing to set mousetraps if he did so because he believed there were no mice in the house.{{sfn|Lewis|1997|p=26}}}}
+
+Lewis also had fairly progressive views on the topic of "animal morality", in particular the suffering of animals, as is evidenced by several of his essays: most notably, ''On Vivisection''&lt;ref&gt;{{cite web |first=C. S. |last=Lewis |title=Vivisection by CS&lt;!--sic--&gt; Lewis |publisher=Irish Anti-Vivisection Society |access-date=2 August 2009 |url=http://www.irishantivivisection.org/cslewis.html |deadurl=yes |archiveurl=https://web.archive.org/web/20080516055451/http://www.irishantivivisection.org/cslewis.html |archivedate=16 May 2008 }}&lt;/ref&gt; and "On the Pains of Animals".&lt;ref&gt;{{Cite magazine |title=C. S. Lewis's theology of animals | magazine =[[Anglican Theological Review]] |date=Winter 1998 |first=Andrew |last=Linzey | url= https://www.questia.com/library/journal/1P3-26637068/c-s-lewis-s-theology-of-animals |access-date=1 April 2009 |postscript=.}}{{subscription required}}&lt;/ref&gt;&lt;ref&gt;{{Cite news |title=C.S. Lewis: Animal theology |publisher=BBC |url=http://www.bbc.co.uk/religion/religions/christianity/people/cslewis_1.shtml |access-date=1 April 2009}}&lt;/ref&gt;
+
+==Legacy==
+[[File:Statue of C.S. Lewis, Belfast.jpg|thumb|upright|[[Ross Wilson (artist)|Ross Wilson]]'s statue of C. S. Lewis in front of the wardrobe from his book ''The Lion, the Witch and the Wardrobe'' in East Belfast]]
+
+Lewis continues to attract a wide readership. In 2008, ''[[The Times]]'' ranked him eleventh on their list of "the 50 greatest British writers since 1945".&lt;ref&gt;{{cite news|url=http://entertainment.timesonline.co.uk/tol/arts_and_entertainment/books/article3127837.ece|title=The 50 greatest British writers since 1945|date=5 January 2008|newspaper=The Times|access-date=1 February 2010}}&lt;/ref&gt; Readers of his fiction are often unaware of what Lewis considered the Christian themes of his works. His Christian apologetics are read and quoted by members of many [[Christian denomination]]s.{{sfn|Pratt|1998}} In 2013, on the 50th anniversary of his death, Lewis joined some of Britain's greatest writers recognised at [[Poets' Corner]], [[Westminster Abbey]].&lt;ref&gt;{{cite news |first=Tom |last=Peterkin |date=22 November 2012 |url=https://www.telegraph.co.uk/news/uknews/9694561/CS-Lewis-Chronicles-of-Narnia-author-honoured-in-Poets-corner.html |title=CS&lt;!--sic--&gt; Lewis, Chronicles of Narnia author, honoured in Poets' corner |newspaper=The Telegraph |access-date=24 February 2013}}&lt;/ref&gt; The dedication service, at noon on 22 November 2013, included a reading from ''[[The Last Battle]]'' by [[Douglas Gresham]], younger stepson of Lewis. Flowers were laid by [[Walter Hooper]], trustee and literary advisor to the Lewis Estate. An address was delivered by former Archbishop of Canterbury [[Rowan Williams]].&lt;ref name="memorial booklet"&gt;{{cite book|title=A service to dedicate a memorial to C. S. Lewis, writer, scholar, apologist|publisher=Westminster Abbey|year=2013}}&lt;/ref&gt;{{page needed|date=October 2016}} The floor stone inscription is a quotation from an address by Lewis: &lt;blockquote&gt;I believe in Christianity as I believe that the Sun has risen, not only because I see it but because by it I see everything else.&lt;ref name="memorial booklet" /&gt;&lt;/blockquote&gt;
+
+{{Citation needed span|Lewis has been the subject of several biographies, a few of which were written by close friends, such as [[Roger Lancelyn Green]] and George Sayer. In 1985, the screenplay ''[[Shadowlands (1985 film)|Shadowlands]]'' by [[William Nicholson (writer)|William Nicholson]] dramatised Lewis's life and relationship with Joy Davidman Gresham. It was aired on British television starring [[Joss Ackland]] and [[Claire Bloom]]. This was also staged as a theatre play starring [[Nigel Hawthorne]] in 1989, and made into the 1993 feature film ''[[Shadowlands (1993 film)|Shadowlands]]'' starring [[Anthony Hopkins]] and [[Debra Winger]]. In 2005, a one-hour television movie entitled ''C. S. Lewis: Beyond Narnia'' provided a general synopsis of Lewis's life, starring [[Anton Rodgers]].|date=November 2016}}
+
+[[File:CSLewismural.png|thumb|left|A mural depicting Lewis and characters from the Narnia series, Convention Court, Ballymacarrett Road, East Belfast]]
+
+Many books have been inspired by Lewis, including ''[[A Severe Mercy]]'' by his correspondent and friend [[Sheldon Vanauken]]. ''The Chronicles of Narnia'' has been particularly influential. Modern children's literature has been more or less influenced by Lewis's series, such as [[Daniel Handler]]'s ''[[A Series of Unfortunate Events]]'', [[Eoin Colfer]]'s ''[[Artemis Fowl (series)|Artemis Fowl]]'', [[Philip Pullman]]'s ''[[His Dark Materials]]'', and [[J. K. Rowling]]'s ''[[Harry Potter]]'' {{harvard citation|Hilliard|2005|pp=}}. Pullman is an [[atheism|atheist]] and so fierce a critic of Lewis's work as to be dubbed "the anti-Lewis".&lt;ref&gt;{{cite web|url=http://www.reason.com/news/show/124392.html |title=A Secular Fantasy&amp;nbsp; The flawed but fascinating fiction of Philip Pullman |date=March 2008 |first=Cathy |last=Young |work=Reason |publisher=Reason Foundation|access-date=8 April 2009}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://home.wlv.ac.uk/~bu1895/hitchens.htm |title=This is the most dangerous author in Britain |first=Peter |last=Hitchens |authorlink=Peter Hitchens |newspaper=The Mail on Sunday |date=27 January 2002 |page=63 |access-date=8 April 2009 |deadurl=yes |archiveurl=https://web.archive.org/web/20090215135813/http://home.wlv.ac.uk/~bu1895/hitchens.htm |archivedate=15 February 2009 }}&lt;/ref&gt; He considers C. S. Lewis a negative influence and has accused Lewis of featuring religious propaganda, misogyny, racism, and emotional sadism{{sfn|BBC News|2005|p=}} in his books. Authors of adult fantasy literature such as [[Tim Powers]] have also testified to being influenced by Lewis's work.{{sfn|Edwards|2007|pp=3057}}
+
+In ''A Sword Between the Sexes? C. S. Lewis and the Gender Debates'', Mary Stewart Van Leeuwen finds in Lewis's work "a hierarchical and essentialist view of class and gender" corresponding to an Edwardian upbringing.&lt;ref&gt;{{cite book |last=Van Leeuwen |first=Mary Stewart |title=A Sword between the Sexes? C. S. Lewis and the Gender Debates |location=Grand Rapids |publisher=Brazos Press |year=2010 |page=247 |isbn=978-1-58743-208-8}}&lt;/ref&gt;
+
+Most of Lewis's posthumous work has been edited by his literary executor [[Walter Hooper]]. [[Kathryn Lindskoog]], an independent Lewis scholar, argued that Hooper's scholarship is not reliable and that he has made false statements and attributed forged works to Lewis.{{sfn|Lindskoog|2001}} C. S. Lewis's stepson [[Douglas Gresham]] denies the forgery claims, saying, "The whole controversy thing was engineered for very personal reasons&amp;nbsp;... Her fanciful theories have been pretty thoroughly discredited."{{sfn|Gresham|2007}}
+
+A bronze statue of Lewis's character Digory from ''The Magician's Nephew'' stands in Belfast's [[Holywood]] Arches in front of the Holywood Road Library.{{sfn|BBC News|2004}}
+
+Several C. S. Lewis Societies exist around the world, including one which was founded in Oxford in 1982 to discuss papers on the life and works of Lewis and the other Inklings, and generally appreciate all things Lewisian.&lt;ref&gt;{{cite web | url=http://lewisinoxford.googlepages.com |title=Oxford University C. S. Lewis Society |publisher=lewisinoxford.googlepages.com}}&lt;/ref&gt; {{Citation needed span|His name is also used by a variety of Christian organisations, often with a concern for maintaining [[Christian right|conservative Christian]] values in education or literary studies.|date=November 2016}}
+
+Film adaptations have been made of three of ''The Chronicles of Narnia: [[The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe|The Lion, the Witch, and the Wardrobe]]'' (2005), ''[[The Chronicles of Narnia: Prince Caspian|Prince Caspian]]'' (2008) and ''[[The Chronicles of Narnia: The Voyage of the Dawn Treader|The Voyage of the Dawn Treader]]'' (2010).
+
+{{Citation needed span|Lewis is featured as a main character in ''[[The Chronicles of the Imaginarium Geographica]]'' series by [[James A. Owen]]. He is one of two characters in [[Mark St. Germain]]'s 2009 play ''Freud's Last Session'', which imagines a meeting between Lewis, aged 40, and [[Sigmund Freud]], aged 83, at Freud's house in Hampstead, London, in 1939, as the Second World War is about to break out.|date=November 2016}}
+{{Clear}}
+
+==Bibliography==
+{{Main|C. S. Lewis bibliography}}
+
+==Secondary works==
+{{refbegin|30m}}
+* John Beversluis (1985), ''C. S. Lewis and the Search for Rational Religion''. Grand Rapids: Eerdmans {{ISBN|0-8028-0046-7}}
+* Ronald W. Bresland (1999), ''The Backward Glance: C. S. Lewis and Ireland''. Belfast: Institute of Irish Studies at [[Queen's University of Belfast]].
+* Devin Brown (2013), ''A Life Observed: A Spiritual Biography of C. S. Lewis''. Grand Rapids: Brazos Press {{ISBN|978-1587433351}}
+* Joe R. Christopher &amp; [[Joan K. Ostling]] (1972), ''C. S. Lewis: An Annotated Checklist of Writings About Him and His Works''. Kent, Ohio: Kent State University Press, n.d. {{ISBN|0-87338-138-6}}
+* [[James Como]] (1998), ''Branches to Heaven: The Geniuses of C. S. Lewis''. Spence
+* James Como (2006), ''Remembering C. S. Lewis'' (3rd edn. of ''C. S. Lewis at the Breakfast Table''). Ignatius Press
+* Sean Connolly (2007), ''Inklings of Heaven: C. S. Lewis and Eschatology''. Gracewing. {{ISBN|978-0-85244-659-1}}
+* Michael Coren (1994), ''The Man Who Created Narnia: The Story of C. S. Lewis''. Grand Rapids: Eerdmans, reprint edition 1996 (First published 1994 in Canada by Lester Publishing Limited). {{ISBN|0-8028-3822-7}}
+* [[Christopher Derrick]] (1981) ''C. S. Lewis and the Church of Rome: A Study in Proto-Ecumenism''. Ignatius Press. {{ISBN|978-99917-1-850-7}}
+* David C. Downing (1992), ''Planets in Peril: A Critical Study of C. S. Lewis's Ransom Trilogy''. Amherst: [[University of Massachusetts Press]]. {{ISBN|0-87023-997-X}}
+* David C. Downing (2002), ''The Most Reluctant Convert: C. S. Lewis's Journey to Faith''. InterVarsity. {{ISBN|0-8308-3271-8}}
+* David C. Downing (2005), ''Into the Region of Awe: Mysticism in C. S. Lewis''. InterVarsity. {{ISBN|0-8308-3284-X}}
+* David C. Downing (2005), ''Into the Wardrobe: C. S. Lewis and the Narnia Chronicles''. San Francisco: Jossey-Bass. {{ISBN|0-7879-7890-6}}
+* [[Colin Duriez]] (2003), ''Tolkien and C. S. Lewis: The Gift of Friendship''. Paulist Press {{ISBN|1-58768-026-2}}
+* Colin Duriez (2015), ''Bedeviled: Lewis, Tolkien and the Shadow of Evil''. InterVarsity Press {{ISBN|0-8308-3417-6}}
+* Colin Duriez &amp; David Porter (2001), ''The Inklings Handbook: The Lives, Thought and Writings of C. S. Lewis, J. R. R. Tolkien, Charles Williams, Owen Barfield, and Their Friends''. London: Azure. {{ISBN|1-902694-13-9}}
+* [[Bruce L. Edwards]] (2005), ''Not a Tame Lion: The Spiritual World of Narnia''. Tyndale. {{ISBN|1-4143-0381-5}}
+* Bruce L. Edwards (2005), ''Further Up and Further In: Understanding C. S. Lewis's'' The Lion, the Witch, and the Wardrobe. Broadman and Holman. {{ISBN|0-8054-4070-4}}
+* {{cite book | editor= Bruce L. Edwards |last=Edwards |first=Bruce L.|year=2007|title=C. S. Lewis: Life, Works, and Legacy |publisher=Praeger Perspectives|isbn=0-275-99116-4 | ref = harv}}
+* [[Alastair Fowler]], [http://lewisiana.nl/fowler/ "C. S. Lewis: Supervisor"], ''Yale Review''; Vol. 91, No. 4 (October 2003).
+* [[Helen Gardner (critic)|Helen Gardner]] (1966) [https://web.archive.org/web/20110928233055/http://www.proc.britac.ac.uk/cgi-bin/somsid.cgi?page=51p417&amp;session=3E&amp;type=header " Clive Staples Lewis, 18981963"]. Biographical memoir, in ''Proceedings of the British Academy'' 51 (1966), 41728.
+* Jocelyn Gibb (ed.) (1965), ''Light on C. S. Lewis''. Geoffrey Bles, 1965, &amp; Harcourt Brace Jovanovich, 1976. {{ISBN|0-15-652000-1}}
+* Douglas Gilbert &amp; [[Clyde Kilby]] (1973) ''C. S. Lewis: Images of His World''. Eerdmans, 1973 &amp; 2005. {{ISBN|0-8028-2800-0}}
+* {{Cite book | author-link = Diana Glyer | first= Diana |last= Glyer | title = The Company They Keep: C. S. Lewis and J. R. R. Tolkien as Writers in Community | publisher = Kent State University Press | place = Kent, Ohio | year = 2007 | isbn = 978-0-87338-890-0 |ref = harv}}.
+* {{Cite book |last1=Hooper|first1=Walter|last2=Green|first2=Roger Lancelyn|year=2002|origyear=1974|title=C. S. Lewis: A Biography|publisher=HarperCollins|isbn=0-00-628164-8 | ref=harv}}
+* [[Douglas Gresham]] (1994), ''Lenten Lands: My Childhood with Joy Davidman and C. S. Lewis''. HarperSanFrancisco. {{ISBN|0-06-063447-2}}
+*  (2005), ''Jack's Life: A Memory of C. S. Lewis''. Broadman &amp; Holman Publishers. {{ISBN|0-8054-3246-9}}
+* William Griffin (2005), ''C. S. Lewis: The Authentic Voice'' (formerly ''C. S. Lewis: A Dramatic Life''). Lion. {{ISBN|0-7459-5208-9}}
+* Dabney Adams Hart (1984), ''Through the Open Door: A New Look at C. S. Lewis''. University of Alabama Press. {{ISBN|0-8173-0187-9}}
+* [[Joel D. Heck]] (2006), ''Irrigating Deserts: C. S. Lewis on Education''. Concordia Publishing House. {{ISBN|0-7586-0044-5}}
+* Carolyn Keefe (1979), ''C. S. Lewis: Speaker &amp; Teacher''. Zondervan. {{ISBN|0-310-26781-1}}
+* Jon Kennedy (2008), ''The Everything Guide to C. S. Lewis and Narnia''. Adams Media. {{ISBN|1-59869-427-8}}
+* Jon Kennedy (2012), ''C. S. Lewis Themes and Threads''. Amazon Kindle ASIN B00ATSY3AQ
+* [[Clyde S. Kilby]] (1964), ''The Christian World of C. S. Lewis''. Grand Rapids: Eerdmans, 1964, 1995. {{ISBN|0-8028-0871-9}}
+* Don W. King (2001), ''C. S. Lewis, Poet: The Legacy of His Poetic Impulse''. Kent, Ohio: Kent State University Press. {{ISBN|0-87338-681-7}}
+* Kathryn Lindskoog (1994), ''Light in the Shadowlands: Protecting the Real C. S. Lewis''. Multnomah Pub. {{ISBN|0-88070-695-3}}
+* Susan Lowenberg (1993), ''C. S. Lewis: A Reference Guide, 19721988''. Hall &amp; Co. {{ISBN|0-8161-1846-9}}
+* Wayne Mardindale &amp; Jerry Root (1990), ''The Quotable Lewis''. Tyndale House Publishers. {{ISBN|0-8423-5115-9}}
+* Thomas L. Martin (ed.) (2000), ''Reading the Classics with C. S. Lewis''. Baker Academic. {{ISBN|1-84227-073-7}}
+* [[Laura Miller (salon writer)|Laura Miller]] (2008) "The Magician's Book", Little, Brown &amp; Co. {{ISBN|978-0-316-01763-3}}
+* [[David Mills (editor)|David Mills]] (ed) (1998) ''The Pilgrim's Guide: C. S. Lewis and the Art of Witness''. Grand Rapids: Eerdmans. {{ISBN|0-8028-4689-0}}
+* [[Joseph Pearce]] (1999), ''C. S. Lewis and the Catholic Church''. HarperCollins, 1999; then Ignatius Press, 2003. {{ISBN|0-89870-979-2}}
+* Thomas C. Peters (1998), ''Simply C. S. Lewis: A Beginner's Guide to His Life and Works''. Kingsway Publications. {{ISBN|0-85476-762-2}}
+* Justin Phillips (2003), ''C. S. Lewis at the BBC: Messages of Hope in the Darkness of War''. Marshall Pickering. {{ISBN|0-00-710437-5}}
+* Harry Lee Poe &amp; Rebecca Whitten Poe (eds) (2006), ''C. S. Lewis Remembered: Collected Reflections of Students, Friends &amp; Colleagues''. Zondervan. {{ISBN|978-0-310-26509-2}}
+* Victor Reppert (2003), ''C. S. Lewis's Dangerous Idea: In Defense of the Argument from Reason''. InterVarsity Press. {{ISBN|0-8308-2732-3}}
+* [[George Sayer]] (1988), ''Jack: C. S. Lewis and His Times''. London: Macmillan. {{ISBN|0-333-43362-9}}
+* Peter J. Schakel (1984), ''[http://hope.edu/academic/english/schakel/tillwehavefaces/ Reason and Imagination in C. S. Lewis: A Study of "Till We Have Faces"]''. Grand Rapids: Eerdmans. {{ISBN|0-8028-1998-2}}
+* Peter J. Schakel (2002), ''Imagination and the Arts in C. S. Lewis: Journeying to Narnia and Other Worlds.'' University of Missouri Press. {{ISBN|0-8262-1407-X}}
+* Peter J. Schakel (ed.) (1977), ''The Longing for a Form: Essays on the Fiction of C. S. Lewis''. Kent, Ohio: Kent State University Press. {{ISBN|0-87338-204-8}}
+* Peter J. Schakel &amp; Charles A. Huttar (eds.) (1991), ''Word and Story in C. S. Lewis''. University of Missouri Press. {{ISBN|0-8262-0760-X}}
+* Stephen Schofield (1983), ''In Search of C. S. Lewis''. Bridge Logos Pub. {{ISBN|0-88270-544-X}}
+* Jeffrey D. Schultz &amp; John G. West, Jr. (eds) (1998), ''The C. S. Lewis Readers' Encyclopedia''. Zondervan Publishing House. {{ISBN|0-310-21538-2}}
+* Sanford Schwartz (2009), ''C. S. Lewis on the Final Frontier: Science and the Supernatural in the Space Trilogy''. Oxford University Press. {{ISBN|978-0-19-537472-8}}.
+* G. B. Tennyson (ed.) (1989), ''Owen Barfield on C. S. Lewis''. Wesleyan University Press {{ISBN|0-8195-5233-X}}
+* Richard J. Wagner (2005) ''C. S. Lewis and Narnia for Dummies''. For Dummies. {{ISBN|0-7645-8381-6}}
+* Andrew Walker &amp; Patrick James (eds.) (1998), ''Rumours of Heaven: Essays in Celebration of C. S. Lewis'', Guildford: Eagle. {{ISBN|0-86347-250-8}}
+* Chad Walsh (1949), ''C. S. Lewis: Apostle to the Skeptics''. London: Macmillan
+* Chad Walsh (1979), ''The Literary Legacy of C. S. Lewis''. New York: Harcourt Brace Jovanovich. {{ISBN|0-15-652785-5}}
+* [[Michael Ward (scholar)|Michael Ward]] (2008), ''Planet Narnia''. Oxford University Press. {{ISBN|978-0-19-531387-1}}
+* George Watson (ed.) (1992), ''Critical Essays on C. S. Lewis''. Menston: Scolar Press. {{ISBN|0-85967-853-9}}
+* [[Michael White (author)|Michael White]] (2005), ''C. S. Lewis: The Boy Who Chronicled Narnia''. Abacus. {{ISBN|0-349-11625-3}}
+* Erik J. Wielenberg (2007), ''God and the Reach of Reason''. Cambridge University Press. {{ISBN|978-0-521-70710-7}}
+* {{Cite book | last = Wilson| first= A. N.| author-link = A. N. Wilson | title = C. S. Lewis: A Biography | publisher = W. W. Norton | year = 2002 | origyear = 1990 | isbn = 0-393-32340-4 | ref = harv}}.
+* {{Cite book | last = Wilson| first= A. N. | title = C. S. Lewis: A Biography | place = London | publisher = Harper Perennial | year = 1991 | origyear = 1990 | author-mask = 4 | ref = harv}}.
+{{refend}}
+
+==See also==
+{{Portal|Narnia}}
+* [[Marion E. Wade Center]] at [[Wheaton College (Illinois)|Wheaton College]], has the world's largest collection of works by and about Lewis
+* [[Courtly love]]
+* [[Johan Huizinga]]
+* [[D. W. Robertson, Jr.]]
+
+==Notes==
+{{notelist}}
+{{Reflist|30em}}
+
+==References==
+{{refbegin|30em}}
+* {{Cite news | title= City that inspired Narnia fantasy|publisher=BBC News | url = http://news.bbc.co.uk/1/hi/northern_ireland/3533797.stm | date= 5 March 2004 | access-date=28 April 2010 | ref={{sfnref|BBC News|2004}}}}
+* {{Cite news | title= Pullman attacks Narnia film plans | publisher=BBC News |url = http://news.bbc.co.uk/2/hi/entertainment/4347226.stm | date= 16 October 2005 | access-date=28 April 2010 | ref={{sfnref|BBC News|2005}}}}
+* {{Cite book |last = Carpenter |first = Humphrey |date = 2006 |origyear = 1978 |title = The Inklings of Oxford: C. S. Lewis, J. R. R. Tolkien, and Their Friends |publisher = HarperCollins |isbn = 0-00-774869-8 |ref=harv}}
+* {{Cite journal | last = Clare|  first = David| title = C. S. Lewis: An Irish Writer | journal = Irish Studies Review | volume = 18 | number = 1 |date=February 2010 | pages = 1738 | doi=10.1080/09670880903533409 | ref = harv}}.
+* {{cite book |authorlink=Paul Fiddes |last=Fiddes |first=Paul |year=1990 |chapter=C. S. Lewis the myth-maker |editor=Andrew Walker |editor2=James Patrick |title=A Christian for all Christians: essays in honour of C. S. Lewis |location=London |publisher=Hodder &amp; Stoughton |pages=13255 |isbn=978-0340513842}} [reprinted as {{cite book |title=Rumours of Heaven: essays in celebration of C. S. Lewis'' |location=Guildford |publisher=Eagle |year=1998 |isbn=978-0863472503}}]
+* {{Cite web | publisher = Friends of Holy Trinity Church| title = History of the Building | archiveurl = https://web.archive.org/web/20090122052703/http://www.friendsofholytrinity.org.uk/History1.html | archivedate = 22 January 2009 | url= http://www.friendsofholytrinity.org.uk/History1.html | ref = {{harvid |FoHTC}}}}
+* {{Cite news |last=Guthmann |first=Edward |title='Narnia' tries to appeal to the religious and secular |newspaper=[[San Francisco Chronicle]] |url=http://www.sfgate.com/news/article/Narnia-tries-to-appeal-to-the-religious-and-2589072.php |date=11 December 2005}}
+* {{Cite news | last = Haven |first=Cynthia |title= Lost in the shadow of C.S. Lewis' fame / Joy Davidman was a noted poet, a feisty Communist and a free spirit | newspaper= [[San Francisco Chronicle]] | url= http://www.sfgate.com/books/article/ESSAY-Lost-in-the-shadow-of-C-S-Lewis-fame-2524646.php | date= 1 January 2006 | ref = harv}}
+* {{Cite news|last=Hilliard |first=Juli Cragg |title=Hear the Roar |newspaper=[[Sarasota Herald-Tribune]] |date=9 December 2005 |url=http://www.heraldtribune.com/apps/pbcs.dll/article?AID=/20051209/FEATURES/512090692/1376 |archiveurl=https://web.archive.org/web/20090805202127/http://www.heraldtribune.com/apps/pbcs.dll/article?AID=%2F20051209%2FFEATURES%2F512090692%2F1376 |archivedate= 5 August 2009 |deadurl=yes |df= }}
+* {{Cite magazine | last = Kelly | first = Clint |date=Winter 2006 |title=Dear Mr. Lewis: The Narnia Author and His Young Readers |magazine =Response |volume= 29 |issue= 1 |url= http://www.spu.edu/depts/uc/response/winter2k6/features/lewis.asp}}
+* {{Cite book | last = Kreeft| first = Peter|year= 1982| title= [[Between Heaven and Hell (novel)|Between Heaven and Hell: A Dialogue Somewhere Beyond Death with John F. Kennedy, C. S. Lewis &amp; Aldous Huxley]] |publisher=InterVarsity Press|isbn =0-87784-389-9 | ref=harv}}
+* {{Cite book | last = Lazo | first = Andrew| year= 2004| title = Gathered Round Northern Fires: The Imaginative Impact of the Kolbtar. Tolkien and the Invention of Myth: A Reader | editor-first = Jane | editor-last = Chance | place= Lexington, KY| publisher = University of Kentucky Press | pages = 191226 | isbn = 0-8131-2301-1 | ref = harv}}
+* {{Cite book | last = Lewis | first = C. S. | year = 1945 | title = That Hideous Strength | origyear = 1943 | chapter = Preface | author-mask =  |ref = harv}}.
+* {{Cite book | last = Lewis | first = C. S. | year = 2002b | origyear = 1946 | title = [[The Great Divorce]] | place = London | publisher = Collins | isbn = 978-0060652951 |ref = harv}}
+* {{Cite book | last = Lewis | first = C. S. | year = 1997 | origyear = 1952 | title = [[Mere Christianity]] | place = London | publisher = Collins | isbn = 978-0060652920 |ref = harv}}
+* {{Cite book | last = Lewis | first = C. S. | year = 1961 | title = [[A Grief Observed]] | publisher = Faber &amp; Faber | place = London |ref = harv}}
+* {{Cite book | last = Lewis | first = C. S. | year = 1966a| title = Studies in Medieval and Renaissance Literature |ref = harv}}
+* {{Cite book | last = Lewis | first = C. S. | year = 1966b| title = [[Surprised by Joy]]: The Shape of My Early Life | origyear = 1955 | place = London | publisher = Harvest Books| isbn= 978-0-15-687011-5 |ref = harv}}.
+* {{Cite book | last = Lewis | first = C. S. | year = 1984 | title = [[Surprised by Joy]]: The Shape of My Early Life |place= New York |publisher= Harcourt |origyear=1966, 1955 |ref = harv}}
+* {{Cite book | last = Lewis | first = C. S. | year = 1993 | title = All My Road Before Me: The Diary of C. S. Lewis 192227 | editor-first = Walter | editor-last = Hooper | place = London | publisher = HarperCollins |ref = harv}}
+* {{Cite book | last = Lewis | first = C. S. | year = 2000 | title = Collected Letters | volume = 1: Family Letters, 19051931 | place = London | publisher = HarperCollins |ref = harv}}.
+* {{Cite book | last = Lewis | first = C. S. | title = The Collected Letters | volume = 1: Family Letters, 19051931 | place = New York | publisher = HarperCollins | year = 2004 | origyear = 2000 | isbn = 0-06-072763-2 | editor-first = Walter | editor-last = Hooper |ref = harv}}
+* {{Cite book | last = Lindskoog|first=Kathyrn|year= 2001|title= Sleuthing C. S. Lewis: More Light In The Shadowlands| publisher = Mercer University Press | isbn = 0-86554-730-0 |ref = harv}}
+* {{Cite book | last = Lucretius | first = Titus | year = 1916 | title = De Rerum Natura | origyear = Composed 1st century BCE | translator-last = Leonard | translator-first = William Ellery | at = V:200203 | url = http://www.perseus.tufts.edu/hopper/text?doc=urn:cts:latinLit:phi0550.phi001.perseus-eng1:5.195-5.234 | ref = harv}}
+* {{Cite book | last = Gresham | first=Douglas|year= 2007|title= Behind The Wardrobe: An Interview Series with Douglas Gresham| publisher = Narnia Fans | url = http://www.narniafans.com/?id=1235 |ref = harv}}
+* {{Cite book | last1= Martindale| first1= Wayne| last2= Root| first2= Jerry| year= 1990| title= The Quotable Lewis| publisher= Tyndale House | isbn = 0-8423-5115-9|ref = harv}}
+* {{Cite book | last = McDowell| first= Josh| year= 2001| title = More Than a Carpenter| publisher= Kingsway Publications | isbn = 0-85476-906-4}}
+* {{Cite book | last = Murray | first = Iain| year= 1990| title = David Martyn Lloyd-Jones: The Fight of Faith, 19391981 | publisher = The Banner of Truth Trust | isbn = 0-85151-564-9 | ref = harv}}
+* {{Cite book |year=2007 |title=History of the Old Inn |url=http://www.theoldinn.com/about-us/history-of-the-old-inn/ |deadurl=yes |archiveurl=https://web.archive.org/web/20140213131036/http://www.theoldinn.com/about-us/history-of-the-old-inn/ |archivedate=13 February 2014 | ref = {{harvid|The Old Inn|2007}} }}
+* {{Cite news | last = Pratt | first = Alf | date = 6 December 1998 | title = LDS Scholars Salute Author C.S. Lewis at BYU Conference | newspaper = [[The Salt Lake Tribune]] |url=http://www.crlamppost.org/BYU.htm |ref = harv}}
+* {{Cite news |last=Tonkin |first=Boyd |title=CS&lt;!--sic--&gt; Lewis: The literary lion of Narnia |newspaper=[[The Independent]] |url=http://enjoyment.independent.co.uk/books/features/article326179.ece |location=London |date=11 November 2005 |access-date=28 April 2010 |deadurl=yes |archiveurl=https://web.archive.org/web/20070430182311/http://enjoyment.independent.co.uk/books/features/article326179.ece |archivedate=30 April 2007 | ref = harv}}
+{{refend}}
+
+==Further reading==
+{{refbegin}}
+* {{cite book| last= Barker| first= Dan| year= 1992| title= Losing Faith in Faith: From Preacher to Atheist| place= Madison | publisher = Freedom from Religion Foundation | isbn =1-877733-07-5}}
+* {{cite news | last = Dodd | first = Celia| title = Human nature: Universally acknowledged | newspaper = The Times | volume = 2004 | issue = 508 | url = http://www.timesonline.co.uk/printFriendly/0,1-100-1100513,00.html | location=London | date= 8 May 2004 | access-date=28 April 2010}}
+* {{cite magazine |last=Drennan |first=Miriam |date=March 1999 |title=Back into the wardrobe with The Complete Chronicles of Narnia |magazine=[[BookPage]] |url=http://www.bookpage.com/9903bp/douglas_gresham.html |deadurl=yes |archiveurl=https://web.archive.org/web/20090205210612/http://bookpage.com/9903bp/douglas_gresham.html |archivedate=5 February 2009 }}
+* {{cite book| editor= Bruce L. Edwards | title = The Taste of the Pineapple: Essays on C. S. Lewis as Reader, Critic, and Imaginative Writer | publisher = The Popular Press | year = 1988 | isbn = 0-87972-407-2}}
+* {{cite book| author-link = Bruce L. Edwards | first = Bruce L. | last = Edwards | title = A Rhetoric of Reading: C. S. Lewis's Defense of Western Literacy | publisher = Center for the Study of Christian Values in Literature | year = 1986 | isbn = 0-939555-01-8}}
+* {{cite news | last = Ezard | first = John | title = Narnia books attacked as racist and sexist | newspaper = [[The Guardian]] | url = https://www.theguardian.com/uk_news/story/0,3604,726739,00.html | location = London | date = 3 June 2002 | access-date =28 April 2010}}
+* {{cite magazine |last=Gopnik |first=Adam |title=Prisoner of Narnia: How C. S. Lewis escaped |magazine=[[The New Yorker]] |url=http://www.newyorker.com/magazine/2005/11/21/prisoner-of-narnia |date=21 November 2005 |deadurl=no |archiveurl=https://web.archive.org/web/20140502013226/http://www.newyorker.com/critics/content/articles/051121crat_atlarge |archivedate=2 May 2014 }}
+* {{cite news| title= If you didn't find Narnia in your own wardrobe&amp;nbsp;... |issue= 412| url= https://www.theguardian.com/travel/2005/dec/04/unitedkingdom.cslewis.booksforchildrenandteenagers | newspaper =The Guardian | location = London | date= 4 December 2005 | access-date =5 May 2018}}
+* {{cite book| editor = David Graham | title = We Remember C. S. Lewis | publisher = Broadman &amp; Holman | year = 2001 | isbn = 0-8054-2299-4}}
+* {{cite book| first = Walter |last = Hooper | title = C. S. Lewis: A Companion and Guide|location=London | publisher = HarperCollins | year = 1996 | isbn = 0-00-627800-0}}
+* {{cite book| title = Letters of C. S. Lewis | year = 1988 | edition = expanded | editor-first = Walter | editor-last = Hooper | publisher = Fount | type = paperback | isbn = 0-00-627329-7}}
+* {{cite book| last= Hooper| first= Walter|authorlink=Walter Hooper|year=1979|title=They stand together: The letters of C.S. Lewis to Arthur Greeves (19141963) |place=London|publisher=Collins| isbn = 0-00-215828-0|url=}}
+* {{cite book| first= Walter |last=Hooper | title = Through Joy and Beyond: A Pictorial Biography of C. S. Lewis |location=London| publisher = Macmillan | year = 1982 | isbn = 0-02-553670-2}}
+* {{cite book| first= Alan |last=Jacobs | title = The Narnian: The Life and Imagination of C. S. Lewis | publisher = Harper | location = San Francisco | year = 2005 | isbn = 0-06-076690-5}}
+* {{cite book| last = Lewis | first = C. S. | year = 2002a | origyear = 1942 | title = [[The Screwtape Letters]] | place = London | publisher = Collins | isbn = 978-0-00-767240-0}}
+* {{cite book| editor = W. H. Lewis | title = Letters of C. S. Lewis|location=London | publisher = Geoffrey Bles | year = 1966 | isbn = 0-00-242457-6}}
+* {{cite book| author = Lucretius| title= De Rerum Natura| isbn= 0-19-814405-9| url= http://www.gutenberg.org/etext/785 | publisher = Project Gutenberg | language = Latin}}
+* {{cite book| first= Markus |last=Mhling | title = A Theological Journey into Narnia: An Analysis of the Message Beneath the Text | publisher = Vandenhoeck &amp; Ruprecht | place = Gttingen | year = 2005 | isbn = 3-525-60423-8}}
+* {{cite web | last=Neven |first=Tom |date=17 December 2001 |title=In Lenten Lands |publisher=Le Penseur Rflchit |url=http://www.mrrena.com/2001/Lewis.shtml |deadurl=yes |archiveurl=https://web.archive.org/web/20120721203945/http://www.mrrena.com/2001/Lewis.shtml |archivedate=21 July 2012 }}
+* {{cite news| last = Toynbee | first = Polly | title = Narnia represents everything that is most hateful about religion | newspaper = [[The Guardian]] | url = https://www.theguardian.com/religion/Story/0,2763,1657759,00.html | location = London | date = 5 December 2005 | access-date =28 April 2010}}
+{{refend}}
+
+==External links==
+{{sisterlinks|d=Q9204|s=Author:C. S. Lewis|n=no|b=no|wikt=no|v=no|voy=no|m=no|mw=no|species=no|commons=Category:C. S. Lewis}}
+{{Bibliowiki}}
+{{Spoken Wikipedia|En-CSLewis.ogg|2005-11-20}}
+* {{Gutenberg author | id=Lewis,+C.+S.+(Clive+Staples) | name=Clive Staples Lewis}}
+* {{FadedPage|id=Lewis, C. S. (Clive Staples)|name=C. S. (Clive Staples) Lewis|author=yes}}
+* {{Internet Archive author |sname=Clive Staples Lewis |sopt=tight}}
+* {{Librivox author |id=1540}}
+* [https://inklings-studies.org/ Journal of Inklings Studies] peer-reviewed journal on Lewis and his literary circle, based at Oxford
+* [http://www.tyndale.ca/seminary/mtsmodular/reading-rooms/theology/lewis C. S. Lewis Reading Room], with extensive links to online primary and secondary literature (Tyndale Seminary)
+* [https://www.wheaton.edu/academics/academic-centers/wadecenter/authors/cs-lewis/ C. S. Lewis research collection] at The Marion E. Wade Center at [[Wheaton College (Illinois)|Wheaton College]]
+*[http://www.bbc.co.uk/programmes/b086s76k BBC Radio 4  Great Lives  Suzannah Lipscomb on CS Lewis  3 January 2017] Step though the wardrobe on Great Lives as CS Lewis  creator of the Narnia Chronicles  is this week's choice.
+
+{{C. S. Lewis}}
+{{Navboxes
+|title = Associated subjects
+|list1=
+{{CSL Space Trilogy}}
+{{Narnia}}
+}}
+{{Authority control}}
+
+{{DEFAULTSORT:Lewis, C. S.}}
+[[Category:C. S. Lewis| ]]
+[[Category:1898 births]]
+[[Category:1963 deaths]]
+[[Category:20th-century novelists from Northern Ireland]]
+[[Category:20th-century English novelists]]
+[[Category:Alumni of University College, Oxford]]
+[[Category:Anglicans from Northern Ireland]]
+[[Category:British Army personnel of World War I]]
+[[Category:British children's writers]]
+[[Category:British fantasy writers]]
+[[Category:British literary critics]]
+[[Category:British philosophers]]
+[[Category:British science fiction writers]]
+[[Category:British spiritual writers]]
+[[Category:Burials in Oxfordshire]]
+[[Category:Carnegie Medal in Literature winners]]
+[[Category:Christian apologists]]
+[[Category:Christian novelists]]
+[[Category:Christian philosophers]]
+[[Category:Converts to Anglicanism from atheism or agnosticism]]
+[[Category:Deaths from renal failure]]
+[[Category:Disease-related deaths in England]]
+[[Category:Fellows of Magdalene College, Cambridge]]
+[[Category:Fellows of Magdalen College, Oxford]]
+[[Category:Inklings]]
+[[Category:Irish Anglicans]]
+[[Category:Irish children's writers]]
+[[Category:Irish fantasy writers]]
+[[Category:Irish literary critics]]
+[[Category:Irish philosophers]]
+[[Category:Irish poets]]
+[[Category:Irish science fiction writers]]
+[[Category:Irish spiritual writers]]
+[[Category:Lay theologians]]
+[[Category:Literary critics of English]]
+[[Category:Mythopoeic writers]]
+[[Category:People educated at Campbell College]]
+[[Category:People educated at Malvern College]]
+[[Category:People from Northern Ireland of Welsh descent]]
+[[Category:Somerset Light Infantry officers]]
+[[Category:Writers from Belfast]]
+[[Category:Male novelists from Northern Ireland]]
+[[Category:Male writers from Northern Ireland]]
+[[Category:Christian writers]]
+[[Category:Fellows of the British Academy]]
+[[Category:Theistic evolutionists]]</text>
+      <sha1>0osta7qqqnbxyqpyggsslz8moa2h381</sha1>
+    </revision>
+  </page>
+</mediawiki>

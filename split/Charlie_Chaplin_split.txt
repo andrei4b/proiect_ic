@@ -1,0 +1,693 @@
+
+______RELATIVES______
+' brother' ' sister' ' youngest' ' oldest' ' child' ' sibling' 
+--film
+ person
+ | image = Charlie Chaplin portrait.jpg
+ | caption = Publicity portrait, {{circa|1920}}
+ | honorific_prefix = Sir
+ | name = Charles Chaplin
+ | honorific_suffix = {{post-nominals|size=100%|country=GBR|KBE}}
+ | birth_name = Charles Spencer Chaplin
+ | birth_date = {{birth date|1889|4|16|df=y}}
+ | birth_place = England
+ | death_date = {{death date and age|1977|12|25|1889|4|16|df=y}}
+ | death_place = Corsier-sur-Vevey, Vaud, Switzerland
+ | occupation = {{hlist|Actor|director|composer|screenwriter|producer|editor}}
+ | years_active = 18991976
+ | spouse =
+  {{Unbulleted list |
+   | {{marriage|Mildred Harris|1918|1920|reason=divorced}}
+   | {{marriage|Lita Grey|1924|1927|reason=divorced}}
+   | {{marriage|Paulette Goddard|1936|1942|reason=divorced}}
+   | {{marriage|Oona O'Neill|1943|}}
+  }}
+ | children = 11
+ | relatives = See Chaplin family
+ | signature = Firma de Charles Chaplin.svg
+ | website = {{url|charliechaplin.com}}
+}}
+
+'''Sir Charles Spencer Chaplin''', {{post-nominals|size=100%|country=GBR|KBE}} (16 April 1889  25 December 1977) was an English  comic actor, filmmaker, and composer who rose to fame in the era of silent film.
+______________________________
+{{sfnm|1a1=Cousins||1p=72|2a1=Kemp|2pp=8, 22|3a1=Gunning|3p=41|4a1=Sarris|4p=139|5a1=Hansmeyer|5p=3}} His career spanned more than 75 years, from childhood in the Victorian era until a year before his death in 1977, and encompassed both adulation and controversy.
+______________________________
+Chaplin's childhood in London was one of poverty and hardship.
+______________________________
+==Biography==
+===18891913: Early years===
+
+====Background and childhood hardship====
+Charles Spencer Chaplin was born on 16 April 1889 to Hannah Chaplin (born Hannah Harriet Pedlingham Hill) and Charles Chaplin Sr.
+______________________________
+The child was taken by Dryden at six months old, and did not re-enter Chaplin's life for 30 years.
+______________________________
+{{sfn|Robinson|p=15}}
+
+thumb|upright=0.9|Seven-year-old Chaplin (middle centre, leaning slightly) at the Central London District School for paupers, 1897
+
+Chaplin's childhood was fraught with poverty and hardship, making his eventual trajectory "the most dramatic of all the rags to riches stories ever told" according to his authorised biographer David Robinson.
+______________________________
+{{sfn|Robinson|p=xv}} Chaplin's early years were spent with his mother and brother Sydney in the London district of Kennington; Hannah had no means of income, other than occasional nursing and dressmaking, and Chaplin Sr. provided no financial support.
+______________________________
+Southwark Council ruled that it was necessary to send the children to a workhouse "owing to the absence of their father and the destitution and illness of their mother".
+______________________________
+The boys were promptly sent to Norwood Schools, another institution for destitute children.
+______________________________
+"{{sfn|Chaplin|p=10}}
+ |source =   Chaplin on his childhood
+ |width= 20%
+ |align=left
+}}
+
+In September 1898, Hannah was committed to Cane Hill mental asylum  she had developed a psychosis seemingly brought on by an infection of syphilis and malnutrition.
+______________________________
+{{sfn|Weissman|(2009)|pp=4950}} For the two months she was there, Chaplin and his brother Sydney were sent to live with their father, whom the young boys scarcely knew.
+______________________________
+{{sfn|Robinson|p=63}}
+
+====Stage comedy and vaudeville====
+Chaplin soon found work with a new company, and went on tour with his brother  who was also pursuing an acting career  in a comedy sketch called ''Repairs''.
+______________________________
+{{sfnm|1a1=Robinson|1p=71|2a1=Kamin|2p=12|3a1=Marriot|3p=85}} In February, he managed to secure a two-week trial for his younger brother.
+______________________________
+The 16-year-old actress Mildred Harris had revealed that she was pregnant with his child, and in September 1918, he married her quietly in Los Angeles to avoid controversy.
+______________________________
+{{sfnm|1a1=Chaplin|1p=235|2a1=Robinson|2p=259}}
+
+Losing the child, plus his own childhood experiences, are thought to have influenced Chaplin's film, which turned the Tramp into the caretaker of a young boy.
+______________________________
+{{sfn|Robinson|pp=350, 368}} In November 1926, Grey took the children and left the family home.
+______________________________
+{{sfn|Maland|(1989)|pp=198201}}|group=note}} reappeared the following year and announced that she was pregnant with Chaplin's child.
+______________________________
+The couple had eight children.
+______________________________
+Barry's child, Carol Ann, was born in October 1944, and the paternity suit went to court in February 1945.
+______________________________
+{{sfn|Maland|(1989)|pp=205206}}|group=note}}, and the judge ordered Chaplin to pay child support until Carol Ann turned 21.
+______________________________
+{{sfn|Robinson|p=519}} The couple remained married until Chaplin's death, and had eight children over 18 years: Geraldine Leigh (b. July 1944), Michael John (b.
+______________________________
+''Limelight'' was heavily autobiographical, alluding not only to Chaplin's childhood and the lives of his parents, but also to his loss of popularity in the United States.
+______________________________
+{{sfnm|1a1=Maland|1y=(1989)|1pp=288290|2a1=Robinson|2pp=551552|3a1=Louvish|3p=312}} The cast included various members of his family, including his five oldest children and his half-brother, Wheeler Dryden.
+______________________________
+{{sfn|Louvish|p=347}}{{sfn|Vance|(2003)|p=329}}
+
+====Final works and renewed appreciation====
+thumb|upright=1.3|Chaplin with his wife Oona and six of their children in 1961
+
+In the last two decades of his career, Chaplin concentrated on re-editing and scoring his old films for re-release, along with securing their ownership and distribution rights.
+______________________________
+{{sfn|Robinson|pp=629631}}
+
+==Filmmaking==
+===Influences===
+Chaplin believed his first influence to be his mother, who entertained him as a child by sitting at the window and mimicking passers-by: "it was through watching her that I learned not only how to express emotions with my hands and face, but also how to observe and study people.
+______________________________
+{{sfn|Maland|(1989)|p=353}} Chaplin did receive help, notably from his long-time cinematographer Roland Totheroh, brother Sydney Chaplin, and various assistant directors such as Harry Crocker and Charles Reisner.
+______________________________
+{{sfn|Weissman|(1999)|pp=439445}} ''The Kid'' is thought to reflect Chaplin's childhood trauma of being sent into an orphanage,{{sfn|Weissman|(1999)|pp=439445}} the main characters in ''Limelight'' (1952) contain elements from the lives of his parents,{{sfn|Bloom|p=107}} and ''A King in New York'' references Chaplin's experiences of being shunned by the United States.
+______________________________
+{{sfn|Kamin|p=29}}
+
+===Composing===
+thumb|upright|Chaplin playing the cello in 1915
+
+Chaplin developed a passion for music as a child and taught himself to play the piano, violin, and cello.
+______________________________
+Chaplin's legacy is managed on behalf of his children by the Chaplin office, located in Paris.
+______________________________
+The office represents Association Chaplin, founded by some of his children "to protect the name, image and moral rights" to his body of work, Roy Export SAS, which owns the copyright to most of his films made after 1918, and Bubbles Incorporated S.A., which owns the copyrights to his image and name.
+______________________________
+A television series about Chaplin's childhood, ''Young Charlie Chaplin'', ran on PBS in 1989, and was nominated for an Emmy Award for Outstanding Children's Program.
+______________________________
+
+______NATIONALITY______
+' born' ' lived' ' left' ' moved' ' migrate' ' migration' ' citizen' ' travel' ' jew' ' ethnic' ' foreign' 
+Chaplin directed his own films from an early stage and continued to hone his craft as he moved to the Essanay, Mutual, and First National corporations.
+______________________________
+==Biography==
+===18891913: Early years===
+
+====Background and childhood hardship====
+Charles Spencer Chaplin was born on 16 April 1889 to Hannah Chaplin (born Hannah Harriet Pedlingham Hill) and Charles Chaplin Sr.
+______________________________
+There is no official record of his birth, although Chaplin believed he was born at East Street, Walworth, in South London.
+______________________________
+"{{sfn|Robinson|p=10}} In 2011 a letter sent to Chaplin in the 1970s came to light which claimed that he had been born in a Gypsy caravan at Black Patch Park in Smethwick, Staffordshire.
+______________________________
+{{sfn|Robinson|pp=34, 19}}{{refn|Sydney was born when Hannah Chaplin was 19.
+______________________________
+bgcolor=#E0E6F8
+ |quote = "I was hardly aware of a crisis because we lived in a continual crisis; and, being a boy, I dismissed our troubles with gracious forgetfulness.
+______________________________
+{{sfn|Robinson|p=40}} He lived alone for several days, searching for food and occasionally sleeping rough, until Sydney  who had enrolled in the Navy two years earlier  returned.
+______________________________
+{{refn|The Eight Lancashire Lads were still touring until 1908; the exact time Chaplin left the group is unverified, but based on research, A. J. Marriot believes it was in December 1900.
+______________________________
+{{sfnm|1a1=Robinson|1p=103|2a1=Chaplin|2p=139}}
+
+{{multiple image
+ | align     = left
+ | direction = vertical
+ | width     =
+ | image1    = Chaplin Making a Living 2.jpg
+ | width1    = 220
+ | caption1  = Chaplin (left) in his first film appearance, ''Making a Living'', with Henry Lehrman who directed the picture (1914)
+ | alt1      = Making a Living screenshot
+ | image2    = Chaplin Kid Auto Races.jpg
+ | width2    = 220
+ | caption2  = The Tramp debuts in ''Kid Auto Races at Venice'' (1914), Chaplin's second released film
+ | alt2      = Kid Auto Races at Venice screenshot
+}}
+
+Chaplin arrived in Los Angeles, home of the Keystone studio, in early December 1913.
+______________________________
+I began to know him, and by the time I walked on stage he was fully born.
+______________________________
+Norman Spencer Chaplin was born malformed and died three days later.
+______________________________
+{{sfnm|1a1=Chaplin and Vance|1p=53|2a1=Vance|2y=(2003)|2p=170}} Their first son, Charles Spencer Chaplin, Jr., was born on 5 May 1925, followed by Sydney Earl Chaplin on 30 March 1926.
+______________________________
+{{sfn|Robinson|pp=350, 368}} In November 1926, Grey took the children and left the family home.
+______________________________
+"{{sfn|Chaplin|p=360}} In this state of uncertainty, early in 1931, the comedian decided to take a holiday and ended up travelling for 16 months.
+______________________________
+{{sfnm|1a1=Louvish|1p=243|2a1=Robinson|2p=420}}{{refn|Chaplin left the United States on 31 January 1931, and returned on 10 June 1932.
+______________________________
+{{sfn|Robinson|pp=664666}}|group=note}} He spent months travelling Western Europe, including extended stays in France and Switzerland, and spontaneously decided to visit Japan.
+______________________________
+{{sfnm|1a1=Robinson|1p=453|2a1=Maland|2y=(1989)|2p=147}} He was not ready to commit to a film, however, and focused on writing a serial about his travels (published in ''Woman's Home Companion'').
+______________________________
+"{{sfn|Schneider|p=125}}
+
+Following the release of ''Modern Times'', Chaplin left with Goddard for a trip to the Far East.
+______________________________
+{{sfn|Chaplin|p=386}}  Parallels between himself and Adolf Hitler had been widely noted: the pair were born four days apart, both had risen from poverty to world prominence, and Hitler wore the same toothbrush moustache as Chaplin.
+______________________________
+Barry's child, Carol Ann, was born in October 1944, and the paternity suit went to court in February 1945.
+______________________________
+{{sfn|Maland|(1989)|pp=265266}} The FBI also requested and received help from MI5, particularly on investigating the false claims that Chaplin had not been born in England but in France or Eastern Europe, and that his real name was Israel Thornstein.
+______________________________
+{{sfnm|1a1=Friedrich|1p=286|2a1=Maland|2y=(1989)|2p=261}} As his activities were widely reported in the press, and Cold War fears grew, questions were raised over his failure to take American citizenship.
+______________________________
+{{sfn|Louvish|p=326}} As he left Los Angeles, he expressed a premonition that he would not be returning.
+______________________________
+{{sfn|Robinson|p=580}}|group=note}} The couple decided to settle in Switzerland and, in January 1953, the family moved into their permanent home: Manoir de Ban, a {{convert|14|ha|acre|sing=on}} estate overlooking Lake Geneva in Corsier-sur-Vevey.
+______________________________
+The next year, his wife renounced her US citizenship and became a British citizen.
+______________________________
+"{{sfn|Robinson|p=631}} Actor Bob Hope declared, "We were lucky to have lived in his time.
+______________________________
+The films he left behind can never grow old."
+______________________________
+
+______MULTILINGUAL______
+' multilingual' ' language' ' speak' ' foreign' 
+''Harper's Weekly'' reported that the name of Charlie Chaplin was "a part of the common language of almost every country", and that the Tramp image was "universally familiar".
+______________________________
+Like its predecessor, ''Modern Times'' employed sound effects but almost no speaking.
+______________________________
+
+______SCHOOLING______
+' school' ' education' ' home' ' self' ' self taught' 
+{{sfnm|1a1=Chaplin|1p=88|2a1=Robinson|2pp=5556}}
+
+====Young performer====
+thumb|upright|left|A teenage Chaplin in the play ''[[Sherlock Holmes (play)|Sherlock Holmes'', in which he appeared between 1903 and 1906]]
+
+Between his time in the poor schools and his mother succumbing to mental illness, Chaplin began to perform on stage.
+______________________________
+{{sfn|Chaplin|p=44}}
+
+In the years Chaplin was touring with the Eight Lancashire Lads, his mother ensured that he still attended school but, by age 13, he had abandoned education.
+______________________________
+{{sfnm|1a1=Robinson|1p=103|2a1=Chaplin|2p=139}}
+
+{{multiple image
+ | align     = left
+ | direction = vertical
+ | width     =
+ | image1    = Chaplin Making a Living 2.jpg
+ | width1    = 220
+ | caption1  = Chaplin (left) in his first film appearance, ''Making a Living'', with Henry Lehrman who directed the picture (1914)
+ | alt1      = Making a Living screenshot
+ | image2    = Chaplin Kid Auto Races.jpg
+ | width2    = 220
+ | caption2  = The Tramp debuts in ''Kid Auto Races at Venice'' (1914), Chaplin's second released film
+ | alt2      = Kid Auto Races at Venice screenshot
+}}
+
+Chaplin arrived in Los Angeles, home of the Keystone studio, in early December 1913.
+______________________________
+{{sfn|Robinson|pp=350, 368}} In November 1926, Grey took the children and left the family home.
+______________________________
+{{sfn|Maland|(1989)|p=200}} Barry, who displayed obsessive behaviour and was twice arrested after they separated,{{refn|In December 1942, Barry broke into Chaplin's home with a handgun and threatened suicide while holding him at gunpoint.
+______________________________
+Barry broke into Chaplin's home a second time later that month, and he had her arrested.
+______________________________
+{{sfn|Robinson|p=580}}|group=note}} The couple decided to settle in Switzerland and, in January 1953, the family moved into their permanent home: Manoir de Ban, a {{convert|14|ha|acre|sing=on}} estate overlooking Lake Geneva in Corsier-sur-Vevey.
+______________________________
+{{sfnm|1a1=Lynn|1pp=466467|2a1=Robinson|2p=584|3a1=Balio|3pp=1721}}
+
+thumb|Manoir de Ban, Chaplin's home in Corsier-sur-Vevey, Switzerland
+
+Chaplin remained a controversial figure throughout the 1950s, especially after he was awarded the International Peace Prize by the communist-led World Peace Council, and after his meetings with Zhou Enlai and Nikita Khrushchev.
+______________________________
+{{sfn|Robinson|p=629}} In the early morning of 25 December 1977, Chaplin died at home after suffering a stroke in his sleep.
+______________________________
+Hansmeyer notes that several of Chaplin's films end with "the homeless and lonely Tramp [walking] optimistically... into the sunset... to continue his journey".
+______________________________
+===Commemoration and tributes===
+
+Chaplin's final home, Manoir de Ban in Corsier-sur-Vevey, Switzerland, has been converted into a museum named "Chaplin's World".
+______________________________
+Retrospectives of his work were presented that year at The National Film Theatre in London, the Munich Stadtmuseum and the Museum of Modern Art in New York, which also dedicated a gallery exhibition, ''Chaplin: A Centennial Celebration'', to him.|group=note}} and on 15 April 2011, a day before his 122nd birthday, Google celebrated him with a special Google Doodle video on its global and other country-wide homepages.
+______________________________
+A day in Chaplin's life in 1909 is dramatised in the chapter entitled "Modern Times" in Alan Moore's ''Jerusalem'' (2016), a novel set in the author's home town of Northampton, England.
+______________________________
+
+______SCHOOL______
+' teach' ' authorit' ' class' 
+"{{sfn|Weissman|(2009)|p=47}} The Tramp defies authority figures{{sfn|Dale|p=17}} and "gives as good as he gets",{{sfn|Weissman|(2009)|p=47}} leading Robinson and Louvish to see him as a representative for the underprivileged  an "everyman turned heroic saviour".
+______________________________
+{{sfn|Schickel|pp=7, 13}} Although his work is mostly classified as slapstick, Chaplin's drama ''A Woman of Paris'' (1923) was a major influence on Ernst Lubitsch's film ''The Marriage Circle'' (1924) and thus played a part in the development of "sophisticated comedy".
+______________________________
+{{sfn|Mast|p=100}}
+
+In the 21st century, several of Chaplin's films are still regarded as classics and among the greatest ever made.
+______________________________
+
+______GRADUATING______
+' PhD' ' diploma' ' college' ' drop out' ' dropping out' ' left schoo' 
+{{sfn|Maland|(1989)|p=253}} He was also friendly with several suspected communists, and attended functions given by Soviet diplomats in Los Angeles.
+______________________________
+
+______READING______
+' read' ' books' 
+{{sfn|Chaplin|p=29}} He was briefly reunited with his mother 18 months later, before Hannah was forced to readmit her family to the workhouse in July 1898.
+______________________________
+{{sfnm|1a1=Robinson|1p=453|2a1=Maland|2y=(1989)|2p=147}} He was not ready to commit to a film, however, and focused on writing a serial about his travels (published in ''Woman's Home Companion'').
+______________________________
+Roosevelt subsequently invited Chaplin to read the film's final speech over the radio during his January 1941 inauguration, with the speech becoming a "hit" of the celebration.
+______________________________
+{{sfn|Gehring|p=133}} Chaplin was often invited to other patriotic functions to read the speech to audiences during the years of the war.
+______________________________
+{{sfn|Louvish|p=228}} If he was out of ideas, he often took a break from the shoot, which could last for days, while keeping the studio ready for when inspiration returned.
+______________________________
+{{sfn|Vance|(2000)|p=xiii}}
+
+As Chaplin was not a trained musician, he could not read sheet music and needed the help of professional composers, such as David Raksin, Raymond Rasch and Eric James, when creating his scores.
+______________________________
+
+______PARENTS______
+' parents' ' father' ' mother' ' family' ' adopt' ' died' ' profession' ' occupation' 
+--film
+ person
+ | image = Charlie Chaplin portrait.jpg
+ | caption = Publicity portrait, {{circa|1920}}
+ | honorific_prefix = Sir
+ | name = Charles Chaplin
+ | honorific_suffix = {{post-nominals|size=100%|country=GBR|KBE}}
+ | birth_name = Charles Spencer Chaplin
+ | birth_date = {{birth date|1889|4|16|df=y}}
+ | birth_place = England
+ | death_date = {{death date and age|1977|12|25|1889|4|16|df=y}}
+ | death_place = Corsier-sur-Vevey, Vaud, Switzerland
+ | occupation = {{hlist|Actor|director|composer|screenwriter|producer|editor}}
+ | years_active = 18991976
+ | spouse =
+  {{Unbulleted list |
+   | {{marriage|Mildred Harris|1918|1920|reason=divorced}}
+   | {{marriage|Lita Grey|1924|1927|reason=divorced}}
+   | {{marriage|Paulette Goddard|1936|1942|reason=divorced}}
+   | {{marriage|Oona O'Neill|1943|}}
+  }}
+ | children = 11
+ | relatives = See Chaplin family
+ | signature = Firma de Charles Chaplin.svg
+ | website = {{url|charliechaplin.com}}
+}}
+
+'''Sir Charles Spencer Chaplin''', {{post-nominals|size=100%|country=GBR|KBE}} (16 April 1889  25 December 1977) was an English  comic actor, filmmaker, and composer who rose to fame in the era of silent film.
+______________________________
+As his father was absent and his mother struggled financially, he was sent to a workhouse twice before the age of nine.
+______________________________
+When he was 14, his mother was committed to a mental asylum.
+______________________________
+Chaplin biographer David Robinson notes that it is not surprising that his parents failed to register the birth: "It was easy enough, particularly for music hall artists, constantly moving (if they were lucky) from one town to another, to put off and eventually forget this kind of formality; at that time the penalties were not strict or efficiently enforced.
+______________________________
+Chaplin's son Michael has suggested that the information must have been significant to his father in order for him to retain the letter.
+______________________________
+{{sfn|Robinson|p=xxiv}}|group=note}} His mother and father had married four years previously, at which time Charles Sr. became the legal carer of Hannah's illegitimate son, Sydney John Hill.
+______________________________
+The identity of his biological father is not known for sure, but Hannah claimed it was a Mr.
+______________________________
+{{sfn|Robinson|p=3}}|group=note}} At the time of his birth, Chaplin's parents were both music hall entertainers.
+______________________________
+{{sfn|Robinson|pp=910, 12}} Although they never divorced, Chaplin's parents were estranged by around 1891.
+______________________________
+{{sfn|Robinson|p=13}} The following year, Hannah gave birth to a third son  George Wheeler Dryden  fathered by the music hall entertainer Leo Dryden.
+______________________________
+{{sfn|Robinson|p=xv}} Chaplin's early years were spent with his mother and brother Sydney in the London district of Kennington; Hannah had no means of income, other than occasional nursing and dressmaking, and Chaplin Sr. provided no financial support.
+______________________________
+Southwark Council ruled that it was necessary to send the children to a workhouse "owing to the absence of their father and the destitution and illness of their mother".
+______________________________
+{{sfn|Chaplin|p=29}} He was briefly reunited with his mother 18 months later, before Hannah was forced to readmit her family to the workhouse in July 1898.
+______________________________
+{{sfn|Weissman|(2009)|pp=4950}} For the two months she was there, Chaplin and his brother Sydney were sent to live with their father, whom the young boys scarcely knew.
+______________________________
+{{sfn|Robinson|p=27}} Chaplin's father died two years later, at 38 years old, from cirrhosis of the liver.
+______________________________
+{{sfn|Robinson|p=27}} Chaplin, then 14, had the task of taking his mother to the infirmary, from where she was sent back to Cane Hill.
+______________________________
+"There was nothing we could do but accept poor mother's fate", Chaplin later wrote, and she remained in care until her death in 1928.
+______________________________
+{{sfnm|1a1=Chaplin|1p=88|2a1=Robinson|2pp=5556}}
+
+====Young performer====
+thumb|upright|left|A teenage Chaplin in the play ''[[Sherlock Holmes (play)|Sherlock Holmes'', in which he appeared between 1903 and 1906]]
+
+Between his time in the poor schools and his mother succumbing to mental illness, Chaplin began to perform on stage.
+______________________________
+{{sfnm|1a1=Robinson|1p=17|2a1=Chaplin|2p=18}}|group=note}} This was an isolated occurrence, but by the time he was nine Chaplin had, with his mother's encouragement, grown interested in performing.
+______________________________
+{{sfn|Chaplin|p=41}} Through his father's connections,{{sfn|Marriot|p=4}} Chaplin became a member of the Eight Lancashire Lads clog-dancing troupe, with whom he toured English music halls throughout 1899 and 1900.
+______________________________
+{{sfn|Chaplin|p=44}}
+
+In the years Chaplin was touring with the Eight Lancashire Lads, his mother ensured that he still attended school but, by age 13, he had abandoned education.
+______________________________
+{{sfn|Chaplin|p=76}} At 14, shortly after his mother's relapse, he registered with a theatrical agency in London's West End.
+______________________________
+{{sfn|Robinson|p=113}} Chaplin adopted the character as his screen persona and attempted to make suggestions for the films he appeared in.
+______________________________
+{{sfn|Robinson|p=210}} In 1917, professional Chaplin imitators were so widespread that he took legal action,{{sfn|Robinson|pp=215216}} and it was reported that nine out of ten men who attended costume parties dressed as the Tramp.
+______________________________
+Norman Spencer Chaplin was born malformed and died three days later.
+______________________________
+{{sfn|Robinson|pp=350, 368}} In November 1926, Grey took the children and left the family home.
+______________________________
+{{sfn|Robinson|pp=469472, 474}} It was his first feature in 15 years to adopt political references and social realism,{{sfn|Maland|(1989)|p=150}} a factor that attracted considerable press coverage despite Chaplin's attempts to downplay the issue.
+______________________________
+After two arduous trials, in which the prosecuting lawyer accused him of "moral turpitude",{{sfn|Louvish|p=xiii}} Chaplin was declared to be the father.
+______________________________
+{{sfn|Chaplin|pp=423, 477}} Chaplin's son, Charles Jr., reported that Oona "worshipped" his father.
+______________________________
+{{sfn|Robinson|p=520}} ''Monsieur Verdoux'' was a black comedy, the story of a French bank clerk, Verdoux (Chaplin), who loses his job and begins marrying and murdering wealthy widows to support his family.
+______________________________
+''Limelight'' was heavily autobiographical, alluding not only to Chaplin's childhood and the lives of his parents, but also to his loss of popularity in the United States.
+______________________________
+{{sfnm|1a1=Maland|1y=(1989)|1pp=288290|2a1=Robinson|2pp=551552|3a1=Louvish|3p=312}} The cast included various members of his family, including his five oldest children and his half-brother, Wheeler Dryden.
+______________________________
+{{sfn|Robinson|p=570}} At New York, he boarded the {{RMS|Queen Elizabeth}} with his family on 18 September 1952.
+______________________________
+{{sfn|Robinson|p=580}}|group=note}} The couple decided to settle in Switzerland and, in January 1953, the family moved into their permanent home: Manoir de Ban, a {{convert|14|ha|acre|sing=on}} estate overlooking Lake Geneva in Corsier-sur-Vevey.
+______________________________
+{{sfn|Robinson|pp=584, 674}} Chaplin severed the last of his professional ties with the United States in 1955, when he sold the remainder of his stock in United Artists, which had been in financial difficulty since the early 1940s.
+______________________________
+His son, Michael, was cast as a boy whose parents are targeted by the FBI, while Chaplin's character faces accusations of communism.
+______________________________
+{{sfn|Robinson|p=629}} In the early morning of 25 December 1977, Chaplin died at home after suffering a stroke in his sleep.
+______________________________
+{{sfn|Robinson|pp=629631}}
+
+==Filmmaking==
+===Influences===
+Chaplin believed his first influence to be his mother, who entertained him as a child by sitting at the window and mimicking passers-by: "it was through watching her that I learned not only how to express emotions with my hands and face, but also how to observe and study people.
+______________________________
+{{sfn|Weissman|(1999)|pp=439445}} ''The Kid'' is thought to reflect Chaplin's childhood trauma of being sent into an orphanage,{{sfn|Weissman|(1999)|pp=439445}} the main characters in ''Limelight'' (1952) contain elements from the lives of his parents,{{sfn|Bloom|p=107}} and ''A King in New York'' references Chaplin's experiences of being shunned by the United States.
+______________________________
+Stephen M. Weissman has argued that Chaplin's problematic relationship with his mentally ill mother was often reflected in his female characters and the Tramp's desire to save them.
+______________________________
+{{sfn|Vance|(2000)|p=xiii}}
+
+As Chaplin was not a trained musician, he could not read sheet music and needed the help of professional composers, such as David Raksin, Raymond Rasch and Eric James, when creating his scores.
+______________________________
+(In French) Chaplin has also been honoured by the Irish town of Waterville, where he spent several summers with his family in the 1960s.
+______________________________
+
+______MUSIC______
+' music' ' play' ' listen' ' piano' ' violin' ' flute' ' guitar' 
+Chaplin began performing at an early age, touring music halls and later working as a stage actor and comedian.
+______________________________
+Chaplin wrote, directed, produced, edited, starred in, and composed the music for most of his films.
+______________________________
+Chaplin biographer David Robinson notes that it is not surprising that his parents failed to register the birth: "It was easy enough, particularly for music hall artists, constantly moving (if they were lucky) from one town to another, to put off and eventually forget this kind of formality; at that time the penalties were not strict or efficiently enforced.
+______________________________
+{{sfn|Robinson|p=3}}|group=note}} At the time of his birth, Chaplin's parents were both music hall entertainers.
+______________________________
+{{sfn|Robinson|p=13}} The following year, Hannah gave birth to a third son  George Wheeler Dryden  fathered by the music hall entertainer Leo Dryden.
+______________________________
+{{sfnm|1a1=Chaplin|1p=88|2a1=Robinson|2pp=5556}}
+
+====Young performer====
+thumb|upright|left|A teenage Chaplin in the play ''[[Sherlock Holmes (play)|Sherlock Holmes'', in which he appeared between 1903 and 1906]]
+
+Between his time in the poor schools and his mother succumbing to mental illness, Chaplin began to perform on stage.
+______________________________
+{{sfn|Chaplin|p=41}} Through his father's connections,{{sfn|Marriot|p=4}} Chaplin became a member of the Eight Lancashire Lads clog-dancing troupe, with whom he toured English music halls throughout 1899 and 1900.
+______________________________
+{{sfnm|1a1=Marriot|1pp=4244|2a1=Robinson|2pp=4647|3a1=Louvish|3p=26}}
+
+Saintsbury secured a role for Chaplin in Charles Frohman's production of ''Sherlock Holmes'', where he played Billy the pageboy in three nationwide tours.
+______________________________
+{{sfn|Robinson|pp=45, 4951, 53, 58}} His performance was so well received that he was called to London to play the role alongside William Gillette, the original Holmes.
+______________________________
+{{refn|William Gillette co-wrote the ''Sherlock Holmes'' play with Arthur Conan Doyle, and had been starring in it since its New York opening in 1899.
+______________________________
+He had come to London in 1905 to appear in a new play, ''Clarice''.
+______________________________
+This short play was what Chaplin originally came to London to appear in.
+______________________________
+Chaplin had so pleased Gillette with his performance in ''The Painful Predicament'' that he was kept on as Billy for the full play.
+______________________________
+{{sfn|Chaplin|p=89}} At 16 years old, Chaplin starred in the play's West End production at the Duke of York's Theatre from October to December 1905.
+______________________________
+{{sfn|Marriot|p=217}} He completed one final tour of ''Sherlock Holmes'' in early 1906, before leaving the play after more than two-and-a-half years.
+______________________________
+{{sfn|Robinson|pp=7677}} Chaplin began by playing a series of minor parts, eventually progressing to starring roles in 1909.
+______________________________
+He joined the studio in late December 1914,{{sfn|Robinson|p=135}} where he began forming a stock company of regular players, including Leo White, Bud Jamison, Paddy McGuire and Billy Armstrong.
+______________________________
+{{sfn|Chaplin|p=324}} One advantage Chaplin found in sound technology was the opportunity to record a musical score for the film, which he composed himself.
+______________________________
+{{sfn|Robinson|p=468}} After recording the music, Chaplin released ''Modern Times'' in February 1936.
+______________________________
+Chaplin responded by playing a Jew in ''The Great Dictator'' and announced, "I did this film for the Jews of the world.
+______________________________
+"{{sfn|Robinson|pp=154155}}|group=note}} In a dual performance, he also played the dictator "Adenoid Hynkel", who parodied Hitler.
+______________________________
+{{sfnm|1a1=Frost|1pp=7488|2a1=Maland|2y=(1989)|2pp=207213|3a1=Sbardellati and Shaw|3p=508|4a1=Friedrich|4p=393}}
+
+The controversy surrounding Chaplin increased when, two weeks after the paternity suit was filed, it was announced that he had married his newest protge, 18-year-old Oona O'Neill  daughter of the American playwright Eugene O'Neill.
+______________________________
+"{{sfn|Robinson|p=545}}
+
+====''Limelight'' and banning from the United States====
+thumb|''[[Limelight (1952 film)|Limelight'' (1952) was a serious and autobiographical film for Chaplin: his character, Calvero, is an ex music hall star (described in this image as a "Tramp Comedian") forced to deal with his loss of popularity.]]
+______________________________
+{{sfnm|1a1=Louvish|1p=341|2a1=Maland|2y=(1989)|2pp=320321|3a1=Robinson|3pp=588589|4a1=Larcher|4pp=8990}} In a review, the playwright John Osborne called it Chaplin's "most bitter" and "most openly personal" film.
+______________________________
+"{{sfn|Robinson|p=18}} Chaplin's early years in music hall allowed him to see stage comedians at work; he also attended the Christmas pantomimes at Drury Lane, where he studied the art of clowning through performers like Dan Leno.
+______________________________
+{{sfn|Robinson|pp=8687}} The concept of mixing pathos with slapstick was learnt from Karno,{{refn|Stan Laurel, Chaplin's co-performer at the company, remembered that Karno's sketches regularly inserted "a bit of sentiment right in the middle of a funny music hall turn.
+______________________________
+If he could have done so, Chaplin would have played every role and (as his son Sydney humorously but perceptively observed) sewn every costume.
+______________________________
+{{sfn|Larcher|pp=6289}}
+
+Several of Chaplin's films incorporate autobiographical elements, and the psychologist Sigmund Freud believed that Chaplin "always plays only himself as he was in his dismal youth".
+______________________________
+{{sfn|Kamin|p=29}}
+
+===Composing===
+thumb|upright|Chaplin playing the cello in 1915
+
+Chaplin developed a passion for music as a child and taught himself to play the piano, violin, and cello.
+______________________________
+{{sfnm|1a1=Robinson|1p=411|2a1=Louvish|2pp=1718}} He considered the musical accompaniment of a film to be important,{{sfn|Robinson|pp=382}} and from ''A Woman of Paris'' onwards he took an increasing interest in this area.
+______________________________
+{{sfn|Vance|(2000)|p=xiii}}
+
+As Chaplin was not a trained musician, he could not read sheet music and needed the help of professional composers, such as David Raksin, Raymond Rasch and Eric James, when creating his scores.
+______________________________
+{{sfn|Slowik|p=133}} Although some critics have claimed that credit for his film music should be given to the composers who worked with him, Raksin  who worked with Chaplin on ''Modern Times''  stressed Chaplin's creative position and active participation in the composing process.
+______________________________
+{{sfn|Raksin and Berg|pp=4750}} This process, which could take months, would start with Chaplin describing to the composer(s) exactly what he wanted and singing or playing tunes he had improvised on the piano.
+______________________________
+{{sfn|Raksin and Berg|pp=4750}} According to film historian Jeffrey Vance, "although he relied upon associates to arrange varied and complex instrumentation, the musical imperative is his, and not a note in a Chaplin musical score was placed there without his assent.
+______________________________
+{{refn|Although the film had originally been released in 1952, it did not play for one week in Los Angeles because of its boycott, and thus did not meet the criterion for nomination until it was re-released in 1972.|group=note}}
+
+==Legacy==
+thumb|upright|left|Chaplin as the Tramp in 1915, cinema's "most universal icon"{{sfn|Sarris|p=139}}
+
+In 1998, the film critic Andrew Sarris called Chaplin "arguably the single most important artist produced by the cinema, certainly its most extraordinary performer and probably still its most universal icon".
+______________________________
+{{sfn|Schickel|pp=7, 13}} Although his work is mostly classified as slapstick, Chaplin's drama ''A Woman of Paris'' (1923) was a major influence on Ernst Lubitsch's film ''The Marriage Circle'' (1924) and thus played a part in the development of "sophisticated comedy".
+______________________________
+In Hollywood, a screening of a restored version of ''How to Make Movies'' was held at his former studio, and in Japan, he was honoured with a musical tribute.
+______________________________
+He is also a character in the period drama film ''The Cat's Meow'' (2001), played by Eddie Izzard, and in the made-for-television movie ''The Scarlett O'Hara War'' (1980), played by Clive Revill.
+______________________________
+Two musicals, ''Little Tramp'' and ''Chaplin'', were produced in the early 1990s.
+______________________________
+In 2006, Thomas Meehan and Christopher Curtis created another musical, ''Limelight: The Story of Charlie Chaplin'', which was first performed at the La Jolla Playhouse in San Diego in 2010.
+______________________________
+In 2013, two plays about Chaplin premiered in Finland: ''Chaplin'' at the Svenska Teatern, and ''Kulkuri'' (''The Tramp'') at the Tampere Workers' Theatre.
+______________________________
+
+______PERSONALITY______
+' introvert' ' extrovert' ' lone' ' solitary' ' social' ' outsider' 
+Many contain social and political themes, as well as autobiographical elements.
+______________________________
+"{{sfnm|1a1=Kemp|1p=64|2a1=Chaplin|2p=299}} In ''The Gold Rush'', the Tramp is a lonely prospector fighting adversity and looking for love.
+______________________________
+{{sfn|Silverberg|2006|pp=12}}
+
+thumb|upright|''[[Modern Times (film)|Modern Times'' (1936), described by Jrme Larcher as a "grim contemplation on the automatization of the individual"{{sfn|Larcher|p=64}}]]
+
+In his autobiography, Chaplin recalled that on his return to Los Angeles, "I was confused and without plan, restless and conscious of an extreme loneliness".
+______________________________
+{{sfn|Chaplin|pp=372, 375}} Chaplin's loneliness was relieved when he met 21-year-old actress Paulette Goddard in July 1932, and the pair began a relationship.
+______________________________
+{{sfn|Robinson|pp=469472, 474}} It was his first feature in 15 years to adopt political references and social realism,{{sfn|Maland|(1989)|p=150}} a factor that attracted considerable press coverage despite Chaplin's attempts to downplay the issue.
+______________________________
+===Style and themes===
+thumb|upright=1.15|A collection of scenes from ''[[The Kid (1921 film)|The Kid'' (1921), demonstrating Chaplin's mixture of slapstick, pathos, and social commentary]]
+
+While Chaplin's comedic style is broadly defined as slapstick,{{sfn|Robinson|p=212}} it is considered restrained and intelligent,{{sfn|Brownlow|p=30}} with the film historian Philip Kemp describing his work as a mix of "deft, balletic physical comedy and thoughtful, situation-based gags".
+______________________________
+{{sfn|Louvish|p=60}} The character lives in poverty and is frequently treated badly, but remains kind and upbeat;{{sfnm|1a1=Kemp|1p=63|2a1=Robinson|2pp=211, 352|3a1=Hansmeyer|3p=4}} defying his social position, he strives to be seen as a gentleman.
+______________________________
+Hansmeyer notes that several of Chaplin's films end with "the homeless and lonely Tramp [walking] optimistically... into the sunset... to continue his journey".
+______________________________
+
+______HEALTH ISSUES______
+' health' ' depression' ' suffer' ' hospital' ' drug' ' medicine' ' ill' ' recover' 
+{{sfn|Robinson|p=xxiv}}|group=note}} His mother and father had married four years previously, at which time Charles Sr. became the legal carer of Hannah's illegitimate son, Sydney John Hill.
+______________________________
+{{refn|Hannah became ill in May 1896, and was admitted to hospital.
+______________________________
+Southwark Council ruled that it was necessary to send the children to a workhouse "owing to the absence of their father and the destitution and illness of their mother".
+______________________________
+{{sfn|Robinson|p=36}}
+
+Hannah entered a period of remission but, in May 1903, became ill again.
+______________________________
+{{sfnm|1a1=Weissman|1y=(2009)|1p=6|2a1=Chaplin|2pp=7174|3a1=Robinson|3p=35}} Hannah was released from the asylum eight months later,{{sfn|Robinson|p=41}} but in March 1905, her illness returned, this time permanently.
+______________________________
+{{sfnm|1a1=Chaplin|1p=88|2a1=Robinson|2pp=5556}}
+
+====Young performer====
+thumb|upright|left|A teenage Chaplin in the play ''[[Sherlock Holmes (play)|Sherlock Holmes'', in which he appeared between 1903 and 1906]]
+
+Between his time in the poor schools and his mother succumbing to mental illness, Chaplin began to perform on stage.
+______________________________
+In November 1922, he began filming ''A Woman of Paris'', a romantic drama about ill-fated lovers.
+______________________________
+{{sfn|Epstein|pp=192196}}
+
+Chaplin suffered a series of minor strokes in the late 1960s, which marked the beginning of a slow decline in his health.
+______________________________
+{{sfn|Robinson|p=619}} His fragile health prevented the project from being realised.
+______________________________
+====Death====
+thumb|upright|right|Chaplin's grave in Corsier-sur-Vevey, Switzerland
+By October 1977, Chaplin's health had declined to the point that he needed constant care.
+______________________________
+{{sfn|Robinson|p=629}} In the early morning of 25 December 1977, Chaplin died at home after suffering a stroke in his sleep.
+______________________________
+{{sfn|Louvish|pp=4849}}
+
+===Method===
+thumb|A 1922 image of Charlie Chaplin Studios, where all of Chaplin's films between 1918 and 1952 were produced
+
+Chaplin never spoke more than cursorily about his filmmaking methods, claiming such a thing would be tantamount to a magician spoiling his own illusion.
+______________________________
+{{sfn|Robinson|pp=173, 197, 310, 489}} Many of his early films began with only a vague premise  for example "Charlie enters a health spa" or "Charlie works in a pawn shop.
+______________________________
+{{sfn|Kuriyama|p=31}} Chaplin also touched on controversial issues: immigration (''The Immigrant'', 1917); illegitimacy (''The Kid'', 1921); and drug use (''Easy Street'', 1917).
+______________________________
+{{sfn|Mast|pp=8392}} He often explored these topics ironically, making comedy out of suffering.
+______________________________
+Stephen M. Weissman has argued that Chaplin's problematic relationship with his mentally ill mother was often reflected in his female characters and the Tramp's desire to save them.
+______________________________
+
+______SPORTS______
+' play' ' sport' 
+{{sfnm|1a1=Chaplin|1p=88|2a1=Robinson|2pp=5556}}
+
+====Young performer====
+thumb|upright|left|A teenage Chaplin in the play ''[[Sherlock Holmes (play)|Sherlock Holmes'', in which he appeared between 1903 and 1906]]
+
+Between his time in the poor schools and his mother succumbing to mental illness, Chaplin began to perform on stage.
+______________________________
+{{sfnm|1a1=Marriot|1pp=4244|2a1=Robinson|2pp=4647|3a1=Louvish|3p=26}}
+
+Saintsbury secured a role for Chaplin in Charles Frohman's production of ''Sherlock Holmes'', where he played Billy the pageboy in three nationwide tours.
+______________________________
+{{sfn|Robinson|pp=45, 4951, 53, 58}} His performance was so well received that he was called to London to play the role alongside William Gillette, the original Holmes.
+______________________________
+{{refn|William Gillette co-wrote the ''Sherlock Holmes'' play with Arthur Conan Doyle, and had been starring in it since its New York opening in 1899.
+______________________________
+He had come to London in 1905 to appear in a new play, ''Clarice''.
+______________________________
+This short play was what Chaplin originally came to London to appear in.
+______________________________
+Chaplin had so pleased Gillette with his performance in ''The Painful Predicament'' that he was kept on as Billy for the full play.
+______________________________
+{{sfn|Chaplin|p=89}} At 16 years old, Chaplin starred in the play's West End production at the Duke of York's Theatre from October to December 1905.
+______________________________
+{{sfn|Marriot|p=217}} He completed one final tour of ''Sherlock Holmes'' in early 1906, before leaving the play after more than two-and-a-half years.
+______________________________
+{{sfn|Robinson|pp=7677}} Chaplin began by playing a series of minor parts, eventually progressing to starring roles in 1909.
+______________________________
+He joined the studio in late December 1914,{{sfn|Robinson|p=135}} where he began forming a stock company of regular players, including Leo White, Bud Jamison, Paddy McGuire and Billy Armstrong.
+______________________________
+Chaplin responded by playing a Jew in ''The Great Dictator'' and announced, "I did this film for the Jews of the world.
+______________________________
+"{{sfn|Robinson|pp=154155}}|group=note}} In a dual performance, he also played the dictator "Adenoid Hynkel", who parodied Hitler.
+______________________________
+{{sfnm|1a1=Frost|1pp=7488|2a1=Maland|2y=(1989)|2pp=207213|3a1=Sbardellati and Shaw|3p=508|4a1=Friedrich|4p=393}}
+
+The controversy surrounding Chaplin increased when, two weeks after the paternity suit was filed, it was announced that he had married his newest protge, 18-year-old Oona O'Neill  daughter of the American playwright Eugene O'Neill.
+______________________________
+{{sfnm|1a1=Louvish|1p=341|2a1=Maland|2y=(1989)|2pp=320321|3a1=Robinson|3pp=588589|4a1=Larcher|4pp=8990}} In a review, the playwright John Osborne called it Chaplin's "most bitter" and "most openly personal" film.
+______________________________
+If he could have done so, Chaplin would have played every role and (as his son Sydney humorously but perceptively observed) sewn every costume.
+______________________________
+{{sfn|Larcher|pp=6289}}
+
+Several of Chaplin's films incorporate autobiographical elements, and the psychologist Sigmund Freud believed that Chaplin "always plays only himself as he was in his dismal youth".
+______________________________
+{{sfn|Kamin|p=29}}
+
+===Composing===
+thumb|upright|Chaplin playing the cello in 1915
+
+Chaplin developed a passion for music as a child and taught himself to play the piano, violin, and cello.
+______________________________
+{{sfn|Raksin and Berg|pp=4750}} This process, which could take months, would start with Chaplin describing to the composer(s) exactly what he wanted and singing or playing tunes he had improvised on the piano.
+______________________________
+{{refn|Although the film had originally been released in 1952, it did not play for one week in Los Angeles because of its boycott, and thus did not meet the criterion for nomination until it was re-released in 1972.|group=note}}
+
+==Legacy==
+thumb|upright|left|Chaplin as the Tramp in 1915, cinema's "most universal icon"{{sfn|Sarris|p=139}}
+
+In 1998, the film critic Andrew Sarris called Chaplin "arguably the single most important artist produced by the cinema, certainly its most extraordinary performer and probably still its most universal icon".
+______________________________
+{{sfn|Schickel|pp=7, 13}} Although his work is mostly classified as slapstick, Chaplin's drama ''A Woman of Paris'' (1923) was a major influence on Ernst Lubitsch's film ''The Marriage Circle'' (1924) and thus played a part in the development of "sophisticated comedy".
+______________________________
+He is also a character in the period drama film ''The Cat's Meow'' (2001), played by Eddie Izzard, and in the made-for-television movie ''The Scarlett O'Hara War'' (1980), played by Clive Revill.
+______________________________
+In 2013, two plays about Chaplin premiered in Finland: ''Chaplin'' at the Svenska Teatern, and ''Kulkuri'' (''The Tramp'') at the Tampere Workers' Theatre.
+______________________________
+
+______ABUSE______
+' abuse' 
+{{sfn|Robinson|p=371}} A bitter divorce followed, in which Grey's application  accusing Chaplin of infidelity, abuse, and of harbouring "perverted sexual desires"  was leaked to the press.
+______________________________
